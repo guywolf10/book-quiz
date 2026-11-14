@@ -289,6 +289,57 @@ const DEFAULT_SEVEN_PRINCIPLES_QUESTIONS = [
   },
   {
     "id": "dq4",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: Inside the Seattle Love Lab & Marriage Myths",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Gottman identified three distinct, equally stable styles of healthy conflict in long-lasting marriages: Conflict Avoiders, Volatile couples, and Validating couples. What is the fundamental finding regarding these three disparate styles?",
+    "options": [
+      "Validating is the only psychologically mature style; avoiders and volatile couples inevitably develop clinical neuroses over time.",
+      "All three styles are equally capable of sustaining a long, happy marriage, provided that the positive-to-negative interaction ratio remains at least 5 to 1.",
+      "Conflict avoiders are secretly emotionally repressed and always end up divorcing after their children leave home.",
+      "Volatile couples must undergo behavioral modification to tone down their passionate confrontations before they cause heart disease."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gottman exploded the myth that there is only one 'correct' way to handle conflict. Passionately loud volatile couples, calm validating couples, and conflict-avoiding couples who choose to agree to disagree can all thrive for decades, provided they maintain at least 5 positive interactions for every 1 negative interaction during conflict.",
+    "citation": "Chapter 1: Exploding More Myths About Marriage"
+  },
+  {
+    "id": "dq5",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: Inside the Seattle Love Lab & Marriage Myths",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Why does Gottman reject the common cultural belief that extramarital affairs are the primary root cause of divorce?",
+    "options": [
+      "Because research shows that affairs actually strengthen marriages by highlighting existing weaknesses.",
+      "Because physical intimacy outside marriage is legally irrelevant in modern no-fault divorce proceedings.",
+      "Because in over 80% of cases, marital friendship, emotional closeness, and feeling valued had already eroded years earlier; the affair was a downstream symptom of this profound emotional drift rather than its origin.",
+      "Because men and women have completely different evolutionary drives that make affairs inevitable regardless of marital health."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gottman cites Lynn Gigy and Joan Kelly\u2019s research showing that in only 20\u201327% of divorces was an affair cited as even partly to blame. Instead, more than 80% of divorced spouses cited gradually growing apart, losing closeness, and not feeling loved or appreciated. The friendship dissolved first; the affair was a downstream symptom of emotional vacancy.",
+    "citation": "Chapter 1: Exploding More Myths About Marriage"
+  },
+  {
+    "id": "dq6",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: Inside the Seattle Love Lab & Marriage Myths",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What did Gottman\u2019s research discover about the relationship between personality differences, individual neuroses, and marital failure?",
+    "options": [
+      "Spouses must have complementary personality types (e.g., introvert with extrovert) to balance each other out; mismatched temperaments predict divorce.",
+      "There is only the weakest statistical correlation between run-of-the-mill neuroses/personality quirks and marital failure; happy couples have just as many eccentricities and personality differences as unhappy couples.",
+      "Severe neuroticism in either partner guarantees divorce within the first seven years of marriage.",
+      "Couples who share identical Myers-Briggs personality profiles have an 85% lower divorce rate."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gottman found that we all have emotional baggage and neurotic quirks. The difference between couples who stay happily married and those who divorce is not whether they have personality differences or neuroses, but whether they manage them with mutual respect, humor, and emotional attunement rather than contempt and hostility.",
+    "citation": "Chapter 1: Exploding More Myths About Marriage"
+  },
+  {
+    "id": "dq7",
     "chapterId": "ch2",
     "chapterName": "Ch 2: Sound Relationship House & Emotional Intelligence",
     "difficulty": "hard",
@@ -305,12 +356,12 @@ const DEFAULT_SEVEN_PRINCIPLES_QUESTIONS = [
     "citation": "Chapter 2: Building Your Sound Relationship House"
   },
   {
-    "id": "dq5",
+    "id": "dq8",
     "chapterId": "ch2",
     "chapterName": "Ch 2: Sound Relationship House & Emotional Intelligence",
     "difficulty": "medium",
     "type": "concept",
-    "question": "According to Gottman’s research on trust, how does he define 'betrayal' in its broadest and most destructive sense?",
+    "question": "According to Gottman\u2019s research on trust, how does he define 'betrayal' in its broadest and most destructive sense?",
     "options": [
       "Strictly as a physical sexual affair with another person.",
       "Any ongoing choice, habit, or life decision that fails to prioritize the partnership and put the spouse 'before all others' (e.g., emotional withdrawal, siding with a parent, chronic broken promises).",
@@ -322,7 +373,58 @@ const DEFAULT_SEVEN_PRINCIPLES_QUESTIONS = [
     "citation": "Chapter 2: Building Your Sound Relationship House"
   },
   {
-    "id": "dq6",
+    "id": "dq9",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: Sound Relationship House & Emotional Intelligence",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In Gottman\u2019s architectural model of the 'Sound Relationship House', why are Trust and Commitment depicted as the two outer weight-bearing walls rather than interior floors?",
+    "options": [
+      "Because trust and commitment can only be constructed after all seven principles (the interior floors) have been fully perfected.",
+      "Because without the foundational conviction that your partner acts in your best interest (Trust) and that this is a lifelong journey with no exit doors (Commitment), the interior floors will collapse under the weight of inevitable conflict.",
+      "Because trust and commitment represent financial assets, while the interior floors represent domestic chores.",
+      "Because the structural walls are built by society, whereas the interior floors are built by the couple."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trust (knowing your partner acts to maximize your well-being, not just their own) and Commitment (believing this journey is lifelong, with no exit doors, cherishing what you have) form the protective, weight-bearing walls of the Sound Relationship House. Without these twin pillars, attempts to solve problems or create shared meaning collapse under the stress of distrust and insecurity.",
+    "citation": "Chapter 2: Building Your Sound Relationship House"
+  },
+  {
+    "id": "dq10",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: Sound Relationship House & Emotional Intelligence",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How does the cognitive habit of 'Cherishing' serve as the ultimate defense against marital betrayal and infidelity (building on Caryl Rusbult and Shirley Glass)?",
+    "options": [
+      "By actively focusing on and maximizing your partner's positive traits during daily separations, fostering gratitude rather than making unfavorable comparisons to real or imagined alternatives.",
+      "By constantly buying expensive gifts and romantic vacations to keep excitement artificially elevated.",
+      "By pretending that your partner has zero flaws and refusing to acknowledge any disagreements.",
+      "By monitoring your partner's location and social media to prevent outside temptation."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Gottman\u2019s research (building on Caryl Rusbult and Shirley Glass), betrayal begins long before an affair occurs\u2014it starts when a partner begins making negative comparisons ('I could find someone who listens better than my spouse'). Cherishing is the opposite habit: actively dwelling on your partner\u2019s positive qualities when apart and feeling lucky to have them.",
+    "citation": "Chapter 2 & 5: Learning to Cherish Your Partner"
+  },
+  {
+    "id": "dq11",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: Sound Relationship House & Emotional Intelligence",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "According to Gottman, what is the core characteristic of an 'Emotionally Intelligent Marriage'?",
+    "options": [
+      "Both partners possess high IQ scores and advanced communication degrees.",
+      "Spouses never raise their voices, experience anger, or engage in heated arguments.",
+      "The couple maintains an emotional climate where negative thoughts and feelings do not overwhelm positive ones, and where emotional attunement keeps their underlying friendship intact.",
+      "Both partners agree to undergo individual psychoanalysis prior to getting married."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gottman defines emotional intelligence in marriage as the ability to keep negative emotions from overwhelming the relationship's fundamental friendship. Emotionally intelligent couples do not avoid conflict or suppress anger; instead, they remain attuned, honor bids for connection, and prevent toxic negativity from eroding mutual respect.",
+    "citation": "Chapter 1 & 2: Emotionally Intelligent Marriages"
+  },
+  {
+    "id": "dq12",
     "chapterId": "ch3",
     "chapterName": "Ch 3: The 6 Signs Predicting Divorce & The Four Horsemen",
     "difficulty": "easy",
@@ -330,506 +432,1458 @@ const DEFAULT_SEVEN_PRINCIPLES_QUESTIONS = [
     "question": "What is the crucial psychological distinction between a 'Complaint' and a 'Criticism'?",
     "options": [
       "A complaint is spoken softly, whereas a criticism is shouted loudly.",
-      "A complaint focuses on a specific action, event, or behavior, whereas a criticism attacks the partner’s global personality, character, or motives.",
+      "A complaint focuses on a specific action, event, or behavior, whereas a criticism attacks the partner\u2019s global personality, character, or motives.",
       "A complaint is written in a letter, while a criticism is spoken face-to-face.",
       "There is no difference; Gottman uses them interchangeably."
     ],
     "correctAnswer": 1,
-    "explanation": "A healthy complaint targets a specific situation: 'I\\'m upset that you didn\\'t take out the garbage tonight as promised.' A criticism adds global character assassination: 'You didn\\'t take out the garbage because you are lazy and you never care about anyone but yourself.'",
+    "explanation": "A complaint addresses a specific failure ('I was scared when you didn't call to tell me you were running late'). A criticism generalizes the incident into an indictment of the person\u2019s character ('You forgot to call because you are completely selfish and never care about anyone but yourself').",
     "citation": "Chapter 3: The Second Sign: The Four Horsemen"
   },
   {
-    "id": "dq7",
+    "id": "dq13",
     "chapterId": "ch3",
     "chapterName": "Ch 3: The 6 Signs Predicting Divorce & The Four Horsemen",
     "difficulty": "medium",
     "type": "concept",
     "question": "Why is Contempt the deadliest of the Four Horsemen, and what shocking physical health consequence was discovered in partners who receive it?",
     "options": [
-      "It causes immediate vocal cord paralysis in arguments.",
+      "It causes immediate vocal cord damage in the speaker.",
       "It conveys moral superiority and disgust, and its psychological toxicity actually suppresses the immune system of the receiving spouse, leading to more infectious illnesses (colds, flu).",
-      "It leads to permanent hearing loss due to shouting.",
-      "It only impacts couples who have been married for more than twenty years."
+      "It increases the likelihood of car accidents during evening commutes.",
+      "It causes chronic insomnia strictly in the person delivering the insults."
     ],
     "correctAnswer": 1,
-    "explanation": "Contempt (eye-rolling, sneering, mockery, hostile sarcasm) attacks the partner\\'s sense of self-worth from a position of superiority. Gottman found it is the #1 predictor of divorce and so physically toxic that the recipient experiences measurable immune system decline and frequent infectious illnesses.",
+    "explanation": "Contempt is fueled by long-simmering negative thoughts and conveys unadulterated disgust and superiority ('You're an idiot'). Gottman\u2019s team discovered that the amount of contempt a husband expressed toward his wife directly predicted how many infectious illnesses (colds, flu) she would suffer years later, because chronic psychological toxicity weakens immune functioning.",
     "citation": "Chapter 3: The Second Sign: The Four Horsemen"
   },
   {
-    "id": "dq8",
+    "id": "dq14",
     "chapterId": "ch3",
     "chapterName": "Ch 3: The 6 Signs Predicting Divorce & The Four Horsemen",
     "difficulty": "medium",
     "type": "concept",
     "question": "What is the true antidote to Defensiveness, and why is it so psychologically disarming in an argument?",
     "options": [
-      "Explaining your motives in extensive detail so your partner sees you were innocent.",
-      "Taking responsibility for at least a small part of the problem (even 1-2%), which validates the partner\\'s grievance and halts the escalation.",
-      "Walking out of the room immediately without saying a word.",
-      "Demanding that your partner apologize first before you respond."
+      "Immediately countersuing with a larger grievance to force a draw.",
+      "Remaining completely silent until the partner finishes shouting.",
+      "Taking responsibility for at least a small part of the problem (even 1-2%), which validates the partner's grievance and halts the escalation.",
+      "Explaining why your behavior was logically justified given the stressful circumstances."
     ],
-    "correctAnswer": 1,
-    "explanation": "Defensiveness (making excuses, playing the victim, cross-complaining) never calms a conflict; it only escalates it. The antidote is accepting responsibility for your part: 'You\\'re right, I dropped the ball on that. I\\'m sorry.' Owning even 2% immediately de-escalates tension.",
+    "correctAnswer": 2,
+    "explanation": "Defensiveness is really a way of blaming your partner ('The problem isn't me, it's you!'). It only escalates the battle. The true antidote is accepting responsibility for any valid part of the complaint ('You're right, I should have called to let you know I was delayed, I'm sorry'). Even a tiny admission defuses tension instantly.",
     "citation": "Chapter 3: The Second Sign: The Four Horsemen"
   },
   {
-    "id": "dq9",
+    "id": "dq15",
     "chapterId": "ch3",
     "chapterName": "Ch 3: The 6 Signs Predicting Divorce & The Four Horsemen",
     "difficulty": "hard",
     "type": "concept",
     "question": "Why are 85% of stonewallers in heterosexual relationships men, and what biological imperative drives this behavior?",
     "options": [
-      "Men are inherently vindictive and use silence as an offensive weapon.",
+      "Men are naturally less interested in verbal communication than women.",
       "Male cardiovascular systems react more intensely to stress (faster heart rate spike, more adrenaline) and recover much slower than women's; men stonewall as a biological defense against physical flooding.",
-      "Men possess fewer linguistic centers in the brain and run out of words after ten minutes.",
-      "Men are socially conditioned to never express emotion in private."
+      "Men are taught by society to be emotionless robots.",
+      "Men experience hearing degradation faster than women as they age."
     ],
     "correctAnswer": 1,
-    "explanation": "Gottman demonstrated that stonewalling is an act of physiological survival, not passive-aggressive malice. Men flood at lower emotional thresholds than women and take far longer to metabolize stress hormones. When overwhelmed, a man shuts down and stares blankly to prevent his heart rate from skyrocketing into dangerous arrhythmias.",
+    "explanation": "Gottman\u2019s physiological data showed that men become flooded far more quickly than women during emotional conflict, their heart rates surge higher, and their bodies stay in fight-or-flight much longer. Stonewalling (tuning out, looking away, freezing) is not an act of smug defiance; it is a desperate biological survival strategy to avoid a heart attack of emotional overwhelm.",
     "citation": "Chapter 3: Men and Women Really Are Different"
   },
   {
-    "id": "dq10",
+    "id": "dq16",
     "chapterId": "ch3",
     "chapterName": "Ch 3: The 6 Signs Predicting Divorce & The Four Horsemen",
     "difficulty": "medium",
     "type": "concept",
     "question": "What physiological threshold defines 'Flooding', and what happens to the human brain once this state is entered?",
     "options": [
-      "Blood pressure drops to near fainting levels.",
+      "Body temperature drops below 95\u00b0F, causing emotional detachment.",
       "Heart rate accelerates past roughly 100 bpm, fight-or-flight hormones flood the bloodstream, and higher-order cortical processing shuts down, making creative compromise impossible.",
-      "Body temperature rises by 3 degrees, causing temporary amnesia.",
-      "Breathing slows down to less than four breaths per minute."
+      "Breathing slows down to less than 4 breaths per minute, inducing fainting.",
+      "Pupils dilate completely, making it impossible to see facial expressions."
     ],
     "correctAnswer": 1,
-    "explanation": "When heart rate exceeds 100 bpm (or ~80 bpm for trained athletes), adrenaline and cortisol saturate the bloodstream. The prefrontal cortex (responsible for empathy, logic, and nuance) goes offline, replaced by primitive fight-or-flight reflexes. Productive communication is biologically impossible while flooded.",
+    "explanation": "Flooding occurs when a spouse feels overwhelmed by their partner's negativity. When the heart rate crosses ~100 bpm (or ~80-85 bpm for athletes), adrenaline surges, peripheral vision narrows, and the prefrontal cortex goes offline. In this biological state, constructive listening, empathy, and creative problem-solving are neurologically unreachable.",
     "citation": "Chapter 3: The Third Sign: Flooding"
   },
   {
-    "id": "dq11",
+    "id": "dq17",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: The 6 Signs Predicting Divorce & The Four Horsemen",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What did Gottman discover about 'Harsh Start-Up' when analyzing hundreds of 15-minute conflict discussions in the Love Lab?",
+    "options": [
+      "Conversations that start harshly can usually be saved if a spouse introduces humor in the 12th minute.",
+      "In 96% of cases, the outcome of the entire 15-minute conversation can be predicted by the first three minutes alone.",
+      "Harsh start-up only harms the marriage if accompanied by physical door-slamming.",
+      "Men are three times more likely than women to initiate a harsh start-up during conflict discussions."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gottman's research revealed that in 96% of cases, the trajectory and emotional resolution of a 15-minute conflict conversation can be accurately predicted within the first three minutes. If the discussion begins with accusation, sarcasm, or harsh criticism, it is virtually guaranteed to end in hostility and failure.",
+    "citation": "Chapter 3: The First Sign: Harsh Start-Up"
+  },
+  {
+    "id": "dq18",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: The 6 Signs Predicting Divorce & The Four Horsemen",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why do repair attempts (e.g., making a joke, apologizing, saying 'I need to calm down') succeed in some marriages while completely failing in others?",
+    "options": [
+      "Success depends primarily on whether the speaker uses precise, eloquent psychiatric terminology.",
+      "Success depends on whether the repair attempt is accompanied by a written contract.",
+      "Success has very little to do with the eloquence of the repair itself; it depends almost entirely on the state of the marriage and whether the underlying friendship is in Positive Sentiment Override.",
+      "Repair attempts only work if delivered by the husband, because wives are naturally resistant to apologies."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gottman discovered that in happy marriages, even clumsy, awkward, or mumbled repair attempts ('Hey, stop yelling at me, okay?') are accepted and de-escalate tension. In unhappy marriages trapped in Negative Sentiment Override, even the most eloquent, textbook-perfect apologies are either rejected or attacked as manipulative.",
+    "citation": "Chapter 3: The Fifth Sign: Failed Repair Attempts"
+  },
+  {
+    "id": "dq19",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: The 6 Signs Predicting Divorce & The Four Horsemen",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In the final stage before marital dissolution (Sign 6: Bad Memories), how do distressed couples perceive the early history of their courtship and marriage?",
+    "options": [
+      "They vividly remember their early romantic passion and feel intensely nostalgic about it.",
+      "They literally rewrite their shared history, recasting early events in a cynical or negative light, or claiming they never truly loved each other.",
+      "They remember factual timelines with photographic precision while forgetting names of wedding guests.",
+      "They invent fictional lovers to explain why the relationship initially began."
+    ],
+    "correctAnswer": 1,
+    "explanation": "When chronic negativity completely consumes a relationship, spouses rewrite their mental history. They forget the excitement, joy, and tenderness of their courtship, remembering only frustration, disappointment, or indifference. Once a couple can no longer recall their past with warmth or humor, the marriage is in the terminal phase.",
+    "citation": "Chapter 3: The Sixth Sign: Bad Memories"
+  },
+  {
+    "id": "dq20",
     "chapterId": "ch4",
     "chapterName": "Ch 4: Principle 1 - Enhance Your Love Maps",
     "difficulty": "medium",
     "type": "scenario",
     "question": "In the opening of Chapter 4, Dr. Rory is an intellectually brilliant pediatrician running an intensive care unit for babies, yet his wife Lisa feels deeply unloved. What was Rory's shocking blind spot?",
     "options": [
-      "He secretly gambled away the family\\'s savings.",
-      "He didn\\'t know the name of the family dog, didn\\'t know the names of his children\\'s friends, and had to ask his wife which door led to the backyard.",
-      "He refused to attend medical conferences with her.",
-      "He insisted on homeschooling the children without her consent."
+      "He forgot his wife's birthday for ten years in a row.",
+      "He didn't know the name of the family dog, didn't know the names of his children's friends, and had to ask his wife which door led to the backyard.",
+      "He secretly owned a sports car that he kept at the hospital.",
+      "He refused to allow Lisa to have any credit cards."
     ],
     "correctAnswer": 1,
-    "explanation": "Dr. Rory had tremendous cognitive capability, but zero 'cognitive room' reserved for his home life. He was so consumed by his hospital work that he knew nothing of the basics of his wife\\'s daily reality, leaving her feeling invisible and completely devalued.",
+    "explanation": "Rory was a brilliant doctor whose cognitive space was entirely consumed by his medical work. He had zero 'cognitive room' left for his family. He literally didn't know the name of the dog they had owned for years or how to get to the backyard. His Love Map of his family was completely blank.",
     "citation": "Chapter 4: Principle 1: Enhance Your Love Maps"
   },
   {
-    "id": "dq12",
+    "id": "dq21",
     "chapterId": "ch4",
     "chapterName": "Ch 4: Principle 1 - Enhance Your Love Maps",
     "difficulty": "hard",
     "type": "concept",
-    "question": "In Alyson Shapiro’s study on first-time parents, what was the defining differentiator between the 67% of couples whose marital satisfaction plummeted and the 33% who remained happy or improved?",
+    "question": "In Alyson Shapiro\u2019s study on first-time parents, what was the defining differentiator between the 67% of couples whose marital satisfaction plummeted and the 33% who remained happy or improved?",
     "options": [
-      "The happy couples hired outside nannies and night nurses.",
+      "The happy couples had significantly higher household incomes to hire night nannies.",
       "The happy couples had detailed, deeply established Love Maps before the baby arrived, which acted as a shock absorber during the upheaval.",
-      "The happy couples agreed to never discipline the child in front of each other.",
-      "The happy couples earned significantly higher household incomes."
+      "The happy couples had infants who slept through the night immediately.",
+      "The happy couples sent their babies to daycare within the first month."
     ],
     "correctAnswer": 1,
-    "explanation": "Having a baby creates enormous stress, sleep deprivation, and identity shifts. Couples whose love maps were detailed and current were intimately familiar with each other\\'s feelings and fears; the sudden shock of parenthood could not dislodge their deep emotional connection.",
+    "explanation": "Having a baby causes a seismic shift in daily life. For 67% of couples, marital happiness crashes. Shapiro and Gottman found that the 33% of couples who weathered the storm without losing satisfaction had established rich, detailed Love Maps prior to the birth. They already understood each other's inner worlds, which protected their friendship.",
     "citation": "Chapter 4: In Knowledge There Is Strength"
   },
   {
-    "id": "dq13",
+    "id": "dq22",
     "chapterId": "ch4",
     "chapterName": "Ch 4: Principle 1 - Enhance Your Love Maps",
     "difficulty": "hard",
     "type": "concept",
     "question": "In Exercise 3 ('Who Am I?'), Gottman moves beyond favorite foods and friends into deep psychological mapping. Which of the following is one of the profound sections in this exercise?",
     "options": [
-      "My Net Worth and Investment Strategy",
-      "Injuries and Healing (past psychological wounds, traumas, disappointments, and how they shape adult vulnerabilities)",
-      "My Ideal Architectural Home Layout",
-      "My Five-Year Career Ladder Plan"
+      "Credit Score History and Past Bankruptcies.",
+      "Injuries and Healing (past psychological wounds, traumas, disappointments, and how they shape adult vulnerabilities).",
+      "List of Ex-Partners and Romantic Comparisons.",
+      "Dietary Allergies and Caloric Restrictions."
     ],
     "correctAnswer": 1,
-    "explanation": "The 'Who Am I?' exercise explores: 1) Triumphs and Strivings, 2) Injuries and Healing (childhood scars, past betrayals, feeling unloved), 3) My Emotional World, 4) My Mission and Legacy, and 5) Who I Want to Become. Understanding past wounds explains present emotional triggers.",
+    "explanation": "Exercise 3 covers five deep realms: My Triumphs and Strivings, My Injuries and Healing, My Emotional World, My Mission and Legacy, and Who I Want to Become. 'Injuries and Healing' explores the deep psychological scars, betrayals, and childhood wounds that dictate where a partner is emotionally sensitive today.",
     "citation": "Chapter 4: Exercise 3: Who Am I?"
   },
   {
-    "id": "dq14",
+    "id": "dq23",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: Principle 1 - Enhance Your Love Maps",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "In Principle 1, what does Gottman mean by maintaining 'Cognitive Room' for your partner in your daily mental life?",
+    "options": [
+      "Keeping an accurate mental record of all household chores and financial expenditures.",
+      "Reserving dedicated mental bandwidth to remember the evolving facts, feelings, stresses, and personal world of your spouse as they grow and change over time.",
+      "Spending at least two hours every morning meditating in complete silence before speaking to your partner.",
+      "Memorizing your partner's ancestral pedigree and astrological birth chart."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gottman explains that emotionally intelligent couples make plenty of 'cognitive room' for their marriage. People are not static; their fears, friendships, ambitions, and stresses evolve. Keeping an updated Love Map means continuously refreshing your mental portrait of your partner rather than assuming you already know everything about them.",
+    "citation": "Chapter 4: Principle 1: Enhance Your Love Maps"
+  },
+  {
+    "id": "dq24",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: Principle 1 - Enhance Your Love Maps",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In Exercise 3 ('Who Am I?'), why does Gottman have partners explore each other's 'Triumphs and Strivings' (proudest accomplishments, overcome hardships, and parental pride)?",
+    "options": [
+      "To determine which partner has achieved higher socioeconomic status.",
+      "To uncover the spouse's core criteria for self-worth, pride, and emotional validation, allowing the partner to support what truly makes them feel competent and valued.",
+      "To establish an objective resume of qualifications for managing family investments.",
+      "To prove that childhood achievements are irrelevant to adult romantic partnership."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Exploring 'My Triumphs and Strivings' illuminates how a partner defines success and pride, what hurdles they had to overcome, and whether their family of origin celebrated or ignored their achievements. This knowledge provides deep insight into what validates their identity and self-worth.",
+    "citation": "Chapter 4: Exercise 3: Who Am I?"
+  },
+  {
+    "id": "dq25",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: Principle 1 - Enhance Your Love Maps",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "In Exercise 2 ('Asking Open-Ended Questions'), why does Gottman prioritize open-ended inquiries (e.g., 'How would you like your life to look three years from now?') over closed questions?",
+    "options": [
+      "Because open-ended questions take longer to answer, filling awkward silences during dinner.",
+      "Because closed questions can be answered with a blunt 'yes' or 'no', feeling like an interrogation, whereas open-ended questions invite exploration, vulnerability, and genuine emotional connection.",
+      "Because open-ended questions prevent the listener from having to respond.",
+      "Because closed questions are statistically correlated with physiological flooding."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Closed questions ('Did you finish the report?') function as administrative cross-examinations. In contrast, open-ended questions ('What are your biggest worries about your work lately?', 'What does home mean to you?') invite your partner to share their subjective inner world, deepening emotional attunement.",
+    "citation": "Chapter 4: Exercise 2: Asking Open-Ended Questions"
+  },
+  {
+    "id": "dq26",
     "chapterId": "ch5",
     "chapterName": "Ch 5: Principle 2 - Nurture Fondness & Admiration",
     "difficulty": "medium",
     "type": "concept",
     "question": "What is the fundamental difference in the daily 'cognitive scanning habit' between partners in happy marriages versus partners in distressed marriages?",
     "options": [
-      "Distressed partners scan financial news; happy partners scan social media.",
+      "Happy partners scan the stock market, distressed partners scan real estate.",
       "Distressed partners scan their spouse for mistakes to catch them doing something wrong; happy partners scan the environment for things to appreciate to catch their spouse doing something right.",
-      "Happy partners ignore all flaws, whereas distressed partners seek total perfection.",
-      "Distressed partners communicate in writing, while happy partners speak aloud."
+      "Happy partners ignore their spouse completely, distressed partners monitor them 24/7.",
+      "Distressed partners scan for physical attraction, happy partners scan for financial security."
     ],
     "correctAnswer": 1,
-    "explanation": "Gottman emphasizes that fondness and admiration are mental habits. In distressed relationships, spouses develop a hyper-vigilant cognitive bias looking for partner failures. In healthy relationships, spouses actively scan for what is working and express gratitude for small daily acts.",
+    "explanation": "Distressed couples operate on a deficit model: they hyper-focus on their spouse's flaws, omissions, and lapses, waiting to catch them slipping up. Happy couples cultivate a positive perceptual habit: they scan the daily landscape for things they can genuinely praise and appreciate, catching their partner doing things right.",
     "citation": "Chapter 5: Principle 2: Nurture Your Fondness and Admiration"
   },
   {
-    "id": "dq15",
+    "id": "dq27",
     "chapterId": "ch5",
     "chapterName": "Ch 5: Principle 2 - Nurture Fondness & Admiration",
     "difficulty": "hard",
     "type": "concept",
-    "question": "In Gottman’s Oral History Interview, with what statistical accuracy could he predict marital stability based solely on HOW couples recalled the early history of their courtship and marriage?",
+    "question": "In Gottman\u2019s Oral History Interview, with what statistical accuracy could he predict marital stability based solely on HOW couples recalled the early history of their courtship and marriage?",
     "options": [
-      "50% (no better than flipping a coin)",
-      "94% accuracy—couples who recall their early days with warmth, humor, and pride almost always stay together, while those who recall the past with bitterness or blankness usually divorce",
-      "70% accuracy, but only if they had wedding photos present",
-      "It had zero predictive power compared to current conflict discussions"
+      "50% (no better than a coin toss)",
+      "72% accuracy",
+      "94% accuracy\u2014couples who recall their early days with warmth, humor, and pride almost always stay together, while those who recall the past with bitterness or blankness usually divorce.",
+      "99.9% accuracy based solely on the date of their wedding."
     ],
-    "correctAnswer": 1,
-    "explanation": "The Oral History Interview showed that how a couple views their past reflects their present emotional state. When fondness is intact, they remember early struggles as triumphs conquered together. When fondness is dead, they rewrite their history negatively ('We never should have gotten married').",
+    "correctAnswer": 2,
+    "explanation": "By asking couples to tell the story of how they met, their first impressions, and their early struggles, Gottman predicted with 94% accuracy who would stay married. Couples with strong fondness and admiration glorified the struggle, laughed about early awkwardness, and spoke of each other with pride.",
     "citation": "Chapter 5: Learning from History"
   },
   {
-    "id": "dq16",
+    "id": "dq28",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: Principle 2 - Nurture Fondness & Admiration",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Why does Gottman identify Fondness and Admiration as the specific psychological antidote to Contempt?",
+    "options": [
+      "Because fondness and admiration release adrenaline, which physically combats stress hormones.",
+      "Because contempt requires feeling morally or intellectually superior; maintaining active respect, fondness, and appreciation directly neutralizes the superior stance that feeds contempt.",
+      "Because admiring a partner forces them to change their undesirable habits through positive reinforcement.",
+      "Because fondness and admiration eliminate all anger and irritation from everyday life."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Contempt is the most corrosive horseman because it conveys disgust, sarcasm, and a stance of moral superiority ('I am better than you, and you are defective'). Fondness and admiration maintain the fundamental belief that your partner is worthy of honor and respect, making contempt psychologically impossible to sustain in that space.",
+    "citation": "Chapter 5: Principle 2: Nurture Your Fondness and Admiration"
+  },
+  {
+    "id": "dq29",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: Principle 2 - Nurture Fondness & Admiration",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What is the core psychological mechanism of the 'Seven-Week Course in Fondness and Admiration' outlined in Chapter 5?",
+    "options": [
+      "It forces spouses to memorize a script of romantic poetry to recite each evening.",
+      "It assigns a daily positive thought and a corresponding concrete behavior, retraining the brain to scan for praiseworthy qualities rather than default to distress-maintaining thoughts.",
+      "It requires couples to separate for seven weeks to determine if they miss each other.",
+      "It instructs partners to ignore all marital problems until seven weeks have elapsed."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Seven-Week Course provides a structured daily regimen (a specific affirmative statement and a simple actionable behavior for every day of the week). Repeating this practice reconditions the mind away from negative rumination and trains it to consciously notice and celebrate the spouse's virtues.",
+    "citation": "Chapter 5: Exercise 2: Seven-Week Course in Fondness and Admiration"
+  },
+  {
+    "id": "dq30",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: Principle 2 - Nurture Fondness & Admiration",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "In Exercise 1 ('I Appreciate'), why does Gottman mandate that when you praise your spouse for a character trait (e.g., 'You are thoughtful' or 'You are brave'), you MUST cite a specific, recent incident?",
+    "options": [
+      "Because vague, abstract adjectives carry little emotional weight and easily sound like empty flattery; concrete behavioral memories provide tangible proof that resonates deeply.",
+      "Because legal guidelines for couples therapy require documented evidence of compliments.",
+      "Because partners have poor memories and need historical reminders to understand English adjectives.",
+      "Because listing specific incidents proves that the partner only behaves well under certain conditions."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Generalized compliments ('You're nice', 'You're great') bounce off spouses without creating emotional resonance. Pairing a cherished trait with a specific, recent memory ('I appreciated your thoughtfulness on Tuesday when you packed me an umbrella because of the storm') provides undeniable evidence of genuine attunement.",
+    "citation": "Chapter 5: Exercise 1: I Appreciate"
+  },
+  {
+    "id": "dq31",
     "chapterId": "ch6",
     "chapterName": "Ch 6: Principle 3 - Turn Toward Each Other Instead of Away",
     "difficulty": "hard",
     "type": "concept",
     "question": "In Chapter 6, what profound psychological insight does Gottman reveal about the true root of SADNESS?",
     "options": [
-      "Sadness is simply repressed anger that has been turned inward.",
+      "Sadness is simply chemical fatigue that requires more caffeine.",
       "Sadness stems from feeling that you have LOST someone or something; when your partner is sad, you should ask 'What is missing?' rather than trying to cheer them up.",
-      "Sadness is a biological sign of clinical depression requiring immediate psychiatric intervention.",
-      "Sadness is caused by unrealistic romantic expectations."
+      "Sadness is a manipulative tactic used to gain power in domestic decisions.",
+      "Sadness only occurs when goals are blocked by an external enemy."
     ],
     "correctAnswer": 1,
-    "explanation": "Gottman explains that at the core of sadness is a sense of loss—whether losing a person, a dream, a sense of closeness, or an expectation. When your spouse is sad, asking 'Do you feel like you\\'ve lost something?' or 'What is missing?' helps them articulate their grief. Trying to cheer them up dismisses their experience.",
-    "citation": "Chapter 6: Extra Tips for Listening to Sadness and Crying"
+    "explanation": "Gottman explains that at the core of sadness is the feeling of LOSS\u2014loss of a person, a dream, a hope, or an expectation. Trying to cheer a sad person up or saying 'Look on the bright side' invalidates them. The attunement key is acknowledging the loss and gently asking: 'What feels lost? What is missing?'",
+    "citation": "Chapter 6: Coping with Your Partner\u2019s Sadness, Fear, and Anger"
   },
   {
-    "id": "dq17",
+    "id": "dq32",
     "chapterId": "ch6",
     "chapterName": "Ch 6: Principle 3 - Turn Toward Each Other Instead of Away",
     "difficulty": "hard",
     "type": "concept",
     "question": "What metaphor does Gottman use to describe how you should listen when your partner is experiencing deep sadness or crying?",
     "options": [
-      "Be like a lifeguard jumping into the water to rescue a drowning swimmer.",
+      "Be like a trial lawyer interrogating a witness.",
       "Be like a traveler visiting the foreign landscape of sadness, with your partner serving as the tour guide.",
-      "Be like an impartial courtroom judge listening to legal testimonies.",
-      "Be like a mirror that silently reflects the partner\\'s posture."
+      "Be like an enthusiastic cheerleader trying to rally a losing football team.",
+      "Be like an emergency room physician performing triage to stop the crying immediately."
     ],
     "correctAnswer": 1,
-    "explanation": "Gottman writes: 'Imagine that you\\'re a traveler visiting the landscape of sadness. Your partner is the tour guide. This sort of being there when your partner is blue will bring you closer than the standard, Don\\'t cry!\\'' Don't try to terraform their landscape; simply accompany them through it.",
-    "citation": "Chapter 6: Extra Tips for Listening to Sadness and Crying"
+    "explanation": "Gottman advises: 'Think of yourself as a traveler visiting the foreign landscape of sadness. Your partner is the tour guide. Let your partner show you around the landscape.' Don't judge the scenery, don't try to pave it over with cheerfulness; simply let them show you what their sadness feels like.",
+    "citation": "Chapter 6: Coping with Your Partner\u2019s Sadness, Fear, and Anger"
   },
   {
-    "id": "dq18",
+    "id": "dq33",
     "chapterId": "ch6",
     "chapterName": "Ch 6: Principle 3 - Turn Toward Each Other Instead of Away",
     "difficulty": "hard",
     "type": "concept",
     "question": "What is the psychological origin of ANGER according to Gottman, and what should you search for when your partner is furious?",
     "options": [
-      "Anger is a genetic trait that cannot be modulated.",
+      "Anger is a genetic malfunction that should be sedated.",
       "Behind most anger is the feeling of being BLOCKED from reaching a goal or having a boundary violated; your job is to search out the blocked goal and the obstacle without telling them to 'calm down.'",
-      "Anger is always caused by low blood sugar or lack of sleep.",
-      "Anger indicates that the partner has fallen out of love with you."
+      "Anger is caused by lack of physical exercise.",
+      "Anger is always an irrational overreaction that must be ignored until it burns out."
     ],
     "correctAnswer": 1,
-    "explanation": "Gottman explains that anger arises when someone feels thwarted from achieving an ambition or having their needs met. Telling an angry person to 'calm down' invalidates their goal. Instead, ask: 'What goal feels blocked right now, and what is the obstacle in your way?'",
-    "citation": "Chapter 6: Extra Tips for Listening to Anger"
+    "explanation": "Anger arises when a person feels an obstacle is blocking them from reaching an important goal or when a critical boundary has been crossed. Saying 'Calm down!' is pouring gasoline on a fire. The attuned partner searches out: 'What is the goal that's blocked? What is the obstacle in your way?'",
+    "citation": "Chapter 6: Coping with Your Partner\u2019s Sadness, Fear, and Anger"
   },
   {
-    "id": "dq19",
+    "id": "dq34",
     "chapterId": "ch6",
     "chapterName": "Ch 6: Principle 3 - Turn Toward Each Other Instead of Away",
     "difficulty": "hard",
     "type": "concept",
     "question": "What does FEAR or anxiety signify according to Gottman, and why is saying 'Don't be silly, there's nothing to be afraid of' so destructive?",
     "options": [
-      "Fear is an evolutionary defect that modern humans must suppress.",
-      "Fear signifies that the person feels their everyday world is not safe; dismissing it with 'there\\'s nothing to fear' feels like ridicule and severs emotional safety.",
-      "Fear means the partner is hiding a deep financial secret.",
-      "Fear only occurs in partners with generalized anxiety disorder."
+      "Fear signifies that the person has low intelligence.",
+      "Fear signifies that the person feels their everyday world is not safe; dismissing it with 'there's nothing to fear' feels like ridicule and severs emotional safety.",
+      "Fear is an indicator that the partner should immediately see a neurologist.",
+      "Fear only happens when someone is hiding an illicit secret."
     ],
     "correctAnswer": 1,
-    "explanation": "Citing Gavin de Becker's 'The Gift of Fear,' Gottman explains that fear indicates a person\\'s fundamental sense of safety is threatened. Even small worries indicate an unsafe environment. Validating their gut instinct creates safety; dismissing it leaves them isolated.",
-    "citation": "Chapter 6: Extra Tip for Listening to Fear and Stress"
+    "explanation": "Fear and anxiety mean that the person does not feel safe in their environment. Security expert Gavin de Becker (*The Gift of Fear*) showed that fear is an essential survival warning. Dismissing a spouse's fear as irrational sends the message that their intuition is broken and their feelings are ridiculous, destroying safety.",
+    "citation": "Chapter 6: Coping with Your Partner\u2019s Sadness, Fear, and Anger"
   },
   {
-    "id": "dq20",
+    "id": "dq35",
     "chapterId": "ch6",
     "chapterName": "Ch 6: Principle 3 - Turn Toward Each Other Instead of Away",
     "difficulty": "medium",
     "type": "concept",
     "question": "In the daily 'Stress-Reducing Conversation', what is Haim Ginott's golden rule that Gottman emphasizes above all else?",
     "options": [
-      "'Always split the bill 50/50.'",
+      "'Always split the talking time exactly fifty-fifty down to the second.'",
       "'Understanding must precede advice.'",
-      "'Never go to bed angry.'",
-      "'Speak only when spoken to.'"
+      "'Never discuss anything that happened at work after 6:00 PM.'",
+      "'The listener must take detailed written notes during the conversation.'"
     ],
     "correctAnswer": 1,
-    "explanation": "Psychologist Haim Ginott\\'s cardinal rule is: 'Understanding must precede advice.' When a partner vents about external stress, offering immediate solutions sends the message: 'You are incompetent, and your feelings are an annoyance I want to fix.' Empathy and validation must come first.",
-    "citation": "Chapter 6: Exercise 2: The Stress-Reducing Conversation"
+    "explanation": "The number one mistake spouses make during stress-reducing conversations is offering immediate advice and problem-solving solutions ('Why don't you just tell your boss...'). Ginott's rule is absolute: before you can even think about offering advice, the partner must feel 100% understood, validated, and heard. Most of the time, advice isn't even wanted.",
+    "citation": "Chapter 6: Exercise 3: The Stress-Reducing Conversation"
   },
   {
-    "id": "dq21",
+    "id": "dq36",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: Principle 3 - Turn Toward Each Other Instead of Away",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In Gottman\u2019s longitudinal Love Lab study of newlyweds, what was the staggering difference in how couples responded to 'bids for connection' between those who stayed married and those who divorced six years later?",
+    "options": [
+      "Couples who stayed married had zero conflict discussions, while divorced couples argued daily.",
+      "Couples who stayed married turned toward bids 86% of the time, while couples who eventually divorced turned toward bids only 33% of the time.",
+      "Couples who divorced actually made more bids for connection, but their bids were too aggressive.",
+      "There was no difference in turning toward bids; divorce was predicted solely by how much money each partner earned."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In the Love Lab apartment, newlyweds were observed making small, everyday bids for connection ('Look at that nice boat out the window!'). Spouses who were still happily married six years later had turned toward their partner's bids 86% of the time, whereas those who divorced had averaged only 33%. Small moments define marital destiny.",
+    "citation": "Chapter 6: Principle 3: Turn Toward Each Other Instead of Away"
+  },
+  {
+    "id": "dq37",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: Principle 3 - Turn Toward Each Other Instead of Away",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is the primary function of the 'Emotional Bank Account' accumulated through everyday micro-connections, according to Gottman?",
+    "options": [
+      "It serves as a financial ledger for dividing assets in case of separation.",
+      "It acts as an emotional safety cushion that absorbs shocks during stressful life transitions and prevents minor conflicts from escalating into toxic distrust.",
+      "It allows one partner to demand favors without reciprocation for up to six months.",
+      "It eliminates the need for having difficult conversations about money or sex."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Every time a partner turns toward a bid (listening, smiling, fetching water, acknowledging an observation), they deposit emotional capital into the bank account. When a crisis, stressor, or argument occurs, couples with high balances draw on this reservoir of goodwill and give each other the benefit of the doubt.",
+    "citation": "Chapter 6: Exercise 1: The Emotional Bank Account"
+  },
+  {
+    "id": "dq38",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: Principle 3 - Turn Toward Each Other Instead of Away",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "During the end-of-day 'Stress-Reducing Conversation', what is the fatal mistake spouses often make when listening to their partner vent about work or external frustrations?",
+    "options": [
+      "Nodding and agreeing that the external enemy was unfair.",
+      "Rushing to offer logical solutions, playing devil's advocate, or defending the boss/colleague who upset their partner.",
+      "Validating their partner's emotional outrage before discussing dinner plans.",
+      "Pouring a glass of water and sitting beside their partner in silence."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gottman emphasizes the cardinal rule: 'Don't do something, just be there!' When a partner vents about external stressors, they need emotional alliance and empathy, not problem-solving. Playing devil's advocate or defending the outside world makes your partner feel doubly attacked and abandoned by their closest ally.",
+    "citation": "Chapter 6: Exercise 3: The Stress-Reducing Conversation"
+  },
+  {
+    "id": "dq39",
     "chapterId": "ch7",
     "chapterName": "Ch 7: Principle 4 - Let Your Partner Influence You",
     "difficulty": "medium",
     "type": "concept",
     "question": "What critical statistic did Gottman discover regarding husbands who learn to share power and accept influence from their wives?",
     "options": [
-      "They report feeling emasculated in 75% of cases.",
+      "Their risk of suffering a heart attack increases by 40%.",
       "The likelihood that their marriage will end in divorce drops by 81%.",
-      "Their arguments increase by 40% due to over-communication.",
-      "It has no measurable statistical effect on divorce rates."
+      "They become 50% less productive in their professional careers.",
+      "Their wives stop bringing up conflict altogether."
     ],
     "correctAnswer": 1,
-    "explanation": "Gottman found that while the vast majority of wives already accept influence from their husbands, 65% of men fail to accept influence from their wives. When a man masters this skill, treating his wife\\'s opinions and needs with equal weight, the chance of divorce drops by a massive 81%.",
+    "explanation": "Gottman found a profound gender asymmetry: the vast majority of women (even in unstable marriages) already accept influence from their husbands. But when a husband is unwilling to share power and rejects his wife's influence, there is an 81% chance that the marriage will self-destruct.",
     "citation": "Chapter 7: Principle 4: Let Your Partner Influence You"
   },
   {
-    "id": "dq22",
+    "id": "dq40",
     "chapterId": "ch7",
     "chapterName": "Ch 7: Principle 4 - Let Your Partner Influence You",
     "difficulty": "medium",
     "type": "scenario",
-    "question": "In Chapter 7, how does an 'emotionally intelligent husband' respond when his wife says: 'Do you have to work this Saturday? We promised my brother we’d visit'?",
+    "question": "In Chapter 7, how does an 'emotionally intelligent husband' respond when his wife says: 'Do you have to work this Saturday? We promised my brother we\u2019d visit'?",
     "options": [
-      "He snaps: 'I pay the bills around here, so my job comes first!'",
+      "He stonewalls and pretends he didn't hear her.",
+      "He snaps back: 'I pay the bills around here, so my job comes first!'",
       "He says: 'I know we promised him, and I really want to go, but this client deadline is brutal. Can we look at our schedules and see if we can go Sunday instead?'",
-      "He gives her the silent treatment and walks away.",
-      "He cancels his work shift immediately without checking the consequences."
+      "He immediately quits his job to prove his devotion to her family."
     ],
-    "correctAnswer": 1,
-    "explanation": "Accepting influence is not about spineless submission; it is about honoring the validity of your partner\\'s stance and collaborating on solutions: 'I understand why this matters to you, here is my dilemma, let\\'s solve this as a team.'",
+    "correctAnswer": 2,
+    "explanation": "An emotionally intelligent husband accepts influence. He doesn't dismiss her concern with anger, contempt, or defensiveness. He validates her point ('I know we promised him'), explains his reality without blame, and collaborates on a compromise that respects both needs.",
     "citation": "Chapter 7: Emotionally Intelligent Husbands"
   },
   {
-    "id": "dq23",
+    "id": "dq41",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: Principle 4 - Let Your Partner Influence You",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "According to Gottman\u2019s observations, how does a husband who refuses to accept influence typically escalate conflict when his wife brings up an issue?",
+    "options": [
+      "By immediately filing for legal mediation.",
+      "By deploying one of the Four Horsemen (such as defensiveness, stonewalling, or contempt) to overpower her, drown out her complaint, and obliterate her point of view.",
+      "By writing a long, overly apologetic email to her family.",
+      "By agreeing to all her demands immediately without intending to follow through."
+    ],
+    "correctAnswer": 1,
+    "explanation": "When a wife brings up a straightforward complaint, an influence-resisting husband responds by escalating the negativity. He counters her complaint with defensiveness ('Yes I did!'), contempt ('Don't tell me what to do!'), or stonewalling, using toxic hostility as a weapon to shut down her concerns and maintain unilateral control.",
+    "citation": "Chapter 7: Signs of Resistance"
+  },
+  {
+    "id": "dq42",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: Principle 4 - Let Your Partner Influence You",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is the core psychological principle behind Gottman's concept of 'Yielding to Win'?",
+    "options": [
+      "Pretending to agree with everything your spouse says in public while doing whatever you want in private.",
+      "In order to have genuine influence over your partner, you must be open and willing to be influenced by them; yielding ground builds mutual goodwill and makes your partner receptive to your desires.",
+      "Total emotional capitulation where one partner surrenders all decision-making authority to avoid conflict.",
+      "Winning every argument by citing empirical research studies until your spouse gives up."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Drawing an analogy to martial arts (such as aikido), Gottman shows that true influence in marriage is circular. If you dig in your heels and refuse to give an inch, your partner will match your rigidity. By voluntarily yielding and validating your partner's viewpoint, you disarm defensiveness and earn the right to influence them in return.",
+    "citation": "Chapter 7: Learning to Yield & Exercise 1: Yield to Win"
+  },
+  {
+    "id": "dq43",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: Principle 4 - Let Your Partner Influence You",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "In the opening story of Chapter 7, Jeremy wants to buy a discounted used Honda coupe from Phil. When Phil mocks him for insisting on getting the car inspected because he promised his wife, how does Jeremy's response embody emotional intelligence?",
+    "options": [
+      "Jeremy punches Phil for insulting his marriage.",
+      "Jeremy cancels the inspection behind his wife's back to prove his masculinity to Phil.",
+      "Jeremy unabashedly replies, 'Sure, I let my wife tell me what to do about cars. Don't you?'\u2014unashamed of sharing power, while Phil admits he is divorced.",
+      "Jeremy demands that his wife come down to the lot and negotiate directly with Phil."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Jeremy proudly accepted his wife's influence and honored his agreement with her without feeling emasculated or defensive. When Phil sneered, 'You let your wife tell you what to do about cars?', Jeremy casually answered, 'Sure. Don't you?'\u2014to which Phil revealed he didn't, and that he was now divorced.",
+    "citation": "Chapter 7: Principle 4: Let Your Partner Influence You"
+  },
+  {
+    "id": "dq44",
     "chapterId": "ch8",
     "chapterName": "Ch 8: The Two Kinds of Marital Conflict (Solvable vs Perpetual)",
     "difficulty": "hard",
     "type": "concept",
-    "question": "Gottman’s research made the astonishing discovery that 69% of all marital conflicts are 'perpetual.' What is the profound philosophical implication of this finding?",
+    "question": "Gottman\u2019s research made the astonishing discovery that 69% of all marital conflicts are 'perpetual.' What is the profound philosophical implication of this finding?",
     "options": [
-      "That nearly 70% of married couples are fundamentally mismatched and should consider divorce.",
+      "69% of married couples are deeply mismatched and should consider divorce.",
       "That you never marry a person without also marrying a specific, enduring set of unresolvable differences; the goal is not to eliminate them, but to live with them in gentle dialogue and humor.",
-      "That human beings become completely incapable of behavioral change after age thirty.",
-      "That couples should never discuss conflict topics again once identified."
+      "Marital therapy is a waste of time because nothing ever changes.",
+      "Couples should stop talking about sensitive topics altogether to avoid wasting energy."
     ],
     "correctAnswer": 1,
-    "explanation": "69% of arguments stem from core differences in personality, lifestyle, emotional needs, and values (e.g., neat vs. messy, spender vs. saver, introvert vs. extrovert). You will never 'fix' them. Healthy couples accept this reality and learn to laugh and talk about them with affection instead of gridlock.",
+    "explanation": "Almost 70% of marital arguments are rooted in fundamental personality differences, lifestyle habits, and core emotional values. They cannot be 'solved' any more than you can change a person's DNA. Happy couples accept this truth, treat these enduring differences with affection and humor, and prevent them from becoming gridlocked.",
     "citation": "Chapter 8: Perpetual Problems"
   },
   {
-    "id": "dq24",
+    "id": "dq45",
     "chapterId": "ch8",
     "chapterName": "Ch 8: The Two Kinds of Marital Conflict (Solvable vs Perpetual)",
     "difficulty": "medium",
     "type": "concept",
     "question": "What is the key differentiator that separates a healthy dialogue about a perpetual problem from a 'gridlocked' conflict?",
     "options": [
-      "Whether the couple has hired a mediator.",
+      "In healthy dialogue, one partner completely gives in to the other's wishes.",
       "In healthy dialogue, humor, affection, and mutual acceptance are present; in gridlock, partners feel rejected, villainize each other, become entrenched, and strip all warmth from the issue.",
-      "The duration of the argument in minutes.",
-      "Whether the topic involves money or sex."
+      "In healthy dialogue, arguments never last longer than ninety seconds.",
+      "In healthy dialogue, couples hire a professional arbitrator to make the decision."
     ],
     "correctAnswer": 1,
-    "explanation": "Happy couples have the same perpetual fights as unhappy couples! The difference is emotional climate. Happy couples can joke about their differences ('Here you go again with your spreadsheets!') whereas gridlocked couples feel unloved, judged, and fundamentally rejected.",
+    "explanation": "The hallmark of gridlock is not the disagreement itself, but the toxic emotional climate surrounding it. In gridlock, there is zero humor, no affection, entrenched positions, and mutual vilification. In healthy dialogue, spouses can debate their perpetual quirks with laughter, teasing, and deep fond acceptance.",
     "citation": "Chapter 8: The Signs of Gridlock"
   },
   {
-    "id": "dq25",
+    "id": "dq46",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: The Two Kinds of Marital Conflict (Solvable vs Perpetual)",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Which of the following is an unmistakable diagnostic sign that a perpetual problem has collapsed into 'Gridlock'?",
+    "options": [
+      "Discussions about the problem are animated, loud, and full of teasing and affectionate humor.",
+      "The couple discusses the issue briefly once a year during tax season.",
+      "The conflict leaves partners feeling rejected, discussions make zero headway, positions become entrenched and unbudgeable, and conversations are completely devoid of humor, affection, or amusement.",
+      "Both spouses agree to hire a third-party contractor to resolve the physical dispute."
+    ],
+    "correctAnswer": 2,
+    "explanation": "In Chapter 8, Gottman lists the hallmark signs of gridlock: feeling rejected by your partner, spinning your wheels without movement, entrenchment, increasing hurt/frustration, mutual vilification, and conversations stripped of all warmth, humor, and goodwill.",
+    "citation": "Chapter 8: The Signs of Gridlock"
+  },
+  {
+    "id": "dq47",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: The Two Kinds of Marital Conflict (Solvable vs Perpetual)",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why does applying traditional problem-solving techniques to a 'perpetual problem' almost always backfire and intensify marital distress?",
+    "options": [
+      "Because perpetual problems involve illegal activities that therapists cannot touch.",
+      "Because perpetual problems stem from deep-seated differences in personality, core temperament, lifestyle preferences, and existential values; demanding a 'solution' effectively demands that one spouse undergo a radical personality overhaul.",
+      "Because perpetual problems can only be resolved through hypnotherapy.",
+      "Because problem-solving techniques only work for couples who have been married for more than twenty-five years."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Solvable problems are situational (e.g., who takes out the trash). Perpetual problems are existential and rooted in core temperament (e.g., neat vs. messy, spender vs. saver, social butterfly vs. homebody). Trying to 'solve' a perpetual problem treats a partner's fundamental personality as a defect that needs fixing, triggering resentment and entrenchment.",
+    "citation": "Chapter 8: Perpetual Problems"
+  },
+  {
+    "id": "dq48",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: The Two Kinds of Marital Conflict (Solvable vs Perpetual)",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What did Love Lab monitors reveal about the physiological state of happy couples who were passionately debating their perpetual, unresolvable differences?",
+    "options": [
+      "Their heart rates remained calm (well below 100 bpm), their blood pressure stayed steady, and their body language expressed relaxed engagement and affectionate amusement.",
+      "Their heart rates surged to 140 bpm, showing that healthy love requires intense physical arousal during arguments.",
+      "They exhibited complete neurological paralysis and numbness.",
+      "They experienced severe galvanic skin conductivity spikes indicating chronic fight-or-flight panic."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Masters of marriage do not get flooded when discussing their perpetual issues. Because they have made peace with their differences, accept each other's quirks, and sprinkle their discussions with humor and validation, their physiology remains relaxed and their heart rates stay well below the 100 bpm flooding threshold.",
+    "citation": "Chapter 8: The Keys to Managing Conflict"
+  },
+  {
+    "id": "dq49",
     "chapterId": "ch9",
     "chapterName": "Ch 9: Principle 5 - Solve Your Solvable Problems",
     "difficulty": "hard",
     "type": "concept",
     "question": "During Step 3 of problem solving ('Soothe Yourself and Each Other'), Gottman mandates a break of at least 20 minutes when flooded. What is the STRICT condition that must be maintained during these 20 minutes?",
     "options": [
-      "You must write down a bulleted list of your partner\\'s errors.",
+      "You must immediately text your spouse a written defense of your position.",
       "You must NOT spend the time ruminating on self-righteous indignation or rehearsing angry comebacks; you must actively distract yourself (read, walk, breathe) so your heart rate can drop.",
-      "You must remain in the exact same room staring at each other.",
-      "You must call a close friend or family member to validate your stance."
+      "You must do high-intensity cardiovascular exercise to burn off excess cortisol.",
+      "You must call a close friend or family member to explain why you were right."
     ],
     "correctAnswer": 1,
-    "explanation": "If you take a 20-minute break but spend the entire time fuming ('How dare she say that! Wait till I tell her...'), your adrenaline will remain elevated and your heart will keep pounding. The break only works if you mentally disconnect and physiologically calm your nervous system.",
+    "explanation": "If you take a 20-minute time-out but spend the entire time fuming ('How dare she say that to me! Just wait until I tell her...'), your physiological arousal will climb even higher. The 20-minute break only works if you mentally disengage, practice deep diaphragmatic breathing, and engage in relaxing activities that allow your autonomic nervous system to reset.",
     "citation": "Chapter 9: Step 3: Soothe Yourself and Each Other"
   },
   {
-    "id": "dq26",
+    "id": "dq50",
     "chapterId": "ch9",
     "chapterName": "Ch 9: Principle 5 - Solve Your Solvable Problems",
     "difficulty": "medium",
     "type": "concept",
-    "question": "In Step 4 ('Compromise'), how does Gottman’s 'Two Concentric Circles' exercise structure negotiation?",
+    "question": "In Step 4 ('Compromise'), how does Gottman\u2019s 'Two Concentric Circles' exercise structure negotiation?",
     "options": [
-      "The inner circle is for domestic tasks, and the outer circle is for financial expenses.",
+      "The inner circle represents financial issues, and the outer circle represents emotional issues.",
       "Each spouse draws a small inner circle for their non-negotiable core needs / values, and a large outer ring for areas where they have flexibility and room to give.",
-      "The inner circle represents the husband\\'s position, and the outer circle represents the wife\\'s position.",
-      "The inner circle is what you agree on today, and the outer circle is ignored forever."
+      "The inner circle represents tasks for the husband, and the outer circle represents tasks for the wife.",
+      "Each spouse draws their immediate family in the center and in-laws in the outer circle."
     ],
     "correctAnswer": 1,
-    "explanation": "Negotiation fails when spouses treat every minor preference as a sacred non-negotiable. The two-circle method forces each partner to define: 'What is the absolute core need I cannot abandon without betraying myself?' (inner circle) versus 'Where can I be flexible and accommodate you?' (outer circle).",
+    "explanation": "In the Two Concentric Circles compromise model, each partner draws a small inner circle containing their non-negotiables (core values, bottom lines without which they cannot live). In the larger outer circle, they write down every aspect of the issue where they are willing to be flexible. Successful compromise occurs by honoring both inner circles and negotiating within the outer circles.",
     "citation": "Chapter 9: Step 4: Compromise"
   },
   {
-    "id": "dq27",
+    "id": "dq51",
     "chapterId": "ch9",
     "chapterName": "Ch 9: Principle 5 - Solve Your Solvable Problems",
     "difficulty": "hard",
     "type": "concept",
     "question": "In Step 5 ('Processing a Regrettable Incident or Past Bad Fight'), what is the foundational ground rule regarding 'Realities'?",
     "options": [
-      "Spouses must agree on one objective timeline of what actually occurred.",
+      "The spouse who remembers the exact chronological timeline is deemed objectively correct.",
       "Both partners must accept that there is NO single objective truth; two conflicting subjective perceptions can both be 100% valid.",
-      "The person who started the fight is legally considered in the wrong.",
-      "All text messages sent during the fight must be read aloud verbatim."
+      "The couple must review text messages and call logs to determine who started the fight.",
+      "The partner who cried during the fight gets to dictate the objective narrative."
     ],
     "correctAnswer": 1,
-    "explanation": "Gottman explains: 'Do not debate facts. In an emotional incident, perception is everything.' Healing requires both partners to acknowledge that their partner\\'s emotional reality is just as authentic as their own, even if their factual memories clash completely.",
+    "explanation": "Gottman stresses that there is no 'God-camera' that captured the absolute objective reality of a fight. Memory and emotional perception are inherently subjective. Trying to prove whose memory is 'the real truth' only reignites the battle. Healing requires accepting that two conflicting subjective experiences can both be legitimate.",
     "citation": "Chapter 9: Step 5: Dealing with Emotional Injuries"
   },
   {
-    "id": "dq28",
+    "id": "dq52",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: Principle 5 - Solve Your Solvable Problems",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What are Gottman's four fundamental components for executing a successful 'Softened Start-Up' in Step 1 of problem solving?",
+    "options": [
+      "(1) Speak in a high pitch, (2) write down the grievance on parchment, (3) wait until bedtime, (4) bring a mediator.",
+      "(1) Complain without blaming, (2) make statements that start with 'I' instead of 'You', (3) describe what is happening without judging, and (4) state clearly and politely what you need in positive terms.",
+      "(1) Point out all past instances of the bad behavior, (2) explain why the behavior is neurotic, (3) give an ultimatum, (4) walk away.",
+      "(1) Sarcasm to break the ice, (2) comparing the spouse to their parent, (3) demanding an immediate apology, (4) withholding affection."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Softened start-up requires taking responsibility, focusing on your own feelings rather than attacking ('I feel overwhelmed by the dishes' vs 'You never clean'), describing the factual situation neutrally, and clearly expressing a positive need ('I need some help clearing the sink tonight, please').",
+    "citation": "Chapter 9: Step 1: Soften Your Start-Up"
+  },
+  {
+    "id": "dq53",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: Principle 5 - Solve Your Solvable Problems",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "When using the 'Repair Attempt Checklist' in Step 2 of problem solving, why does Gottman place equal or greater emphasis on the partner's *reception* of the repair rather than its initiation?",
+    "options": [
+      "Because initiating repairs is legally required, but receiving them is voluntary.",
+      "Because if an awkward or clumsy repair attempt is rejected, ignored, or treated as an admission of guilt, the conflict inevitably spirals into dangerous flooding and entrenchment.",
+      "Because the listener is required by Gottman to grade the speaker's grammar and sincerity.",
+      "Because receiving repairs requires taking medication to calm the cardiovascular system."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Making a repair takes courage and vulnerability. If a partner attempts to brake ('I know I'm getting defensive, sorry' or 'Can we pause for a second?') and the other partner stomps on the gas ('You're just trying to avoid the topic!'), the repair crashes. Successful conflict resolution requires both partners to be attuned to accepting the brakes.",
+    "citation": "Chapter 9: Step 2: Learn to Make and Receive Repair Attempts"
+  },
+  {
+    "id": "dq54",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: Principle 5 - Solve Your Solvable Problems",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In Exercise 5 ('Processing a Previous Emotional Injury or Past Bad Fight'), what is the crucial transition that occurs between exploring 'Triggers' (Step 5) and 'Taking Responsibility' (Step 6)?",
+    "options": [
+      "Partners determine which person's childhood trauma was more severe.",
+      "Spouses recognize that their intense emotional reactions often stem from old historical sensitivities ('enduring vulnerabilities'), allowing them to own their contribution and apologize rather than blaming the partner for causing their pain.",
+      "The couple hires an attorney to draft a non-disclosure agreement.",
+      "Both partners agree never to bring up their childhood memories again."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Exploring triggers helps partners realize that their extreme reaction wasn't solely about the current argument, but touched an 'enduring vulnerability' from childhood or past relationships. This insight allows both partners to step out of defensiveness, acknowledge their role ('I was already exhausted and snapped'), and offer a sincere apology.",
+    "citation": "Chapter 9: Step 5: Dealing with Emotional Injuries"
+  },
+  {
+    "id": "dq55",
     "chapterId": "ch10",
     "chapterName": "Ch 10: Coping with Typical Solvable Problems",
     "difficulty": "medium",
     "type": "concept",
-    "question": "When in-laws criticize a spouse or cause tension in the marriage, what is Gottman’s uncompromising decree regarding marital allegiance?",
+    "question": "When in-laws criticize a spouse or cause tension in the marriage, what is Gottman\u2019s uncompromising decree regarding marital allegiance?",
     "options": [
-      "Spouses should respect their elders and encourage their partner to obey parental wishes.",
-      "The spouse whose family is causing friction must side unequivocally with their partner against their own parents—marital solidarity ('we against the world') overrides family of origin.",
-      "Spouses should remain completely neutral and let the partner argue with the in-laws directly.",
-      "Couples should immediately move to a different country."
+      "The couple should alternate holidays between families to keep everyone equally happy.",
+      "The spouse whose family is causing friction must side unequivocally with their partner against their own parents\u2014marital solidarity ('we against the world') overrides family of origin.",
+      "The criticized spouse should write an apology letter to the in-laws to smooth things over.",
+      "The spouses should let their mothers-in-law manage household decisions."
     ],
     "correctAnswer": 1,
-    "explanation": "Gottman writes: 'A husband must side with his wife against his mother. The task here is to establish a we-against-the-world alliance.' If a spouse allows their parents to criticize or undermine their mate, they commit a fundamental betrayal of marital trust.",
+    "explanation": "Gottman is unequivocal: the marriage must take absolute precedence over the family of origin. When in-laws attack, criticize, or disrespect a spouse, the partner whose biological parents are doing the attacking MUST stand up and establish firm boundaries in defense of their mate. Siding with parents against your spouse is a foundational betrayal.",
     "citation": "Chapter 10: Relations with In-Laws"
   },
   {
-    "id": "dq29",
+    "id": "dq56",
     "chapterId": "ch10",
     "chapterName": "Ch 10: Coping with Typical Solvable Problems",
     "difficulty": "medium",
     "type": "concept",
     "question": "What is the psychological golden rule when refusing sex gently in a marriage according to Gottman?",
     "options": [
-      "Pretend to be asleep before your partner enters the bedroom.",
+      "Pretend you have a severe migraine so your partner doesn't take it personally.",
       "Never say no without simultaneously showing physical affection (a kiss, embrace) and offering a concrete commitment for when you will reconnect.",
-      "Explain in extensive biological detail why your libido is currently suppressed.",
-      "Offer to pay for a massage instead."
+      "Explain in detail why your partner's initiation technique was unromantic.",
+      "Ignore the request and go to sleep immediately."
     ],
     "correctAnswer": 1,
-    "explanation": "A cold, dismissive 'no' feels like total romantic rejection. Gottman counsels: always wrap a refusal in physical warmth, appreciation, and tenderness, coupled with a specific timeline: 'I\\'m exhausted tonight, my love, but I want to be close to you. Let\\'s make Sunday afternoon just for the two of us.'",
+    "explanation": "Sex is uniquely vulnerable. A blunt or cold 'No, I'm too tired' feels like personal rejection and disgust. Gottman\u2019s blueprint for refusing sex gently is: envelop the refusal in warmth and physical affection (a loving embrace or tender kiss) and immediately reschedule ('I'm exhausted tonight, but let's take a bath together tomorrow evening').",
     "citation": "Chapter 10: Refusing Sex Gently"
   },
   {
-    "id": "dq30",
+    "id": "dq57",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: Coping with Typical Solvable Problems",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "In the 2015 edition of Chapter 10, what startling reality did Gottman highlight regarding the impact of smartphones, tablets, and screen time on contemporary marriages?",
+    "options": [
+      "Couples who text each other throughout the day have zero marital conflicts.",
+      "In a study of young professional couples, actual conversation time averaged just thirty-five minutes a week\u2014mostly logistical errands\u2014with screens acting as constant digital barriers that rob couples of eye contact and micro-moments of connection.",
+      "Electronic devices improve marriages by eliminating the need for face-to-face discussions.",
+      "Virtual reality headsets have replaced marital counseling with 99% efficacy."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gottman notes that in the digital age, couples often live like roommates in parallel orbits. A study of young couples revealed they spent an average of only 35 minutes a week talking to each other, much of it transactional. Devices create perpetual distractions that choke off bids for connection unless boundaries are intentionally established.",
+    "citation": "Chapter 10: \u201cUnplugging\u201d from Distractions"
+  },
+  {
+    "id": "dq58",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: Coping with Typical Solvable Problems",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Why do financial disagreements between spouses often trigger disproportionate rage, panic, and stubborn gridlock compared to other solvable problems?",
+    "options": [
+      "Because money is mathematically complex and few people understand compound interest.",
+      "Because money is rarely just about dollars and cents; it is a canvas onto which people project their deepest existential needs\u2014symbolizing freedom, security, power, pleasure, self-worth, or love.",
+      "Because state laws strictly divide marital property upon marriage.",
+      "Because men always value spending while women always value saving."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Financial arguments are rarely disputes over simple arithmetic. To one partner, having a large savings cushion represents survival and security; to the other, spending represents freedom, joy, and autonomy. Until the hidden emotional and symbolic meanings of money are uncovered, budgeting discussions will remain explosive battlefield clashes of values.",
+    "citation": "Chapter 10: Money, Money, Money"
+  },
+  {
+    "id": "dq59",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: Coping with Typical Solvable Problems",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What profound psychological and physiological truth did Gottman\u2019s research uncover regarding husbands sharing domestic housework and childcare?",
+    "options": [
+      "Housework has no measurable effect on marital satisfaction as long as the house is clean.",
+      "When husbands willingly take on housework without being nagged, wives perceive it as an expression of love, respect, and emotional care; this reduces wives' physiological stress levels and significantly increases marital and sexual satisfaction.",
+      "Doing housework causes husbands to lose their masculine identity and reduces marital passion.",
+      "Couples should never do chores together because it increases the frequency of criticism."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gottman found that domestic chores carry enormous emotional significance, especially for women. When a husband pitches in without keeping score or waiting to be asked, his wife feels respected and supported as a valued partner. Her biological stress drops, and she experiences greater romance and desire.",
+    "citation": "Chapter 10: Housework"
+  },
+  {
+    "id": "dq60",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: Coping with Typical Solvable Problems",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In Chapter 10's section on 'Becoming Parents', how can couples prevent the sharp marital decline that affects 67% of new parents after a baby arrives?",
+    "options": [
+      "By sending the child to boarding school at six months of age.",
+      "By actively including the father from day one and avoiding maternal gatekeeping, ensuring the husband bonds deeply with the baby and feels like an equal partner rather than an excluded outsider.",
+      "By agreeing that the mother handles 100% of infant care while the father focuses exclusively on work.",
+      "By avoiding all discussion of parenting styles until the child turns five."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gottman emphasizes that when a baby is born, the mother's intense biological bonding with the infant can inadvertently sidelight the father, making him feel unneeded and discarded. Welcoming the father into direct infant care without micromanaging or criticizing his methods expands the marital 'we' into family 'we-ness'.",
+    "citation": "Chapter 10: Becoming Parents"
+  },
+  {
+    "id": "dq61",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: Coping with Typical Solvable Problems",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is a 'Sexual Love Map' in Chapter 10, and why is it essential for sustaining passion and romance in long-term marriage?",
+    "options": [
+      "A diagram of anatomical acupuncture points.",
+      "An open, non-judgmental understanding of each partner's sexual desires, turn-ons, turn-offs, fantasies, and emotional prerequisites for arousal, acknowledging that great sex begins outside the bedroom.",
+      "A rigid weekly calendar schedule that mandates exact times for physical intimacy.",
+      "A checklist of sexual positions downloaded from clinical therapy journals."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A Sexual Love Map extends Principle 1 into physical intimacy. It requires talking candidly about what makes each partner feel loved, desired, turned on, or turned off without feeling judged or humiliated. Gottman notes that for 70% of men and women, sexual satisfaction is dictated by the quality of marital friendship.",
+    "citation": "Chapter 10: Sex"
+  },
+  {
+    "id": "dq62",
     "chapterId": "ch11",
     "chapterName": "Ch 11: Principle 6 - Overcome Gridlock",
     "difficulty": "hard",
     "type": "concept",
     "question": "What is the profound core truth behind Principle 6: What actually fuels every gridlocked, irreconcilable fight?",
     "options": [
-      "Severe hormonal and biochemical imbalances.",
+      "Extreme stubbornness and refusal to grow up.",
       "An unacknowledged, unrespected life dream (aspirations, identity, emotional safety, or legacy) buried underneath the surface argument.",
-      "A lack of formal legal agreements drawn up before marriage.",
-      "Unresolved rivalries from high school."
+      "Hidden financial fraud that one spouse is concealing.",
+      "A clash of astrological incompatible signs."
     ],
     "correctAnswer": 1,
-    "explanation": "Gridlock happens when a conflict touches on who you are at your core. The argument isn\\'t about the kitchen remodel or buying an expensive horse (the Daphne case)—it is about freedom, peace, honoring your parents, competence, or childhood dreams of adventure. When dreams feel ridiculed or denied, partners dig in.",
+    "explanation": "Gottman's breakthrough discovery was that gridlocked conflict is never really about the topic on the table (dirty laundry, spending, dinner schedules). It is fueled by unfulfilled, hidden life dreams\u2014profound longings for freedom, security, peace, adventure, or spiritual connection\u2014that the partner feels are being crushed or ignored.",
     "citation": "Chapter 11: Principle 6: Overcome Gridlock"
   },
   {
-    "id": "dq31",
+    "id": "dq63",
     "chapterId": "ch11",
     "chapterName": "Ch 11: Principle 6 - Overcome Gridlock",
     "difficulty": "hard",
     "type": "concept",
-    "question": "What is the role of the listener when using 'The Dream Catcher’s Magic Questions' to unlock a gridlocked issue?",
+    "question": "What is the role of the listener when using 'The Dream Catcher\u2019s Magic Questions' to unlock a gridlocked issue?",
     "options": [
-      "To audit the budget and cross-examine whether the dream is affordable.",
+      "To point out logical inconsistencies in the partner's dream.",
       "To act like a non-judgmental interviewer or detective, uncovering what the dream symbolizes and its backstory, without trying to solve or debate it.",
-      "To promise to grant 100% of the dream immediately regardless of personal sacrifice.",
-      "To psychoanalyze the partner\\'s attachment style."
+      "To calculate the dollar cost of fulfilling the dream.",
+      "To agree immediately to surrender and give the partner whatever they want."
     ],
     "correctAnswer": 1,
-    "explanation": "In the Dream Catcher exercise, the listener does NOT debate. They ask: 'What does this issue symbolize for you? What is the story behind this from your childhood? What is your ideal dream here?' Once a person feels their dream is deeply understood and respected, gridlock evaporates.",
-    "citation": "Chapter 11: The Dream Catcher’s Magic Questions"
+    "explanation": "When doing the Dream Catcher exercise, you are NOT negotiating or problem-solving. The listener's sole objective is to be a supportive detective: ask open questions ('What is the story behind this?', 'What does this symbolize to you?'), listen with curiosity, and validate the deep human yearning behind the position.",
+    "citation": "Chapter 11: The Dream Catcher\u2019s Magic Questions"
   },
   {
-    "id": "dq32",
+    "id": "dq64",
+    "chapterId": "ch11",
+    "chapterName": "Ch 11: Principle 6 - Overcome Gridlock",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "In the case of Ed and Luanne in Chapter 11, their marriage was on the brink of collapse over the monthly expense of boarding Luanne's nine-year-old horse, Daphne. What was the hidden dream underlying this bitter conflict?",
+    "options": [
+      "Luanne was trying to bankrupt Ed so she could win alimony in divorce court.",
+      "To Luanne, owning and riding Daphne represented her childhood freedom, autonomy, competence, and a sacred sanctuary away from stress; Ed's insistence that she sell Daphne felt like an attack on her core self.",
+      "Ed wanted to sell the horse so he could buy an expensive luxury yacht.",
+      "Daphne was an aggressive horse that had kicked Ed in the pasture."
+    ],
+    "correctAnswer": 1,
+    "explanation": "On the surface, Ed saw a massive monthly bill draining their bank account, while Luanne resisted fiercely. Uncovering her dream revealed that riding Daphne connected her to her deepest sense of identity, self-worth, and emotional freedom. Once Ed understood what the horse symbolized, he no longer saw it as foolish indulgence, and they negotiated a sustainable budget that preserved Daphne.",
+    "citation": "Chapter 11: A Horse Named Daphne"
+  },
+  {
+    "id": "dq65",
+    "chapterId": "ch11",
+    "chapterName": "Ch 11: Principle 6 - Overcome Gridlock",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "In Chapter 11, what is a primary diagnostic clue that indicates an argument is being fueled by a hidden dream rather than a practical disagreement?",
+    "options": [
+      "The argument only happens on weekends.",
+      "You view your partner as the sole source of the marital difficulty, branding them as inherently flawed (e.g., 'He is just a lazy slob' or 'She is selfish and irresponsible'), unable to see that their behavior is tied to a core longing.",
+      "The argument can be resolved in less than five minutes using a calculator.",
+      "Both partners agree on the exact budget down to the penny."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gottman explains that when a hidden dream is buried, we pathologize our partner. Instead of recognizing that their rigid stance is guarding a sacred aspiration (e.g., security, independence, legacy), we reduce them to a character flaw: 'He's just cheap,' or 'She's just reckless.' Acting as a Dream Detective uncovers the longing behind the stubborn behavior.",
+    "citation": "Chapter 11: Become a Dream Detective"
+  },
+  {
+    "id": "dq66",
+    "chapterId": "ch11",
+    "chapterName": "Ch 11: Principle 6 - Overcome Gridlock",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "According to Gottman, what are the three progressive levels of honoring your spouse\u2019s life dreams?",
+    "options": [
+      "(1) Ignoring the dream, (2) tolerating it, (3) charging interest on loans for it.",
+      "(1) Expressing genuine understanding and interest in the dream, (2) offering emotional and financial support to enable it, and (3) actively participating in the dream with your partner.",
+      "(1) Writing the dream down, (2) hiring a life coach, (3) retiring early together.",
+      "(1) Approving the dream, (2) vetoing impractical parts, (3) supervising execution."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gottman outlines three levels: Level 1 is listening with interest and validating what the dream means to them (even if you don't share it); Level 2 is providing tangible or emotional support (e.g., funding classes, watching the kids); Level 3 is fully joining them in pursuing the dream as a shared adventure. All three levels are beneficial.",
+    "citation": "Chapter 11: Principle 6: Overcome Gridlock"
+  },
+  {
+    "id": "dq67",
     "chapterId": "ch12",
     "chapterName": "Ch 12: Principle 7 - Create Shared Meaning",
     "difficulty": "medium",
     "type": "concept",
     "question": "What are the 'Four Pillars of Shared Meaning' that elevate a marriage into a shared spiritual journey?",
     "options": [
-      "Wealth, Health, Fame, and Legacy",
-      "Rituals of Connection, Support for Each Other’s Roles, Shared Goals, and Shared Values/Symbols",
-      "Nutrition, Sleep, Physical Fitness, and Mindfulness",
-      "Passionate Sex, Frequent Travel, Shared Hobbies, and Early Retirement"
+      "Faith, Hope, Charity, and Obedience",
+      "Rituals of Connection, Support for Each Other\u2019s Roles, Shared Goals, and Shared Values/Symbols",
+      "Financial Wealth, Parenting Success, Professional Prestige, and Social Status",
+      "Vacations, Anniversaries, Birthdays, and Holidays"
     ],
     "correctAnswer": 1,
-    "explanation": "A marriage is a micro-culture with its own internal mythology. The four pillars are: 1) Rituals of connection (recurring routines that bond you), 2) Support for roles (what it means to be a husband/wife/parent), 3) Shared goals (missions you work toward together), and 4) Shared values and symbols.",
+    "explanation": "Principle 7 is about building an inner life together as a couple. The four pillars are: (1) Rituals of connection (eating dinner together, morning coffee); (2) Supporting each other's life roles (what it means to be a father, worker, wife); (3) Shared goals (working toward common philanthropic, creative, or community aspirations); and (4) Shared symbols and values (family philosophies, heirlooms, traditions).",
     "citation": "Chapter 12: The Four Pillars of Shared Meaning"
   },
   {
-    "id": "dq33",
+    "id": "dq68",
+    "chapterId": "ch12",
+    "chapterName": "Ch 12: Principle 7 - Create Shared Meaning",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What distinguishes an intentional 'Ritual of Connection' (Pillar 1) from an ordinary daily habit or routine in a marriage?",
+    "options": [
+      "A ritual must involve formal religious ceremonies approved by clergy.",
+      "A ritual is a structured, repeatable event that both partners look forward to and agree upon, imbued with shared emotional and symbolic significance that reinforces their sense of togetherness.",
+      "A ritual is any activity that takes longer than four hours to complete.",
+      "A ritual is an involuntary habit that couples perform without thinking."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Drawing on sociologist William Doherty (*The Intentional Family*), Gottman highlights that rituals of connection are deliberate, structured moments\u2014such as a morning coffee routine, a specific greeting at the front door, a Friday night date, or an annual holiday tradition\u2014where the couple consciously communes and reaffirms their bond.",
+    "citation": "Chapter 12: Pillar One: Rituals of Connection"
+  },
+  {
+    "id": "dq69",
+    "chapterId": "ch12",
+    "chapterName": "Ch 12: Principle 7 - Create Shared Meaning",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How does honoring your partner\u2019s psychological 'Roles' (Pillar 2 of Shared Meaning) strengthen the marital bond?",
+    "options": [
+      "By assigning strict traditional gender divisions of labor to avoid ambiguity.",
+      "By recognizing that each spouse holds deep, cherished identities (e.g., provider, nurturer, protector, artist, mentor) and actively validating their self-concept rather than belittling or competing with it.",
+      "By ensuring both partners work in the same professional industry.",
+      "By rotating who acts as the primary spouse every six months."
+    ],
+    "correctAnswer": 1,
+    "explanation": "People construct their self-worth around the roles they embody. If a husband views himself as a protector and provider, or a wife views herself as an intellectual mentor or healer, having their partner respect, support, and appreciate that role creates profound emotional harmony and shared purpose.",
+    "citation": "Chapter 12: Pillar Two: Support for Each Other\u2019s Roles"
+  },
+  {
+    "id": "dq70",
+    "chapterId": "ch12",
+    "chapterName": "Ch 12: Principle 7 - Create Shared Meaning",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In Pillar 4 ('Shared Values and Symbols'), what does Gottman say about the role of family symbols, heirlooms, and shared narratives in building a lasting marriage?",
+    "options": [
+      "They are expensive decorations that display wealth to neighbors.",
+      "They establish a unique family 'micro-culture' with its own philosophy, shared history, and sacred symbols that define who 'we' are in contrast to the outside world.",
+      "They distract spouses from discussing unresolved conflict.",
+      "They must be discarded every decade to keep the relationship modern."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Every healthy marriage creates its own unique culture\u2014replete with inside jokes, family sayings, cherished physical symbols (a framed photo, an inherited dining table), and shared values. This shared culture forms a boundary of meaning that enriches their life journey together.",
+    "citation": "Chapter 12: Pillar Four: Shared Values and Symbols"
+  },
+  {
+    "id": "dq71",
     "chapterId": "afterword",
     "chapterName": "Afterword: The Magic Six Hours & Daily Habits",
     "difficulty": "easy",
     "type": "concept",
     "question": "Why does Gottman recommend a kiss that lasts at least SIX SECONDS during the daily reunion at the end of the workday?",
     "options": [
-      "Because shorter kisses are legally considered handshakes.",
+      "Because six seconds is the minimum time needed to check for alcohol consumption.",
       "Because a six-second kiss is long enough to stop the rush of daily stress, release oxytocin, and create a momentary sanctuary that is worth coming home to.",
-      "Because it takes six seconds to burn off calories from lunch.",
-      "Because six seconds is the average human attention span."
+      "Because it is an ancient religious commandment from marital vows.",
+      "Because six seconds allows your pulse rate to accelerate to 130 bpm."
     ],
     "correctAnswer": 1,
-    "explanation": "A quick peck on the cheek is often done while looking at your phone or setting down groceries. A six-second kiss requires conscious focus, interrupts the nervous system\\'s stress cycle, and communicates: 'I see you, you matter, and I am glad to be back with you.'",
+    "explanation": "A quick, distracted peck on the cheek as you walk past each other communicates disinterest. A six-second kiss cannot be done on autopilot; it forces you to pause, put down your phone/bags, look at each other, and physiologically transition from the outside working world into a loving haven.",
     "citation": "Afterword: The Magic Six Hours"
   },
   {
-    "id": "dq34",
+    "id": "dq72",
     "chapterId": "afterword",
     "chapterName": "Afterword: The Magic Six Hours & Daily Habits",
     "difficulty": "hard",
     "type": "concept",
     "question": "In the weekly 1-hour 'State of the Union' meeting, how does Gottman structure the dialogue to guarantee safety and prevent escalation?",
     "options": [
-      "Spouses list all weekly grievances, vote on who was wrong, and the loser pays for dinner.",
+      "Read a list of grievances for 45 minutes, then spend 15 minutes drafting penalties.",
       "Begin with what went right and express 5 specific appreciations, address issues using softened start-up and the two-circle method, process any regrettable incident, and conclude with 'What can I do to make you feel loved this coming week?'",
-      "Review the family calendar and balance checking accounts for 60 minutes in silence.",
-      "Exchange handwritten critiques of each other\\'s parenting style."
+      "Allow only the wife to speak during the first half hour, and only the husband during the second half hour.",
+      "Require that all criticisms be written anonymously on index cards."
     ],
     "correctAnswer": 1,
-    "explanation": "The State of the Union meeting is a sacred ritual. By starting with 5 sincere, specific appreciations, couples prime positive sentiment. Then they tackle issues gently with two-circle compromises, and end with the loving, forward-looking question: 'What can I do to make you feel loved this coming week?'",
+    "explanation": "The State of the Union blueprint starts from abundance: 5 concrete appreciations. Then, any conflict or regrettable incident from the week is processed using softened start-up and subjective realities. It closes with a loving commitment: 'What can I do to make you feel loved this coming week?'",
     "citation": "Afterword: The Magic Six Hours"
   },
   {
-    "id": "dq35",
+    "id": "dq73",
     "chapterId": "afterword",
     "chapterName": "Afterword: The Magic Six Hours & Daily Habits",
     "difficulty": "medium",
     "type": "concept",
     "question": "What is the counter-intuitive discovery behind the 'Marital Poop Detector' in the Afterword?",
     "options": [
-      "Happy couples ignore minor annoyances and have high tolerance for bad moods.",
-      "Happy couples actually have a LOW threshold for negativity—they voice small irritations early with softened start-up rather than letting resentment fester beneath the surface.",
-      "Spouses should hire cleaning services to eliminate arguments over pet care.",
-      "Unhappy couples complain too early, while happy couples wait until anniversaries."
+      "Distressed couples complain too much, so happy couples learn to tolerate bad behavior in silence.",
+      "Happy couples actually have a LOW threshold for negativity\u2014they voice small irritations early with softened start-up rather than letting resentment fester beneath the surface.",
+      "Successful couples install sewage monitors in their bathrooms.",
+      "Couples who ignore dirty dishes have 50% fewer arguments."
     ],
     "correctAnswer": 1,
-    "explanation": "Popular culture tells us: 'Pick your battles, let small things go.' But Gottman found the opposite: happy couples have a vigilant 'Marital Poop Detector.' They don\\'t sweep low-level grievances under the rug; they air them gently and early, ensuring small irritations never metastasize into lethal contempt.",
+    "explanation": "Popular psychology suggests 'letting the little things slide' to avoid being nagging. But Gottman found the opposite: happy couples have a highly sensitive 'Marital Poop Detector' (low threshold for negativity). They gently bring up small annoyances early before they rot into toxic resentment and contempt.",
     "citation": "Afterword: The Marital Poop Detector"
+  },
+  {
+    "id": "dq74",
+    "chapterId": "afterword",
+    "chapterName": "Afterword: The Magic Six Hours & Daily Habits",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "In the Afterword, what is the exact weekly time budget and component structure of Gottman\u2019s 'Magic Six Hours'?",
+    "options": [
+      "6 hours of couple\u2019s therapy with a licensed psychologist every Saturday morning.",
+      "Partings (10 min), Reunions (1 hr 40 min), Admiration/Appreciation (35 min), Affection (35 min), Weekly Date (2 hr), State of the Union Meeting (1 hr).",
+      "1 hour of quiet reading, 2 hours of gym workouts, 2 hours of meal prep, and 1 hour of household budgeting.",
+      "3 hours of romantic movies on Friday and 3 hours of outdoor sports on Sunday."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gottman discovered that workshop participants whose marriages continued to flourish devoted just six hours a week to specific rituals: Partings (2 min x 5 days = 10 min), Reunions (20 min x 5 days = 1 hr 40 min), Admiration & Appreciation (5 min x 7 days = 35 min), Affection (5 min x 7 days = 35 min), Weekly Date (2 hours), and State of the Union Meeting (1 hour). Total: roughly 6 hours!",
+    "citation": "Afterword: The Magic Six Hours"
+  },
+  {
+    "id": "dq75",
+    "chapterId": "afterword",
+    "chapterName": "Afterword: The Magic Six Hours & Daily Habits",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is the specific requirement for the 2-minute 'Partings' ritual each morning before partners separate for the day in the Magic Six Hours?",
+    "options": [
+      "Checking that all household doors and windows are securely locked.",
+      "Finding out at least ONE thing that is happening in your spouse's life that day (e.g., a stressful meeting, a doctor's visit, lunch with a friend) before saying goodbye.",
+      "Handing your spouse a detailed itinerary of your day's schedule.",
+      "Singing a romantic song together in the kitchen."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In the Magic Six Hours, morning partings take only 2 minutes. The goal is to discover at least one significant event happening in your partner's life that day. This keeps your Love Map updated and provides an immediate bridge for connection and inquiry when you reunite in the evening.",
+    "citation": "Afterword: The Magic Six Hours"
+  },
+  {
+    "id": "dq76",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: Inside the Seattle Love Lab & Marriage Myths",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In the Seattle Love Lab, how did John Gottman and Robert Levenson use the 'Video Recall' procedure with a continuous rating dial to uncover couples' internal emotional states?",
+    "options": [
+      "Couples watched television comedies while doctors adjusted their room temperature via dial.",
+      "Spouses re-watched the videotape of their conflict discussion while turning a rating dial from 1 (very negative) to 9 (very positive), providing a continuous second-by-second readout of their subjective feelings that was synchronized with physiological data.",
+      "Therapists used a dial to rate the volume of the spouses' voices to detect shouting matches.",
+      "Spouses turned a dial to vote on who won each argument, with the winner receiving financial compensation."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In Gottman and Levenson's breakthrough Love Lab methodology, couples returned to the laboratory after their taped conflict to watch the recording. Each spouse turned a continuous rating dial (ranging from extremely negative to neutral to extremely positive) to report exactly what they were feeling second-by-second during the fight. By synchronizing this video recall dial with simultaneous recordings of heart rate, skin conductance, and blood velocity, the researchers could decode the precise moments when physiological arousal and internal distress surged.",
+    "citation": "Chapter 1: Innovative Research, Revolutionary Findings"
+  },
+  {
+    "id": "dq77",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: Inside the Seattle Love Lab & Marriage Myths",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In Janice Kiecolt-Glaser and Ronald Glaser's landmark 10-year newlywed study cited in Chapter 1, what biochemical finding during a single conflict discussion distinguished couples who divorced a decade later?",
+    "options": [
+      "Couples who divorced had significantly lower serotonin levels during breakfast.",
+      "Couples who later divorced exhibited 34% higher levels of adrenaline in their bloodstream during conflict, and their adrenaline levels remained abnormally elevated throughout the night while they slept.",
+      "Divorced spouses had twice the level of glucose in their saliva immediately after arguing.",
+      "Couples who stayed married had zero cortisol release during any argument."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Janice Kiecolt-Glaser and Ronald Glaser at The Ohio State University measured stress hormones in the blood of newlywed couples during conflict discussions. Ten years later, they found that spouses who ultimately divorced had produced 34% more adrenaline during that initial argument than those who remained happily married. Furthermore, their adrenaline remained significantly elevated hours later while they slept, demonstrating that hostile marital conflict leaves a prolonged, toxic physiological footprint.",
+    "citation": "Chapter 1: Why Save Your Marriage?"
+  },
+  {
+    "id": "dq78",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: The 6 Signs Predicting Divorce & The Four Horsemen",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What did psychologist Dolf Zillmann's experiments at the University of Alabama reveal regarding gender differences in recovery from emotional arousal and stress?",
+    "options": [
+      "Women experience faster adrenaline surges than men when provoked.",
+      "When male subjects were treated rudely and then told to sit quietly and relax for twenty minutes, their cardiovascular arousal and blood pressure remained elevated until they had an opportunity to retaliate, whereas women calmed down much more rapidly without needing retaliation.",
+      "Men were completely immune to rude treatment if they had consumed sugar.",
+      "Both men and women returned to baseline heart rates in exactly four minutes."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dolf Zillmann's research on excitation transfer and autonomic arousal showed that when men were deliberately insulted and told to sit quietly for twenty minutes, their blood pressure and cardiovascular stress remained high and climbing because they engaged in distress-maintaining thoughts of righteous indignation ('I'll get even'). They did not calm down until they could retaliate. In contrast, women were far more likely to engage in self-soothing and conciliatory thoughts, allowing their autonomic nervous systems to reset without vengeance.",
+    "citation": "Chapter 3: Men and Women Really Are Different"
+  },
+  {
+    "id": "dq79",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: The 6 Signs Predicting Divorce & The Four Horsemen",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "How does Gottman define 'Belligerence', a destructive behavior closely allied with Contempt?",
+    "options": [
+      "A passive-aggressive silence where a partner refuses to eat dinner.",
+      "An aggressive form of anger that issues an overt threat, challenge, or provocation (such as asking 'Well, what are you going to do about it?' or 'What are you going to do, sue me?').",
+      "An involuntary facial twitch around the mouth and eyes.",
+      "Constructive criticism expressed with an academic vocabulary."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Belligerence is a close cousin of contempt and is just as lethal to marital stability. Unlike simple anger, belligerence is aggressively provocative and confrontational\u2014it directly challenges the spouse's authority or feelings with threats or dares ('What are you going to do about it?'). It establishes a hostile power contest that shuts down collaboration and rapidly accelerates emotional flooding.",
+    "citation": "Chapter 3: The Second Sign: The Four Horsemen"
+  },
+  {
+    "id": "dq80",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: Principle 2 - Nurture Fondness & Admiration",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What is the psychological mechanism underlying the daily statements and exercises in the 'Seven-Week Course in Fondness and Admiration' (e.g., Week 4 Friday: 'Think of a marriage you know that\u2019s awful')?",
+    "options": [
+      "It uses behavioral punishment to eliminate undesirable habits.",
+      "Based on cognitive therapy principles for depression, it counteracts 'distress-maintaining thoughts' by systematically rehearsing positive cognitions and deliberate appreciative tasks until positive scanning of one's partner becomes automatic.",
+      "It requires spouses to sign a legal oath promising never to disagree on weekends.",
+      "It forces partners to memorize romantic poetry to recite during breakfast."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gottman explains that when marital fondness dims, spouses succumb to 'distress-maintaining thoughts'\u2014a cognitive distortion where they selectively fixate on partner flaws and ignore virtues, creating chronic hopelessness similar to clinical depression. The Seven-Week Course adapts cognitive therapy: by pairing a daily positive thought (e.g., 'I was really lucky to meet my spouse') with a concrete action, it systematically retrains the brain's perceptual filter to notice and cherish the partner's positive contributions.",
+    "citation": "Chapter 5: Exercise 4: A Seven-Week Course in Fondness and Admiration"
+  },
+  {
+    "id": "dq81",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: Principle 3 - Turn Toward Each Other Instead of Away",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "In Chapter 6, Lena snaps at her husband Carl in exasperation: 'It would never occur to you to clear the table, would it?' Why does Gottman identify this as a prime example of a 'missed bid' for connection?",
+    "options": [
+      "Because Carl had already cleared the table twenty minutes earlier.",
+      "Because beneath Lena's prickly criticism lies a genuine bid for connection and assistance ('Please help me clear the table tonight'); reacting defensively to her harsh tone causes Carl to miss the underlying plea.",
+      "Because table-clearing is statistically correlated with extramarital infidelity.",
+      "Because bids for connection can only occur in the bedroom, never in the kitchen."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gottman notes that a major obstacle to turning toward is that bids often arrive poorly packaged, wrapped in anger or criticism. When Lena asks sarcastically if it would ever occur to Carl to clear the table, she is making a bid for teamwork and help. Carl hears only attack and responds with defensiveness ('Well, when do you ever fill the gas tank?'). Learning to recognize the vulnerable bid concealed inside a spouse's clumsy or frustrated words prevents unnecessary conflict.",
+    "citation": "Chapter 6: Two Obstacles to Turning Toward"
+  },
+  {
+    "id": "dq82",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: Principle 3 - Turn Toward Each Other Instead of Away",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "According to the Positive Sentiment Override (PSO) Questionnaire in Chapter 6, how does a spouse in PSO interpret their partner coming home in a foul, irritable mood?",
+    "options": [
+      "They assume they are about to get blamed and criticized for domestic failures.",
+      "They assume their partner had a stressful day or that something external happened, and their natural impulse is to offer comfort rather than feel personally attacked.",
+      "They immediately lock themselves in the bedroom to avoid confrontation.",
+      "They call their partner's employer to complain about workplace stress."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The PSO Questionnaire illustrates the stark perceptual divide created by emotional friendship. In Negative Sentiment Override, when a partner enters in a bad mood, the spouse anticipates personal attack: 'I feel like I am going to get blamed,' 'I fear a storm of negativity.' In Positive Sentiment Override, the spouse gives the partner the benefit of the doubt: 'I assume my partner is simply stressed,' and 'I want to comfort my partner if I can.'",
+    "citation": "Chapter 6: Positive Sentiment Override Questionnaire"
+  },
+  {
+    "id": "dq83",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: Principle 3 - Turn Toward Each Other Instead of Away",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "While 'turning against' a partner\u2019s bid for connection involves open hostility, why does Gottman warn that chronic 'turning away' (ignoring, remaining glued to a screen) is often more fatal to a marriage?",
+    "options": [
+      "Because turning away causes immediate hearing loss in the speaking partner.",
+      "Because a spouse whose bids are chronically ignored eventually gives up on seeking connection entirely; the relationship drifts into cold parallel lives and emotional vacancy where trust quietly starves to death.",
+      "Because turning away is classified as a legal misdemeanor in divorce courts.",
+      "Because spouses who turn away spend twice as much money on online shopping."
+    ],
+    "correctAnswer": 1,
+    "explanation": "When a partner turns against a bid with irritation, there is at least passionate engagement. But chronic 'turning away'\u2014failing to look up from a phone, offering dead silence or absent grunts\u2014communicates complete insignificance. The rebuffed partner eventually internalizes the rejection and stops reaching out. Over time, emotional investment vanishes, the emotional bank account empties, and the couple drifts into roommate status.",
+    "citation": "Chapter 6: Principle 3: Turn Toward Each Other Instead of Away"
+  },
+  {
+    "id": "dq84",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: Principle 4 - Let Your Partner Influence You",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "In the 'Gottman Island Survival Game' (Chapter 7), couples must rank-order ten items out of twenty-six shipwreck supplies (e.g., compass, flares, whiskey, condoms). What is the primary diagnostic purpose of this exercise?",
+    "options": [
+      "To test whether couples possess practical wilderness survival skills.",
+      "To observe how partners negotiate without objective right answers, diagnosing whether they share power, listen receptively, and accept influence versus attempt to dominate, veto, or withdraw in a sulk.",
+      "To determine whether husbands are better at navigation than wives.",
+      "To force couples to agree on an exact financial value for survival gear."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Because there are no objectively correct choices among the twenty-six shipwreck items, the Island Survival Game is a pure laboratory test of marital power dynamics and influence. Couples must synthesize their separate rankings into a single consensus list. Emotionally intelligent couples treat the negotiation as a collaborative game where both voices hold sway, whereas influence-resisting spouses attempt to bulldoze their partner's preferences or withdraw petulantly when challenged.",
+    "citation": "Chapter 7: Exercise 2: The Gottman Island Survival Game"
+  },
+  {
+    "id": "dq85",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: The Two Kinds of Marital Conflict (Solvable vs Perpetual)",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "In Chapter 8, Gottman quotes marital therapist Dan Wile (*After the Honeymoon*) to capture the existential reality of perpetual problems. What is Wile's central insight?",
+    "options": [
+      "'Whoever loves least in a relationship controls the outcome of all arguments.'",
+      "'When choosing a long-term partner, you will inevitably be choosing a particular set of unsolvable problems that you\u2019ll be grappling with for the next ten, twenty, or fifty years.'",
+      "'All marital conflict can be eliminated if couples undergo five years of psychoanalysis.'",
+      "'Marriage is an economic merger where emotions must be suppressed in favor of logic.'"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dan Wile's brilliant formulation highlights that there is no 'problem-free' spouse. If Paul married Alice, who gets loud at parties, he struggles with her party demeanor; but if Paul had married Susan, he would fight before arriving because Paul is chronically late and Susan detests waiting. Marital success does not depend on finding a partner without flaws, but on choosing a person whose enduring quirks and perpetual issues you can manage with humor and affection.",
+    "citation": "Chapter 8: Perpetual Problems"
+  },
+  {
+    "id": "dq86",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: Principle 5 - Solve Your Solvable Problems",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In Step 2 of problem solving, why does Gottman provide a structured, scripted checklist of repair phrases across six categories ('I Feel', 'I Need to Calm Down', 'Sorry', 'Get to Yes', 'Stop Action!', 'I Appreciate') and suggest calling them out by number?",
+    "options": [
+      "Because legal arbitration mandates the use of scripted dialogue during marital mediation.",
+      "Because when spouses are flooded during conflict, the brain loses the capacity for spontaneous, nuanced diplomacy; a formal script acts like an unmistakable megaphone that cuts through tension and signals the intent to brake.",
+      "Because couples who read scripts burn 30% more calories during heated arguments.",
+      "Because repair attempts are only statistically effective if spoken in alphabetical order."
+    ],
+    "correctAnswer": 1,
+    "explanation": "During heated arguments, adrenaline surges and higher cognitive flexibility vanishes, making it exceedingly difficult to invent graceful apologies on the fly. Gottman's scripted checklist provides an overt, formalized mechanism. By literally reading a phrase from the list or announcing 'I'm making repair #6 under I Feel: I'm feeling sad,' partners bypass ambiguity and wave a clear, recognizable white flag that their spouse can easily accept.",
+    "citation": "Chapter 9: Step 2: Learn to Make and Receive Repair Attempts"
+  },
+  {
+    "id": "dq87",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: Principle 5 - Solve Your Solvable Problems",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "In the 2015 edition of Chapter 9, what concrete technological tool does Gottman recommend couples use during conflict discussions to monitor and halt biological flooding?",
+    "options": [
+      "A smartphone voice decibel analyzer that sounds a siren if either spouse shouts.",
+      "An FDA-approved finger pulse oximeter (or biofeedback device like the emWave) set to alert partners if their heart rate climbs above 100 bpm (or 80 bpm for conditioned athletes), triggering an immediate break.",
+      "A thermal imaging camera to track facial temperature variations during arguments.",
+      "A polygraph lie-detector machine strapped to both spouses' wrists."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gottman highlights that spouses often fail to recognize their own internal physiological flooding until damage is already done. An inexpensive, FDA-approved finger pulse oximeter or a biofeedback device like HeartMath's emWave provides an objective physiological benchmark. If a spouse's heart rate surges past 100 bpm (or 80 bpm for athletes), the alarm triggers a mandatory cooling break of at least 20 to 30 minutes.",
+    "citation": "Chapter 9: Step 3: Soothe Yourself and Each Other"
+  },
+  {
+    "id": "dq88",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: Coping with Typical Solvable Problems",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In Chapter 10, what counter-intuitive discovery did Gottman find when using mathematical Game Theory to model sexual frequency between Jim (high desire) and Mary (lower desire)?",
+    "options": [
+      "When Jim sulked or imposed a negative payoff whenever Mary said no, sexual frequency remained constant.",
+      "When Jim punished Mary's refusals with resentment or sulking, they had sex once every three weeks; but when Jim rewarded her 'no' with a positive payoff (warmth, affection, and understanding), their sexual frequency soared to four times a week.",
+      "Mary's sexual desire was completely unaffected by Jim's emotional reactions.",
+      "Sexual frequency was maximized only when Jim initiated sex on a rigid, unvarying calendar schedule."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gottman's game-theory simulation revealed a profound dynamic: when the high-desire spouse penalizes sexual refusal with a 'negative payoff' (guilt trips, coldness, sulking), the low-desire partner experiences sex as an intimidating obligation, causing desire to wither. But when the husband rewards a 'no' with emotional safety and genuine affection, the wife feels respected and unpressured, dramatically increasing her spontaneous desire and openness to intimacy.",
+    "citation": "Chapter 10: Sex"
+  },
+  {
+    "id": "dq89",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: Coping with Typical Solvable Problems",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In the 2015 edition's section 'The Problem with Porn' (Chapter 10), how does Gottman distinguish habitual solitary pornography use from masturbation without porn?",
+    "options": [
+      "Habitual porn use increases marital romance by introducing new ideas, while masturbation without porn does not.",
+      "Masturbation without porn is actually correlated with more frequent sex between spouses, whereas habitual solitary porn use leads to less frequent marital sex, diminished communication, conditioning to masturbatory fantasies the spouse may not share, and elevated betrayal risk.",
+      "Pornography use is biologically identical to dreaming and has zero effect on marital bonding.",
+      "Gottman claims that masturbation in any form leads to immediate divorce within two years."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gottman clarifies that masturbation itself is not harmful; research shows couples who masturbate without porn actually engage in marital sex more frequently. In contrast, habitual solitary porn use conditions the brain's dopamine and oxytocin release to impersonal, transfixed masturbatory fantasies. This erodes intimate communication, reduces sexual frequency with the spouse, leaves the partner feeling inadequate or objectified, and frequently serves as a gateway to emotional or physical betrayal.",
+    "citation": "Chapter 10: The Problem with Porn"
+  },
+  {
+    "id": "dq90",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: Coping with Typical Solvable Problems",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "In Chapter 10, Mike wanted sex several times a week while Lynne wanted it once every other week. As Mike pressured her, Lynne's desire plummeted. What breakthrough protocol resolved their standoff?",
+    "options": [
+      "Lynne agreed to submit to Mike's schedule on alternating Tuesdays.",
+      "They shifted focus from intercourse to sensuality, and Lynne (the partner with the lower desire) was placed completely in charge of directing their sensual evenings (such as massage) with no expectation of intercourse.",
+      "Mike was advised to take herbal supplements to lower his testosterone levels.",
+      "They agreed to hire an intimacy coach to supervise their bedroom activities."
+    ],
+    "correctAnswer": 1,
+    "explanation": "When couples experience a severe desire disparity, pressuring the low-desire spouse only heightens anxiety and emotional resistance. Gottman advised Mike and Lynne to decouple physical closeness from the goal of intercourse. By putting Lynne\u2014the lower-desire partner\u2014completely in charge of their sensual experiences (directing nonsexual massages without pressure for orgasm), her feeling of control was restored, and her natural sexual appetite steadily returned.",
+    "citation": "Chapter 10: Sex"
+  },
+  {
+    "id": "dq91",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: Coping with Typical Solvable Problems",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Citing researcher Shere Hite's groundbreaking work (*The Hite Report*), what common cultural trap in lovemaking does Gottman advise couples to abandon?",
+    "options": [
+      "The belief that sex should only take place with the lights completely off.",
+      "The goal-oriented approach that treats orgasm as a 'touchdown' ('the Big O'), which fuels sexual performance anxiety; couples should instead view all positive daily attunement as sex and foreplay.",
+      "The tradition of buying flowers before initiating romantic conversations.",
+      "The practice of cuddling for more than ten minutes before falling asleep."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In *The Hite Report*, women voiced deep frustration that men treated lovemaking like a football game where achieving orgasm was the only 'touchdown' that counted. This narrow focus creates performance anxiety and robs couples of present-moment intimacy. Gottman urges couples to expand their definition of sex to include all tender caressing, kissing, and talking, adopting the motto: 'Every positive thing you do in your relationship is foreplay.'",
+    "citation": "Chapter 10: Redefine What You Mean by \u201cSex\u201d"
+  },
+  {
+    "id": "dq92",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: Coping with Typical Solvable Problems",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Citing British sociologist Ann Oakley's research on domestic labor, what does Gottman reveal about housework, gender perceptions, and female sexual desire?",
+    "options": [
+      "Men and women have identical mental records of the chores they perform each week.",
+      "Men consistently overestimate the amount of housework they do; furthermore, what boosts a wife's sexual desire is not a mathematical 50/50 division of labor, but her subjective perception that her husband takes on chores proactively without having to be asked.",
+      "Doing domestic chores lowers female libido by creating physical fatigue.",
+      "Couples who hire maid services have a 95% lower divorce rate than couples who clean together."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sociologist Ann Oakley established that husbands routinely overestimate their domestic contributions (Gottman jokes that when he thinks he does 100% of the housework, his wife Julie knows he's actually doing half). More importantly, Gottman discovered that female desire is deeply responsive to partnership: women find a man's proactive willingness to handle chores without nagging profoundly erotic, because it demonstrates emotional respect and care.",
+    "citation": "Chapter 10: Housework"
+  },
+  {
+    "id": "dq93",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: Coping with Typical Solvable Problems",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In Chapter 10's financial guidelines, why does Gottman warn couples against constructing a household budget that forces 'martyrdom' on either spouse (as resolved in the Linda and Devon case)?",
+    "options": [
+      "Because financial martyrdom violates federal tax codes regarding joint filings.",
+      "Because forcing either partner to completely surrender their core personal pleasures (e.g., gym memberships, ski trips) breeds toxic resentment; financial plans must balance security with autonomy through structures like separate personal accounts alongside a joint account.",
+      "Because martyrdom causes couples to spend too much money on life insurance.",
+      "Because budgets with martyrdom are statistically correlated with early retirement."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Budgeting often fails when couples impose austerity measures that eliminate the small pleasures essential to a partner's well-being. Devon viewed Linda's gym and clothes as frivolous, while Linda viewed Devon's ski trips as self-indulgent. Gottman stresses that a sustainable budget cannot demand martyrdom. Linda and Devon resolved their gridlock by establishing three bank accounts\u2014one joint account for household necessities and two individual accounts for personal discretionary spending without spousal veto.",
+    "citation": "Chapter 10: Money, Money, Money"
+  },
+  {
+    "id": "dq94",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: Coping with Typical Solvable Problems",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "In the Chapter 10 exercise on In-Law Problems, how does Gottman instruct a partner to respond if their spouse feels slighted or unsupported regarding a relative, even if the partner personally believes their own parents did nothing wrong?",
+    "options": [
+      "Arrange a debate where the parents and spouse cross-examine each other before a therapist.",
+      "Recognize that marital safety is governed by perception: if your spouse feels that you side with your parents over them, you must validate that concern and work to demonstrate unwavering solidarity, regardless of whether you agree with their interpretation.",
+      "Privately tell your parents to ignore your spouse until they calm down.",
+      "Refuse to discuss the matter because blood relations are biologically permanent."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gottman cautions partners against getting defensive when in-law tensions arise: 'Remember that much about relationships has to do with perception. So, for example, if your wife believes that you side with your own mother against her, that's something you need to work on in your marriage, even if you don't agree with her perception of the situation.' A spouse must prioritize their partner's emotional security over defending their family of origin.",
+    "citation": "Chapter 10: Relations with In-Laws"
+  },
+  {
+    "id": "dq95",
+    "chapterId": "ch11",
+    "chapterName": "Ch 11: Principle 6 - Overcome Gridlock",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "When spouses hold opposing or impractical life aspirations (such as Georgia wanting to pursue dangerous mountain climbing while Nathan is terrified of heights), what are the Three Levels of Honoring a Partner's Dream?",
+    "options": [
+      "(1) Silent tolerance, (2) financial subsidization, and (3) legal waivers.",
+      "Level 1: Expressing genuine understanding and asking curious questions without ridicule; Level 2: Actively enabling or helping finance the dream; Level 3: Becoming an enthusiastic co-participant in the dream.",
+      "(1) Writing the dream in a journal, (2) hiring a life coach, and (3) taking an early retirement.",
+      "(1) Evaluating the dream's return on investment, (2) approving viable elements, and (3) supervising execution."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gottman clarifies that honoring a partner's dream does not require abandoning your own values or putting your life in jeopardy. Spouses can support dreams at three levels: Level 1 is listening with warmth, validating what the dream symbolizes, and showing interest; Level 2 is offering logistical or financial support so they can pursue it independently; Level 3 is fully joining them in the adventure. Even achieving Level 1 alone is often enough to dissolve gridlock.",
+    "citation": "Chapter 11: Principle 6: Overcome Gridlock"
+  },
+  {
+    "id": "dq96",
+    "chapterId": "ch11",
+    "chapterName": "Ch 11: Principle 6 - Overcome Gridlock",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "In Chapter 11's four-step roadmap to overcome gridlock, why does Gottman mandate Step 4: Say 'Thank You' immediately following a difficult compromise session?",
+    "options": [
+      "To fulfill formal etiquette requirements from classic Victorian counseling manuals.",
+      "Because uncovering deeply buried dreams is emotionally exhausting and vulnerable; ending with explicit appreciation for each other's honesty and patience re-establishes safety, mutual respect, and camaraderie.",
+      "Because whoever says thank you first is exempt from domestic chores that evening.",
+      "To prevent spouses from discussing their dreams ever again."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Discussing gridlocked conflicts and hidden dreams exposes raw vulnerabilities, childhood longings, and deep fears. It can leave partners feeling exposed and emotionally taxed. Step 4 ensures that couples do not walk away feeling bruised; taking three minutes to thank each other for listening without judgment reaffirms the emotional safety of the Sound Relationship House.",
+    "citation": "Chapter 11: Step 4: Say \u201cThank You\u201d"
+  },
+  {
+    "id": "dq97",
+    "chapterId": "ch12",
+    "chapterName": "Ch 12: Principle 7 - Create Shared Meaning",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Drawing from sociologist William Doherty (*The Intentional Family*), what defines a meaningful 'Ritual of Connection' (Pillar 1) and protects it from degrading into an empty routine?",
+    "options": [
+      "It must be registered with a local religious organization.",
+      "It is a deliberate, structured, repeatable event that both partners look forward to, understand the symbolic purpose of, and actively protect from the centrifugal distractions of everyday life.",
+      "It must cost at least fifty dollars per week to maintain.",
+      "It is an involuntary, subconscious habit performed without conscious thought."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sociologist William Doherty demonstrated that without intentionality, family life naturally succumbs to centrifugal entropy\u2014drifting into mindless, hurried parallel existences. An intentional Ritual of Connection differs from a routine because it is invested with shared emotional and symbolic meaning (e.g., a sacred morning coffee conversation, Nick and Halley's egg-free birthday cake tradition, or Gottman's annual weeklong honeymoon) that both spouses consciously preserve.",
+    "citation": "Chapter 12: Pillar One: Rituals of Connection"
   }
 ];
 
@@ -1123,7 +2177,7 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     "chapterName": "Ch 1: The New Rules & System 1 Psychology",
     "difficulty": "hard",
     "type": "concept",
-    "question": "According to Daniel Kahneman’s dual-system framework described in Thinking, Fast and Slow, how do System 1 and System 2 interact during a negotiation?",
+    "question": "According to Daniel Kahneman\u2019s dual-system framework described in Thinking, Fast and Slow, how do System 1 and System 2 interact during a negotiation?",
     "options": [
       "System 1 and System 2 operate completely independently and never influence one another.",
       "System 1 is fast, emotional, and instinctive; its inchoate impressions and feelings are the spring that feeds the deliberate choices and rationalizations of System 2.",
@@ -1131,7 +2185,7 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
       "System 1 only activates during extreme physical trauma, whereas System 2 governs 99% of verbal negotiations."
     ],
     "correctAnswer": 1,
-    "explanation": "System 1 is our animal mind—fast, emotional, automatic, and subconscious. System 2 is slow, deliberate, and effortful. Kahneman demonstrated that System 1's feelings and impressions are the wellspring that feeds the explicit choices of System 2. If you know how to influence your counterpart's System 1 emotional underpinnings through tone and framing, you guide how their System 2 rationalizes the outcome.",
+    "explanation": "System 1 is our animal mind\u2014fast, emotional, automatic, and subconscious. System 2 is slow, deliberate, and effortful. Kahneman demonstrated that System 1's feelings and impressions are the wellspring that feeds the explicit choices of System 2. If you know how to influence your counterpart's System 1 emotional underpinnings through tone and framing, you guide how their System 2 rationalizes the outcome.",
     "citation": "Chapter 1: The New Rules - Heart vs. Mind"
   },
   {
@@ -1140,7 +2194,7 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     "chapterName": "Ch 2: Be a Mirror (Voices & Isopraxism)",
     "difficulty": "medium",
     "type": "concept",
-    "question": "What is 'mirroring' (isopraxism) in Chris Voss’s negotiation framework, and how does it function psychologically?",
+    "question": "What is 'mirroring' (isopraxism) in Chris Voss\u2019s negotiation framework, and how does it function psychologically?",
     "options": [
       "Repeating the last three words (or selected 1 to 3 critical words) of what the counterpart said with an inquisitive, upward-inflected tone.",
       "Summarizing their entire speech into a 30-second bulleted monologue.",
@@ -1161,7 +2215,7 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     "options": [
       "A sharp, commanding voice ordering Watts to put down his weapons immediately.",
       "A completely monotone computerized voice designed to conceal all human vulnerability.",
-      "The 'Late-Night FM DJ voice'—a calm, slow, deep, downward-inflecting tone that communicates steady authority.",
+      "The 'Late-Night FM DJ voice'\u2014a calm, slow, deep, downward-inflecting tone that communicates steady authority.",
       "A rapid, high-energy tone to show responsiveness and excitement."
     ],
     "correctAnswer": 2,
@@ -1191,7 +2245,7 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     "chapterName": "Ch 2: Be a Mirror (Voices & Isopraxism)",
     "difficulty": "hard",
     "type": "scenario",
-    "question": "Your boss storms into your office and snaps: 'We cannot approve this budget because the client’s software integration is totally unworkable!' What is the correct 4-step sequence to mirror her statement according to Voss?",
+    "question": "Your boss storms into your office and snaps: 'We cannot approve this budget because the client\u2019s software integration is totally unworkable!' What is the correct 4-step sequence to mirror her statement according to Voss?",
     "options": [
       "Use the FM DJ voice, say 'I'm sorry, totally unworkable?', and then remain completely silent for at least 4 seconds.",
       "Say 'I hear you,' and counter-offer by asking for 10% less budget.",
@@ -1200,7 +2254,7 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     ],
     "correctAnswer": 0,
     "explanation": "The 4-step mirroring routine is: 1) Adopt the Late-Night FM DJ or playful voice; 2) Start with an apology ('I'm sorry...'); 3) Mirror the critical 1-3 words with an inquisitive inflection ('...totally unworkable?'); 4) Maintain Dynamic Silence (at least 4 seconds) to let the counterpart expand and explain their underlying reasoning.",
-    "citation": "Chapter 2: Be a Mirror - How to Confront—and Get Your Way—Without Confrontation"
+    "citation": "Chapter 2: Be a Mirror - How to Confront\u2014and Get Your Way\u2014Without Confrontation"
   },
   {
     "id": "nsv-q09",
@@ -1210,7 +2264,7 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     "type": "concept",
     "question": "How does 'Tactical Empathy' differ fundamentally from ordinary empathy, sympathy, or compassion?",
     "options": [
-      "Tactical empathy requires agreeing with the other person’s morals and adopting their value system.",
+      "Tactical empathy requires agreeing with the other person\u2019s morals and adopting their value system.",
       "Tactical empathy is used exclusively to fake emotional warmth while secretly manipulating legal contracts.",
       "Tactical empathy is emotional intelligence weaponized: recognizing, verbalizing, and understanding the counterpart's perspective and feelings to gather intelligence and influence outcomes, without agreeing with them.",
       "Tactical empathy involves sympathizing with the victim while expressing open disdain for the kidnapper."
@@ -1273,7 +2327,7 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
   {
     "id": "nsv-q13",
     "chapterId": "ch4",
-    "chapterName": "Ch 4: Beware 'Yes' — Master 'No'",
+    "chapterName": "Ch 4: Beware 'Yes' \u2014 Master 'No'",
     "difficulty": "medium",
     "type": "concept",
     "question": "What are the three distinct types of 'Yes' identified by Chris Voss, and why is pursuing 'Yes' so dangerous for amateur negotiators?",
@@ -1285,12 +2339,12 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     ],
     "correctAnswer": 1,
     "explanation": "The three types of 'Yes' are: 1) Counterfeit (a fake yes to appease or escape), 2) Confirmation (a neutral factual affirmation), and 3) Commitment (a true, binding agreement). Traditional sales tactics that push for 'Yes' momentum trigger deep suspicion; people give a counterfeit 'yes' just to get away without intending to execute.",
-    "citation": "Chapter 4: Beware “Yes”—Master “No” - “Yes” Is Great, but “No” Is Better"
+    "citation": "Chapter 4: Beware \u201cYes\u201d\u2014Master \u201cNo\u201d - \u201cYes\u201d Is Great, but \u201cNo\u201d Is Better"
   },
   {
     "id": "nsv-q14",
     "chapterId": "ch4",
-    "chapterName": "Ch 4: Beware 'Yes' — Master 'No'",
+    "chapterName": "Ch 4: Beware 'Yes' \u2014 Master 'No'",
     "difficulty": "hard",
     "type": "concept",
     "question": "Why does Chris Voss state that negotiation only truly begins once the counterpart has said 'No'?",
@@ -1302,12 +2356,12 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     ],
     "correctAnswer": 2,
     "explanation": "Saying 'No' preserves the speaker's autonomy and dignity. It establishes a boundary of safety. When people feel safe saying 'No,' they no longer fear being trapped, enabling them to relax, share real information, and explore genuine terms.",
-    "citation": "Chapter 4: Beware “Yes”—Master “No” - “No” Starts the Negotiation"
+    "citation": "Chapter 4: Beware \u201cYes\u201d\u2014Master \u201cNo\u201d - \u201cNo\u201d Starts the Negotiation"
   },
   {
     "id": "nsv-q15",
     "chapterId": "ch4",
-    "chapterName": "Ch 4: Beware 'Yes' — Master 'No'",
+    "chapterName": "Ch 4: Beware 'Yes' \u2014 Master 'No'",
     "difficulty": "easy",
     "type": "scenario",
     "question": "When cold-calling a prospective client or calling a busy executive, why is 'Is now a bad time to talk?' vastly superior to 'Do you have a few minutes to talk?'",
@@ -1319,12 +2373,12 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     ],
     "correctAnswer": 1,
     "explanation": "'Do you have a few minutes?' feels like a trap where answering 'Yes' surrenders control. Asking 'Is now a bad time to talk?' invites the counterpart to say 'No (it's not a bad time),' which asserts their control and grants you their undivided attention.",
-    "citation": "Chapter 4: Beware “Yes”—Master “No” - The Persuasive Power of “No”"
+    "citation": "Chapter 4: Beware \u201cYes\u201d\u2014Master \u201cNo\u201d - The Persuasive Power of \u201cNo\u201d"
   },
   {
     "id": "nsv-q16",
     "chapterId": "ch4",
-    "chapterName": "Ch 4: Beware 'Yes' — Master 'No'",
+    "chapterName": "Ch 4: Beware 'Yes' \u2014 Master 'No'",
     "difficulty": "medium",
     "type": "scenario",
     "question": "A promising business partner has abruptly stopped answering your phone calls and emails for two weeks. According to Voss, what one-sentence email should you send to revive the deal?",
@@ -1336,7 +2390,7 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     ],
     "correctAnswer": 3,
     "explanation": "'Have you given up on this project?' triggers loss aversion and the desire for autonomy. Nobody likes to admit that they quit or gave up. Because it is a 'No'-oriented question, the recipient can comfortably reply: 'No, we haven't given up, sorry for the delay, we were just dealing with an internal audit...'",
-    "citation": "Chapter 4: Beware “Yes”—Master “No” - The 1-Line Email"
+    "citation": "Chapter 4: Beware \u201cYes\u201d\u2014Master \u201cNo\u201d - The 1-Line Email"
   },
   {
     "id": "nsv-q17",
@@ -1353,7 +2407,7 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     ],
     "correctAnswer": 0,
     "explanation": "When someone tells you 'You're right,' they are waving you away so you stop bothering them. But when you summarize their world and feelings so accurately that they say 'That's right,' their ego steps aside and they feel unconditionally affirmed, opening the gateway to persuasion and behavioral change.",
-    "citation": "Chapter 5: Trigger the Two Words That Immediately Transform Any Negotiation - 'That’s Right'"
+    "citation": "Chapter 5: Trigger the Two Words That Immediately Transform Any Negotiation - 'That\u2019s Right'"
   },
   {
     "id": "nsv-q18",
@@ -1382,7 +2436,7 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     "options": [
       "He used aggressive sarcasm to prove to Sabaya that his demands were illegal under Islamic law.",
       "He deployed an electronic jamming device to cut off Sabaya's radio broadcasts.",
-      "He repeatedly summarized Sabaya’s religious grievances and historical narrative of Muslim oppression until Sabaya exclaimed 'That's right!', transforming the dialogue from threats to workable logistics.",
+      "He repeatedly summarized Sabaya\u2019s religious grievances and historical narrative of Muslim oppression until Sabaya exclaimed 'That's right!', transforming the dialogue from threats to workable logistics.",
       "He offered a ransom of $10 million disguised as humanitarian food aid."
     ],
     "correctAnswer": 2,
@@ -1395,7 +2449,7 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     "chapterName": "Ch 6: Bend Their Reality (Anchors, Loss Aversion, 'Fair')",
     "difficulty": "medium",
     "type": "concept",
-    "question": "How does Daniel Kahneman and Amos Tversky’s 'Prospect Theory' and the concept of 'Loss Aversion' dictate how deals should be framed?",
+    "question": "How does Daniel Kahneman and Amos Tversky\u2019s 'Prospect Theory' and the concept of 'Loss Aversion' dictate how deals should be framed?",
     "options": [
       "People are strictly motivated by maximizing mathematical expected utility.",
       "People experience roughly twice as much psychological pain from a loss as they do pleasure from an equivalent gain; therefore, framing an offer around what they stand to lose by not agreeing is far more persuasive than showing what they will gain.",
@@ -1404,7 +2458,7 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     ],
     "correctAnswer": 1,
     "explanation": "Prospect Theory established that humans are loss-averse: the pain of losing $10,000 is twice as intense as the joy of gaining $10,000. In negotiation, framing inaction as a tangible loss ('If we don't complete this integration by Q3, your division risks losing $200,000 in redundant licensing fees') bends reality far more effectively than touting future gains.",
-    "citation": "Chapter 6: Bend Their Reality - Don’t Compromise / Loss Aversion"
+    "citation": "Chapter 6: Bend Their Reality - Don\u2019t Compromise / Loss Aversion"
   },
   {
     "id": "nsv-q21",
@@ -1421,7 +2475,7 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     ],
     "correctAnswer": 0,
     "explanation": "Voss argues that splitting the difference is lazy, fear-driven bargaining. If a husband wants to wear black shoes and his wife wants him to wear brown shoes, wearing one black shoe and one brown shoe is a compromise that looks ridiculous and helps nobody. Great negotiators push past compromise to uncover creative, reality-bending solutions.",
-    "citation": "Chapter 6: Bend Their Reality - Don’t Compromise"
+    "citation": "Chapter 6: Bend Their Reality - Don\u2019t Compromise"
   },
   {
     "id": "nsv-q22",
@@ -1438,7 +2492,7 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     ],
     "correctAnswer": 3,
     "explanation": "'Fair' is the most abused emotional manipulation in negotiations, designed to knock you off balance. By apologizing in DJ voice and asking them to point out exactly where unfairness occurred, you neutralize the emotional accusation and force them to substantiate their claims with objective facts.",
-    "citation": "Chapter 6: Bend Their Reality - The F-Word: Why It’s So Powerful, How to Use It, and How to Defend Against It"
+    "citation": "Chapter 6: Bend Their Reality - The F-Word: Why It\u2019s So Powerful, How to Use It, and How to Defend Against It"
   },
   {
     "id": "nsv-q23",
@@ -1448,7 +2502,7 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     "type": "scenario",
     "question": "When negotiating a new salary package, how can you effectively apply 'Range Anchoring' and non-monetary perks to bend reality without appearing greedy?",
     "options": [
-      "Quote an external market salary range where your secret target number is at the bottom of the range (e.g., $140,000–$170,000 when you want $140,000), and bundle non-cash terms like executive coaching or flexible remote days.",
+      "Quote an external market salary range where your secret target number is at the bottom of the range (e.g., $140,000\u2013$170,000 when you want $140,000), and bundle non-cash terms like executive coaching or flexible remote days.",
       "Tell the hiring manager that you will work for minimum wage if they promise a big bonus.",
       "Refuse to discuss money until after your 90-day probation period.",
       "Demand a single massive round number ($200,000) and refuse to budge."
@@ -1489,7 +2543,7 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     ],
     "correctAnswer": 2,
     "explanation": "'Why' almost always feels like an attack ('Why did you do that?'), forcing the person to rationalize their actions defensively. The only time to use 'Why' is when you want them to articulate reasons to favor you, such as asking a prospective client: 'Why would your company ever change from your current vendor to us?'",
-    "citation": "Chapter 7: Create the Illusion of Control - Avoid “Why”"
+    "citation": "Chapter 7: Create the Illusion of Control - Avoid \u201cWhy\u201d"
   },
   {
     "id": "nsv-q26",
@@ -1497,7 +2551,7 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     "chapterName": "Ch 7: Create the Illusion of Control (Calibrated Questions)",
     "difficulty": "medium",
     "type": "scenario",
-    "question": "Your vendor insists on a 40% immediate price increase effective tomorrow, claiming supply chain inflation. Which calibrated response uses Voss’s signature gentle 'No' to reverse the burden onto the vendor?",
+    "question": "Your vendor insists on a 40% immediate price increase effective tomorrow, claiming supply chain inflation. Which calibrated response uses Voss\u2019s signature gentle 'No' to reverse the burden onto the vendor?",
     "options": [
       "'We will agree to 20%, but absolutely not 40%.'",
       "'Why are you trying to ruin our business relationship?'",
@@ -1531,7 +2585,7 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     "chapterName": "Ch 8: Guarantee Execution (7-38-55, Rule of 3, Liars)",
     "difficulty": "medium",
     "type": "concept",
-    "question": "What does Albert Mehrabian’s 7-38-55 Rule state regarding interpersonal communication in high-stakes or emotional negotiations?",
+    "question": "What does Albert Mehrabian\u2019s 7-38-55 Rule state regarding interpersonal communication in high-stakes or emotional negotiations?",
     "options": [
       "Only 7% of emotional meaning is conveyed by the spoken words, 38% by tone of voice, and 55% by body language and facial expressions.",
       "7% of negotiators are Accommodators, 38% are Assertives, and 55% are Analysts.",
@@ -1548,7 +2602,7 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     "chapterName": "Ch 8: Guarantee Execution (7-38-55, Rule of 3, Liars)",
     "difficulty": "medium",
     "type": "concept",
-    "question": "How does Chris Voss’s 'Rule of Three' protect a negotiator against counterfeit commitments and implementation failure?",
+    "question": "How does Chris Voss\u2019s 'Rule of Three' protect a negotiator against counterfeit commitments and implementation failure?",
     "options": [
       "You give the counterpart three business days to reconsider before signing.",
       "You get the counterpart to reaffirm their agreement or consensus three times during the conversation using three different techniques (e.g., calibrated questions, labels, and summaries).",
@@ -1582,7 +2636,7 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     "chapterName": "Ch 8: Guarantee Execution (7-38-55, Rule of 3, Liars)",
     "difficulty": "medium",
     "type": "scenario",
-    "question": "You are negotiating an enterprise SaaS contract with a VP who seems eager to sign. How do you apply Voss’s methods to identify hidden 'behind-the-table' deal killers before they torpedo implementation?",
+    "question": "You are negotiating an enterprise SaaS contract with a VP who seems eager to sign. How do you apply Voss\u2019s methods to identify hidden 'behind-the-table' deal killers before they torpedo implementation?",
     "options": [
       "Hire a corporate investigator to perform background checks on the company board.",
       "Insist that the CEO attend the next meeting or cancel the deal.",
@@ -1667,7 +2721,7 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     "chapterName": "Ch 9: Bargain Hard (Ackerman Model & Types)",
     "difficulty": "easy",
     "type": "concept",
-    "question": "What is Chris Voss’s rule regarding anger during negotiations?",
+    "question": "What is Chris Voss\u2019s rule regarding anger during negotiations?",
     "options": [
       "Uncontrolled emotional anger creates defensiveness and retaliatory spite; strategic boundaries should be delivered calmly with zero hostility (e.g., 'I am sorry, that just doesn't work for me').",
       "You should always pretend to break a chair to demonstrate toughness.",
@@ -1686,7 +2740,7 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     "type": "concept",
     "question": "Drawing on Nassim Nicholas Taleb's terminology, what is a 'Black Swan' in a negotiation?",
     "options": [
-      "A hidden, unforeseen piece of information—an 'unknown unknown'—that, once discovered, completely transforms the leverage and dynamics of the deal.",
+      "A hidden, unforeseen piece of information\u2014an 'unknown unknown'\u2014that, once discovered, completely transforms the leverage and dynamics of the deal.",
       "A catastrophic fraud that voids a signed contract.",
       "A negotiator who uses passive-aggressive silence to stall talks.",
       "An unexpected legal loophole discovered in an appendix."
@@ -1727,7 +2781,7 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     ],
     "correctAnswer": 0,
     "explanation": "Griffin's hidden worldview wasn't about money or escape; he intended to die and wanted the police to kill him at 3:00 PM. Because the FBI negotiators operated on standard rational assumptions ('hostage-takers never kill on deadline'), they failed to uncover his true motivation. Negotiators must discover the counterpart's unique 'religion' (their core psychological drivers).",
-    "citation": "Chapter 10: Find the Black Swan - Know Their “Religion”"
+    "citation": "Chapter 10: Find the Black Swan - Know Their \u201cReligion\u201d"
   },
   {
     "id": "nsv-q40",
@@ -1813,55 +2867,434 @@ const DEFAULT_NEVER_SPLIT_QUESTIONS = [
     "correctAnswer": 3,
     "explanation": "In Section V, you search for non-cash items possessed by the counterpart that are low-cost for them to give, but enormously valuable to you (like Voss negotiating a magazine cover story about him instead of extra speaking fees). Asking 'What could they give that would almost get us to do it for free?' expands the negotiation beyond dollars and cents.",
     "citation": "Appendix: Prepare a Negotiation One Sheet - Section V: Noncash Offers"
+  },
+  {
+    "id": "vq45",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: Bargain Hard (Ackerman Model & Types)",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In Chris Voss's taxonomy of negotiator personality types, what is the core psychological vulnerability of the 'Accommodator,' and what tactical mistake do other negotiators frequently make when bargaining with them?",
+    "options": [
+      "Accommodators are driven by statistical precision; the mistake is assuming their silence indicates satisfaction rather than deep analytical skepticism.",
+      "Accommodators are driven by relationship harmony and fear conflict; the mistake is mistaking their warm sociability for genuine agreement and failing to uncover their unvoiced implementation objections.",
+      "Accommodators are motivated by rapid closure; the mistake is presenting too many non-monetary concessions, which overwhelms their linear decision-making process.",
+      "Accommodators seek personal dominance; the mistake is using calibrated 'How' questions, which they perceive as direct challenges to their executive authority."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Accommodators love building relationships and will converse endlessly to maintain social harmony. Their core fear is conflict and rejection. Consequently, their fatal flaw is agreeing to terms just to keep the peace ('counterfeit yes') and overpromising deliverables they cannot execute. Negotiators mistakenly believe the deal is done because the Accommodator is smiling and agreeable. To negotiate with them effectively, you must gently unearth their hidden reservations using calibrated implementation questions and make it safe for them to voice objections without endangering the friendship.",
+    "citation": "Chapter 9: Bargain Hard - What Kind of Negotiator Are You? (Accommodator)"
+  },
+  {
+    "id": "vq46",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: Bargain Hard (Ackerman Model & Types)",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "You are negotiating an equipment contract with an 'Assertive' VP who repeatedly interrupts you, checks his watch, and bluntly demands: 'Cut the fluff and give me your bottom-line price right now.' According to Voss, what is the cardinal psychological rule for dealing with an Assertive in this state?",
+    "options": [
+      "An Assertive will not listen to a single word you say until they are completely convinced you have listened to and understood their perspective first; let them talk, mirror and label their position, and do not interrupt.",
+      "Match their aggression immediately with a sharp downward inflection and a firm take-it-or-leave-it counter-anchor to command their respect.",
+      "Maintain absolute silence for at least ten seconds, which triggers an Assertive's fear of social isolation and compels them to make an unprompted concession.",
+      "Present a comprehensive 20-page spreadsheet detailing your cost structure to mathematically disprove their aggressive claims."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Assertives believe time is money and view negotiation as a competitive contest. Their primary blind spot is that they love to talk and demand results, often without gathering all the facts. Crucially, an Assertive counterpart cannot and will not absorb your arguments until they feel completely heard. If you try to force your points or push back while they are amped up, they escalate into combat mode. You must allow them to empty their emotional tank, mirror their key points, and summarize their stance until they acknowledge that you understand them; only then will they become receptive to calibrated questions.",
+    "citation": "Chapter 9: Bargain Hard - What Kind of Negotiator Are You? (Assertive)"
+  },
+  {
+    "id": "vq47",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: Bargain Hard (Ackerman Model & Types)",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How does 'Dynamic Silence' function across the three negotiator archetypes, and why is an amateur negotiator most likely to self-sabotage when using silence against an 'Analyst'?",
+    "options": [
+      "Silence triggers panic in Analysts; negotiators fail because they do not step in quickly enough to provide reassurance before the Analyst terminates the meeting.",
+      "Analysts view silence as a sign of intellectual inferiority; negotiators should never use silence with Analysts, reserving it exclusively for Assertives.",
+      "Analysts perceive silence simply as time to think and evaluate data; anxious negotiators misinterpret this cognitive processing as rejection or anger, prematurely breaking the silence with unforced concessions or idle chatter that irritates the Analyst.",
+      "Silence causes Analysts to make impulsive counter-offers; negotiators fail by refusing to accept the Analyst's initial emotional outburst."
+    ],
+    "correctAnswer": 2,
+    "explanation": "To an Analyst, silence is not an emotional weapon or a void to be feared\u2014it is simply time to calculate, process data, and think methodically. To an Accommodator, prolonged silence feels like anger or relationship damage; to an Assertive, it feels like wasted time. When an Analyst falls silent, insecure negotiators panic, assuming the silence signals disapproval. They rush to fill the vacuum with small talk, justifications, or spontaneous price drops, which disrupts the Analyst's thoughts and makes the Analyst view them as sloppy, pushy, and untrustworthy.",
+    "citation": "Chapter 9: Bargain Hard - What Kind of Negotiator Are You? (Analyst)"
+  },
+  {
+    "id": "vq48",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: Bargain Hard (Ackerman Model & Types)",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Why does Chris Voss argue that the traditional Golden Rule\u2014'Treat others the way you want to be treated'\u2014is dangerous in negotiations, especially when an Accommodator negotiates with an Analyst?",
+    "options": [
+      "Because treating people with empathy violates federal crisis negotiation protocols regarding ethical neutrality.",
+      "Because following the Golden Rule projects your own emotional priorities onto your counterpart; an Accommodator's rapport-building chatter feels like manipulative time-wasting to an Analyst, while the Analyst's clinical silence feels like cold hostility to the Accommodator.",
+      "Because the Golden Rule is mathematically incompatible with the 65-85-95-100 Ackerman bargaining progression.",
+      "Because the Golden Rule only applies when negotiating with Assertives who respect mutual ethical reciprocity."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The traditional Golden Rule assumes everyone shares your psychological operating system. Voss replaces it with the Black Swan principle: 'Don't treat people how you want to be treated; treat them how they need to be treated.' If an Accommodator tries to build rapport with an Analyst using jokes, personal stories, and warm small talk, the Analyst feels rushed and suspicious. Conversely, when the Analyst goes quiet and demands spreadsheets, the Accommodator feels personally rejected. Effective negotiators adapt their style to the counterpart's needs rather than their own.",
+    "citation": "Chapter 9: Bargain Hard - What Kind of Negotiator Are You?"
+  },
+  {
+    "id": "vq49",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: Bend Their Reality (Anchors, Loss Aversion, 'Fair')",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "In the high-frequency kidnapping cases in Haiti handled by Chris Voss, kidnappers issued ferocious ultimatums demanding hundreds of thousands of dollars by Friday afternoon or the hostage would be killed. What critical discovery about the kidnappers' 'deadline' gave the FBI decisive leverage?",
+    "options": [
+      "The kidnappers had bank loan installments due every Friday at 5:00 PM, making them vulnerable to asset forfeiture by the Haitian central bank.",
+      "The kidnappers' satellite phones ran out of pre-paid minutes precisely at midnight on Fridays, forcing them to accept any cash offer on the table.",
+      "Haitian law enforcement conducted island-wide curfew sweeps on Saturday mornings, meaning kidnappers were forced to release all hostages before dawn.",
+      "The kidnappers were not ideological extremists but young gang members whose Friday deadline was driven by their desire to get party cash for the weekend; waiting them out turned their own social schedule into a ticking clock that collapsed their ransom demands."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Voss discovered that Haitian kidnappings followed an internal lifestyle rhythm: the gangs abducted victims early in the week, issued terrifying life-or-death ultimatums, and demanded ransom by Friday so they could buy rum, food, and party in Port-au-Prince over the weekend. Understanding that the deadline was driven by a desire to party\u2014not an ideological imperative to kill the hostage\u2014allowed Voss to coach families to calmly drag talks out into Thursday and Friday morning. As the weekend approached, the kidnappers felt the squeeze of their own party schedule and slashed demands from $150,000 down to a few thousand dollars just to get party cash in hand.",
+    "citation": "Chapter 6: Bend Their Reality - Discovering the Haitian Kidnapping Deadline"
+  },
+  {
+    "id": "vq50",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: Be a Mirror (Voices & Isopraxism)",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is the crucial difference in psychological impact between a sentence delivered with an 'inquiring upward inflection' versus a 'downward inflection,' and what is the risk of using the wrong one during hard bargaining?",
+    "options": [
+      "Upward inflection turns a statement into a curious question that invites elaboration and psychological safety; downward inflection communicates calm, immovable certainty. Pitching upward on a price anchor makes you sound uncertain and invites the counterpart to push you around.",
+      "Upward inflection conveys factual finality and authority; downward inflection signals submissiveness and invites counter-arguments.",
+      "Downward inflection should only be used by women, while upward inflection is strictly reserved for male negotiators using the Late-Night FM DJ voice.",
+      "Both inflections have identical psychological impacts; vocal pitch only influences outcomes when speaking in foreign languages."
+    ],
+    "correctAnswer": 0,
+    "explanation": "An inquiring upward inflection pitches up at the end of the sentence like a question. It communicates curiosity, opens the floor, and makes mirroring effective because it prompts the counterpart to clarify without feeling defensive. Conversely, a downward inflection drops in pitch at the end, conveying calm, steady authority and immovable factuality ('I am in control; this is reality'). If a negotiator states their price or boundary with an upward inflection ('We can only pay $40,000?'), it sounds like they are asking for permission, signaling weakness and practically begging the other side to demand concessions.",
+    "citation": "Chapter 2: Be a Mirror - The Voice"
+  },
+  {
+    "id": "vq51",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: Be a Mirror (Voices & Isopraxism)",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "During the 1993 Chase Manhattan bank robbery in Brooklyn, bank robber Chris Watts boasted on the phone: 'There's four of us in here.' How did Chris Voss use mirroring and vocal calibration to dismantle this deception without triggering a firefight?",
+    "options": [
+      "Voss laughed mockingly to provoke Watts into passing the phone to his accomplices.",
+      "Voss stated firmly: 'The thermal imaging cameras outside show only two heat signatures in the vault, so you are lying.'",
+      "Voss calmly mirrored with an inquisitive upward inflection: 'There's four of you?', prompting Watts to stutter and stumble over naming his fictional partners until he exposed his own bluff.",
+      "Voss asked Watts to provide the social security numbers of all four robbers so the FBI could contact their families."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Calling Watts a liar or confronting him with tactical surveillance would have triggered defensive rage and endangered the hostages. Instead, Voss calmly mirrored Watts's claim with an inquisitive upward pitch: 'There's four of you?' This gentle prompt forced Watts to elaborate and substantiate the assertion. Watts stammered: 'Yeah, there's four of us... me, my partner, and...' He couldn't name the others. Combined with active listening to the ambient noise in the bank, Voss confirmed that Watts only had one accomplice, preventing an overzealous tactical SWAT breach while preserving rapport.",
+    "citation": "Chapter 2: Be a Mirror - The Chase Manhattan Bank Robbery"
+  },
+  {
+    "id": "vq52",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: Don't Feel Their Pain, Label It (Tactical Empathy)",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why does opening a difficult conversation with a denial like 'I don't want you to think we are trying to take advantage of you' fail neurologically, and how does a structured Accusation Audit correct this error?",
+    "options": [
+      "Denials activate the hippocampus and cause memory loss; the Accusation Audit bypasses this by delivering compliments first.",
+      "The brain struggles to process negations, so hearing 'don't think we are taking advantage' directly implants the suspicion that you are; an Accusation Audit proactively states the worst accusations as labels, diffusing the negative charge through vocalization.",
+      "Denials are legally binding admissions of civil liability under federal contract law; the Accusation Audit is designed by attorneys to maintain immunity.",
+      "Denials only fail when negotiating with Accommodators; Assertives prefer direct denials because they value bluntness."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Neurologically and linguistically, human cognition cannot process a negative without first envisioning the underlying concept (telling someone 'Don't think of a pink elephant' immediately makes them imagine a pink elephant). Saying 'I don't want you to think we're greedy' plants the suspicion that you are greedy. An Accusation Audit does the opposite: it proactively articulates every ugly, unfair, or vicious thought the counterpart might have ('You probably think we are being greedy, inconsiderate, and totally ignoring your constraints'). Voicing negative emotions aloud deactivates amygdala arousal and prompts the counterpart's natural urge to soften the judgment ('Well, I wouldn't call you greedy...').",
+    "citation": "Chapter 3: Don't Feel Their Pain, Label It - Clear the Road Before Advertising the Destination"
+  },
+  {
+    "id": "vq53",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: Create the Illusion of Control (Calibrated Questions)",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "In kidnapping crises (such as the Ecuador jungle abduction of Jos\u00e9 Leonardo), the victim's family is frequently targeted by opportunistic con artists and middlemen demanding immediate ransom payments. What calibrated question did Voss teach families to deploy as an impenetrable fraud filter?",
+    "options": [
+      "'What is your bank account IBAN number so our intelligence unit can wire the deposit?'",
+      "'Which political faction or rebel cartel do you officially represent?'",
+      "'Why don't you let him walk to the nearest church before we negotiate the balance?'",
+      "'How can we pay you anything until we know he is okay?' (or 'How do we know he is alive?')"
+    ],
+    "correctAnswer": 3,
+    "explanation": "In kidnapping environments, opportunists intercept communications and demand ransoms for hostages they do not possess. Demanding proof of life through aggressive threats can alienate real kidnappers, while paying blindly funds frauds. Asking the calibrated question: 'How can we pay you anything until we know he is okay?' or 'How do we know he is alive?' reverses the burden. It frames proof of life as a shared logistical problem. Real captors can answer or obtain a proof-of-life answer to a private question only the hostage knows, whereas impostors and copycats are instantly paralyzed and filtered out because they cannot provide proof.",
+    "citation": "Chapter 7: Create the Illusion of Control - Calibrated Questions & Kidnapping Defense"
+  },
+  {
+    "id": "vq54",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: Find the Black Swan (Unknowns & Leverage)",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "During the 47-hour standoff on the National Mall with Dwight Watson\u2014a distraught North Carolina tobacco farmer who drove his tractor into a pond claiming he had explosives\u2014what hidden 'religion' (worldview) did Chris Voss uncover that paved the way for a peaceful surrender?",
+    "options": [
+      "Watson was an undercover FBI informant whose handler had failed to check in.",
+      "Watson was seeking a multimillion-dollar federal agricultural subsidy for organic tobacco farming.",
+      "Watson was an 82nd Airborne military veteran who lived by an unbending code of honor and Christian faith; framing his surrender around the military protocol of 'withdrawing with honor' gave him a dignified exit.",
+      "Watson was waiting for a scheduled solar eclipse to begin his spiritual retreat."
+    ],
+    "correctAnswer": 2,
+    "explanation": "In Chapter 10, Voss defines 'religion' not merely as theology, but as the counterpart's core rules of life, self-identity, and sacred values. Watson had paralyzed Washington, D.C., but treating him as a common terrorist failed because he did not care about money or self-preservation. By deeply listening to his rants, the FBI discovered his 'religion': he was a proud 82nd Airborne paratrooper who viewed his protest as an honorable mission for his fellow farmers. Negotiators respected his military code, addressed him with dignity, and framed his stand-down as an orderly, honorable military withdrawal rather than a defeat, enabling him to surrender without bloodshed.",
+    "citation": "Chapter 10: Find the Black Swan - Know Their \u201cReligion\u201d"
+  },
+  {
+    "id": "vq55",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: Find the Black Swan (Unknowns & Leverage)",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "During the Abu Sayyaf hostage crisis in the Philippines involving American missionaries Martin and Gracia Burnham, what hidden 'Black Swan' regarding third-party dynamics severely undermined the FBI's official negotiation efforts?",
+    "options": [
+      "A corrupt local Philippine politician was running an unauthorized, parallel ransom negotiation behind the FBI's back to buy the hostages' release for his own political prestige.",
+      "The kidnappers had mistakenly kidnapped the wrong American missionary couple from a neighboring island.",
+      "The Philippine military had secretly equipped the hostages with satellite locator transponders that jammed FBI radios.",
+      "Abu Sayyaf's leadership had converted to pacifism three months prior to the kidnapping."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Chapter 10, Voss recounts the tragic Burnham case to demonstrate how unknown third-party actors can destroy deal architecture. While the FBI and official negotiators were carefully managing communications, a rival Philippine politician hired his own intermediaries to secretly offer ransom money to Abu Sayyaf, hoping to free the missionaries himself and embarrass the sitting Philippine president. This rogue negotiation drove up the terrorists' ransom expectations and leaked proof-of-life intelligence, underscoring that unseen 'behind-the-table' stakeholders can completely derail agreements if their hidden interests remain undiscovered.",
+    "citation": "Chapter 10: Find the Black Swan - Finding the Unknown Unknowns"
+  },
+  {
+    "id": "vq56",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: Create the Illusion of Control (Calibrated Questions)",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "During a salary negotiation for a new executive role, your prospective employer offers a baseline salary that is slightly below your target. Instead of haggling aggressively over dollars, what strategic question does Chris Voss recommend asking to enroll your boss as your personal advocate?",
+    "options": [
+      "'Why does this company pay its executives 15% below the national median according to Glassdoor?'",
+      "'What would it take for the CEO to personally match my previous employer's equity package?'",
+      "'Can you guarantee that I will never be asked to work overtime without double compensation?'",
+      "'How can I be guaranteed to be involved in projects critical to the strategic future of this company?' (or 'What does it take to be successful here?')"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Asking 'How can I be guaranteed to be involved in projects critical to the company's future?' or 'What does it take to be successful here?' is a masterstroke. First, it pivots the conversation from an adversarial expense negotiation (you demanding cash) to value creation (you solving the boss's top priorities). Second, it subtly enrolls the boss as your personal mentor and champion. Once the boss articulates what success looks like under their supervision, they develop a psychological stake in seeing you achieve those milestones, making future promotions and salary increases their personal achievement.",
+    "citation": "Chapter 7: Create the Illusion of Control - How to Negotiate a Better Salary"
+  },
+  {
+    "id": "vq57",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: Bend Their Reality (Anchors, Loss Aversion, 'Fair')",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "You are negotiating an internal promotion, but your department head insists: 'My hands are tied; HR has put a hard salary cap on this job grade that I cannot exceed.' How does Voss advise using non-monetary terms and time horizons to bend reality without accepting an underpaid position?",
+    "options": [
+      "Accept the capped salary immediately, but file a confidential grievance with the corporate labor board on your first day.",
+      "Negotiate valuable non-cash terms (such as title, remote flexibility, or company-sponsored training) paired with an agreed-upon early performance review milestone (e.g., compensation review at 3 or 6 months based on defined KPIs).",
+      "Threaten to quit immediately to test whether their HR policy is genuine or a counterfeit boundary.",
+      "Ask your boss to secretly pay the salary difference directly from his personal discretionary expense account."
+    ],
+    "correctAnswer": 1,
+    "explanation": "When an employer faces legitimate budget constraints or bureaucratic salary caps, continuing to demand immediate cash creates an impasse. Voss advises expanding the pie: negotiate terms that are cheap for the employer to grant but high-value to you (a superior title, executive mentorship, flexible scheduling, tuition reimbursement). Crucially, link this to an agreed-upon accelerated performance review (e.g., 'If I achieve X deliverables in 6 months, can we agree now to review and adjust my compensation to Y?'). This allows the manager to hire you within today's constraints while locking in future upside.",
+    "citation": "Chapter 6: Bend Their Reality - How to Negotiate a Better Salary"
+  },
+  {
+    "id": "vq58",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: Guarantee Execution (7-38-55, Rule of 3, Liars)",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "During an enterprise partnership discussion, the CEO opposite you says, 'Yes, we can definitely meet that launch deadline,' but her voice hesitates slightly, she leans back in her chair, and her eyes glance toward the door. According to Voss, what is the exact tactical sequence to address this non-verbal incongruence?",
+    "options": [
+      "Immediately challenge her: 'You say yes, but your body language proves you are lying to me.'",
+      "Ignore the nonverbal cue and immediately send a binding legal contract before she can reconsider her verbal agreement.",
+      "Gently label the hesitation in your FM DJ voice: 'I heard you say 'yes,' but it seemed like there was some hesitation in your voice. It's important that we get this right and that you feel comfortable.'",
+      "Demand an immediate penalty clause of $10,000 for every day the launch is delayed past the agreed date."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Under the 7-38-55 Rule, when verbal words (7%) clash with vocal tone (38%) or body language (55%), people invariably trust the nonverbal signals. Calling someone a liar creates immediate defensiveness. Instead, Voss teaches negotiators to gently label the discrepancy with empathy: 'I heard you say 'yes,' but it seemed like there was some hesitation in your voice. It's important that we get this right.' If they attempt to brush it off ('Oh, it's nothing'), double down warmly: 'No, this is important, let's make sure we address it.' This gives the counterpart permission to reveal hidden operational constraints before the agreement fails.",
+    "citation": "Chapter 8: Guarantee Execution - The 7-38-55 Percent Rule"
+  },
+  {
+    "id": "vq59",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: Guarantee Execution (7-38-55, Rule of 3, Liars)",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In Chapter 8, Chris Voss cites forensic research by Deepak Malhotra and linguistic studies on the 'Pinocchio Effect' and the 'Pronoun Rule.' What linguistic patterns distinguish deceptive negotiators and low-authority underlings from true decision-makers?",
+    "options": [
+      "Deceptive negotiators speak in short, monosyllabic bursts; low-authority individuals avoid pronouns entirely.",
+      "Liars consistently use future tense verbs; high-authority executives use passive voice in 100% of contract negotiations.",
+      "Low-authority negotiators speak only in calibrated questions; liars exclusively use Late-Night FM DJ vocal inflection.",
+      "Liars use significantly more words, overly elaborate sentences, and third-person pronouns ('they', 'he', 'the team') to distance themselves from lies; furthermore, low-authority negotiators overuse first-person singular pronouns ('I', 'me', 'my') to project artificial status, while real decision-makers use 'we' and 'us'."
+    ],
+    "correctAnswer": 3,
+    "explanation": "The 'Pinocchio Effect' shows that just as Pinocchio's nose grew when he lied, a liar's sentence length and word count balloon when fabricating stories. Liars exert subconscious effort to sound credible, piling on unnecessary adjectives and using third-person pronouns ('they', 'them', 'the organization') to distance themselves from guilt. The 'Pronoun Rule' reveals organizational hierarchy: insecure subordinates with little real power puff themselves up by overusing 'I', 'me', and 'my' to sound important. In contrast, genuine power players downplay their ego, using 'we', 'our team', or 'the committee' to maintain negotiating maneuverability.",
+    "citation": "Chapter 8: Guarantee Execution - The Pinocchio Effect & The Pronoun Rule"
+  },
+  {
+    "id": "vq60",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: Bend Their Reality (Anchors, Loss Aversion, 'Fair')",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "Voss recounts a student who broke the news of a bad college exam grade to her parents by opening with: 'I have something terrible to tell you... you are going to be furious, you'll probably disown me, and you'll realize I'm the worst daughter ever.' Why was this extreme negative anchor so psychologically effective?",
+    "options": [
+      "By priming her parents' System 1 imaginations with catastrophic possibilities (such as criminal arrest, pregnancy, or drug addiction), the actual news of a failing grade felt like a minor relief, triggering empathy rather than fury.",
+      "It caused her parents to suffer temporary cognitive dissonance, rendering them unable to grade her performance objectively.",
+      "It allowed her parents to exercise their legal BATNA before reviewing her report card.",
+      "Extreme anchors only work when communicating via written handwritten letters, as described in Harvard negotiation doctrine."
+    ],
+    "correctAnswer": 0,
+    "explanation": "This scenario illustrates the power of an extreme emotional anchor combined with an Accusation Audit. When you warn someone that something horrifying has happened, their imagination runs wild with worst-case scenarios (arrest, pregnancy, death, financial ruin). By anchoring their expectations at absolute disaster, when the reality is revealed ('I got an F in statistics'), the reality feels comparatively manageable. Kahneman's prospect theory dictates that human emotional reactions are relative to a reference point; resetting their reference point to catastrophe transforms bad news into a relief.",
+    "citation": "Chapter 6: Bend Their Reality - How to Anchor Their Emotions"
+  },
+  {
+    "id": "vq61",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: Create the Illusion of Control (Calibrated Questions)",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "While Chris Voss strictly advises against asking questions that start with 'Why' because they trigger universal defensiveness, what is the one counterintuitive scenario where asking 'Why' is a devastatingly effective sales tactic?",
+    "options": [
+      "Asking a vendor 'Why are your prices so high?' to force them to offer an immediate 20% discount.",
+      "Asking an employee 'Why did you fail to complete this task?' to assert executive dominance.",
+      "Asking a prospective client 'Why would you ever leave your current supplier when they've been serving you for five years to go with a new firm like us?', forcing the client to articulate your competitive advantages and disqualify the incumbent.",
+      "Asking kidnappers 'Why do you believe you will get away with this crime?' to plant moral doubt."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The word 'Why' instinctively provokes people to defend themselves and justify their positions. Normally, this shuts down negotiation. However, if you steer that defensiveness in your favor, 'Why' becomes a psychological weapon. When pitching a client currently using a competitor, asking: 'Why would you ever consider leaving your current vendor who has been doing this for years to hire us?' prompts the client to defend the idea of leaving their vendor. The client will list all the competitor's failings, missed deadlines, and poor service, effectively convincing themselves why they must hire you.",
+    "citation": "Chapter 7: Create the Illusion of Control - Avoid \u201cWhy\u201d (The Strategic Exception)"
+  },
+  {
+    "id": "vq62",
+    "chapterId": "appendix",
+    "chapterName": "Appendix: Prepare a Negotiation One Sheet",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In the Negotiation One Sheet preparation architecture, how do Section II (The Summary) and Section IV (Calibrated Questions) work in direct tandem to smoke out hidden 'behind-the-table' veto players before a contract is finalized?",
+    "options": [
+      "Section II calculates the financial ROI, while Section IV sets the legal penalty clauses for non-delivery.",
+      "Section II establishes deep tactical empathy by summarizing the counterpart's past pains until they blurt out 'That's right'; Section IV then leverages that trust to ask calibrated execution questions ('How does this affect your colleagues in legal and operations?') that unmask hidden deal killers.",
+      "Section II forces the counterpart to sign a non-disclosure agreement, which allows Section IV to introduce the Ackerman bargaining progression without legal liability.",
+      "Section II is designed exclusively for the seller, while Section IV is filled out by the buyer after the meeting concludes."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The One Sheet is designed so that each section fuels the next. In Section II, you craft a concise summary of the objective facts and emotional frustrations of the counterpart, engineered to trigger 'That's right' within the opening minutes. Having established total rapport and unconditional understanding, you earn the psychological license to probe deeper. In Section IV, you deploy pre-scripted calibrated questions targeted at implementation ('How does this affect the rest of your team?', 'What is the biggest challenge your colleagues see with this deal?'). This seamlessly turns the person across the table into your internal advocate, identifying behind-the-table veto players before they can derail execution.",
+    "citation": "Appendix: Prepare a Negotiation One Sheet - Sections II & IV"
   }
 ];
 
 const DEFAULT_BOOKS = [
   {
-    id: "seven-principles",
-    title: "The Seven Principles for Making Marriage Work",
-    author: "John Gottman, Ph.D. & Nan Silver",
-    year: 2015,
-    description: "The definitive empirical guide to relationship longevity from the Seattle Love Lab. Tests your knowledge on the 7 principles, the Four Horsemen, conflict types, and daily habits.",
-    icon: "❤️",
-    totalQuestions: DEFAULT_SEVEN_PRINCIPLES_QUESTIONS.length + " Deep Questions",
-    chapters: [
-      { id: "ch1", name: "Ch 1: Inside the Seattle Love Lab & Marriage Myths" },
-      { id: "ch2", name: "Ch 2: Sound Relationship House & Emotional Intelligence" },
-      { id: "ch3", name: "Ch 3: The 6 Signs Predicting Divorce & The Four Horsemen" },
-      { id: "ch4", name: "Ch 4: Principle 1 - Enhance Your Love Maps" },
-      { id: "ch5", name: "Ch 5: Principle 2 - Nurture Fondness and Admiration" },
-      { id: "ch6", name: "Ch 6: Principle 3 - Turn Toward Each Other Instead of Away" },
-      { id: "ch7", name: "Ch 7: Principle 4 - Let Your Partner Influence You" },
-      { id: "ch8", name: "Ch 8: The Two Kinds of Marital Conflict (Solvable vs Perpetual)" },
-      { id: "ch9", name: "Ch 9: Principle 5 - Solve Your Solvable Problems" },
-      { id: "ch10", name: "Ch 10: Coping with Typical Solvable Problems" },
-      { id: "ch11", name: "Ch 11: Principle 6 - Overcome Gridlock" },
-      { id: "ch12", name: "Ch 12: Principle 7 - Create Shared Meaning" },
-      { id: "afterword", name: "Afterword: The Magic Six Hours & Daily Habits" }
+    "id": "seven-principles",
+    "title": "The Seven Principles for Making Marriage Work",
+    "author": "John Gottman, Ph.D. & Nan Silver",
+    "year": 2015,
+    "description": "The definitive empirical guide to relationship longevity from the Seattle Love Lab. Tests your knowledge on the 7 principles, the Four Horsemen, conflict types, and daily habits.",
+    "icon": "\u2764\ufe0f",
+    "dataFile": "data/seven-principles.json",
+    "totalQuestions": 97,
+    "chapters": [
+      {
+        "id": "ch1",
+        "name": "Ch 1: Inside the Seattle Love Lab & Marriage Myths"
+      },
+      {
+        "id": "ch2",
+        "name": "Ch 2: The Sound Relationship House & Trust"
+      },
+      {
+        "id": "ch3",
+        "name": "Ch 3: Predicting Divorce & The Four Horsemen"
+      },
+      {
+        "id": "ch4",
+        "name": "Ch 4: Principle 1 - Enhance Your Love Maps"
+      },
+      {
+        "id": "ch5",
+        "name": "Ch 5: Principle 2 - Nurture Fondness & Admiration"
+      },
+      {
+        "id": "ch6",
+        "name": "Ch 6: Principle 3 - Turn Toward Each Other"
+      },
+      {
+        "id": "ch7",
+        "name": "Ch 7: Principle 4 - Let Your Partner Influence You"
+      },
+      {
+        "id": "ch8",
+        "name": "Ch 8: Solvable vs. Perpetual Conflicts"
+      },
+      {
+        "id": "ch9",
+        "name": "Ch 9: Principle 5 - Solve Your Solvable Problems"
+      },
+      {
+        "id": "ch10",
+        "name": "Ch 10: Coping with Typical Solvable Problems"
+      },
+      {
+        "id": "ch11",
+        "name": "Ch 11: Principle 6 - Overcome Gridlock"
+      },
+      {
+        "id": "ch12",
+        "name": "Ch 12: Principle 7 - Create Shared Meaning"
+      },
+      {
+        "id": "afterword",
+        "name": "Afterword: The Magic Six Hours & Daily Habits"
+      }
     ]
   },
   {
-    id: "never-split",
-    title: "Never Split the Difference",
-    author: "Chris Voss & Tahl Raz",
-    year: 2016,
-    description: "Field-tested negotiation principles from the FBI's former lead international kidnapping negotiator. Master tactical empathy, labeling, calibrated questions, Ackerman bargaining, and finding Black Swans.",
-    icon: "🤝",
-    totalQuestions: DEFAULT_NEVER_SPLIT_QUESTIONS.length + " High-Stakes Questions",
-    dataFile: "data/never-split.json",
-    chapters: [
-      { id: "ch1", name: "Ch 1: The New Rules & System 1 Psychology" },
-      { id: "ch2", name: "Ch 2: Be a Mirror (Voices & Isopraxism)" },
-      { id: "ch3", name: "Ch 3: Don't Feel Their Pain, Label It (Tactical Empathy)" },
-      { id: "ch4", name: "Ch 4: Beware 'Yes' — Master 'No'" },
-      { id: "ch5", name: "Ch 5: Trigger 'That's Right' (Summaries)" },
-      { id: "ch6", name: "Ch 6: Bend Their Reality (Anchors, Loss Aversion, 'Fair')" },
-      { id: "ch7", name: "Ch 7: Create the Illusion of Control (Calibrated Questions)" },
-      { id: "ch8", name: "Ch 8: Guarantee Execution (7-38-55, Rule of 3, Liars)" },
-      { id: "ch9", name: "Ch 9: Bargain Hard (Ackerman Model & Types)" },
-      { id: "ch10", name: "Ch 10: Find the Black Swan (Unknowns & Leverage)" },
-      { id: "appendix", name: "Appendix: Prepare a Negotiation One Sheet" }
+    "id": "never-split",
+    "title": "Never Split the Difference: Negotiating As If Your Life Depended On It",
+    "author": "Chris Voss with Tahl Raz",
+    "year": 2016,
+    "description": "A former lead FBI international kidnapping negotiator shares field-tested principles for high-stakes bargaining, tactical empathy, calibrated questions, labeling, and uncovering Black Swans.",
+    "icon": "\ud83e\udd1d",
+    "dataFile": "data/never-split.json",
+    "totalQuestions": 62,
+    "chapters": [
+      {
+        "id": "ch1",
+        "name": "Ch 1: The New Rules & System 1 Psychology"
+      },
+      {
+        "id": "ch2",
+        "name": "Ch 2: Be a Mirror (Voices & Isopraxism)"
+      },
+      {
+        "id": "ch3",
+        "name": "Ch 3: Don\u2019t Feel Their Pain, Label It (Tactical Empathy)"
+      },
+      {
+        "id": "ch4",
+        "name": "Ch 4: Beware \u201cYes\u201d\u2014Master \u201cNo\u201d"
+      },
+      {
+        "id": "ch5",
+        "name": "Ch 5: Trigger \u201cThat\u2019s Right\u201d (Summaries)"
+      },
+      {
+        "id": "ch6",
+        "name": "Ch 6: Bend Their Reality (Anchors, Loss Aversion, \u201cFair\u201d)"
+      },
+      {
+        "id": "ch7",
+        "name": "Ch 7: Create the Illusion of Control (Calibrated Questions)"
+      },
+      {
+        "id": "ch8",
+        "name": "Ch 8: Guarantee Execution (7-38-55, Rule of 3, Liars)"
+      },
+      {
+        "id": "ch9",
+        "name": "Ch 9: Bargain Hard (Ackerman Model & Types)"
+      },
+      {
+        "id": "ch10",
+        "name": "Ch 10: Find the Black Swan (Unknowns & Leverage)"
+      },
+      {
+        "id": "appendix",
+        "name": "Appendix: Prepare a Negotiation One Sheet"
+      }
     ]
   }
 ];
@@ -2024,29 +3457,39 @@ async function loadBooks() {
 }
 
 async function loadBookQuestions(book) {
-  if (window.EMBEDDED_QUESTIONS && window.EMBEDDED_QUESTIONS[book.id]) {
-    return window.EMBEDDED_QUESTIONS[book.id];
-  }
-
-  if (book.id === "seven-principles") {
-    return DEFAULT_SEVEN_PRINCIPLES_QUESTIONS;
-  }
-  if (book.id === "never-split") {
-    return DEFAULT_NEVER_SPLIT_QUESTIONS;
-  }
-
+  // 1. If custom questions imported by user exist in localStorage, use them
   const customQuestions = localStorage.getItem(`bookquiz_questions_${book.id}`);
   if (customQuestions) {
-    return JSON.parse(customQuestions);
+    try {
+      const parsed = JSON.parse(customQuestions);
+      if (Array.isArray(parsed) && parsed.length > 0) return parsed;
+    } catch (e) {}
   }
 
+  // 2. Try fetching latest data file from repository (for GitHub Pages / HTTP server)
   try {
     const targetFile = book.dataFile || `data/${book.id}.json`;
     const res = await fetch(targetFile);
     if (res.ok) {
-      return await res.json();
+      const data = await res.json();
+      if (Array.isArray(data) && data.length > 0) {
+        return data;
+      }
     }
-  } catch (e) {}
+  } catch (e) {
+    // Offline or network error; fallback to embedded defaults below
+  }
+
+  // 3. Fallback to embedded default constants (offline / local failover)
+  if (window.EMBEDDED_QUESTIONS && window.EMBEDDED_QUESTIONS[book.id]) {
+    return window.EMBEDDED_QUESTIONS[book.id];
+  }
+  if (book.id === "seven-principles" && typeof DEFAULT_SEVEN_PRINCIPLES_QUESTIONS !== "undefined") {
+    return DEFAULT_SEVEN_PRINCIPLES_QUESTIONS;
+  }
+  if (book.id === "never-split" && typeof DEFAULT_NEVER_SPLIT_QUESTIONS !== "undefined") {
+    return DEFAULT_NEVER_SPLIT_QUESTIONS;
+  }
 
   return [];
 }
@@ -2096,17 +3539,32 @@ function renderLibrary() {
 // ============================================================================
 // VIEW: CHAPTER SUMMARIES (STUDY GUIDE)
 // ============================================================================
-function openSummariesForBook(book) {
+async function openSummariesForBook(book) {
   state.selectedBook = book;
   dom.summariesBookTitle.textContent = book.title;
 
   let summaries = [];
-  if (window.EMBEDDED_SUMMARIES && window.EMBEDDED_SUMMARIES[book.id]) {
-    summaries = window.EMBEDDED_SUMMARIES[book.id];
-  } else if (book.id === "seven-principles") {
-    summaries = DEFAULT_SEVEN_PRINCIPLES_SUMMARIES;
-  } else if (book.id === "never-split") {
-    summaries = DEFAULT_NEVER_SPLIT_SUMMARIES;
+
+  // 1. Try fetching latest summaries from data/
+  try {
+    const res = await fetch(`data/${book.id}-summaries.json`);
+    if (res.ok) {
+      const data = await res.json();
+      if (Array.isArray(data) && data.length > 0) {
+        summaries = data;
+      }
+    }
+  } catch (e) {}
+
+  // 2. Fallback to embedded summaries
+  if (!summaries || summaries.length === 0) {
+    if (window.EMBEDDED_SUMMARIES && window.EMBEDDED_SUMMARIES[book.id]) {
+      summaries = window.EMBEDDED_SUMMARIES[book.id];
+    } else if (book.id === "seven-principles") {
+      summaries = DEFAULT_SEVEN_PRINCIPLES_SUMMARIES;
+    } else if (book.id === "never-split") {
+      summaries = DEFAULT_NEVER_SPLIT_SUMMARIES;
+    }
   }
 
   if (summaries.length === 0) {

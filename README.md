@@ -1,68 +1,96 @@
-# 📖 Book Quiz - Active Reading & Recall App
+# 📖 Book Quiz — Active Reading & Recall Web App
 
-A lightweight, modern web application designed for active recall, self-testing, and deep comprehension of non-fiction books. Built with zero dependencies (pure HTML5, CSS3, and JavaScript).
+A lightweight, zero-dependency web application designed for active recall, self-testing, and deep retention of non-fiction books. Built with pure HTML5, modern CSS3, and Vanilla JavaScript—ready for instant one-click deployment to **GitHub Pages**.
 
 ---
 
-## 🚀 How to Run
+## 🌟 Key Features
 
-### Method 1: Instant Launch (Recommended)
-In the terminal, run:
+* **🧠 Deep, Substantive Questions:** Scenario-based dilemmas, empirical counter-intuitive findings, and real-world tactical applications—no superficial trivia.
+* **📖 Built-in Chapter Study Guides:** In-depth summaries for every chapter featuring *The Big Idea*, *Counter-Intuitive Truths*, *Psychological Mechanics*, *Key Exercises & Blueprints*, and *Core Takeaways*.
+* **🎯 Practice Mode vs. Exam Mode:**
+  * **Practice Mode:** Immediate explanations and book citations after each answer to solidify retention.
+  * **Exam Mode:** Simulates a formal test; grades your score, generates a chapter-by-chapter mastery breakdown, and offers full post-quiz review.
+* **🔁 Targeted Retesting:** One-click *"Practice Missed Only"* button to drill into questions you got wrong.
+* **🔍 Granular Topic Filtering:** Focus on specific chapters (e.g., just *Love Maps* or *The Ackerman Model*) or test the entire book.
+* **⌨️ Keyboard Navigation:** Answer instantly using keys `1`–`4` or `A`–`D`, and advance with `Enter` or `Space`.
+* **📱 100% Mobile Optimized:** Responsive layout, minimum 44px–48px touch targets, smooth scroll-snapping navigation, zero tap latency, and WCAG AAA contrast in light and dark mode.
+* **🌐 Native HTTP / Static Hosting:** Fully compatible with GitHub Pages, Cloudflare Pages, Netlify, or any static host. Works seamlessly on mobile Safari and Chrome.
+
+---
+
+## 📚 Included Books
+
+### 1. *The Seven Principles for Making Marriage Work* (John Gottman, Ph.D. & Nan Silver, 2015)
+* **Comprehensive Question Bank & 13 Chapter Study Guides**
+* **Core Topics:**
+  * The Seattle Love Lab methodology and the 91% divorce prediction rate.
+  * Debunking marriage myths: why *quid pro quo* tally-keeping is toxic, why conflict avoiders thrive, and why affairs are a symptom rather than the root cause.
+  * The Sound Relationship House, Trust & Commitment walls, and Negative Sentiment Override (*"The Roach Motel for Lovers"*).
+  * The Four Horsemen (*Criticism, Contempt, Defensiveness, Stonewalling*) and their specific psychological antidotes.
+  * Physiological Flooding (>100 bpm, fight-or-flight prefrontal shutdown) and gender cardiovascular reactivity (85% male stonewallers).
+  * Principle 1 (Love Maps & the *"Who Am I?"* exercise); Principle 2 (Fondness & Admiration, scanning for positives); Principle 3 (Turning Toward, bids, and the anatomy of Sadness as loss, Anger as a blocked goal, and Fear as unsafety).
+  * Principle 4 (Accepting influence; 81% divorce reduction in men); Solvable vs. Perpetual conflicts (the 69% philosophy); Principle 5 (5-step problem solving, 20-min soothing break without ruminating, Two Concentric Circles, processing regrettable incidents).
+  * Solvable issues (in-law solidarity, housework as emotional respect, gentle sexual communication); Principle 6 (Uncovering hidden life dreams, 3 levels of honoring dreams); Principle 7 (Four Pillars of Shared Meaning & Rituals of Connection); Afterword (The 6-second kiss, State of the Union blueprint, Marital Poop Detector).
+
+### 2. *Never Split the Difference: Negotiating As If Your Life Depended On It* (Chris Voss & Tahl Raz, 2016)
+* **Tactical Question Bank & 11 Chapter Study Guides**
+* **Core Topics:**
+  * Behavioral economics in crisis negotiation: System 1 vs. System 2, Kahneman & Tversky, why traditional rational bargaining fails.
+  * The 3 Voice Tones: Late-Night FM DJ Voice (downward calm inflection) vs. Positive/Playful vs. Direct/Assertive.
+  * Isopraxism linguistic mirroring (repeating 1–3 critical words).
+  * Tactical Empathy & Labeling (*"It seems like...", "It sounds like..."* to deactivate amygdala arousal); the Accusation Audit.
+  * The 3 Types of "Yes" (Counterfeit, Confirmation, Commitment) and the psychological power of "No" for autonomy; *"Is now a bad time to talk?"*.
+  * Triggering *"That's Right"* vs. the polite brush-off *"You're Right"*.
+  * Reality Bending: Prospect Theory, loss aversion, deadlines as arbitrary (e.g. Haitian kidnapping cases), why "Fair" is an emotional weapon, extreme anchoring, and range offers.
+  * Calibrated Questions: Starting with "What" and "How" (never accusatory "Why"); the calibrated no: *"How am I supposed to do that?"*; the Garcia proof of life technique.
+  * Guaranteeing execution: The 7-38-55 Rule, the Rule of Three, spotting liars (Pinocchio effect, pronoun distancing), and uncovering hidden deal-killers.
+  * The 3 Negotiator Types (Accommodator, Assertive, Analyst) and the 6-step Ackerman Bargaining Model (65% → 85% → 95% → 100% with precise non-round numbers and non-cash items).
+  * Finding Black Swans: Unknown unknowns, the 3 types of leverage (Positive, Negative, Normative), and uncovering the counterpart's "religion".
+  * The Negotiation One Sheet 5-part preparation framework.
+
+---
+
+## 🚀 How to Run & Deploy
+
+### Deploy to GitHub Pages (Recommended)
+This repository is pre-configured for GitHub Pages:
+1. Create a new repository on GitHub (e.g. `book-quiz`).
+2. Add your remote and push:
+   ```bash
+   cd ~/book-quiz
+   git remote add origin git@github.com:<your-username>/book-quiz.git
+   git push -u origin main
+   ```
+3. In your GitHub repository, open **Settings → Pages**:
+   * **Source**: `Deploy from a branch`
+   * **Branch**: `main` / `/(root)`
+   * Click **Save**.
+4. In ~30 seconds, your quiz web app is live at:
+   `https://<your-username>.github.io/book-quiz/`
+
+### Local Testing
+To test or study locally on your machine:
 ```bash
-cd "/home/guyw/book-quiz"
+cd ~/book-quiz
 ./launch.sh
 ```
-This starts a local server on `http://localhost:8080` and opens it in your default browser.
-
-### Method 2: Python HTTP Server
-```bash
-cd "/home/guyw/book-quiz"
-python3 -m http.server 8080
-```
-Then navigate to [http://localhost:8080](http://localhost:8080).
-
-### Method 3: Direct File Opening (Desktop)
-You can open `index.html` directly in any web browser (`file:///home/guyw/book-quiz/index.html`). 
-
-### Method 4: Mobile Access (Android & iOS)
-For mobile devices, open `standalone.html` instead of `index.html`:
-* **Why `standalone.html`?** On Android, when files are opened from the Files app or Syncthing, Chrome uses sandboxed `content://` URIs which block external `.css` and `.js` files.
-* **`standalone.html` is 100% self-contained**: All styles, application logic, chapter summaries, and quiz questions are compiled into a single file with zero external dependencies. It works flawlessly offline in airplane mode.
-* Recompile anytime via `python3 build_standalone_html.py` or `./deploy.sh --build`.
-
-### Method 5: 1-Click Free Web Hosting (Netlify / GitHub Pages)
-To host online with a public HTTPS URL (e.g. for sharing with friends or opening on any device):
-```bash
-./deploy.sh
-```
-See [DEPLOYMENT.md](file:///home/guyw/book-quiz/DEPLOYMENT.md) for full instructions on 1-click Netlify Drop, GitHub Pages, and Netlify/Vercel CLI.
-
----
-
-## 📚 Currently Included Books
-
-* ***The Seven Principles for Making Marriage Work*** (John Gottman & Nan Silver, 2015)
-  * **35 comprehensive questions & 13 chapter study guides**.
-  * Covers the Seattle Love Lab, the 5:1 ratio, the Four Horsemen & antidotes, physiological flooding, Love Maps, Fondness & Admiration, turning toward, solvable vs. perpetual problems, repair attempts, the two-circle compromise, the Dream Catcher method, and the Magic Six Hours.
-
-* ***Never Split the Difference*** (Chris Voss & Tahl Raz, 2016)
-  * **44 tactical questions & 11 chapter study guides**.
-  * Covers System 1 vs. System 2 behavioral psychology, mirror technique (isopraxism), late-night FM DJ voice, tactical empathy, labeling, the power of "No", triggering "That's Right", reality bending & anchors, calibrated "How/What" questions, the 7-38-55 rule, the Ackerman bargaining model, and finding Black Swans.
+This launches a lightweight local HTTP server on port 8080 and opens `http://localhost:8080` in your default browser.
 
 ---
 
 ## 🛠️ Adding New Books
 
-You can add any other book using either the UI or the file system:
+You can add any other book (e.g., *Atomic Habits*, *Thinking, Fast and Slow*, *Scattered Minds*) using either method:
 
-### Option A: Via the Web UI (No coding required)
+### Method A: Through the Web UI (Zero Code)
 1. Click **+ Add Book** in the top navigation bar.
-2. Either drag & drop a questions JSON file or paste the questions JSON directly.
+2. Drag and drop your questions JSON file or paste the questions JSON directly.
 3. The book will immediately appear in your library and persist in your browser's local storage.
 
-### Option B: Adding Directly to the Repository
-1. Create a questions file in `data/<book-id>.json` (e.g., `data/atomic-habits.json`).
-2. Add the book metadata entry to `data/books.json`:
+### Method B: Directly in the Repository
+1. Create your questions file in `data/<book-id>.json` (and optionally `data/<book-id>-summaries.json`).
+2. Register the book in `data/books.json`:
 ```json
 {
   "id": "atomic-habits",
@@ -72,49 +100,47 @@ You can add any other book using either the UI or the file system:
   "description": "An easy and proven way to build good habits and break bad ones.",
   "icon": "⚡",
   "dataFile": "data/atomic-habits.json",
-  "totalQuestions": 25,
+  "totalQuestions": 30,
   "chapters": [
     { "id": "ch1", "name": "The Fundamentals" },
     { "id": "ch2", "name": "The 1st Law: Make It Obvious" }
   ]
 }
 ```
+3. Commit and push:
+```bash
+git add .
+git commit -m "Add Atomic Habits"
+git push
+```
 
 ---
 
 ## 📋 Question JSON Schema
 
-Every question object conforms to the following schema:
+Every question object conforms to this structure:
 
 ```json
 {
   "id": "q1",
   "chapterId": "ch1",
-  "chapterName": "Ch 1: Inside the Seattle Love Lab & Marriage Myths",
-  "difficulty": "medium",
-  "type": "concept",
-  "question": "What percentage of marital conflicts are perpetual according to Gottman?",
+  "chapterName": "Ch 1: The New Rules",
+  "difficulty": "medium",   // "easy" | "medium" | "hard"
+  "type": "concept",        // "concept" | "scenario"
+  "question": "Why does Chris Voss state that 'splitting the difference' is the worst possible outcome?",
   "options": [
-    "About 10%",
-    "Around 31%",
-    "69%",
-    "99%"
+    "Because it takes twice as long to negotiate.",
+    "Because it is an arbitrary compromise driven by fear rather than truth, analogous to wearing one black shoe and one brown shoe.",
+    "Because FBI guidelines legally forbid financial compromises.",
+    "Because it guarantees the counterpart will retaliate."
   ],
-  "correctAnswer": 2,
-  "explanation": "Gottman discovered that 69 percent of all marital conflicts are perpetual problems...",
-  "citation": "Chapter 8: Perpetual Problems"
+  "correctAnswer": 1,       // 0-indexed integer (0 = A, 1 = B, 2 = C, 3 = D)
+  "explanation": "Voss argues that compromise ('splitting the difference') is often a lazy, fear-driven concession...",
+  "citation": "Chapter 6: Bend Their Reality"
 }
 ```
 
-* `difficulty`: `"easy"`, `"medium"`, or `"hard"`.
-* `correctAnswer`: 0-indexed integer corresponding to the index in the `options` array (`0` for A, `1` for B, `2` for C, `3` for D).
-* `citation`: Optional book reference, chapter, or section name.
-
 ---
 
-## ⌨️ Keyboard Shortcuts (During Quiz)
-* `1` or `A`: Select Option A
-* `2` or `B`: Select Option B
-* `3` or `C`: Select Option C
-* `4` or `D`: Select Option D
-* `Enter` or `Space`: Proceed to next question / finish quiz
+## 📄 License & Philosophy
+Built for personal active recall, deep reading comprehension, and lifelong learning. Zero telemetry, zero external trackers, and completely open source.

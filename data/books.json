@@ -7,7 +7,7 @@
     "description": "The definitive empirical guide to relationship longevity from the Seattle Love Lab. Tests your knowledge on the 7 principles, the Four Horsemen, conflict types, and daily habits.",
     "icon": "❤️",
     "dataFile": "data/seven-principles.json",
-    "totalQuestions": 35,
+    "totalQuestions": 97,
     "chapters": [
       {
         "id": "ch1",
@@ -71,7 +71,7 @@
     "description": "A former lead FBI international kidnapping negotiator shares field-tested principles for high-stakes bargaining, tactical empathy, calibrated questions, labeling, and uncovering Black Swans.",
     "icon": "🤝",
     "dataFile": "data/never-split.json",
-    "totalQuestions": 44,
+    "totalQuestions": 62,
     "chapters": [
       {
         "id": "ch1",

@@ -746,5 +746,311 @@
     "correctAnswer": 3,
     "explanation": "In Section V, you search for non-cash items possessed by the counterpart that are low-cost for them to give, but enormously valuable to you (like Voss negotiating a magazine cover story about him instead of extra speaking fees). Asking 'What could they give that would almost get us to do it for free?' expands the negotiation beyond dollars and cents.",
     "citation": "Appendix: Prepare a Negotiation One Sheet - Section V: Noncash Offers"
+  },
+  {
+    "id": "vq45",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: Bargain Hard (Ackerman Model & Types)",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In Chris Voss's taxonomy of negotiator personality types, what is the core psychological vulnerability of the 'Accommodator,' and what tactical mistake do other negotiators frequently make when bargaining with them?",
+    "options": [
+      "Accommodators are driven by statistical precision; the mistake is assuming their silence indicates satisfaction rather than deep analytical skepticism.",
+      "Accommodators are driven by relationship harmony and fear conflict; the mistake is mistaking their warm sociability for genuine agreement and failing to uncover their unvoiced implementation objections.",
+      "Accommodators are motivated by rapid closure; the mistake is presenting too many non-monetary concessions, which overwhelms their linear decision-making process.",
+      "Accommodators seek personal dominance; the mistake is using calibrated 'How' questions, which they perceive as direct challenges to their executive authority."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Accommodators love building relationships and will converse endlessly to maintain social harmony. Their core fear is conflict and rejection. Consequently, their fatal flaw is agreeing to terms just to keep the peace ('counterfeit yes') and overpromising deliverables they cannot execute. Negotiators mistakenly believe the deal is done because the Accommodator is smiling and agreeable. To negotiate with them effectively, you must gently unearth their hidden reservations using calibrated implementation questions and make it safe for them to voice objections without endangering the friendship.",
+    "citation": "Chapter 9: Bargain Hard - What Kind of Negotiator Are You? (Accommodator)"
+  },
+  {
+    "id": "vq46",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: Bargain Hard (Ackerman Model & Types)",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "You are negotiating an equipment contract with an 'Assertive' VP who repeatedly interrupts you, checks his watch, and bluntly demands: 'Cut the fluff and give me your bottom-line price right now.' According to Voss, what is the cardinal psychological rule for dealing with an Assertive in this state?",
+    "options": [
+      "An Assertive will not listen to a single word you say until they are completely convinced you have listened to and understood their perspective first; let them talk, mirror and label their position, and do not interrupt.",
+      "Match their aggression immediately with a sharp downward inflection and a firm take-it-or-leave-it counter-anchor to command their respect.",
+      "Maintain absolute silence for at least ten seconds, which triggers an Assertive's fear of social isolation and compels them to make an unprompted concession.",
+      "Present a comprehensive 20-page spreadsheet detailing your cost structure to mathematically disprove their aggressive claims."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Assertives believe time is money and view negotiation as a competitive contest. Their primary blind spot is that they love to talk and demand results, often without gathering all the facts. Crucially, an Assertive counterpart cannot and will not absorb your arguments until they feel completely heard. If you try to force your points or push back while they are amped up, they escalate into combat mode. You must allow them to empty their emotional tank, mirror their key points, and summarize their stance until they acknowledge that you understand them; only then will they become receptive to calibrated questions.",
+    "citation": "Chapter 9: Bargain Hard - What Kind of Negotiator Are You? (Assertive)"
+  },
+  {
+    "id": "vq47",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: Bargain Hard (Ackerman Model & Types)",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How does 'Dynamic Silence' function across the three negotiator archetypes, and why is an amateur negotiator most likely to self-sabotage when using silence against an 'Analyst'?",
+    "options": [
+      "Silence triggers panic in Analysts; negotiators fail because they do not step in quickly enough to provide reassurance before the Analyst terminates the meeting.",
+      "Analysts view silence as a sign of intellectual inferiority; negotiators should never use silence with Analysts, reserving it exclusively for Assertives.",
+      "Analysts perceive silence simply as time to think and evaluate data; anxious negotiators misinterpret this cognitive processing as rejection or anger, prematurely breaking the silence with unforced concessions or idle chatter that irritates the Analyst.",
+      "Silence causes Analysts to make impulsive counter-offers; negotiators fail by refusing to accept the Analyst's initial emotional outburst."
+    ],
+    "correctAnswer": 2,
+    "explanation": "To an Analyst, silence is not an emotional weapon or a void to be feared—it is simply time to calculate, process data, and think methodically. To an Accommodator, prolonged silence feels like anger or relationship damage; to an Assertive, it feels like wasted time. When an Analyst falls silent, insecure negotiators panic, assuming the silence signals disapproval. They rush to fill the vacuum with small talk, justifications, or spontaneous price drops, which disrupts the Analyst's thoughts and makes the Analyst view them as sloppy, pushy, and untrustworthy.",
+    "citation": "Chapter 9: Bargain Hard - What Kind of Negotiator Are You? (Analyst)"
+  },
+  {
+    "id": "vq48",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: Bargain Hard (Ackerman Model & Types)",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Why does Chris Voss argue that the traditional Golden Rule—'Treat others the way you want to be treated'—is dangerous in negotiations, especially when an Accommodator negotiates with an Analyst?",
+    "options": [
+      "Because treating people with empathy violates federal crisis negotiation protocols regarding ethical neutrality.",
+      "Because following the Golden Rule projects your own emotional priorities onto your counterpart; an Accommodator's rapport-building chatter feels like manipulative time-wasting to an Analyst, while the Analyst's clinical silence feels like cold hostility to the Accommodator.",
+      "Because the Golden Rule is mathematically incompatible with the 65-85-95-100 Ackerman bargaining progression.",
+      "Because the Golden Rule only applies when negotiating with Assertives who respect mutual ethical reciprocity."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The traditional Golden Rule assumes everyone shares your psychological operating system. Voss replaces it with the Black Swan principle: 'Don't treat people how you want to be treated; treat them how they need to be treated.' If an Accommodator tries to build rapport with an Analyst using jokes, personal stories, and warm small talk, the Analyst feels rushed and suspicious. Conversely, when the Analyst goes quiet and demands spreadsheets, the Accommodator feels personally rejected. Effective negotiators adapt their style to the counterpart's needs rather than their own.",
+    "citation": "Chapter 9: Bargain Hard - What Kind of Negotiator Are You?"
+  },
+  {
+    "id": "vq49",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: Bend Their Reality (Anchors, Loss Aversion, 'Fair')",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "In the high-frequency kidnapping cases in Haiti handled by Chris Voss, kidnappers issued ferocious ultimatums demanding hundreds of thousands of dollars by Friday afternoon or the hostage would be killed. What critical discovery about the kidnappers' 'deadline' gave the FBI decisive leverage?",
+    "options": [
+      "The kidnappers had bank loan installments due every Friday at 5:00 PM, making them vulnerable to asset forfeiture by the Haitian central bank.",
+      "The kidnappers' satellite phones ran out of pre-paid minutes precisely at midnight on Fridays, forcing them to accept any cash offer on the table.",
+      "Haitian law enforcement conducted island-wide curfew sweeps on Saturday mornings, meaning kidnappers were forced to release all hostages before dawn.",
+      "The kidnappers were not ideological extremists but young gang members whose Friday deadline was driven by their desire to get party cash for the weekend; waiting them out turned their own social schedule into a ticking clock that collapsed their ransom demands."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Voss discovered that Haitian kidnappings followed an internal lifestyle rhythm: the gangs abducted victims early in the week, issued terrifying life-or-death ultimatums, and demanded ransom by Friday so they could buy rum, food, and party in Port-au-Prince over the weekend. Understanding that the deadline was driven by a desire to party—not an ideological imperative to kill the hostage—allowed Voss to coach families to calmly drag talks out into Thursday and Friday morning. As the weekend approached, the kidnappers felt the squeeze of their own party schedule and slashed demands from $150,000 down to a few thousand dollars just to get party cash in hand.",
+    "citation": "Chapter 6: Bend Their Reality - Discovering the Haitian Kidnapping Deadline"
+  },
+  {
+    "id": "vq50",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: Be a Mirror (Voices & Isopraxism)",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is the crucial difference in psychological impact between a sentence delivered with an 'inquiring upward inflection' versus a 'downward inflection,' and what is the risk of using the wrong one during hard bargaining?",
+    "options": [
+      "Upward inflection turns a statement into a curious question that invites elaboration and psychological safety; downward inflection communicates calm, immovable certainty. Pitching upward on a price anchor makes you sound uncertain and invites the counterpart to push you around.",
+      "Upward inflection conveys factual finality and authority; downward inflection signals submissiveness and invites counter-arguments.",
+      "Downward inflection should only be used by women, while upward inflection is strictly reserved for male negotiators using the Late-Night FM DJ voice.",
+      "Both inflections have identical psychological impacts; vocal pitch only influences outcomes when speaking in foreign languages."
+    ],
+    "correctAnswer": 0,
+    "explanation": "An inquiring upward inflection pitches up at the end of the sentence like a question. It communicates curiosity, opens the floor, and makes mirroring effective because it prompts the counterpart to clarify without feeling defensive. Conversely, a downward inflection drops in pitch at the end, conveying calm, steady authority and immovable factuality ('I am in control; this is reality'). If a negotiator states their price or boundary with an upward inflection ('We can only pay $40,000?'), it sounds like they are asking for permission, signaling weakness and practically begging the other side to demand concessions.",
+    "citation": "Chapter 2: Be a Mirror - The Voice"
+  },
+  {
+    "id": "vq51",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: Be a Mirror (Voices & Isopraxism)",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "During the 1993 Chase Manhattan bank robbery in Brooklyn, bank robber Chris Watts boasted on the phone: 'There's four of us in here.' How did Chris Voss use mirroring and vocal calibration to dismantle this deception without triggering a firefight?",
+    "options": [
+      "Voss laughed mockingly to provoke Watts into passing the phone to his accomplices.",
+      "Voss stated firmly: 'The thermal imaging cameras outside show only two heat signatures in the vault, so you are lying.'",
+      "Voss calmly mirrored with an inquisitive upward inflection: 'There's four of you?', prompting Watts to stutter and stumble over naming his fictional partners until he exposed his own bluff.",
+      "Voss asked Watts to provide the social security numbers of all four robbers so the FBI could contact their families."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Calling Watts a liar or confronting him with tactical surveillance would have triggered defensive rage and endangered the hostages. Instead, Voss calmly mirrored Watts's claim with an inquisitive upward pitch: 'There's four of you?' This gentle prompt forced Watts to elaborate and substantiate the assertion. Watts stammered: 'Yeah, there's four of us... me, my partner, and...' He couldn't name the others. Combined with active listening to the ambient noise in the bank, Voss confirmed that Watts only had one accomplice, preventing an overzealous tactical SWAT breach while preserving rapport.",
+    "citation": "Chapter 2: Be a Mirror - The Chase Manhattan Bank Robbery"
+  },
+  {
+    "id": "vq52",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: Don't Feel Their Pain, Label It (Tactical Empathy)",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why does opening a difficult conversation with a denial like 'I don't want you to think we are trying to take advantage of you' fail neurologically, and how does a structured Accusation Audit correct this error?",
+    "options": [
+      "Denials activate the hippocampus and cause memory loss; the Accusation Audit bypasses this by delivering compliments first.",
+      "The brain struggles to process negations, so hearing 'don't think we are taking advantage' directly implants the suspicion that you are; an Accusation Audit proactively states the worst accusations as labels, diffusing the negative charge through vocalization.",
+      "Denials are legally binding admissions of civil liability under federal contract law; the Accusation Audit is designed by attorneys to maintain immunity.",
+      "Denials only fail when negotiating with Accommodators; Assertives prefer direct denials because they value bluntness."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Neurologically and linguistically, human cognition cannot process a negative without first envisioning the underlying concept (telling someone 'Don't think of a pink elephant' immediately makes them imagine a pink elephant). Saying 'I don't want you to think we're greedy' plants the suspicion that you are greedy. An Accusation Audit does the opposite: it proactively articulates every ugly, unfair, or vicious thought the counterpart might have ('You probably think we are being greedy, inconsiderate, and totally ignoring your constraints'). Voicing negative emotions aloud deactivates amygdala arousal and prompts the counterpart's natural urge to soften the judgment ('Well, I wouldn't call you greedy...').",
+    "citation": "Chapter 3: Don't Feel Their Pain, Label It - Clear the Road Before Advertising the Destination"
+  },
+  {
+    "id": "vq53",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: Create the Illusion of Control (Calibrated Questions)",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "In kidnapping crises (such as the Ecuador jungle abduction of José Leonardo), the victim's family is frequently targeted by opportunistic con artists and middlemen demanding immediate ransom payments. What calibrated question did Voss teach families to deploy as an impenetrable fraud filter?",
+    "options": [
+      "'What is your bank account IBAN number so our intelligence unit can wire the deposit?'",
+      "'Which political faction or rebel cartel do you officially represent?'",
+      "'Why don't you let him walk to the nearest church before we negotiate the balance?'",
+      "'How can we pay you anything until we know he is okay?' (or 'How do we know he is alive?')"
+    ],
+    "correctAnswer": 3,
+    "explanation": "In kidnapping environments, opportunists intercept communications and demand ransoms for hostages they do not possess. Demanding proof of life through aggressive threats can alienate real kidnappers, while paying blindly funds frauds. Asking the calibrated question: 'How can we pay you anything until we know he is okay?' or 'How do we know he is alive?' reverses the burden. It frames proof of life as a shared logistical problem. Real captors can answer or obtain a proof-of-life answer to a private question only the hostage knows, whereas impostors and copycats are instantly paralyzed and filtered out because they cannot provide proof.",
+    "citation": "Chapter 7: Create the Illusion of Control - Calibrated Questions & Kidnapping Defense"
+  },
+  {
+    "id": "vq54",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: Find the Black Swan (Unknowns & Leverage)",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "During the 47-hour standoff on the National Mall with Dwight Watson—a distraught North Carolina tobacco farmer who drove his tractor into a pond claiming he had explosives—what hidden 'religion' (worldview) did Chris Voss uncover that paved the way for a peaceful surrender?",
+    "options": [
+      "Watson was an undercover FBI informant whose handler had failed to check in.",
+      "Watson was seeking a multimillion-dollar federal agricultural subsidy for organic tobacco farming.",
+      "Watson was an 82nd Airborne military veteran who lived by an unbending code of honor and Christian faith; framing his surrender around the military protocol of 'withdrawing with honor' gave him a dignified exit.",
+      "Watson was waiting for a scheduled solar eclipse to begin his spiritual retreat."
+    ],
+    "correctAnswer": 2,
+    "explanation": "In Chapter 10, Voss defines 'religion' not merely as theology, but as the counterpart's core rules of life, self-identity, and sacred values. Watson had paralyzed Washington, D.C., but treating him as a common terrorist failed because he did not care about money or self-preservation. By deeply listening to his rants, the FBI discovered his 'religion': he was a proud 82nd Airborne paratrooper who viewed his protest as an honorable mission for his fellow farmers. Negotiators respected his military code, addressed him with dignity, and framed his stand-down as an orderly, honorable military withdrawal rather than a defeat, enabling him to surrender without bloodshed.",
+    "citation": "Chapter 10: Find the Black Swan - Know Their “Religion”"
+  },
+  {
+    "id": "vq55",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: Find the Black Swan (Unknowns & Leverage)",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "During the Abu Sayyaf hostage crisis in the Philippines involving American missionaries Martin and Gracia Burnham, what hidden 'Black Swan' regarding third-party dynamics severely undermined the FBI's official negotiation efforts?",
+    "options": [
+      "A corrupt local Philippine politician was running an unauthorized, parallel ransom negotiation behind the FBI's back to buy the hostages' release for his own political prestige.",
+      "The kidnappers had mistakenly kidnapped the wrong American missionary couple from a neighboring island.",
+      "The Philippine military had secretly equipped the hostages with satellite locator transponders that jammed FBI radios.",
+      "Abu Sayyaf's leadership had converted to pacifism three months prior to the kidnapping."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Chapter 10, Voss recounts the tragic Burnham case to demonstrate how unknown third-party actors can destroy deal architecture. While the FBI and official negotiators were carefully managing communications, a rival Philippine politician hired his own intermediaries to secretly offer ransom money to Abu Sayyaf, hoping to free the missionaries himself and embarrass the sitting Philippine president. This rogue negotiation drove up the terrorists' ransom expectations and leaked proof-of-life intelligence, underscoring that unseen 'behind-the-table' stakeholders can completely derail agreements if their hidden interests remain undiscovered.",
+    "citation": "Chapter 10: Find the Black Swan - Finding the Unknown Unknowns"
+  },
+  {
+    "id": "vq56",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: Create the Illusion of Control (Calibrated Questions)",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "During a salary negotiation for a new executive role, your prospective employer offers a baseline salary that is slightly below your target. Instead of haggling aggressively over dollars, what strategic question does Chris Voss recommend asking to enroll your boss as your personal advocate?",
+    "options": [
+      "'Why does this company pay its executives 15% below the national median according to Glassdoor?'",
+      "'What would it take for the CEO to personally match my previous employer's equity package?'",
+      "'Can you guarantee that I will never be asked to work overtime without double compensation?'",
+      "'How can I be guaranteed to be involved in projects critical to the strategic future of this company?' (or 'What does it take to be successful here?')"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Asking 'How can I be guaranteed to be involved in projects critical to the company's future?' or 'What does it take to be successful here?' is a masterstroke. First, it pivots the conversation from an adversarial expense negotiation (you demanding cash) to value creation (you solving the boss's top priorities). Second, it subtly enrolls the boss as your personal mentor and champion. Once the boss articulates what success looks like under their supervision, they develop a psychological stake in seeing you achieve those milestones, making future promotions and salary increases their personal achievement.",
+    "citation": "Chapter 7: Create the Illusion of Control - How to Negotiate a Better Salary"
+  },
+  {
+    "id": "vq57",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: Bend Their Reality (Anchors, Loss Aversion, 'Fair')",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "You are negotiating an internal promotion, but your department head insists: 'My hands are tied; HR has put a hard salary cap on this job grade that I cannot exceed.' How does Voss advise using non-monetary terms and time horizons to bend reality without accepting an underpaid position?",
+    "options": [
+      "Accept the capped salary immediately, but file a confidential grievance with the corporate labor board on your first day.",
+      "Negotiate valuable non-cash terms (such as title, remote flexibility, or company-sponsored training) paired with an agreed-upon early performance review milestone (e.g., compensation review at 3 or 6 months based on defined KPIs).",
+      "Threaten to quit immediately to test whether their HR policy is genuine or a counterfeit boundary.",
+      "Ask your boss to secretly pay the salary difference directly from his personal discretionary expense account."
+    ],
+    "correctAnswer": 1,
+    "explanation": "When an employer faces legitimate budget constraints or bureaucratic salary caps, continuing to demand immediate cash creates an impasse. Voss advises expanding the pie: negotiate terms that are cheap for the employer to grant but high-value to you (a superior title, executive mentorship, flexible scheduling, tuition reimbursement). Crucially, link this to an agreed-upon accelerated performance review (e.g., 'If I achieve X deliverables in 6 months, can we agree now to review and adjust my compensation to Y?'). This allows the manager to hire you within today's constraints while locking in future upside.",
+    "citation": "Chapter 6: Bend Their Reality - How to Negotiate a Better Salary"
+  },
+  {
+    "id": "vq58",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: Guarantee Execution (7-38-55, Rule of 3, Liars)",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "During an enterprise partnership discussion, the CEO opposite you says, 'Yes, we can definitely meet that launch deadline,' but her voice hesitates slightly, she leans back in her chair, and her eyes glance toward the door. According to Voss, what is the exact tactical sequence to address this non-verbal incongruence?",
+    "options": [
+      "Immediately challenge her: 'You say yes, but your body language proves you are lying to me.'",
+      "Ignore the nonverbal cue and immediately send a binding legal contract before she can reconsider her verbal agreement.",
+      "Gently label the hesitation in your FM DJ voice: 'I heard you say 'yes,' but it seemed like there was some hesitation in your voice. It's important that we get this right and that you feel comfortable.'",
+      "Demand an immediate penalty clause of $10,000 for every day the launch is delayed past the agreed date."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Under the 7-38-55 Rule, when verbal words (7%) clash with vocal tone (38%) or body language (55%), people invariably trust the nonverbal signals. Calling someone a liar creates immediate defensiveness. Instead, Voss teaches negotiators to gently label the discrepancy with empathy: 'I heard you say 'yes,' but it seemed like there was some hesitation in your voice. It's important that we get this right.' If they attempt to brush it off ('Oh, it's nothing'), double down warmly: 'No, this is important, let's make sure we address it.' This gives the counterpart permission to reveal hidden operational constraints before the agreement fails.",
+    "citation": "Chapter 8: Guarantee Execution - The 7-38-55 Percent Rule"
+  },
+  {
+    "id": "vq59",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: Guarantee Execution (7-38-55, Rule of 3, Liars)",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In Chapter 8, Chris Voss cites forensic research by Deepak Malhotra and linguistic studies on the 'Pinocchio Effect' and the 'Pronoun Rule.' What linguistic patterns distinguish deceptive negotiators and low-authority underlings from true decision-makers?",
+    "options": [
+      "Deceptive negotiators speak in short, monosyllabic bursts; low-authority individuals avoid pronouns entirely.",
+      "Liars consistently use future tense verbs; high-authority executives use passive voice in 100% of contract negotiations.",
+      "Low-authority negotiators speak only in calibrated questions; liars exclusively use Late-Night FM DJ vocal inflection.",
+      "Liars use significantly more words, overly elaborate sentences, and third-person pronouns ('they', 'he', 'the team') to distance themselves from lies; furthermore, low-authority negotiators overuse first-person singular pronouns ('I', 'me', 'my') to project artificial status, while real decision-makers use 'we' and 'us'."
+    ],
+    "correctAnswer": 3,
+    "explanation": "The 'Pinocchio Effect' shows that just as Pinocchio's nose grew when he lied, a liar's sentence length and word count balloon when fabricating stories. Liars exert subconscious effort to sound credible, piling on unnecessary adjectives and using third-person pronouns ('they', 'them', 'the organization') to distance themselves from guilt. The 'Pronoun Rule' reveals organizational hierarchy: insecure subordinates with little real power puff themselves up by overusing 'I', 'me', and 'my' to sound important. In contrast, genuine power players downplay their ego, using 'we', 'our team', or 'the committee' to maintain negotiating maneuverability.",
+    "citation": "Chapter 8: Guarantee Execution - The Pinocchio Effect & The Pronoun Rule"
+  },
+  {
+    "id": "vq60",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: Bend Their Reality (Anchors, Loss Aversion, 'Fair')",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "Voss recounts a student who broke the news of a bad college exam grade to her parents by opening with: 'I have something terrible to tell you... you are going to be furious, you'll probably disown me, and you'll realize I'm the worst daughter ever.' Why was this extreme negative anchor so psychologically effective?",
+    "options": [
+      "By priming her parents' System 1 imaginations with catastrophic possibilities (such as criminal arrest, pregnancy, or drug addiction), the actual news of a failing grade felt like a minor relief, triggering empathy rather than fury.",
+      "It caused her parents to suffer temporary cognitive dissonance, rendering them unable to grade her performance objectively.",
+      "It allowed her parents to exercise their legal BATNA before reviewing her report card.",
+      "Extreme anchors only work when communicating via written handwritten letters, as described in Harvard negotiation doctrine."
+    ],
+    "correctAnswer": 0,
+    "explanation": "This scenario illustrates the power of an extreme emotional anchor combined with an Accusation Audit. When you warn someone that something horrifying has happened, their imagination runs wild with worst-case scenarios (arrest, pregnancy, death, financial ruin). By anchoring their expectations at absolute disaster, when the reality is revealed ('I got an F in statistics'), the reality feels comparatively manageable. Kahneman's prospect theory dictates that human emotional reactions are relative to a reference point; resetting their reference point to catastrophe transforms bad news into a relief.",
+    "citation": "Chapter 6: Bend Their Reality - How to Anchor Their Emotions"
+  },
+  {
+    "id": "vq61",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: Create the Illusion of Control (Calibrated Questions)",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "While Chris Voss strictly advises against asking questions that start with 'Why' because they trigger universal defensiveness, what is the one counterintuitive scenario where asking 'Why' is a devastatingly effective sales tactic?",
+    "options": [
+      "Asking a vendor 'Why are your prices so high?' to force them to offer an immediate 20% discount.",
+      "Asking an employee 'Why did you fail to complete this task?' to assert executive dominance.",
+      "Asking a prospective client 'Why would you ever leave your current supplier when they've been serving you for five years to go with a new firm like us?', forcing the client to articulate your competitive advantages and disqualify the incumbent.",
+      "Asking kidnappers 'Why do you believe you will get away with this crime?' to plant moral doubt."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The word 'Why' instinctively provokes people to defend themselves and justify their positions. Normally, this shuts down negotiation. However, if you steer that defensiveness in your favor, 'Why' becomes a psychological weapon. When pitching a client currently using a competitor, asking: 'Why would you ever consider leaving your current vendor who has been doing this for years to hire us?' prompts the client to defend the idea of leaving their vendor. The client will list all the competitor's failings, missed deadlines, and poor service, effectively convincing themselves why they must hire you.",
+    "citation": "Chapter 7: Create the Illusion of Control - Avoid “Why” (The Strategic Exception)"
+  },
+  {
+    "id": "vq62",
+    "chapterId": "appendix",
+    "chapterName": "Appendix: Prepare a Negotiation One Sheet",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In the Negotiation One Sheet preparation architecture, how do Section II (The Summary) and Section IV (Calibrated Questions) work in direct tandem to smoke out hidden 'behind-the-table' veto players before a contract is finalized?",
+    "options": [
+      "Section II calculates the financial ROI, while Section IV sets the legal penalty clauses for non-delivery.",
+      "Section II establishes deep tactical empathy by summarizing the counterpart's past pains until they blurt out 'That's right'; Section IV then leverages that trust to ask calibrated execution questions ('How does this affect your colleagues in legal and operations?') that unmask hidden deal killers.",
+      "Section II forces the counterpart to sign a non-disclosure agreement, which allows Section IV to introduce the Ackerman bargaining progression without legal liability.",
+      "Section II is designed exclusively for the seller, while Section IV is filled out by the buyer after the meeting concludes."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The One Sheet is designed so that each section fuels the next. In Section II, you craft a concise summary of the objective facts and emotional frustrations of the counterpart, engineered to trigger 'That's right' within the opening minutes. Having established total rapport and unconditional understanding, you earn the psychological license to probe deeper. In Section IV, you deploy pre-scripted calibrated questions targeted at implementation ('How does this affect the rest of your team?', 'What is the biggest challenge your colleagues see with this deal?'). This seamlessly turns the person across the table into your internal advocate, identifying behind-the-table veto players before they can derail execution.",
+    "citation": "Appendix: Prepare a Negotiation One Sheet - Sections II & IV"
   }
 ]
