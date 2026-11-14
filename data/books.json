@@ -1,0 +1,122 @@
+[
+  {
+    "id": "seven-principles",
+    "title": "The Seven Principles for Making Marriage Work",
+    "author": "John Gottman, Ph.D. & Nan Silver",
+    "year": 2015,
+    "description": "The definitive empirical guide to relationship longevity from the Seattle Love Lab. Tests your knowledge on the 7 principles, the Four Horsemen, conflict types, and daily habits.",
+    "icon": "❤️",
+    "dataFile": "data/seven-principles.json",
+    "totalQuestions": 35,
+    "chapters": [
+      {
+        "id": "ch1",
+        "name": "Ch 1: Inside the Seattle Love Lab & Marriage Myths"
+      },
+      {
+        "id": "ch2",
+        "name": "Ch 2: The Sound Relationship House & Trust"
+      },
+      {
+        "id": "ch3",
+        "name": "Ch 3: Predicting Divorce & The Four Horsemen"
+      },
+      {
+        "id": "ch4",
+        "name": "Ch 4: Principle 1 - Enhance Your Love Maps"
+      },
+      {
+        "id": "ch5",
+        "name": "Ch 5: Principle 2 - Nurture Fondness & Admiration"
+      },
+      {
+        "id": "ch6",
+        "name": "Ch 6: Principle 3 - Turn Toward Each Other"
+      },
+      {
+        "id": "ch7",
+        "name": "Ch 7: Principle 4 - Let Your Partner Influence You"
+      },
+      {
+        "id": "ch8",
+        "name": "Ch 8: Solvable vs. Perpetual Conflicts"
+      },
+      {
+        "id": "ch9",
+        "name": "Ch 9: Principle 5 - Solve Your Solvable Problems"
+      },
+      {
+        "id": "ch10",
+        "name": "Ch 10: Coping with Typical Solvable Problems"
+      },
+      {
+        "id": "ch11",
+        "name": "Ch 11: Principle 6 - Overcome Gridlock"
+      },
+      {
+        "id": "ch12",
+        "name": "Ch 12: Principle 7 - Create Shared Meaning"
+      },
+      {
+        "id": "afterword",
+        "name": "Afterword: The Magic Six Hours & Daily Habits"
+      }
+    ]
+  },
+  {
+    "id": "never-split",
+    "title": "Never Split the Difference: Negotiating As If Your Life Depended On It",
+    "author": "Chris Voss with Tahl Raz",
+    "year": 2016,
+    "description": "A former lead FBI international kidnapping negotiator shares field-tested principles for high-stakes bargaining, tactical empathy, calibrated questions, labeling, and uncovering Black Swans.",
+    "icon": "🤝",
+    "dataFile": "data/never-split.json",
+    "totalQuestions": 44,
+    "chapters": [
+      {
+        "id": "ch1",
+        "name": "Ch 1: The New Rules & System 1 Psychology"
+      },
+      {
+        "id": "ch2",
+        "name": "Ch 2: Be a Mirror (Voices & Isopraxism)"
+      },
+      {
+        "id": "ch3",
+        "name": "Ch 3: Don’t Feel Their Pain, Label It (Tactical Empathy)"
+      },
+      {
+        "id": "ch4",
+        "name": "Ch 4: Beware “Yes”—Master “No”"
+      },
+      {
+        "id": "ch5",
+        "name": "Ch 5: Trigger “That’s Right” (Summaries)"
+      },
+      {
+        "id": "ch6",
+        "name": "Ch 6: Bend Their Reality (Anchors, Loss Aversion, “Fair”)"
+      },
+      {
+        "id": "ch7",
+        "name": "Ch 7: Create the Illusion of Control (Calibrated Questions)"
+      },
+      {
+        "id": "ch8",
+        "name": "Ch 8: Guarantee Execution (7-38-55, Rule of 3, Liars)"
+      },
+      {
+        "id": "ch9",
+        "name": "Ch 9: Bargain Hard (Ackerman Model & Types)"
+      },
+      {
+        "id": "ch10",
+        "name": "Ch 10: Find the Black Swan (Unknowns & Leverage)"
+      },
+      {
+        "id": "appendix",
+        "name": "Appendix: Prepare a Negotiation One Sheet"
+      }
+    ]
+  }
+]
