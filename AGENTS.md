@@ -10,7 +10,7 @@ Welcome to the **Book Quiz** repository. This document provides complete archite
 
 * **Tech Stack:** Pure Vanilla JavaScript (ES6+), modern CSS3 (custom properties, light/dark theme), and HTML5.
 * **Zero Runtime Dependencies:** No Node/npm packages, no bundlers, no build step. Runs directly in any modern web browser.
-* **Hosting Model:** Optimized for **GitHub Pages** (root branch deployment), Cloudflare Pages, or any static HTTP host.
+* **Hosting Model:** Exclusively hosted on **GitHub Pages** (root branch deployment).
 * **Content Philosophy:** Questions must be **deep, substantive, and non-trivial**—focusing on psychological mechanisms, counter-intuitive research, tactical dilemmas, and empirical findings rather than superficial trivia.
 
 ---
@@ -19,11 +19,10 @@ Welcome to the **Book Quiz** repository. This document provides complete archite
 
 ```text
 ~/book-quiz/
-├── index.html                     # Main SPA entrypoint & view structures
+├── index.html                     # Main SPA entrypoint & view structures (GitHub Pages root)
 ├── style.css                      # Complete styling, CSS variables, dark/light themes
 ├── app.js                         # Application engine, state manager, quiz & study logic
-├── launch.sh                      # 1-click local testing server (python3 http.server on 8080)
-├── README.md                      # User-facing documentation & deployment guide
+├── README.md                      # User-facing documentation & GitHub Pages deployment guide
 ├── AGENTS.md                      # AI agent guide (this file)
 └── data/
     ├── books.json                 # Book registry (metadata, chapters, question counts)
@@ -37,16 +36,7 @@ Welcome to the **Book Quiz** repository. This document provides complete archite
 
 ## 🛠️ Key Commands & Workflows
 
-### 1. Local Development & Preview
-To start the local preview server:
-```bash
-./launch.sh
-# Or directly:
-python3 -m http.server 8080
-```
-Then navigate to `http://localhost:8080`.
-
-### 2. Syntax & Validation Checks
+### 1. Syntax & Validation Checks
 * **Validate JavaScript Syntax:**
   ```bash
   node -c app.js
@@ -69,8 +59,8 @@ Then navigate to `http://localhost:8080`.
   "
   ```
 
-### 3. Git Commits & Deployment
-Changes pushed to the `main` branch immediately publish to GitHub Pages:
+### 2. Git Commits & Deployment
+Because the project is hosted on GitHub Pages, committing and pushing to `main` deploys the updates automatically:
 ```bash
 git add .
 git commit -m "Your descriptive message"
@@ -90,8 +80,8 @@ Managed in `app.js` via the `showView(viewName)` function:
 * `viewSummaries` (`#viewSummaries`): Comprehensive chapter-by-chapter study guide with quick navigation pills.
 
 ### 2. Data Loading Strategy (Dynamic Fetch + Embedded Fallback)
-* When hosted on GitHub Pages or a local HTTP server, `app.js` dynamically fetches `data/books.json`, `data/<book-id>.json`, and `data/<book-id>-summaries.json`.
-* If a network error occurs or the app is loaded offline, `app.js` seamlessly falls back to embedded constant data arrays (`DEFAULT_BOOKS`, `DEFAULT_SEVEN_PRINCIPLES_QUESTIONS`, etc.).
+* Running on GitHub Pages, `app.js` dynamically fetches `data/books.json`, `data/<book-id>.json`, and `data/<book-id>-summaries.json`.
+* If a network error occurs or the client is offline, `app.js` seamlessly falls back to embedded constant data arrays (`DEFAULT_BOOKS`, `DEFAULT_SEVEN_PRINCIPLES_QUESTIONS`, etc.).
 * **Rule:** When modifying or expanding questions in `data/`, always synchronize the corresponding `DEFAULT_*` arrays in `app.js` so offline and online states stay 100% identical.
 
 ---

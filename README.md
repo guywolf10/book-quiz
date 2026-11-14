@@ -1,6 +1,6 @@
 # 📖 Book Quiz — Active Reading & Recall Web App
 
-A lightweight, zero-dependency web application designed for active recall, self-testing, and deep retention of non-fiction books. Built with pure HTML5, modern CSS3, and Vanilla JavaScript—ready for instant one-click deployment to **GitHub Pages**.
+A lightweight, zero-dependency web application designed for active recall, self-testing, and deep retention of non-fiction books. Built with pure HTML5, modern CSS3, and Vanilla JavaScript—hosted exclusively on **GitHub Pages**.
 
 ---
 
@@ -15,67 +15,61 @@ A lightweight, zero-dependency web application designed for active recall, self-
 * **🔍 Granular Topic Filtering:** Focus on specific chapters (e.g., just *Love Maps* or *The Ackerman Model*) or test the entire book.
 * **⌨️ Keyboard Navigation:** Answer instantly using keys `1`–`4` or `A`–`D`, and advance with `Enter` or `Space`.
 * **📱 100% Mobile Optimized:** Responsive layout, minimum 44px–48px touch targets, smooth scroll-snapping navigation, zero tap latency, and WCAG AAA contrast in light and dark mode.
-* **🌐 Native HTTP / Static Hosting:** Fully compatible with GitHub Pages, Cloudflare Pages, Netlify, or any static host. Works seamlessly on mobile Safari and Chrome.
+* **🌐 Native Static Architecture:** Loads asynchronously via standard `fetch()` with zero build steps or package managers.
 
 ---
 
 ## 📚 Included Books
 
 ### 1. *The Seven Principles for Making Marriage Work* (John Gottman, Ph.D. & Nan Silver, 2015)
-* **Comprehensive Question Bank & 13 Chapter Study Guides**
+* **97 Deep Questions & 13 Chapter Study Guides**
 * **Core Topics:**
-  * The Seattle Love Lab methodology and the 91% divorce prediction rate.
+  * The Seattle Love Lab methodology, continuous rating dials, and the 91% divorce prediction rate.
   * Debunking marriage myths: why *quid pro quo* tally-keeping is toxic, why conflict avoiders thrive, and why affairs are a symptom rather than the root cause.
   * The Sound Relationship House, Trust & Commitment walls, and Negative Sentiment Override (*"The Roach Motel for Lovers"*).
   * The Four Horsemen (*Criticism, Contempt, Defensiveness, Stonewalling*) and their specific psychological antidotes.
   * Physiological Flooding (>100 bpm, fight-or-flight prefrontal shutdown) and gender cardiovascular reactivity (85% male stonewallers).
   * Principle 1 (Love Maps & the *"Who Am I?"* exercise); Principle 2 (Fondness & Admiration, scanning for positives); Principle 3 (Turning Toward, bids, and the anatomy of Sadness as loss, Anger as a blocked goal, and Fear as unsafety).
-  * Principle 4 (Accepting influence; 81% divorce reduction in men); Solvable vs. Perpetual conflicts (the 69% philosophy); Principle 5 (5-step problem solving, 20-min soothing break without ruminating, Two Concentric Circles, processing regrettable incidents).
-  * Solvable issues (in-law solidarity, housework as emotional respect, gentle sexual communication); Principle 6 (Uncovering hidden life dreams, 3 levels of honoring dreams); Principle 7 (Four Pillars of Shared Meaning & Rituals of Connection); Afterword (The 6-second kiss, State of the Union blueprint, Marital Poop Detector).
+  * Principle 4 (Accepting influence; 81% divorce reduction in men; Gottman Island Survival Game); Solvable vs. Perpetual conflicts (the 69% philosophy; Dan Wile's unsolvable problems thesis); Principle 5 (5-step problem solving, 20-min soothing break without ruminating, Two Concentric Circles, processing regrettable incidents).
+  * Solvable issues (in-law solidarity, housework as emotional respect, game theory sexual dynamics where rewarding "no" raises frequency); Principle 6 (Uncovering hidden life dreams, 3 levels of honoring dreams); Principle 7 (Four Pillars of Shared Meaning & intentional Rituals of Connection); Afterword (The 6-second kiss, State of the Union blueprint, Marital Poop Detector).
 
 ### 2. *Never Split the Difference: Negotiating As If Your Life Depended On It* (Chris Voss & Tahl Raz, 2016)
-* **Tactical Question Bank & 11 Chapter Study Guides**
+* **62 Tactical Questions & 11 Chapter Study Guides**
 * **Core Topics:**
   * Behavioral economics in crisis negotiation: System 1 vs. System 2, Kahneman & Tversky, why traditional rational bargaining fails.
   * The 3 Voice Tones: Late-Night FM DJ Voice (downward calm inflection) vs. Positive/Playful vs. Direct/Assertive.
-  * Isopraxism linguistic mirroring (repeating 1–3 critical words).
-  * Tactical Empathy & Labeling (*"It seems like...", "It sounds like..."* to deactivate amygdala arousal); the Accusation Audit.
+  * Isopraxism linguistic mirroring (repeating 1–3 critical words; the Chris Watts Chase Manhattan standoff).
+  * Tactical Empathy & Labeling (*"It seems like...", "It sounds like..."* to deactivate amygdala arousal); the Accusation Audit and avoiding the negation trap.
   * The 3 Types of "Yes" (Counterfeit, Confirmation, Commitment) and the psychological power of "No" for autonomy; *"Is now a bad time to talk?"*.
   * Triggering *"That's Right"* vs. the polite brush-off *"You're Right"*.
-  * Reality Bending: Prospect Theory, loss aversion, deadlines as arbitrary (e.g. Haitian kidnapping cases), why "Fair" is an emotional weapon, extreme anchoring, and range offers.
-  * Calibrated Questions: Starting with "What" and "How" (never accusatory "Why"); the calibrated no: *"How am I supposed to do that?"*; the Garcia proof of life technique.
+  * Reality Bending: Prospect Theory, loss aversion, arbitrary deadlines (e.g. Haitian kidnapping weekend party schedules), why "Fair" is an emotional weapon, extreme anchoring, and range offers.
+  * Calibrated Questions: Starting with "What" and "How" (never accusatory "Why"); the calibrated no: *"How am I supposed to do that?"*; proof of life filters.
   * Guaranteeing execution: The 7-38-55 Rule, the Rule of Three, spotting liars (Pinocchio effect, pronoun distancing), and uncovering hidden deal-killers.
-  * The 3 Negotiator Types (Accommodator, Assertive, Analyst) and the 6-step Ackerman Bargaining Model (65% → 85% → 95% → 100% with precise non-round numbers and non-cash items).
-  * Finding Black Swans: Unknown unknowns, the 3 types of leverage (Positive, Negative, Normative), and uncovering the counterpart's "religion".
+  * The 3 Negotiator Types (Accommodator, Assertive, Analyst) and their reactions to dynamic silence; the 6-step Ackerman Bargaining Model (65% → 85% → 95% → 100% with precise non-round numbers and non-cash items).
+  * Finding Black Swans: Unknown unknowns, the 3 types of leverage (Positive, Negative, Normative), and uncovering the counterpart's "religion" (Dwight Watson tractor standoff).
   * The Negotiation One Sheet 5-part preparation framework.
 
 ---
 
-## 🚀 How to Run & Deploy
+## 🚀 GitHub Pages Deployment
 
-### Deploy to GitHub Pages (Recommended)
-This repository is pre-configured for GitHub Pages:
-1. Create a new repository on GitHub (e.g. `book-quiz`).
-2. Add your remote and push:
+This repository is designed to run directly on **GitHub Pages**:
+
+1. Link your remote repository:
    ```bash
    cd ~/book-quiz
    git remote add origin git@github.com:<your-username>/book-quiz.git
    git push -u origin main
    ```
-3. In your GitHub repository, open **Settings → Pages**:
+2. Enable Pages in your GitHub repository:
+   * Go to **Settings → Pages**
    * **Source**: `Deploy from a branch`
    * **Branch**: `main` / `/(root)`
-   * Click **Save**.
-4. In ~30 seconds, your quiz web app is live at:
+   * Click **Save**
+3. In under a minute, the site is live at:
    `https://<your-username>.github.io/book-quiz/`
 
-### Local Testing
-To test or study locally on your machine:
-```bash
-cd ~/book-quiz
-./launch.sh
-```
-This launches a lightweight local HTTP server on port 8080 and opens `http://localhost:8080` in your default browser.
+To update questions, summaries, or styling at any time, simply commit and push to `main`.
 
 ---
 
@@ -111,7 +105,7 @@ You can add any other book (e.g., *Atomic Habits*, *Thinking, Fast and Slow*, *S
 ```bash
 git add .
 git commit -m "Add Atomic Habits"
-git push
+git push origin main
 ```
 
 ---
