@@ -118,5 +118,465 @@
         "name": "Appendix: Prepare a Negotiation One Sheet"
       }
     ]
+  },
+  {
+    "id": "dataclysm",
+    "title": "Dataclysm: Who We Are (When We Think No One’s Looking)",
+    "author": "Christian Rudder",
+    "year": 2014,
+    "description": "A big-data investigation into human nature by the co-founder of OkCupid. Tests mathematical principles, revealed vs. stated preferences, algorithmic self-fulfilling prophecies, and the digital Panopticon.",
+    "icon": "📊",
+    "dataFile": "data/dataclysm.json",
+    "totalQuestions": 48,
+    "chapters": [
+      {
+        "id": "ch1",
+        "name": "Ch 1: Wooderson’s Law"
+      },
+      {
+        "id": "ch2",
+        "name": "Ch 2: Death by a Thousand Mehs"
+      },
+      {
+        "id": "ch3",
+        "name": "Ch 3: Writing on the Wall"
+      },
+      {
+        "id": "ch4",
+        "name": "Ch 4: You Gotta Be the Glue"
+      },
+      {
+        "id": "ch5",
+        "name": "Ch 5: There’s No Success Like Failure"
+      },
+      {
+        "id": "ch6",
+        "name": "Ch 6: The Confounding Factor"
+      },
+      {
+        "id": "ch7",
+        "name": "Ch 7: The Beauty Myth in Apotheosis"
+      },
+      {
+        "id": "ch8",
+        "name": "Ch 8: It’s What’s Inside That Counts"
+      },
+      {
+        "id": "ch9",
+        "name": "Ch 9: Days of Rage"
+      },
+      {
+        "id": "ch10",
+        "name": "Ch 10: The Digital Footprint"
+      },
+      {
+        "id": "ch11",
+        "name": "Ch 11: The Mathematics of Identity"
+      },
+      {
+        "id": "ch12",
+        "name": "Ch 12: Epilogue / The Panopticon"
+      }
+    ]
+  },
+  {
+    "id": "six-minute-xray",
+    "title": "The Six-Minute X-Ray: Rapid Behavior Profiling",
+    "author": "Chase Hughes",
+    "year": 2020,
+    "description": "The definitive tactical manual for rapid behavioral profiling, deception detection, baseline calibration, and elicitation psychology developed for intelligence personnel and elite interrogators.",
+    "icon": "👁️",
+    "dataFile": "data/six-minute-xray.json",
+    "totalQuestions": 54,
+    "chapters": [
+      {
+        "id": "ch1",
+        "name": "Ch 1: Skills, Triune Brain Architecture & The 2/3 Rule"
+      },
+      {
+        "id": "ch2",
+        "name": "Ch 2: The Four Laws of Human Behavior & The Four Lenses"
+      },
+      {
+        "id": "ch3",
+        "name": "Ch 3: The Behavioral Table of Elements & Baseline Architecture"
+      },
+      {
+        "id": "ch4",
+        "name": "Ch 4: The Eyes: Blink Rate, GHT & Pupillometry"
+      },
+      {
+        "id": "ch5",
+        "name": "Ch 5: The Face: Micro-Expressions, Asymmetry & Lip Compression"
+      },
+      {
+        "id": "ch6",
+        "name": "Ch 6: The Body: Posture, Barriers & Micro-Movements"
+      },
+      {
+        "id": "ch7",
+        "name": "Ch 7: Deception Detection & Verbal Leakage Markers"
+      },
+      {
+        "id": "ch8",
+        "name": "Ch 8: Elicitation & The Hourglass Method"
+      },
+      {
+        "id": "ch9",
+        "name": "Ch 9: The Human Needs Map & Hidden Fears"
+      },
+      {
+        "id": "ch10",
+        "name": "Ch 10: The Decision Map© (The Six Decision Pillars)"
+      },
+      {
+        "id": "ch11",
+        "name": "Ch 11: Sensory Preference Identification (VAK Predicates)"
+      },
+      {
+        "id": "ch12",
+        "name": "Ch 12: Pronoun Identification & Psychological Indexing"
+      },
+      {
+        "id": "ch13",
+        "name": "Ch 13: Adjective Matching & Linguistic Pacing"
+      },
+      {
+        "id": "ch14",
+        "name": "Ch 14: How Compliance Works & Behavioral Entrainment"
+      },
+      {
+        "id": "ch15",
+        "name": "Ch 15: The Quadrant: Rapid Real-Time Profiling"
+      },
+      {
+        "id": "ch16",
+        "name": "Ch 16: The Behavior Compass: Circular Profiling Form"
+      },
+      {
+        "id": "ch17",
+        "name": "Ch 17: Tactical Profiling in Action: Critical Scenarios"
+      },
+      {
+        "id": "ch18",
+        "name": "Ch 18: The Six-Minute Protocol & Operational Training Roadmap"
+      }
+    ]
+  },
+  {
+    "id": "subtle-art",
+    "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+    "author": "Mark Manson",
+    "year": 2016,
+    "description": "A counterintuitive guide to finding peace, resilience, and purpose by choosing what struggles are worthy of your limited time and letting go of the rest.",
+    "icon": "⚡",
+    "dataFile": "data/subtle-art.json",
+    "totalQuestions": 54,
+    "chapters": [
+      {
+        "id": "ch1",
+        "name": "Ch 1: Don’t Try"
+      },
+      {
+        "id": "ch2",
+        "name": "Ch 2: Happiness Is a Problem"
+      },
+      {
+        "id": "ch3",
+        "name": "Ch 3: You Are Not Special"
+      },
+      {
+        "id": "ch4",
+        "name": "Ch 4: The Value of Suffering"
+      },
+      {
+        "id": "ch5",
+        "name": "Ch 5: You Are Always Choosing"
+      },
+      {
+        "id": "ch6",
+        "name": "Ch 6: You’re Wrong About Everything (And So Am I)"
+      },
+      {
+        "id": "ch7",
+        "name": "Ch 7: Failure Is the Way Forward"
+      },
+      {
+        "id": "ch8",
+        "name": "Ch 8: The Importance of Saying No"
+      },
+      {
+        "id": "ch9",
+        "name": "Ch 9: . . . And Then You Die"
+      }
+    ]
+  },
+  {
+    "id": "how-to-not-die-alone",
+    "title": "How to Not Die Alone: The Surprising Science That Will Help You Find Love",
+    "author": "Logan Ury",
+    "year": 2021,
+    "description": "A behavioral scientist turned dating coach offers an evidence-based roadmap to finding, building, and keeping lasting love using behavioral economics, attachment theory, and relationship design.",
+    "icon": "💘",
+    "dataFile": "data/how-to-not-die-alone.json",
+    "totalQuestions": 64,
+    "chapters": [
+      {
+        "id": "ch1",
+        "name": "Ch 1: Why Dating Is Harder Now Than Ever"
+      },
+      {
+        "id": "ch2",
+        "name": "Ch 2: The Three Dating Tendencies"
+      },
+      {
+        "id": "ch3",
+        "name": "Ch 3: Disney Lied to Us"
+      },
+      {
+        "id": "ch4",
+        "name": "Ch 4: Don’t Let Perfect Be the Enemy of Great"
+      },
+      {
+        "id": "ch5",
+        "name": "Ch 5: Don’t Wait, Date"
+      },
+      {
+        "id": "ch6",
+        "name": "Ch 6: Learn Your Attachment Style"
+      },
+      {
+        "id": "ch7",
+        "name": "Ch 7: Look for a Life Partner, Not a Prom Date"
+      },
+      {
+        "id": "ch8",
+        "name": "Ch 8: You Think You Know What You Want, but You’re Wrong"
+      },
+      {
+        "id": "ch9",
+        "name": "Ch 9: Meet People in Real Life"
+      },
+      {
+        "id": "ch10",
+        "name": "Ch 10: Your Dating Apps Are Doing It Wrong"
+      },
+      {
+        "id": "ch11",
+        "name": "Ch 11: Shift from Checklist to Experiential"
+      },
+      {
+        "id": "ch12",
+        "name": "Ch 12: Decide, Don't Slide"
+      },
+      {
+        "id": "ch13",
+        "name": "Ch 13: Stop Looking for the Spark"
+      },
+      {
+        "id": "ch14",
+        "name": "Ch 14: Hard Conversations & Breakups"
+      },
+      {
+        "id": "ch15",
+        "name": "Ch 15: The Modern Marriage Contract"
+      },
+      {
+        "id": "ch16",
+        "name": "Ch 16: Intentional Love"
+      }
+    ]
+  },
+  {
+    "id": "how-to-lie-with-statistics",
+    "title": "How to Lie with Statistics",
+    "author": "Darrell Huff",
+    "year": 1954,
+    "description": "The classic guide to identifying statistical deception, manipulated graphs, biased samples, and semi-attached figures in public and media discourse.",
+    "icon": "📉",
+    "dataFile": "data/how-to-lie-with-statistics.json",
+    "totalQuestions": 40,
+    "chapters": [
+      {
+        "id": "ch1",
+        "name": "Ch 1: The Sample with the Built-in Bias"
+      },
+      {
+        "id": "ch2",
+        "name": "Ch 2: The Well-Chosen Average"
+      },
+      {
+        "id": "ch3",
+        "name": "Ch 3: The Little Figures That Are Not There"
+      },
+      {
+        "id": "ch4",
+        "name": "Ch 4: Much Ado about Practically Nothing"
+      },
+      {
+        "id": "ch5",
+        "name": "Ch 5: The Gee-Whiz Graph"
+      },
+      {
+        "id": "ch6",
+        "name": "Ch 6: The One-Dimensional Picture"
+      },
+      {
+        "id": "ch7",
+        "name": "Ch 7: The Semiattached Figure"
+      },
+      {
+        "id": "ch8",
+        "name": "Ch 8: Post Hoc Rides Again"
+      },
+      {
+        "id": "ch9",
+        "name": "Ch 9: How to Statisticulate"
+      },
+      {
+        "id": "ch10",
+        "name": "Ch 10: How to Talk Back to a Statistic"
+      }
+    ]
+  },
+  {
+    "id": "scattered-minds",
+    "title": "Scattered Minds: The Origins and Healing of Attention Deficit Disorder",
+    "author": "Gabor Maté, M.D.",
+    "year": 2000,
+    "description": "Dr. Gabor Maté’s groundbreaking, compassionate investigation into ADD as an impairment of developmental neurobiology rooted in early attachment and emotional stress, rather than a purely genetic pathology.",
+    "icon": "🧠",
+    "dataFile": "data/scattered-minds.json",
+    "totalQuestions": 50,
+    "chapters": [
+      {
+        "id": "ch1",
+        "name": "Ch 1: So Much Soup and Garbage Can"
+      },
+      {
+        "id": "ch2",
+        "name": "Ch 2: Many Roads Not Traveled"
+      },
+      {
+        "id": "ch3",
+        "name": "Ch 3: We Could All Go Crazy"
+      },
+      {
+        "id": "ch4",
+        "name": "Ch 4: A Conflictual Marriage: ADD and the Family (I)"
+      },
+      {
+        "id": "ch5",
+        "name": "Ch 5: Forgetting to Remember the Future"
+      },
+      {
+        "id": "ch6",
+        "name": "Ch 6: Different Worlds: Heredity and the Environments of Childhood"
+      },
+      {
+        "id": "ch7",
+        "name": "Ch 7: Emotional Allergies: ADD and Sensitivity"
+      },
+      {
+        "id": "ch8",
+        "name": "Ch 8: A Surrealistic Choreography"
+      },
+      {
+        "id": "ch9",
+        "name": "Ch 9: Attunement and Attachment"
+      },
+      {
+        "id": "ch10",
+        "name": "Ch 10: The Footprints of Infancy"
+      },
+      {
+        "id": "ch11",
+        "name": "Ch 11: An Utter Stranger: ADD and the Family (II)"
+      },
+      {
+        "id": "ch12",
+        "name": "Ch 12: Stories within Stories: ADD and the Family (III)"
+      },
+      {
+        "id": "ch13",
+        "name": "Ch 13: This Most Frenetic of Cultures: The Social Roots of ADD"
+      },
+      {
+        "id": "ch14",
+        "name": "Ch 14: Severed Thoughts and Flibbertigibbets: Distractibility and Tuning Out"
+      },
+      {
+        "id": "ch15",
+        "name": "Ch 15: The Pendulum Swings: Hyperactivity, Lethargy and Shame"
+      },
+      {
+        "id": "ch16",
+        "name": "Ch 16: It Ain’t Over Till It’s Over: Unconditional Positive Regard"
+      },
+      {
+        "id": "ch17",
+        "name": "Ch 17: Wooing the Child"
+      },
+      {
+        "id": "ch18",
+        "name": "Ch 18: Like Fish in the Sea"
+      },
+      {
+        "id": "ch19",
+        "name": "Ch 19: Just Looking for Attention"
+      },
+      {
+        "id": "ch20",
+        "name": "Ch 20: The Defiant Ones: Oppositionality"
+      },
+      {
+        "id": "ch21",
+        "name": "Ch 21: Defusing Counterwill"
+      },
+      {
+        "id": "ch22",
+        "name": "Ch 22: My Marshmallow Caught Fire: Motivation and Autonomy"
+      },
+      {
+        "id": "ch23",
+        "name": "Ch 23: Trusting the Child, Trusting Oneself: ADD in the Classroom"
+      },
+      {
+        "id": "ch24",
+        "name": "Ch 24: Always on My Case: Teenagers"
+      },
+      {
+        "id": "ch25",
+        "name": "Ch 25: Justifying One’s Existence: Self-Esteem"
+      },
+      {
+        "id": "ch26",
+        "name": "Ch 26: Memories Are Made of This"
+      },
+      {
+        "id": "ch27",
+        "name": "Ch 27: Remembering What Didn’t Happen: The ADD Relationship"
+      },
+      {
+        "id": "ch28",
+        "name": "Ch 28: Moses Saved by the Angel: Self-Parenting (I)"
+      },
+      {
+        "id": "ch29",
+        "name": "Ch 29: The Physical and Spiritual Environment: Self-Parenting (II)"
+      },
+      {
+        "id": "ch30",
+        "name": "Ch 30: In Place of Tears and Sorrow: Addictions and the ADD Brain"
+      },
+      {
+        "id": "ch31",
+        "name": "Ch 31: I Never Saw the Trees: What Medications Can and Cannot Do"
+      },
+      {
+        "id": "ch32",
+        "name": "Ch 32: What It Means to Attend"
+      }
+    ]
   }
 ]

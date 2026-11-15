@@ -1,0 +1,682 @@
+[
+  {
+    "id": "stat-q01",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: The Sample with the Built-in Bias",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "Time magazine reported that the 'average Yaleman, Class of \u201924' made $25,111 a year twenty-five years after graduation. According to Darrell Huff, what is the primary structural flaw that makes this precise figure an extreme exaggeration of the class's true earnings?",
+    "options": [
+      "The researchers calculated the modal income rather than the arithmetic mean, exaggerating the earnings of the wealthiest cluster.",
+      "The sample omitted two groups most likely to depress the average: alumni whose addresses were unknown and those who were too ashamed of their meager earnings to return the questionnaire.",
+      "The university deliberately forged survey responses to stimulate alumni donations and inflate the institutional endowment.",
+      "The survey polled graduates during a severe recession when only government bondholders were willing to disclose their income."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Huff points out that any voluntary alumni mail survey suffers from severe self-selection and non-response bias. The alumni office readily tracks down wealthy, successful graduates listed in Who's Who and corporate registries, but loses track of clerks, mechanics, and unemployed alumni. Furthermore, of those who receive questionnaires, high earners brag while low earners throw the survey in the wastebasket. These two omitted groups would dramatically depress the true average.",
+    "citation": "Chapter 1: The Sample with the Built-in Bias - Yale Class of '24"
+  },
+  {
+    "id": "stat-q02",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: The Sample with the Built-in Bias",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In the famed 1936 Literary Digest presidential poll, ten million ballots were mailed out, predicting an overwhelming victory for Alf Landon over Franklin D. Roosevelt (370 to 161 electoral votes). Why did such a gigantic sample produce one of the most disastrous polling errors in history?",
+    "options": [
+      "The sample was far too small mathematically to achieve statistical significance across 48 sovereign states.",
+      "The questionnaire contained ambiguous double-barreled questions that confused voters regarding economic recovery policies.",
+      "The sample was drawn from telephone directories and the magazine's subscriber lists, heavily biasing it toward wealthier voters who favored Republicans during the Great Depression.",
+      "The pollsters failed to administer a lie-detector test to respondents who secretly planned to vote for third-party candidates."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sample size cannot compensate for a biased sampling frame. In 1936, during the depths of the Depression, individuals who could afford private telephone service and magazine subscriptions represented a distinct economic elite rather than a representative cross-section of the American voting public. This affluent demographic voted heavily Republican, causing the massive poll to crown Landon even as the broader electorate re-elected Roosevelt in a landslide.",
+    "citation": "Chapter 1: The Sample with the Built-in Bias - The Literary Digest Fiasco"
+  },
+  {
+    "id": "stat-q03",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: The Sample with the Built-in Bias",
+    "difficulty": "medium",
+    "type": "trap",
+    "question": "A door-to-door market research survey asked respondents to list all the magazines their household read, finding that vast numbers claimed to read Harper's while very few admitted to reading True Story. Publisher audit figures, however, showed True Story had millions of circulation while Harper's had only hundreds of thousands. What does this discrepancy prove about survey data?",
+    "options": [
+      "Surveys relying on self-reporting frequently measure respondents' vanity, prestige bias, and social aspiration rather than their objective behavior.",
+      "The interviewers made arithmetic errors when compiling readership percentages across suburban zip codes.",
+      "True Story magazines were being purchased exclusively by corporate libraries rather than private households.",
+      "Harper's subscribers systematically share each issue with dozens of neighbors, multiplying secondary readership."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Huff emphasizes that asking people what they read, do, or earn often measures what they wish they were or what sounds respectable. People were ashamed to admit reading pulp confession magazines like True Story and eager to claim the prestige of highbrow publications like Harper's. When researchers later offered to buy old waste magazines from homes, the true reading habits\u2014heaps of True Story and negligible Harper's\u2014were revealed.",
+    "citation": "Chapter 1: The Sample with the Built-in Bias - Magazine Readership & Snobbery"
+  },
+  {
+    "id": "stat-q04",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: The Sample with the Built-in Bias",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "During World War II, the National Opinion Research Center (NORC) sent Black and White interviewers to ask Southern Black respondents: 'Do you think it is more important to concentrate on beating the Axis, or to make democracy work better here at home?' Black interviewers found 39% answered 'Beat Axis,' while White interviewers found 62% gave that answer. What fundamental polling vulnerability does this demonstrate?",
+    "options": [
+      "Stratified random sampling requires a minimum sample size of ten thousand respondents to neutralize regional cultural variance.",
+      "Southern respondents were largely illiterate and unable to comprehend the political distinction between foreign and domestic policy.",
+      "Telephone polls are vastly superior to in-person interviews because they eliminate all demographic awareness.",
+      "Interviewer identity and social desirability pressures can severely distort responses, especially when questions touch upon loyalty or sensitive cultural taboos."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Respondents frequently tailor their answers to please the interviewer or avoid perceived social, legal, or physical danger. When questioned by White interviewers in the Jim Crow South during wartime, Black respondents overwhelmingly gave the patriotic, deferential answer ('Beat Axis') out of self-preservation and a desire to give a pleasing answer. When questioned by Black peers, they felt safer expressing their true priorities regarding domestic civil rights.",
+    "citation": "Chapter 1: The Sample with the Built-in Bias - NORC Interviewer Bias Experiment"
+  },
+  {
+    "id": "stat-q05",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: The Well-Chosen Average",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A real estate developer tells a prospective homebuyer that the 'average income' in a neighborhood is $15,000 a year. A year later, leading a taxpayers' protest against higher school taxes, the same developer argues that residents cannot afford the tax because the 'average income' is only $3,500. How can both statements be mathematically truthful while representing the exact same community?",
+    "options": [
+      "The developer adjusted the second income figure for double-digit annual hyperinflation between the two meetings.",
+      "The developer switched from reporting gross annual household revenue to net after-tax take-home pay.",
+      "The $15,000 figure is the arithmetic mean (pulled up by a few extremely wealthy estate owners), while the $3,500 figure is the median (the midpoint of a skewed distribution).",
+      "The developer polled only business owners in the first instance and only retired pensioners in the second petition."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Income distributions in neighborhoods with diverse residents are heavily right-skewed. The arithmetic mean adds every dollar earned and divides by the number of families, allowing a single multimillionaire's estate to inflate the mean to $15,000. The median simply locates the middle family, showing that 50% earn less than $3,500. Both are legitimate 'averages,' but using the mean conceals the typical resident's modest standard of living.",
+    "citation": "Chapter 2: The Well-Chosen Average - The Real Estate Agent's Trick"
+  },
+  {
+    "id": "stat-q06",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: The Well-Chosen Average",
+    "difficulty": "hard",
+    "type": "calculation",
+    "question": "A business has 3 owning partners and 90 factory workers. Total wages paid to workers are $198,000 ($2,200 each). The 3 owners draw $11,000 each in salary and share $45,000 in net profit. To deflate union wage demands, the owners distribute $30,000 of the profits as owner bonuses and announce a new average wage. How do they manipulate the statistics to show an 'average wage or salary' of $2,806.45 and 'average owner profits' of only $5,000?",
+    "options": [
+      "They amortize the factory's capital depreciation across 93 employee accounts to create paper losses.",
+      "They pool their own boosted salaries and bonuses ($21,000 each) into the worker wage pool, dividing $261,000 across all 93 people using the arithmetic mean.",
+      "They switch to the geometric mean, which automatically inflates baseline operational payroll by the cube root of gross revenue.",
+      "They calculate the median wage after excluding the lowest-paid 30 apprentices from the reported payroll figures."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Huff demonstrates this classic corporate whipsaw accounting trick: By taking $30,000 of profits and distributing it to the 3 partners as bonuses ($10,000 each), the partners now draw $21,000 each in compensation ($11k salary + $10k bonus = $63,000 total). They add this $63,000 to the $198,000 worker payroll ($261,000 total) and divide by 93 (90 workers + 3 owners), yielding an impressive mean wage of $2,806.45. Meanwhile, remaining profits appear to be a meager $15,000 ($5,000 per owner), making it look like owners take home less than 6% of earnings.",
+    "citation": "Chapter 2: The Well-Chosen Average - How to Whipsaw an Average"
+  },
+  {
+    "id": "stat-q07",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: The Well-Chosen Average",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Why can an author safely use the mean, median, and mode interchangeably when describing the heights of adult men, but commit severe statistical distortion when doing so with household wealth or corporate earnings?",
+    "options": [
+      "Human height is governed by non-parametric quantum biological thresholds that suppress mode calculations.",
+      "Income distributions are strictly binomial, causing the mean to oscillate wildly between fiscal quarters.",
+      "Height measurements are recorded in standard physical units, whereas money is an abstract social construct lacking empirical variance.",
+      "Human height approximates a symmetrical normal bell curve where mean, median, and mode coincide, whereas income is heavily skewed like a 'child's slide' with a long tail of extreme wealth."
+    ],
+    "correctAnswer": 3,
+    "explanation": "In symmetrical, bell-shaped normal distributions (such as adult human height), the mean, median, and mode fall at virtually the exact same point; one average describes the population as effectively as another. Socioeconomic data, however, is heavily asymmetrical and right-skewed\u2014resembling a child's slide with a steep climb on the left and a long gradual slope trailing out to extreme fortunes. In such distributions, the mean is pulled far away from the median.",
+    "citation": "Chapter 2: The Well-Chosen Average - Normal vs. Skewed Curves"
+  },
+  {
+    "id": "stat-q08",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: The Well-Chosen Average",
+    "difficulty": "hard",
+    "type": "trap",
+    "question": "The United States Steel Corporation announced that the average weekly earnings of its employees surged by 107 percent between 1940 and 1948. What concealed operational reality made this dramatic increase largely illusory as a measure of wage rates?",
+    "options": [
+      "The 1940 baseline included a massive number of part-time, short-hour workers recovering from the Depression, so earnings doubled primarily because employees worked more hours, not because pay rates doubled.",
+      "The corporation included its top executive stock options in the 1948 calculation while excluding them in 1940.",
+      "The Bureau of Labor Statistics recalculated the Consumer Price Index using gold-standard commodity baskets rather than paper dollars.",
+      "The 1948 figure represented gross Canadian subsidiary revenues rather than American steelworker payrolls."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Huff points out that average weekly earnings combine two independent variables: hourly wage rates and total hours worked. In 1940, American industry was still emerging from the Depression, and large numbers of steelworkers were employed part-time. By 1948, wartime and postwar industrial mobilization had workers on full-time and overtime shifts. Doubling weekly earnings when hours double indicates nothing about an actual increase in hourly pay rates.",
+    "citation": "Chapter 2: The Well-Chosen Average - U.S. Steel's 107% Wage Jump"
+  },
+  {
+    "id": "stat-q09",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: The Little Figures That Are Not There",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "Doakes Toothpaste launched a nationwide advertising campaign boasting that 'Users report 23% fewer cavities!' backed by an independent laboratory and certified by a CPA. How did the manufacturer manufacture this headline without committing outright legal perjury or inventing data?",
+    "options": [
+      "They secretly added fluoride to the test subjects' tap water without disclosing the chemical additive to the CPA.",
+      "They tested repeated small sample groups of only a dozen individuals; chance variation eventually produced a temporary 23% reduction in one group, while unfavorable trials were quietly buried.",
+      "They surveyed dental school faculty who owned shares in the toothpaste manufacturing parent company.",
+      "They defined 'cavity' as an infected root canal requiring immediate surgical extraction, ignoring standard enamel lesions."
+    ],
+    "correctAnswer": 1,
+    "explanation": "This is the classic small-sample file-drawer trick. With a small group (e.g., 12 people), pure chance ensures wide fluctuations in cavity incidence over a six-month period. If the group develops more cavities or sees no change, the company files the report away and tests a new group. Sooner or later, by pure random fluctuation, a group will show a dramatic 23% decline. The company then publishes that certified result and halts further testing.",
+    "citation": "Chapter 3: The Little Figures That Are Not There - Doakes Toothpaste"
+  },
+  {
+    "id": "stat-q10",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: The Little Figures That Are Not There",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "A clinical trial evaluated a new polio vaccine on 450 vaccinated children and 680 unvaccinated controls. During a subsequent local epidemic, not a single child in the vaccinated group contracted polio. Why did medical statisticians dismiss this seemingly miraculous result as completely worthless?",
+    "options": [
+      "Not a single child in the unvaccinated control group contracted polio either, because the natural incidence rate was so low that a sample 15 to 25 times larger was required to detect any protective effect.",
+      "The researchers failed to administer the vaccine intravenously, which was the only recognized medical protocol at the time.",
+      "The CPA auditing the study discovered that the laboratory thermometer was improperly calibrated.",
+      "Polio was proven to be caused exclusively by dietary vitamin deficiencies rather than viral transmission."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Because paralytic polio had a relatively low background incidence rate (only about two cases would be expected by chance in a random community cohort of 1,130 children), zero cases occurring in both vaccinated and control groups provided zero evidence of vaccine efficacy. The experiment was doomed from inception by inadequate sample size; detecting a statistically significant difference required 15 to 25 times more children.",
+    "citation": "Chapter 3: The Little Figures That Are Not There - The Polio Vaccine Test"
+  },
+  {
+    "id": "stat-q11",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: The Little Figures That Are Not There",
+    "difficulty": "medium",
+    "type": "trap",
+    "question": "Following World War II, housing developers built massive suburban tracts dominated by two-bedroom homes designed for the 'statistically average American family of 3.6 persons.' According to the American Public Health Association, what missing figure made this commercial strategy a disastrous miscalculation?",
+    "options": [
+      "The building codes failed to factor in garages for modern two-car automobile families.",
+      "The census count had accidentally counted family pets as legal dependents in farm counties.",
+      "Developers used European metric formulas that understated square footage by ten percent.",
+      "The range and distribution were missing: 3- to 4-person families made up only 45% of households, while 35% were 1- to 2-person and 20% had more than 4 persons, leaving the majority ill-served."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Designing exclusively for the mathematical average (3.6 persons = 2-bedroom home) ignores the dispersion of the population. When you look beyond the arithmetic mean to the actual distribution, 3- and 4-person families constituted a minority (45%). The remaining 55% of families were either too small (1-2 persons, 35%) or too large (5+ persons, 20%), resulting in severe regional overbuilding of 2-bedroom homes and chronic shortages of smaller and larger units.",
+    "citation": "Chapter 3: The Little Figures That Are Not There - The 3.6-Person Family House"
+  },
+  {
+    "id": "stat-q12",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: The Little Figures That Are Not There",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Dr. Arnold Gesell established developmental averages ('norms') for infant milestones, such as the age at which a baby sits erect. Why did popular media reports of these norms cause widespread unnecessary distress among parents?",
+    "options": [
+      "The researchers gathered data exclusively from institutionalized orphans suffering from acute malnutrition.",
+      "Gesell's measurement equipment suffered from mechanical friction errors that delayed clock recordings.",
+      "Popular articles omitted the standard range/variation and confused a descriptive mathematical average with a normative standard of 'desirable' or 'superior' development.",
+      "Pediatricians altered the definition of motor development to increase sales of orthopedic braces."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Two critical figures were missing: the dispersion range and the distinction between descriptive and normative. In any bell-shaped distribution of healthy infants, half will naturally achieve a milestone after the mathematical average. When media omit the wide normal range and treat the average as a minimum standard of 'normality,' parents whose perfectly healthy babies walk or sit a month later panic and conclude their child is retarded or inferior.",
+    "citation": "Chapter 3: The Little Figures That Are Not There - Gesell's Norms"
+  },
+  {
+    "id": "stat-q13",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: Much Ado about Practically Nothing",
+    "difficulty": "hard",
+    "type": "calculation",
+    "question": "Peter scores 98 and his sister Linda scores 101 on the Revised Stanford-Binet IQ test, which has an established probable error (PE) of 3 percent (~3 points). Linda boasts that she is above average (100) while Peter is inferior. What is the actual mathematical probability regarding their relative intelligence?",
+    "options": [
+      "Linda is guaranteed to be intellectually superior because her score exceeds the test's normative midpoint of 100.",
+      "Peter and Linda have identical IQs because Stanford-Binet test scores are automatically rounded to the nearest decile.",
+      "Because their scores are expressed as 98 +/- 3 and 101 +/- 3, there is an even 1-in-4 chance that Peter's true IQ exceeds 101 and a 1-in-4 chance Linda's is below 98, meaning Peter may well be superior.",
+      "The Stanford-Binet test has a standard deviation of 15, which makes all scores below 115 completely indistinguishable from random noise."
+    ],
+    "correctAnswer": 2,
+    "explanation": "With a probable error of 3%, Peter's score is 98 +/- 3 (a 50% chance his true IQ falls between 95 and 101, and a 25% chance it is above 101). Linda's score is 101 +/- 3 (a 50% chance her true IQ falls between 98 and 104, and a 25% chance it is below 98). Consequently, there is a substantial 1-in-4 chance that Peter's true IQ is above 101 and Linda's is below 98, in which case Peter is superior. Small differences within the margin of error are meaningless.",
+    "citation": "Chapter 4: Much Ado about Practically Nothing - Peter and Linda's IQ"
+  },
+  {
+    "id": "stat-q14",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: Much Ado about Practically Nothing",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "In the measurement of statistical reliability, what is the precise mathematical difference between the historical 'probable error' (PE) used by Huff and the modern 'standard error' (SE)?",
+    "options": [
+      "Standard error is used exclusively for financial balance sheets, while probable error applies to biological samples.",
+      "Probable error encompasses the middle 50% of cases (an even 50-50 chance), whereas standard error encompasses approximately 68.3% of cases in a normal distribution.",
+      "Probable error is calculated by dividing sample variance by the total population, while standard error uses sample median.",
+      "Standard error assumes a uniform rectangular distribution, whereas probable error assumes a Cauchy distribution."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Probable error (PE) was defined such that an observation has an equal 50-50 chance of falling within plus-or-minus one PE of the mean (encompassing the middle 50% of the distribution, or PE = 0.6745 * SE). Modern statisticians prefer the standard error (SE), which corresponds to one standard deviation of the sampling distribution and encompasses approximately 68.3% of cases under a normal curve.",
+    "citation": "Chapter 4: Much Ado about Practically Nothing - Probable Error vs. Standard Error"
+  },
+  {
+    "id": "stat-q15",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: Much Ado about Practically Nothing",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "Reader's Digest commissioned a comprehensive laboratory analysis of the smoke from leading cigarette brands, concluding that all brands were virtually identical in harmful tars and nicotine, meaning no brand was safer. How did the makers of Old Gold turn this devastating scientific finding into an advertising goldmine?",
+    "options": [
+      "Because Old Gold happened by a microscopic, statistically insignificant fraction to rank lowest in toxic compounds in that specific trial, they launched huge ads proclaiming that national tests proved Old Gold had the lowest nicotine.",
+      "They sued Reader's Digest for trademark infringement and forced the publication to retract the chemical analysis in full.",
+      "They demonstrated that Old Gold's paper wrapping was manufactured from organic virgin tobacco pulp.",
+      "They sponsored a subsequent university trial that replaced tobacco with dried lettuce leaves to claim zero nicotine."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Huff details how Old Gold seized on statistical noise. In any table of numbers, one brand must inevitably occupy the bottom row by chance, even if the difference is a negligible fraction of a milligram. Reader's Digest emphasized that the differences were entirely meaningless and all brands were equally toxic. Old Gold stripped away the context and splashed massive headlines across the country trumpeting that scientific tests proved Old Gold had the least nicotine, reaping immense sales until the FTC issued a cease-and-desist order.",
+    "citation": "Chapter 4: Much Ado about Practically Nothing - The Old Gold Cigarette Coup"
+  },
+  {
+    "id": "stat-q16",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: Much Ado about Practically Nothing",
+    "difficulty": "medium",
+    "type": "trap",
+    "question": "A magazine editor reviews a readership survey showing that 40% of surveyed male readers read an article on international politics, compared to only 35% who read an article on home gardening. The editor orders more international politics articles and fires the gardening writer. Why is this editorial decision statistically indefensible?",
+    "options": [
+      "International politics articles are legally mandated to undergo peer review before commercial publication.",
+      "Gardening enthusiasts are known to read magazines exclusively during spring planting months.",
+      "The survey designers utilized non-Euclidean geometric algorithms to tabulate rural mail returns.",
+      "Readership surveys have high probable errors due to sub-sample attrition; once non-readers and women are filtered out, the male sample is so small that a 5% difference is pure sampling noise."
+    ],
+    "correctAnswer": 3,
+    "explanation": "When commercial readership surveys divide respondents into sub-groups (e.g., filtering out non-subscribers, then filtering by gender, and then breaking down into 'read all', 'read some', 'didn't read'), the effective sample size for any specific cell shrinks to a handful of people. At such low sample sizes, the probable error easily exceeds 5% to 10%, meaning the observed 5% difference between 40% and 35% represents random sampling fluctuation rather than genuine reader preference.",
+    "citation": "Chapter 4: Much Ado about Practically Nothing - Magazine Readership Surveys"
+  },
+  {
+    "id": "stat-q17",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: The Gee-Whiz Graph",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is the primary visual and cognitive deception achieved by constructing a 'truncated line graph' (chopping off the bottom of the graph and eliminating the zero baseline)?",
+    "options": [
+      "It forces a modest, normal percentage increase to span the entire vertical height of the chart, tricking the eye into perceiving an explosive surge without changing a single plotted coordinate.",
+      "It mathematically converts a linear arithmetic regression into an exponential logarithmic curve.",
+      "It forces the reader to calculate the area under the curve using calculus integration.",
+      "It conceals negative cash balances by projecting them onto an imaginary third coordinate axis."
+    ],
+    "correctAnswer": 0,
+    "explanation": "An honest graph includes a zero baseline so the viewer can judge proportional change in proper visual perspective. When an illustrator lops off the bottom 90% of the grid, the modest 10% change that previously occupied a tiny gentle slope now stretches from the bottom edge to the very top edge of the page. The plotted coordinates remain 100% accurate, but the visual impression conveys a massive, sensational explosion.",
+    "citation": "Chapter 5: The Gee-Whiz Graph - Chopping Off the Bottom"
+  },
+  {
+    "id": "stat-q18",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: The Gee-Whiz Graph",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "In 1952, Columbia Gas System published a chart in its Annual Report and Time magazine showing that living costs rose 60% while the price of gas dropped 4%. How did Columbia Gas graphically distort this honest data to make living costs appear to triple while gas prices looked cut by a third?",
+    "options": [
+      "They inverted the horizontal axis so that calendar years ran backward from 1952 to 1942.",
+      "They plotted gas prices on a logarithmic scale while plotting consumer living costs on an arithmetic scale.",
+      "They replaced the line chart with a three-dimensional isometric projection that obscured the grid coordinates.",
+      "They truncated the vertical axis at the 90% mark with no broken axis or gap warning, dramatically magnifying the visual spread between the two curves."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Columbia Gas chopped off the bottom of the chart at 90% rather than 0%. With the zero baseline suppressed and no visual zig-zag line to warn the reader of a broken axis, the 60% climb in living costs appeared to surge from near the baseline to the top of the chart (looking like a 300% tripling), while the modest 4% decline in gas prices visually plunged downward as if it had dropped by a third.",
+    "citation": "Chapter 5: The Gee-Whiz Graph - Columbia Gas System Annual Report"
+  },
+  {
+    "id": "stat-q19",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: The Gee-Whiz Graph",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "An advertisement analyzed by Dun's Review shouted 'GOVERNMENT PAY ROLLS UP!' featuring a red line shooting from the bottom of the graph clear to the top. The underlying figures showed payrolls rose from $19,500,000 to $20,200,000 (under 4%). How did the illustrator manufacture the visual impression of a 400% surge?",
+    "options": [
+      "They plotted Canadian dollars on the left axis and depreciated Mexican pesos on the right axis.",
+      "They excluded military pensions and judicial salaries from the starting month's total.",
+      "They combined zero-line truncation with aggressive stretching of the vertical scale (changing the proportion between ordinate and abscissa) so each vertical mark represented a microscopic dollar value.",
+      "They plotted cumulative gross federal borrowing rather than monthly payroll disbursements."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Huff explains that after truncating the zero line, the illustrator's ultimate weapon is changing the ratio between the ordinate (y-axis) and the abscissa (x-axis). By assigning tiny numerical values to each vertical grid unit while keeping horizontal monthly spacing compact, a trivial 3.6% increase is stretched into a near-vertical cliff. Dun's Review contrasted this with an honest chart starting at zero, which showed a completely flat line titled 'GOVERNMENT PAY ROLLS STABLE.'",
+    "citation": "Chapter 5: The Gee-Whiz Graph - Dun's Review & Government Payrolls"
+  },
+  {
+    "id": "stat-q20",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: The Gee-Whiz Graph",
+    "difficulty": "medium",
+    "type": "trap",
+    "question": "Why is the defense 'truncating the vertical axis saves paper and avoids wasted white space' an insidious excuse when used in popular news magazines and corporate advertisements?",
+    "options": [
+      "Newsprint paper pulp is subsidized by government agricultural tariffs, making paper conservation irrelevant.",
+      "The human eye relies on proportional spatial relationships to interpret magnitude; eliminating the zero baseline deceives casual readers who perceive the line's visual rise rather than inspecting fine grid labels.",
+      "Modern printing presses cannot register ink lines that approach within two inches of a paper edge.",
+      "Truncating a graph forces corporate auditors to re-evaluate the company's tangible capital assets."
+    ],
+    "correctAnswer": 1,
+    "explanation": "While technical specialists examining lab instrumentation may zoom in on narrow operational ranges with explicit axis warnings, general readers process graphs visually and holistically. The eye naturally assumes the bottom edge represents zero. Chopping off the bottom destroys proportional perspective, making modest 2% to 5% ripples look like existential leaps, regardless of whether the artist claimed to 'save paper.'",
+    "citation": "Chapter 5: The Gee-Whiz Graph - The Paper-Saving Illusion"
+  },
+  {
+    "id": "stat-q21",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: The One-Dimensional Picture",
+    "difficulty": "hard",
+    "type": "calculation",
+    "question": "An illustrator prepares a pictograph to compare the weekly wage of a Rotundian carpenter ($30) with an American carpenter ($60). To dramatize the 2-to-1 ratio, the artist draws the American moneybag twice as tall as the Rotundian moneybag. According to the laws of geometry and human visual perception, what ratio does the viewer actually register?",
+    "options": [
+      "A 2-to-1 ratio, because the human eye strictly measures vertical linear altitude when evaluating icons.",
+      "A 3-to-1 ratio, because human binocular vision compresses horizontal width by fifty percent.",
+      "A 6-to-1 ratio, because the brain averages the linear perimeter with the printed dollar label.",
+      "An 8-to-1 ratio, because doubling the linear height doubles the width (4x area) and depth (8x volume), making the larger bag appear eight times as bulky."
+    ],
+    "correctAnswer": 3,
+    "explanation": "This is the classic square-cube law trap in pictographs. When you double the height of an image of a three-dimensional object like a moneybag, sack, or person, you must also double its width to maintain proportion, quadrupling its two-dimensional surface area (2^2 = 4). Because the drawing depicts a 3D solid, the brain perceives volume, which varies as the cube of the linear dimension (2^3 = 8). While the caption says 2-to-1, the visual impression screams 8-to-1.",
+    "citation": "Chapter 6: The One-Dimensional Picture - The Moneybag Illusion"
+  },
+  {
+    "id": "stat-q22",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: The One-Dimensional Picture",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "The American Iron and Steel Institute published a graphic to showcase the industry's capacity growth, contrasting the 10 million tons added in the 1930s with the 14.25 million tons added in the 1940s. Beyond drawing the second blast furnace 1.5 times taller, what additional graphic distortions did they introduce?",
+    "options": [
+      "They depicted the 1930s furnace surrounded by weeping workers to suggest economic depression.",
+      "They replaced the steel tonnage metric with British hundredweights to confuse congressional regulators.",
+      "They fattened the second furnace horizontally beyond proper proportion and extended molten iron bars, turning a modest 42% increase into an apparent 1,500% explosion.",
+      "They published the graphic in black-and-white to prevent readers from discerning furnace dimensions."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Huff highlights this prime example of corporate graphic manipulation from Steelways. While a 10M to 14.25M ton gain is a 42% increase, the artist drew the second furnace nearly 50% taller, expanded its horizontal girth disproportionately, and lengthened a graphic bar of molten iron 2.5 times. Between height, width, and volumetric optical illusion, an actual 42% increase produced a visual impression exceeding 1,500%.",
+    "citation": "Chapter 6: The One-Dimensional Picture - The Steel Industry Blast Furnaces"
+  },
+  {
+    "id": "stat-q23",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: The One-Dimensional Picture",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is the only mathematically honest and perceptually accurate method for constructing a pictorial chart (pictograph) comparing two quantities?",
+    "options": [
+      "Use repeated, uniform icons of identical size (e.g., one standard moneybag for $30, two identical moneybags for $60) rather than scaling the dimensions of a single icon.",
+      "Scale the diameter of circular pie charts using inverse logarithmic trigonometric formulas.",
+      "Draw the larger icon in transparent outline and the smaller icon in solid opaque ink.",
+      "Label all icons with five decimal places of precision in the top left corner."
+    ],
+    "correctAnswer": 0,
+    "explanation": "An honest pictograph functions exactly like a segmented bar chart: each unit is represented by an identical, fixed-size symbol. To represent twice as much money, you draw two identical moneybags; for three times as much, three identical bags. Scaling the dimensions (height and width) of a single icon inevitably triggers the square-cube law, geometrically exaggerating the comparison.",
+    "citation": "Chapter 6: The One-Dimensional Picture - Honest Pictographs"
+  },
+  {
+    "id": "stat-q24",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: The One-Dimensional Picture",
+    "difficulty": "medium",
+    "type": "trap",
+    "question": "Between 1860 and 1936, the number of milk cows in the United States grew from approximately 8 million to 25 million. If an illustrator depicts this three-fold increase by drawing a 1936 cow three times as tall as the 1860 cow, what bizarre psychological error does it induce in the reader?",
+    "options": [
+      "Readers assume the United States imported Swiss dairy cattle to replace domestic herds.",
+      "The 27-fold volumetric expansion of the cow graphic subliminally tricks the casual reader into believing individual American cows have grown to monstrous, giant proportions.",
+      "Readers conclude that milk production per cow dropped by two-thirds over the century.",
+      "The graphic causes farmers to under-report pasture acreage on subsequent agricultural census filings."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Huff points out that when an illustrator scales a biological creature in three dimensions to represent population growth, the visual footprint expands by $3^3 = 27$ times. A hasty scanner looking at the page is not only given an exaggerated impression of total herd growth, but is subconsciously left with the surreal impression that cows today are physically giant compared to the cows of 1860.",
+    "citation": "Chapter 6: The One-Dimensional Picture - The Giant Milk Cow"
+  },
+  {
+    "id": "stat-q25",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: The Semiattached Figure",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "An advertising campaign for an antiseptic nostrum loudly proclaims that 'laboratory tests prove half an ounce kills 31,108 germs in a test tube in 11 seconds.' Why is this sworn laboratory finding a prime example of a 'semiattached figure' when marketed to prevent or cure the common cold?",
+    "options": [
+      "The laboratory forgot to sterilize the test tubes prior to introducing the bacteria.",
+      "The figure was recorded in metric milliliters rather than imperial ounces.",
+      "An antiseptic effective in a test tube behaves entirely differently in the human throat, the product must be diluted to avoid burning delicate tissue, and colds are viral rather than bacterial.",
+      "The Food and Drug Administration prohibits the use of prime numbers in commercial medical marketing."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The semiattached figure works by demonstrating Fact B (the product kills bacteria in a glass vial) and pretending it proves Fact A (the product cures human colds). In reality: (1) what kills germs in a test tube may fail completely in human tissue, (2) the liquid must be heavily diluted so as not to injure the throat, and (3) colds are viral infections embedded inside cells, having zero relation to test-tube bacteria.",
+    "citation": "Chapter 7: The Semiattached Figure - The Germ-Killing Nostrum"
+  },
+  {
+    "id": "stat-q26",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: The Semiattached Figure",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "Princeton's Office of Public Opinion Research tested a poll question asking whether Black citizens had as good a chance as White people to get jobs. They discovered that respondents who harbored the strongest racial prejudice were the most likely to answer 'Yes' (two-thirds of prejudiced respondents said opportunities were equal). How can this semiattached figure be weaponized by a propagandist?",
+    "options": [
+      "The propagandist can prove that employment opportunities are determined entirely by federal civil service examinations.",
+      "If racial prejudice increases in a society, poll results showing 'equal job opportunities' will mathematically rise, allowing the propagandist to announce that civil rights conditions are improving.",
+      "The poll proves that labor unions had eliminated discrimination across all industrial trades.",
+      "The findings demonstrate that White workers were actively surrendering seniority rights to minority apprentices."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Because the survey question actually measured racial prejudice rather than actual labor market employment conditions, a rise in societal prejudice would cause more respondents to self-servingly claim that minorities face no obstacles. A propagandist tracking this poll over time could publish a glowing report showing that 'fair treatment is climbing,' when in fact racial hostility was worsening. The worse things get, the better the semiattached poll looks.",
+    "citation": "Chapter 7: The Semiattached Figure - The Princeton Racial Attitudes Poll"
+  },
+  {
+    "id": "stat-q27",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: The Semiattached Figure",
+    "difficulty": "hard",
+    "type": "calculation",
+    "question": "A defender of the A&P supermarket chain wrote to Harper's magazine arguing that the company could not be price-gouging because its net profit was 'only 1.1% on sales.' A subsequent reader pointed out that this figure was semiattached. How can a grocery business earning only 1% on sales generate an astounding 365% annual return on invested capital?",
+    "options": [
+      "If the merchant buys an item every morning for 99 cents and sells it every afternoon for $1.00, they make 1% on sales each day, which compounds across 365 daily inventory turnovers into a 365% annual return on their working capital.",
+      "The company reinvests all proceeds in tax-exempt municipal municipal utility bonds.",
+      "The supermarket charges suppliers a 25% shelf-slotting allowance that is excluded from gross sales revenue.",
+      "The Federal Reserve artificially inflates the velocity of M2 money supply in retail grocery corridors."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Huff clarifies the profound difference between margin on sales and return on investment. If a grocer invests $1,000 in inventory, sells it all in one day for $1,010, and repeats this daily throughout the year, their margin on total annual sales ($365,000) is a tiny ~1%. However, their profit on their original $1,000 capital is $3,650, or 365% a year. Quoting 1.1% on sales disguises immense capital profitability.",
+    "citation": "Chapter 7: The Semiattached Figure - The A&P 1% Profit Trap"
+  },
+  {
+    "id": "stat-q28",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: The Semiattached Figure",
+    "difficulty": "hard",
+    "type": "trap",
+    "question": "During the Spanish-American War, the death rate in the United States Navy was 9 per thousand, while the civilian death rate in New York City was 16 per thousand. Navy recruiters used these statistics to argue that it was safer to enlist in the Navy than to remain a civilian. What makes this recruitment claim a classic semiattached figure?",
+    "options": [
+      "The Navy excluded sailors killed in naval engagements outside Caribbean territorial waters.",
+      "New York City mortality rates were calculated using metric lunar calendar cycles.",
+      "Spanish naval artillery was so inaccurate that battle wounds were statistically negligible.",
+      "The two populations are demographically non-comparable: the Navy was composed of young, medically screened men in peak health, whereas the civilian population included infants, the elderly, and the terminally ill."
+    ],
+    "correctAnswer": 3,
+    "explanation": "A mortality comparison between two radically different populations is semiattached and meaningless without age-adjustment. Navy recruits undergo rigorous physical examinations and consist of young men in peak physical health, a group with an inherently low natural death rate. A city population includes frail newborns, aged pensioners, and chronically ill patients. The lower Navy death rate proves only that young healthy men die less frequently than a general cross-section of humanity.",
+    "citation": "Chapter 7: The Semiattached Figure - The Spanish-American War Navy Death Rate"
+  },
+  {
+    "id": "stat-q29",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: Post Hoc Rides Again",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A well-designed university study confirmed a statistically significant correlation between smoking cigarettes and earning lower college grades. Anti-tobacco advocates immediately claimed this proved smoking dulls students' minds. What alternative causal explanation highlights the post hoc fallacy here?",
+    "options": [
+      "College professors systematically dock letter grades from students who smell of tobacco smoke during seminars.",
+      "A lurking third variable\u2014such as extroversion or an active social lifestyle\u2014causes students to both spend more time socializing (and smoking) and less time studying, or academic stress drives struggling students to smoke.",
+      "Tobacco smoke deposits carbon residue directly on examination papers, making answers unreadable.",
+      "Cigarette manufacturers secretly financed the study to encourage students to switch to pipe tobacco."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Huff points out that correlation does not establish direction of causality or rule out common causes. It is entirely plausible that low grades cause academic anxiety, driving students to smoke (reverse causality). Even more probable is a confounding third factor: extroverted, highly sociable students who prioritize campus social life may smoke more and study less. Attributing lower grades to pharmacological brain dulling is unwarranted post hoc reasoning.",
+    "citation": "Chapter 8: Post Hoc Rides Again - Smoking and College Grades"
+  },
+  {
+    "id": "stat-q30",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: Post Hoc Rides Again",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Statisticians discovered a remarkably tight positive correlation between the salaries of Presbyterian ministers in Massachusetts and the price of rum in Havana, Cuba, spanning over half a century. What explains this statistically indisputable relationship?",
+    "options": [
+      "Massachusetts ministers were covertly investing church discretionary funds in the Caribbean rum trade.",
+      "Cuban sugar plantation barons were paying tithes to New England theological seminaries.",
+      "Neither variable had any causal effect on the other; both were propelled upward by a common third variable: the historic, worldwide rise in general price levels (inflation).",
+      "Increased rum consumption in Havana created moral panic, causing churches to increase pastoral compensation to lead temperance crusades."
+    ],
+    "correctAnswer": 2,
+    "explanation": "This is a classic illustration of a spurious correlation driven by a secular trend. Over the 19th and 20th centuries, global inflation and population growth steadily drove up wages and commodity prices across the globe. Both clerical salaries and rum prices rose in tandem because of general macroeconomic inflation, not because ministers and Cuban distillers were engaged in a reciprocal economic relationship.",
+    "citation": "Chapter 8: Post Hoc Rides Again - Ministers' Salaries and Havana Rum"
+  },
+  {
+    "id": "stat-q31",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: Post Hoc Rides Again",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "Centuries of informal empirical observation taught the indigenous people of the New Hebrides that healthy people were infested with body lice, whereas sick people rarely had lice. They concluded that body lice produce good health. What was the actual scientific reality behind this observation?",
+    "options": [
+      "When a person contracted a fever, their body temperature rose to levels intolerable for the lice, causing the parasites to abandon the host; the absence of lice was an effect of fever, not its prevention.",
+      "Body lice secrete an antibiotic peptide that immunizes the human bloodstream against tropical parasites.",
+      "Sick islanders were quarantined in ocean caves where high salt concentrations killed the lice.",
+      "Healthy islanders consumed a diet rich in wild ginger, which attracted harmless botanical insects."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Huff uses this vivid anthropological example to demonstrate reverse causality and post hoc confusion. Almost all islanders had lice as a normal baseline condition. When someone contracted a fever, their elevated skin temperature drove the lice off. The islanders observed that lice were absent on sick people and present on healthy people, falsely deducing that lice caused good health, when in fact high fever caused the lice to flee.",
+    "citation": "Chapter 8: Post Hoc Rides Again - The New Hebrides Body Lice"
+  },
+  {
+    "id": "stat-q32",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: Post Hoc Rides Again",
+    "difficulty": "hard",
+    "type": "trap",
+    "question": "A popular magazine article warned young women that attending college severely jeopardized their chances of getting married, citing data showing that a smaller percentage of female college graduates married compared to non-college women ('Can Susie Brown have a career and a husband?'). Why was this conclusion an unwarranted post hoc leap?",
+    "options": [
+      "The researchers surveyed only graduates of coeducational engineering institutions in Alaska.",
+      "Marriage certificate records were systematically destroyed during the 1930s dust bowl migrations.",
+      "Federal income tax penalties for married couples were eliminated during the Great Depression.",
+      "It confuses self-selection with causality: women choosing higher education in that era may have already had independent inclinations, career ambitions, or less desire for traditional marriage before ever setting foot on campus."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Huff points out that observing a lower marriage rate among college-educated women does not prove college makes them spinsters. In that historical era, women who sought higher education were often those who had pre-existing inclinations toward professional careers, intellectual independence, or less interest in marriage. Self-selection into college, rather than college curriculum itself, accounted for the correlation.",
+    "citation": "Chapter 8: Post Hoc Rides Again - College Women and Marriage"
+  },
+  {
+    "id": "stat-q33",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: How to Statisticulate",
+    "difficulty": "hard",
+    "type": "calculation",
+    "question": "During the Great Depression, union plasterers and carpenters took a 20% wage cut from $1.00 per hour down to 80 cents per hour. The following spring, the union won a 5% wage increase. The Associated Press reported that this raise 'gave back to the men one-fourth of the cut they took last winter.' What was the actual mathematical reality?",
+    "options": [
+      "The AP was correct, because 5% is exactly one-fourth of 20%.",
+      "The workers actually broke even due to lower consumer food price inflation.",
+      "The 5% raise applied to the lower 80-cent base yielded only 4 cents, restoring only one-fifth (20%) of the 20-cent cut, because the base had shifted.",
+      "The wage increase yielded 10 cents per hour because overtime hours were factored in."
+    ],
+    "correctAnswer": 2,
+    "explanation": "This is Huff's quintessential 'Battle of the Shifting Base.' A 20% cut on $1.00 reduces pay by 20 cents to 80 cents. When pay rises 5%, that 5% is calculated on the new, smaller base of 80 cents (0.05 * 0.80 = 4 cents). Four cents is one-fifth (20%) of the lost 20 cents, not one-fourth (25%). To fully restore a 20% cut, wages must rise 25%; to restore a 50% cut, wages must rise 100%.",
+    "citation": "Chapter 9: How to Statisticulate - The Shifting Base"
+  },
+  {
+    "id": "stat-q34",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: How to Statisticulate",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "The First National Bank of Boston distributed a widely reprinted map titled 'The Darkening Shadow,' illustrating federal spending by shading all American states west of the Mississippi River in ominous solid black. Why was this cartographic presentation a blatant example of 'statisticulation'?",
+    "options": [
+      "Western states have vast land areas but sparse populations and small aggregate incomes, making a given dollar amount of federal spending look visually like an encroaching empire covering half the continent.",
+      "The bank forgot to shade California, which at the time held 50% of the western population.",
+      "Federal spending was legally restricted to maritime naval infrastructure east of the Mississippi.",
+      "The map used Mercator projection distortions that shrank the visual area of Texas by forty percent."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A map introduces geographic area as a deceptive visual proxy for population and dollars. The First National Bank deliberately shaded western states because their enormous geographic size created an alarming, dark visual shadow across half the continent, even though their sparse populations generated relatively little income. If the bank had honestly shaded eastern states with equivalent total income (like New York and New England), the shadow would have appeared tiny and unimpressive.",
+    "citation": "Chapter 9: How to Statisticulate - The Darkening Shadow Map"
+  },
+  {
+    "id": "stat-q35",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: How to Statisticulate",
+    "difficulty": "hard",
+    "type": "calculation",
+    "question": "In a two-commodity economy, milk cost 20 cents and bread cost 5 cents last year. This year, milk dropped to 10 cents and bread rose to 10 cents. How can an unscrupulous statistician manipulate price index numbers to prove that the cost of living rose by 25%, fell by 20%, or remained completely unchanged?",
+    "options": [
+      "By substituting wholesale wheat futures contracts for baked retail bread loaves in the index.",
+      "By calculating caloric density ratios rather than retail shelf prices.",
+      "By adjusting currency values for European gold revaluation treaties.",
+      "Using last year as base makes milk 50% and bread 200% (arithmetic mean = 125%, a 25% rise); using this year as base shows past prices were 125% higher (a 20% drop); and using the geometric mean shows exactly 100% (no change)."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Huff demonstrates how index numbers can dance to any tune: (1) Taking last year as base (100%): milk dropped to 50%, bread rose to 200%. Arithmetic mean of 50 and 200 is 125% -> prices rose 25%! (2) Taking this year as base: last year milk was 200% and bread was 50%. Arithmetic mean is 125% -> last year was 25% higher, meaning prices fell 20%! (3) Switching to the geometric mean (sqrt(50 * 200) = sqrt(10,000) = 100%) proves prices did not change at all.",
+    "citation": "Chapter 9: How to Statisticulate - Price Index Tricks"
+  },
+  {
+    "id": "stat-q36",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: How to Statisticulate",
+    "difficulty": "medium",
+    "type": "trap",
+    "question": "A trade editorial argued that publisher book prices must rise dramatically because manufacturing costs rose 10%, raw materials rose 8%, and advertising costs rose 10%, proclaiming that 'combined cost boosts add up to a minimum of 28% to 30%.' What elementary mathematical error was committed?",
+    "options": [
+      "The author omitted state retail sales taxes from the manufacturing ledger.",
+      "Percentages cannot be added together across budget components: if every cost category rises by roughly 10%, the total production cost rises by approximately 10%, not 30%.",
+      "Book publishers amortize advertising expenses across a twenty-year depreciation schedule.",
+      "Raw paper materials were subsidized by federal forestry conservation grants."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Percentages cannot be summed like apples. Huff compares this to buying twenty grocery items that each rose 5% and claiming the cost of living rose 100% (doubled!). If labor rises 10%, materials rise 8%, and ads rise 10%, the overall budget increases by a weighted average of around 9% to 10%. Adding the percentages together is pure statistical nonsense (the 'one horse, one rabbit' fifty-fifty sandwich trick).",
+    "citation": "Chapter 9: How to Statisticulate - Adding Percentages Together"
+  },
+  {
+    "id": "stat-q37",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: How to Talk Back to a Statistic",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "Under Filter Question 1 ('Who Says So?'), Darrell Huff warns against the power of the 'O.K. Name' (borrowed from Stephen Potter). How does an interested advocate exploit an 'O.K. Name' to give false credibility to a dubious statistical conclusion?",
+    "options": [
+      "The advocate cites a prestigious university, laboratory, or census bureau that provided raw descriptive tables, creating the illusion that the eminent institution endorses the advocate's own biased conclusions.",
+      "The advocate changes their personal legal surname to match an established Nobel laureate in economics.",
+      "The advocate registers an offshore shell corporation with initials matching the American Statistical Association.",
+      "The advocate bribes academic journal peer-reviewers to suppress competing dissertations."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Huff emphasizes that an 'O.K. Name' lends an unearned halo of scientific objectivity. A writer arguing that higher education ruins a woman's marriage prospects cites data collected by Cornell University. Readers carry away the false impression that 'Cornell University says college ruins marriage,' when in fact Cornell merely tabulated demographic alumni records and the sensationalized conclusion was entirely the writer's unsupported invention.",
+    "citation": "Chapter 10: How to Talk Back to a Statistic - The O.K. Name"
+  },
+  {
+    "id": "stat-q38",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: How to Talk Back to a Statistic",
+    "difficulty": "hard",
+    "type": "calculation",
+    "question": "Under Filter Question 4 ('Did Somebody Change the Subject?'), a commercial bank advertises an automobile loan of $100 with a 'low 6% interest rate' repaid in twelve equal monthly installments ($6 on the $100). What is the true effective annual interest rate (APR) paid by the borrower?",
+    "options": [
+      "Exactly 3%, because monthly compounding reduces nominal financing interest.",
+      "Nearly 12%, because monthly repayments constantly reduce the principal, meaning the borrower only holds an average balance of $50 over the year.",
+      "Exactly 6%, because federal truth-in-lending statutes require linear interest amortization.",
+      "Over 48%, because installment penalties trigger automatic delinquency surcharges."
+    ],
+    "correctAnswer": 1,
+    "explanation": "When you borrow $100 and pay it back in equal monthly installments over a year, you do not have the use of $100 for a year. By the end of six months, you have repaid half; by month twelve, you owe almost nothing. On average across the year, you hold approximately $50 of the bank's money. Paying $6 for the average use of $50 represents a true annual interest rate of nearly 12% (~11.6%), doubling the advertised '6%' rate.",
+    "citation": "Chapter 10: How to Talk Back to a Statistic - Installment Loan Interest Rates"
+  },
+  {
+    "id": "stat-q39",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: How to Talk Back to a Statistic",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "Under Filter Question 3 ('What's Missing?'), an anti-coeducation opponent cited official university statistics to announce a horrifying trend: 'Thirty-three and one-third percent of women enrolled at Johns Hopkins have married faculty members!' What missing figure completely destroys the credibility of this sensational statistic?",
+    "options": [
+      "The divorce rate among Maryland academic households.",
+      "The median age of female graduate students enrolled in clinical psychology.",
+      "The faculty salary schedule across departmental professorships.",
+      "The absolute sample size: exactly three women were enrolled at Johns Hopkins at the time, and one of them happened to marry a professor."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Huff points out that reporting impressive percentages while hiding raw absolute numbers is a primary weapon of statistical deception. In the early days of coeducation at Johns Hopkins, only three women were enrolled. When one female student married a professor, expressing this single event as '33 1/3 percent of the entire female student body' created the illusion of an epidemic of campus romances, while suppressing the truth that n = 3.",
+    "citation": "Chapter 10: How to Talk Back to a Statistic - Johns Hopkins Female Students"
+  },
+  {
+    "id": "stat-q40",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: How to Talk Back to a Statistic",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Under Filter Question 5 ('Does It Make Sense?'), Darrell Huff quotes Mark Twain's calculation from Life on the Mississippi: 'In 176 years the Lower Mississippi has shortened itself 242 miles (1 1/3 miles per year). Therefore, a million years ago it was 1.3 million miles long, and in 742 years it will be 1 3/4 miles long.' What statistical folly does this classic satire illustrate?",
+    "options": [
+      "The failure of civil engineers to measure alluvial sediment siltation in delta basins.",
+      "The mathematical impossibility of converting nautical fathoms to statute miles.",
+      "The absurdity of uncontrolled trend extrapolation, which assumes that a short-term historical rate will continue indefinitely without physical or environmental limit.",
+      "The deception of switching between arithmetic means and geometric averages in geological surveys."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mark Twain's famous quote illustrates the supreme folly of linear extrapolation. Taking a short-term empirical observation (the Mississippi cutting through oxbow bends at 1.3 miles per year) and projecting it backward and forward into infinity produces hilarious absurdity: a river sticking out over the Gulf of Mexico like a fishing rod, and Cairo and New Orleans merging under a single mayor. Trends do not continue indefinitely; 'everything else being equal' is never equal.",
+    "citation": "Chapter 10: How to Talk Back to a Statistic - Mark Twain and the Mississippi"
+  }
+]

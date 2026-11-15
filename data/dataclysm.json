@@ -1,0 +1,818 @@
+[
+  {
+    "id": "data-q01",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: Wooderson\u2019s Law",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What fundamental asymmetry between male and female attraction patterns did Christian Rudder discover when analyzing millions of ratings on OkCupid (termed 'Wooderson\u2019s Law')?",
+    "options": [
+      "Men's attraction curve rises continuously until age 40, reflecting evolutionary preferences for experienced partners.",
+      "Men of all ages (from 20 to 50) consistently rate women aged 20 to 22 as the most physically attractive, creating a flat plateau across four decades.",
+      "Men's preferred age dynamically scales alongside their own chronological age along the age-parity line.",
+      "Men prefer partners who are strictly 5 years younger than themselves at every stage of adulthood."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Named after Matthew McConaughey\u2019s character David Wooderson in Dazed and Confused ('I get older, they stay the same age'), Wooderson\u2019s Law describes how male sexual aims are an independent variable from a man's chronological age. Whether a man is 20, 35, or 50, his ratings of female physical attractiveness peak sharply and remain frozen at ages 20 to 22.",
+    "citation": "Chapter 1: Wooderson\u2019s Law - Independent Variables"
+  },
+  {
+    "id": "data-q02",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: Wooderson\u2019s Law",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How do women's age-based attraction patterns contrast with men's when evaluated against the 'age-parity diagonal'?",
+    "options": [
+      "Women also prefer 20- to 22-year-old men, mirroring male youth bias.",
+      "Women's preference is completely random, showing no statistical correlation with partner age.",
+      "Women's attraction closely follows the 'age-parity diagonal', where their preferred male age scales upward roughly in tandem with their own age.",
+      "Women consistently prefer men who are at least 15 to 20 years older than themselves across their entire lifespan."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Unlike men's flat 20-to-22 plateau, women's attraction curve runs parallel to the age-parity line (where male and female ages are equal). A 20-year-old woman prefers 23-year-old men; a 30-year-old woman prefers 30-year-olds; and a 40-year-old woman prefers men around 38\u201340. Women's sexual desire dynamically matures as they grow older.",
+    "citation": "Chapter 1: Wooderson\u2019s Law - The Age Parity Line"
+  },
+  {
+    "id": "data-q03",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: Wooderson\u2019s Law",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What discrepancy exists between older men's stated age preferences in search filters versus their revealed preferences in messaging behavior?",
+    "options": [
+      "Older men state they only want 20-year-olds in their search filters, but in private ratings they vote for women in their 40s.",
+      "Older men state and reveal identical age preferences, showing no divergence between survey filters and messaging clicks.",
+      "Older men filter exclusively for women with advanced graduate degrees, ignoring physical age.",
+      "Older men set search filters for age-appropriate women (e.g. 35\u201345) to appear socially normative, yet their actual rating and messaging behavior heavily targets women aged 20\u201322."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Stated preferences diverge sharply from revealed preferences. In their public profile settings and search filters, older men (e.g. age 45) specify socially acceptable age brackets (such as 35\u201348) to avoid appearing predatory. However, OkCupid's uninhibited rating and messaging data reveals that their unsolicited contacts overwhelmingly target women in their early twenties.",
+    "citation": "Chapter 1: Wooderson\u2019s Law - Stated vs. Revealed Preference"
+  },
+  {
+    "id": "data-q04",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: Wooderson\u2019s Law",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "According to US Census demographics and OkCupid pursuit data, what severe 'demographic cliff' do women face as they age compared to men?",
+    "options": [
+      "For every 100 men looking for a 20-year-old woman, only 9 are looking for a 50-year-old woman, creating a 91% collapse in male pursuit.",
+      "As women age, the ratio of single men to single women increases exponentially due to higher male longevity.",
+      "Older women receive more messages per capita than 20-year-old women because older men outnumber younger men on dating sites.",
+      "The supply of available suitors for women remains steady until age 65 due to universal serial monogamy."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Because men die earlier than women and men of all ages compete for women in their early twenties, women face a brutal demographic crunch. Census data shows single men outnumber women in youth (10 million single men ages 20\u201324 vs. 5 million by age 50). Comparing areas of interest, for every 100 men pursuing a 20-year-old, only 9 are seeking a woman 30 years older\u2014a 91% loss of potential suitors.",
+    "citation": "Chapter 1: Wooderson\u2019s Law - The Demographic Cliff"
+  },
+  {
+    "id": "data-q05",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: Death by a Thousand Mehs",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why does a woman with a high-variance rating distribution (many 1s and many 5s) receive significantly more inbound messages than a woman with a consensus 4-star rating?",
+    "options": [
+      "High variance in attractiveness ratings reduces messaging volume because consensus agreement is required for suitors to feel confident.",
+      "A profile with high rating variance (many 1s and many 5s) receives substantially more messages than a profile with low variance (consensus 3s and 4s), even with the same average score.",
+      "Average attractiveness is the sole mathematical determinant of inbound messages, with variance exerting zero statistical impact.",
+      "Profiles that receive 1-star ratings are automatically demoted by OkCupid's recommendation engine, starving them of inbound messages."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In Rudder's mathematical model, variance trumps the mean. A woman who polarizes men (generating enthusiastic 5-star ratings alongside hostile 1-star ratings) receives up to three times more messages than a woman whose votes cluster at a consensus 3.5 or 4 stars ('consensus cute'). The negative votes paradoxically drive engagement from the passionate subset.",
+    "citation": "Chapter 2: Death by a Thousand Mehs - The Power of Variance"
+  },
+  {
+    "id": "data-q06",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: Death by a Thousand Mehs",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "From a game-theoretic perspective, why are men more motivated to send messages to polarizing women than to universally attractive women?",
+    "options": [
+      "Suitors only message people they consider consensus 10s because the prestige of rejection is zero.",
+      "Suitors prefer consensus-attractive people because they assume other men are too intimidated to send messages.",
+      "A suitor pursuing a polarizing woman calculates that other men will be repelled by her unconventional look, reducing his competition and increasing his odds of a reply.",
+      "Suitors assume polarizing women have lower standards and are desperate for any social contact."
+    ],
+    "correctAnswer": 2,
+    "explanation": "When a man encounters a universally attractive woman, he assumes hundreds of rival men are flooding her inbox, making his individual chance of a reply negligible. However, when he is attracted to a polarizing woman (e.g. someone with prominent tattoos or eccentric style), he assumes most other men will give her 1 star and pass. This perceived lack of competition gives him the confidence to initiate contact.",
+    "citation": "Chapter 2: Death by a Thousand Mehs - Game Theory of Competition"
+  },
+  {
+    "id": "data-q07",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: Death by a Thousand Mehs",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A user on a dating app has an unconventional physical trait (such as bold sleeve tattoos, a shaved head, or quirky fashion). According to Rudder's variance analysis, what photo strategy should they follow?",
+    "options": [
+      "Accentuate distinctive, unconventional traits rather than airbrushing them, because polarizing opinions drives active messaging from enthusiasts.",
+      "Photoshop away all distinguishing features to achieve a bland, universally acceptable look that minimizes 1-star votes.",
+      "Avoid smiling and look away from the camera to simulate aloofness, which guarantees higher mean ratings.",
+      "Post only group photos with more attractive friends to benefit from the cheerleader effect."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rudder advises users to lean into their idiosyncrasies rather than hide them. Airbrushing away unconventional traits produces 'a thousand mehs'\u2014mild, indifferent approval that yields zero messages. Showcasing distinctive features repels people who wouldn't be compatible anyway, while igniting the passionate enthusiasm of suitors who specifically prize that look.",
+    "citation": "Chapter 2: Death by a Thousand Mehs - Accentuate the Negative"
+  },
+  {
+    "id": "data-q08",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: Death by a Thousand Mehs",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Why does Christian Rudder use cult film director John Waters (director of Pink Flamingos) to illustrate the mathematical dynamics of online dating?",
+    "options": [
+      "Creating art or profiles that appeal to broad mainstream audiences maximizes long-term engagement.",
+      "Polarizing content only succeeds in avant-garde film and completely fails when applied to consumer dating platforms.",
+      "The most successful internet creators are those who eliminate all negative feedback through algorithmic moderation.",
+      "Repelling large segments of the mainstream is the mathematical prerequisite for cultivating intensely passionate, committed devotees."
+    ],
+    "correctAnswer": 3,
+    "explanation": "John Waters' cult films deliberately disgust and offend mainstream viewers, but that exact repulsion binds his loyal fan base into fervent, lifelong devotees. In OkCupid's data, this exact dynamic plays out in romantic attraction: you cannot generate intense adoration without being willing to evoke equally intense rejection.",
+    "citation": "Chapter 2: Death by a Thousand Mehs - The John Waters Effect"
+  },
+  {
+    "id": "data-q09",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: Writing on the Wall",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why does sending copy-pasted introductory messages dominate bespoke, from-scratch messages in economic efficiency per unit of time?",
+    "options": [
+      "Writing custom messages yields a 400% higher reply rate, making copy-pasting an irrational waste of time.",
+      "Copy-pasting template messages yields only a ~25% lower reply rate than bespoke messages, but takes a fraction of the time, resulting in far more total replies per hour of effort.",
+      "OkCupid's anti-spam algorithms immediately shadowban accounts that send identical messages to multiple users.",
+      "Bespoke messages take less time to compose than copy-pasting because modern auto-complete tools automate personalization."
+    ],
+    "correctAnswer": 1,
+    "explanation": "OkCupid's linguistic data revealed that copy-and-paste openers underperform personalized messages by only roughly 25% (e.g. ~22% reply rate vs. ~30%). However, crafting a bespoke message takes 5 to 10 minutes, whereas copy-pasting takes 10 seconds. In terms of return on investment (replies generated per hour of effort), copy-pasters outperform bespoke writers by an order of magnitude.",
+    "citation": "Chapter 3: Writing on the Wall - The Copy-Paste Efficiency Paradox"
+  },
+  {
+    "id": "data-q10",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: Writing on the Wall",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is the relationship between introductory message length and response rate on OkCupid?",
+    "options": [
+      "Reply rates scale linearly with word count, rewarding users who write comprehensive multi-paragraph introductory essays.",
+      "Messages under 50 characters are completely ignored because they fail to convey serious romantic intent.",
+      "The optimal message length is between 500 and 800 words, demonstrating emotional investment.",
+      "The average message is around 100 characters; response rates peak at short-to-medium lengths (~40\u201360 words) and plateau or drop for long essays."
+    ],
+    "correctAnswer": 3,
+    "explanation": "The average message on OkCupid is roughly 100 characters (Twitter-length). Data shows that response rates plateau very early: beyond a brief, punchy note of about 40 to 60 words (100\u2013200 characters), adding more words yields diminishing returns and eventually causes reply rates to decline, as long essays can appear desperate or demanding.",
+    "citation": "Chapter 3: Writing on the Wall - Message Length and Adaptation"
+  },
+  {
+    "id": "data-q11",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: Writing on the Wall",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What empirical effect do physical compliments (e.g., 'sexy', 'beautiful', 'hot') have when used by men in initial messages to women?",
+    "options": [
+      "Words praising physical appearance ('sexy', 'beautiful', 'hot') significantly suppress reply rates, performing worse than average openers.",
+      "Complimenting physical appearance is the single most effective strategy for men messaging women, doubling response rates.",
+      "Physical flattery has no measurable impact on reply rates across all age brackets.",
+      "Compliments only work if accompanied by specific numerical ratings of the recipient's photos."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Complimenting a woman's physical appearance in an initial message is statistically counter-productive. Words like 'sexy', 'hot', 'gorgeous', and 'beautiful' result in reply rates that fall well below site averages. In contrast, referencing specific shared passions or lifestyle quirks ('vegetarian', 'zombie', niche bands) dramatically increases response rates.",
+    "citation": "Chapter 3: Writing on the Wall - The Compliment Penalty"
+  },
+  {
+    "id": "data-q12",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: Writing on the Wall",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What did OkCupid's linguistic analysis reveal about the impact of netspeak abbreviations ('ur', 'wat', 'wanna') on message reply rates?",
+    "options": [
+      "Casual netspeak ('u', 'ur', 'wanna') increases reply rates by 25% because it conveys relaxed, approachable confidence.",
+      "Spelling and punctuation have zero measurable correlation with reply rates on modern digital dating apps.",
+      "Netspeak and phonetic shortcuts inflict a severe penalty exceeding 30% on reply rates, while correct grammar and punctuation act as positive fitness filters.",
+      "Using complex academic jargon is the only way to achieve a response rate above 50%."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Phonetic shortcuts and careless netspeak ('ur', 'u', 'wat', 'wanna', 'luv') devastate reply rates by more than 30%. Senders who write with proper punctuation, accurate apostrophes, and correct spelling achieve significantly higher reply rates, demonstrating that basic literacy operates as an immediate unconscious fitness filter in courtship.",
+    "citation": "Chapter 3: Writing on the Wall - Grammar and Fitness Filters"
+  },
+  {
+    "id": "data-q13",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: You Gotta Be the Glue",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In Backstrom and Kleinberg's 2013 Cornell/Facebook study of 1.3 million couples, why did social graph 'embeddedness' fail to predict relationship survival?",
+    "options": [
+      "High embeddedness (sharing hundreds of mutual friends) is the single strongest statistical predictor that a romantic couple will stay together.",
+      "Couples with zero mutual friends have the lowest divorce rates because their lives remain completely independent.",
+      "Embeddedness merely reflects belonging to the same social clique; dispersion\u2014where mutual friends are unconnected to one another\u2014is the true predictor of relationship longevity.",
+      "Backstrom and Kleinberg discovered that Facebook network structure has no predictive power regarding relationship status."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Embeddedness simply measures the sheer volume of mutual friends shared by two people. High embeddedness frequently occurs when two people belong to the same college dorm, fraternity, church, or corporate department\u2014which reflects situational proximity rather than romantic depth. It failed to differentiate between platonic coworkers and committed couples.",
+    "citation": "Chapter 4: You Gotta Be the Glue - Embeddedness vs. Dispersion"
+  },
+  {
+    "id": "data-q14",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: You Gotta Be the Glue",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How is 'dispersion' mathematically defined in social network analysis, and why does it identify lasting romantic relationships?",
+    "options": [
+      "The mutual friends shared by a couple come from distinct, non-overlapping social clusters (e.g., childhood, college, work), with the couple acting as the sole bridge connecting them.",
+      "The degree to which a couple unfriends their mutual contacts to preserve intimacy within the relationship.",
+      "The total geographic distance separating all members of a user's friend list.",
+      "The number of times a couple posts joint photographs across different social media platforms."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dispersion measures the extent to which two people's mutual friends are NOT connected to each other. In high-dispersion relationships, Person A and Person B share mutual friends across separate facets of life (e.g. hometown friends, college buddies, coworkers), and the couple itself forms the sole bridge connecting these clusters. This bridging indicates that the partners have integrated each other into their entire lives.",
+    "citation": "Chapter 4: You Gotta Be the Glue - The Dispersion Metric"
+  },
+  {
+    "id": "data-q15",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: You Gotta Be the Glue",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A network scientist analyzes two couples on Facebook. Couple A shares 50 mutual friends, all within one tight local fraternity/sorority circle. Couple B shares 20 mutual friends drawn from 5 distinct, unconnected life phases. Which couple is statistically far more likely to stay together?",
+    "options": [
+      "Couple A, who shares 60 mutual friends all belonging to the same tight-knit local fraternity, is far more likely to stay together than Couple B.",
+      "Couple B, whose mutual friends span unconnected clusters (such as hometown friends, college roommates, and coworkers), is statistically far more likely to remain together than Couple A.",
+      "Both couples have identical survival probabilities because social graph metrics only reflect offline proximity.",
+      "Couple A will stay together because high clustering coefficients protect romantic couples from outside interference."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Couple B exhibits high dispersion: their mutual friends span multiple disconnected chapters of their lives, and the romantic relationship serves as the critical connective tissue. Couple A merely exhibits high embeddedness within a single dense clique, which often dissolves when social affiliations change.",
+    "citation": "Chapter 4: You Gotta Be the Glue - Structural Longevity"
+  },
+  {
+    "id": "data-q16",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: You Gotta Be the Glue",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is the structural meaning of Christian Rudder's chapter title 'You Gotta Be the Glue' in network topology?",
+    "options": [
+      "The glue represents the algorithmic matching score that OkCupid uses to force users into high-retention cohorts.",
+      "The glue refers to shared financial assets that prevent couples from separating during economic downturns.",
+      "The glue refers to triadic closure where every friend of Partner A becomes a close friend of Partner B.",
+      "The romantic partner acts as the essential structural bridge holding together the otherwise isolated, disparate social worlds of an individual's life."
+    ],
+    "correctAnswer": 3,
+    "explanation": "In network graph terms, lasting romantic partners are 'the glue' because they span structural holes. They connect separate clusters of a person's universe\u2014hometown friends, college friends, workplace colleagues, and family\u2014that would otherwise remain completely isolated components in the graph.",
+    "citation": "Chapter 4: You Gotta Be the Glue - Spanning Structural Holes"
+  },
+  {
+    "id": "data-q17",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: There\u2019s No Success Like Failure",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What did OkCupid discover about physical attractiveness and interpersonal chemistry in its 'Crazy Blind Date' mobile experiment?",
+    "options": [
+      "Disparities in physical attractiveness between matched individuals had virtually zero correlation with how much users enjoyed the real-life date.",
+      "Dates where both partners were rated 5 stars had a 100% marriage rate, while mismatched dates resulted in walkouts.",
+      "Users refused to meet in person unless the platform guaranteed their match was within 0.1 stars of their own rating.",
+      "Women consistently rated blind dates poorly if their date was less than 6 feet tall, regardless of conversational chemistry."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Crazy Blind Date, users were matched for blind drinks without seeing photos or full profiles. Post-date ratings showed that the relative difference in physical attractiveness between the two people had almost no correlation with how much they enjoyed the date. A 4-star person matched with a 2-star person rated the date just as highly as two equally rated individuals.",
+    "citation": "Chapter 5: There\u2019s No Success Like Failure - Crazy Blind Date Findings"
+  },
+  {
+    "id": "data-q18",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: There\u2019s No Success Like Failure",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What happened when OkCupid experimentally mislabeled users as 90% matches when their true algorithmic compatibility was only 30%?",
+    "options": [
+      "When users were told their match score was 30%, they worked twice as hard to prove the algorithm wrong, messaging at higher rates.",
+      "Mislabeled match scores had zero effect on user communication, proving people rely solely on instinct.",
+      "When OkCupid experimentally mislabeled 30% matches as 90% matches, users exchanged more messages and rated each other higher, living up to the false score.",
+      "Users immediately detected false compatibility scores and reported the platform to consumer protection regulators."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The algorithmic score operated as a powerful self-fulfilling prophecy. When OkCupid told two incompatible people (30% true match) that they were a 90% match, they messaged each other at rates comparable to genuine 90% matches, exchanged more messages, and rated each other higher. The algorithmic label manufactured the compatibility.",
+    "citation": "Chapter 5: There\u2019s No Success Like Failure - The Algorithmic Placebo"
+  },
+  {
+    "id": "data-q19",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: There\u2019s No Success Like Failure",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "How do search filters and categorical 'deal-breakers' on dating websites distort human mating behavior compared to in-person encounters?",
+    "options": [
+      "Stated deal-breakers (e.g., diet, height, astrological sign) perfectly predict face-to-face relationship satisfaction.",
+      "Online search filters encourage users to reject countless potential partners over superficial checklist items that have negligible impact on real-world interpersonal happiness.",
+      "Dating platforms intentionally remove search filters to prevent users from finding compatible partners too quickly.",
+      "Eliminating categorical deal-breakers decreases marriage rates across all age cohorts."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Digital interfaces turn dating into a consumer shopping catalog where users filter out partners over minor categorical criteria (height, smoking, income, education, zodiac signs). Rudder demonstrates that these checklist items have almost no bearing on in-person chemistry, leading users to prematurely discard people they would genuinely like in real life.",
+    "citation": "Chapter 5: There\u2019s No Success Like Failure - The Catalog Mentality"
+  },
+  {
+    "id": "data-q20",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: There\u2019s No Success Like Failure",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What profound conclusion does Christian Rudder draw regarding the power of algorithms to shape social reality rather than merely record it?",
+    "options": [
+      "Platforms should randomly match users because objective mathematical compatibility is an empirical impossibility.",
+      "Platforms have no ethical obligations to users because digital terms of service waive all psychological liability.",
+      "Users should never be shown compatibility percentages under any circumstances.",
+      "Algorithms do not simply discover human affinities; by displaying authoritative compatibility metrics, platforms actively shape human perception and behavior."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Algorithms are not passive diagnostic mirrors; they are active social intervention tools. By displaying an authoritative compatibility percentage, an algorithm primes users to overlook flaws, seek commonalities, and alter their communication, effectively manufacturing the social reality it purports to discover.",
+    "citation": "Chapter 5: There\u2019s No Success Like Failure - Manufacturing Affinity"
+  },
+  {
+    "id": "data-q21",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: The Confounding Factor",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What does big data reveal about stated racial open-mindedness versus revealed messaging behavior on dating platforms?",
+    "options": [
+      "Both stated preferences and revealed messaging behavior show zero racial bias among educated millennials.",
+      "Over 80% of white users state they have no racial preference in dating, yet behavioral interaction matrices reveal massive penalties for Black women and Asian men.",
+      "Stated preferences express extreme overt racism, while actual private messaging behavior shows complete racial egalitarianism.",
+      "Black men receive the highest per capita inbound message volume from women of all racial backgrounds."
+    ],
+    "correctAnswer": 1,
+    "explanation": "When polled in profile match questions, over 80% of OkCupid users claim they have no racial preference and would date someone of any race. However, behavioral matrices tracking hundreds of millions of actual votes and messages reveal pervasive racial segregation, with Black women and Asian men suffering massive statistical penalties across all demographic groups.",
+    "citation": "Chapter 6: The Confounding Factor - Stated vs. Revealed Tolerance"
+  },
+  {
+    "id": "data-q22",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: The Confounding Factor",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What did Rudder discover when examining the star ratings of multiracial users on OkCupid?",
+    "options": [
+      "Adding white ancestry to a profile decreases ratings among white users due to preferences for exoticism.",
+      "Multiracial profiles receive identical ratings regardless of which specific ancestral backgrounds are selected.",
+      "Being identified as Black increases inbound messages by 15% due to affirmative social sorting.",
+      "Across all demographic groups, adding 'white' to a multiracial background consistently boosts star ratings and inbound message volume."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Rudder analyzed users who selected multiple racial identities (e.g. Asian + White, Black + White, Latino + White). Across the board, adding 'White' to any racial makeup created a substantial, statistically universal boost in ratings and messages, demonstrating a powerful 'whiteness premium' that permeates the digital dating market.",
+    "citation": "Chapter 6: The Confounding Factor - The Whiteness Premium"
+  },
+  {
+    "id": "data-q23",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: The Confounding Factor",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What did sociologist Osagie K. Obasogie discover in his research with individuals who were blind from birth, and what does it prove about implicit bias?",
+    "options": [
+      "People blind from birth hold the same racial stereotypes, visual preferences, and implicit biases as sighted individuals, proving racial bias is socially absorbed rather than visually driven.",
+      "Blind individuals exhibit complete colorblindness in dating, showing zero racial preference or awareness.",
+      "Blind individuals develop inverted racial preferences, favoring groups that sighted individuals penalize.",
+      "Blind individuals refuse to categorize human beings by race because they lack the optical apparatus for facial recognition."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Blind to Difference, Osagie K. Obasogie interviewed individuals who were totally blind from birth and found that they maintained the exact same racial stereotypes, hierarchies, and dating preferences as sighted people. This proves racial bias is not an involuntary physiological reaction to visual stimuli, but a deeply internalized cultural construct absorbed through social exposure.",
+    "citation": "Chapter 6: The Confounding Factor - Blind to Difference"
+  },
+  {
+    "id": "data-q24",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: The Confounding Factor",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "When controlling for income, education, profile length, and attractiveness, what statistical penalty do Black women face on online dating platforms?",
+    "options": [
+      "Black women receive roughly 50% more messages than other women when controlling for education.",
+      "Black women experience no penalty on dating sites that utilize photo-matching algorithms.",
+      "Black women receive roughly 25% fewer first messages and their sent messages receive 25% fewer replies compared to other female demographics.",
+      "Black women face penalties only from white men, while receiving universal top ratings from Latino and Asian men."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Even after controlling for confounding factors like age, education, and user attractiveness ratings, Black women face an acute demographic discount: they receive roughly 25% fewer initial messages from men than other women, and when they take the initiative to send a message, they receive roughly 25% fewer replies.",
+    "citation": "Chapter 6: The Confounding Factor - Quantifying the Racial Penalty"
+  },
+  {
+    "id": "data-q25",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: The Beauty Myth in Apotheosis",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What happened when OkCupid isolated photo ratings from essay ratings to test the Halo Effect in digital profiles?",
+    "options": [
+      "Users evaluate profile text independently from photos, accurately identifying great writing regardless of physical appearance.",
+      "When a profile features a 5-star photo, users rate the accompanying text as brilliant and witty even if it is completely bland; the exact same text with a 2-star photo is rated as dull or weird.",
+      "Profiles without photos receive higher character and intelligence ratings than profiles with attractive photos.",
+      "Physical attractiveness negatively correlates with perceived intelligence in online dating environments."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Halo Effect ('What is Beautiful is Good') is hyper-charged on screens. When OkCupid paired identical profile essays with different photos, a 5-star photo caused users to rate the writing as brilliant, witty, and charming. When the exact same text was paired with a 2-star photo, users judged the writing as boring, stupid, or strange. The photo overwhelmed text evaluation entirely.",
+    "citation": "Chapter 7: The Beauty Myth in Apotheosis - The Halo Effect on Screen"
+  },
+  {
+    "id": "data-q26",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: The Beauty Myth in Apotheosis",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What type of mathematical distribution characterizes the flow of incoming messages relative to physical attractiveness ratings on dating platforms?",
+    "options": [
+      "Inbound message volume follows a standard normal Gaussian distribution centered at average attractiveness.",
+      "Less attractive profiles receive more messages because suitors assume they are more approachable.",
+      "Attention follows an extreme power-law distribution where the top 5% of physically rated profiles capture an overwhelming share of all inbound messages.",
+      "Dating algorithms redistribute messages evenly to ensure every active profile receives at least one message per week."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Message distribution does not resemble a gentle bell curve. It follows an extreme power-law curve: the top 5% of most attractive profiles siphon off the vast majority of all messages, creating a winner-take-all attention economy where average and below-average profiles receive virtually no organic inbound interest.",
+    "citation": "Chapter 7: The Beauty Myth in Apotheosis - Power Law of Attention"
+  },
+  {
+    "id": "data-q27",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: The Beauty Myth in Apotheosis",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "How does the distribution of female ratings of male looks compare to male ratings of female looks on OkCupid?",
+    "options": [
+      "Men rate 80% of women as below average in looks, while women rate men on a normal symmetrical bell curve.",
+      "Both men and women rate each other on identical, perfectly symmetrical normal distributions.",
+      "Women rate men solely based on reported income, showing zero variance in physical attractiveness ratings.",
+      "Men rate women on a standard bell curve centered at average, while women rate 80% of men as 'below average' in physical appearance, yet women message these men anyway."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Men rate women on a normal bell curve centered cleanly around medium attractiveness (2.5 stars). In stark contrast, women rate 80% of men as 'worse-looking than medium' (below average). However, women's messaging behavior is far more generous: women frequently message men they rated as below average, whereas men exclusively message women they rated in the top tiers.",
+    "citation": "Chapter 7: The Beauty Myth in Apotheosis - The Asymmetrical Curves"
+  },
+  {
+    "id": "data-q28",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: The Beauty Myth in Apotheosis",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A user spends weeks writing an eloquent, humorous profile essay but pairs it with an unflattering, low-resolution thumbnail photo. What does Rudder's research prove about the outcome?",
+    "options": [
+      "Spending 10 hours refining profile essays yields negligible returns if the profile photo is mediocre, because viewers overwrite essay perceptions with photo evaluations.",
+      "Polishing profile essays is 5x more effective at generating inbound messages than upgrading lighting and photo quality.",
+      "Users always read the entire profile essay before looking at the main profile photograph.",
+      "Dating apps hide photos until users have exchanged at least three textual messages."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rudder's data proves that a photo is not worth a thousand words\u2014it makes words completely irrelevant. Profile text accounts for less than 10% of a user's overall evaluation; an outstanding essay paired with a poor photo will simply be judged as poorly written due to the negative halo effect.",
+    "citation": "Chapter 7: The Beauty Myth in Apotheosis - Words vs. Images"
+  },
+  {
+    "id": "data-q29",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: It\u2019s What\u2019s Inside That Counts",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What happened during OkCupid's 'Love is Blind Day' experiment (July 20, 2013) when profile photos were removed for seven hours?",
+    "options": [
+      "When photos were removed, users completely stopped sending messages and platform traffic plummeted to zero.",
+      "When photos were removed, users only messaged people in their immediate geographical zip code.",
+      "Stripping photos caused reply rates to jump by 44% with deeper conversations, but when photos were restored at 4 PM, conversations with less attractive users abruptly dissolved.",
+      "Stripping photos had zero measurable impact on conversation depth or subsequent contact information exchange."
+    ],
+    "correctAnswer": 2,
+    "explanation": "When OkCupid stripped photos from the site for seven hours, users engaged in deeper conversations, exchanging contact info faster and replying at a 44% higher rate. However, when photos were restored at 4 PM, conversations with people revealed to be below average in looks evaporated almost instantly, showing how visual desire rapidly crushes personality-driven rapport.",
+    "citation": "Chapter 8: It\u2019s What\u2019s Inside That Counts - Love is Blind Day"
+  },
+  {
+    "id": "data-q30",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: It\u2019s What\u2019s Inside That Counts",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What did Seth Stephens-Davidowitz discover regarding Google search queries on the night Barack Obama was elected president in 2008?",
+    "options": [
+      "Private Google searches for racial slurs spiked dramatically on election night, exposing deep racial animus hidden by public opinion polls.",
+      "Google search data proved that racial prejudice in America was completely eliminated by Barack Obama's election victory.",
+      "Searches for political policy terms outnumbered searches for racial slurs by 100 to 1 across all media markets.",
+      "Racial slurs were searched exclusively in southern states, while northern states showed zero search volume for biased terms."
+    ],
+    "correctAnswer": 0,
+    "explanation": "While national news media heralded Obama's 2008 election as proof of a 'post-racial America', Stephens-Davidowitz found that private Google searches for the N-word and racial jokes surged to historic highs on election night. Search queries provided a digital truth serum, exposing the racial animus that voters hid from telephone survey pollsters.",
+    "citation": "Chapter 8: It\u2019s What\u2019s Inside That Counts - Election Night Search Animus"
+  },
+  {
+    "id": "data-q31",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: It\u2019s What\u2019s Inside That Counts",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How many percentage points of the national popular vote did Seth Stephens-Davidowitz calculate that racial animus cost Barack Obama in presidential elections?",
+    "options": [
+      "Racial animus gave Obama an estimated 2-point boost in the national popular vote due to minority mobilization.",
+      "Stephens-Davidowitz calculated that racial animus cost Barack Obama 3 to 5 percentage points of the national popular vote in both 2008 and 2012.",
+      "Racial animus cost Obama exactly 15 percentage points in the popular vote, nearly flipping the electoral college.",
+      "Traditional telephone surveys accurately predicted Obama's racial vote penalty down to the decimal point."
+    ],
+    "correctAnswer": 1,
+    "explanation": "By comparing Google search rates for racial slurs with county-level voting returns (controlling for economic variables, education, and prior Democratic performance), Stephens-Davidowitz estimated that racial animus reduced Obama's popular vote share by 3 to 5 percentage points in both 2008 and 2012.",
+    "citation": "Chapter 8: It\u2019s What\u2019s Inside That Counts - The 3 to 5 Point Obama Penalty"
+  },
+  {
+    "id": "data-q32",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: It\u2019s What\u2019s Inside That Counts",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "How does Christian Rudder connect Republican strategist Lee Atwater's 1981 interview to Google search data?",
+    "options": [
+      "Political campaign strategists rely entirely on overt slurs because coded rhetoric fails to mobilize voters.",
+      "Coded political rhetoric has no connection to underlying racial attitudes among ordinary citizens.",
+      "Social media platforms successfully banned all coded dog-whistles prior to the 2012 presidential election.",
+      "Atwater documented how explicit racial slurs in 1954 evolved into sanitized economic rhetoric by 1968, a subconscious reality unmasked by private Google search data."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Atwater explained how the 'Southern Strategy' evolved from overt racial slurs in 1954 to abstract economic dog-whistles by 1968 ('forced busing', 'states' rights', 'tax cuts'). Rudder shows that while public political language became sanitized, private Google search data reveals that raw racial hostility never disappeared\u2014it merely retreated into private search bars.",
+    "citation": "Chapter 8: It\u2019s What\u2019s Inside That Counts - The Southern Strategy and Search"
+  },
+  {
+    "id": "data-q33",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: Days of Rage",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In Beihang University's landmark study of 70 million social media posts, which emotion was found to spread fastest and farthest across network nodes?",
+    "options": [
+      "Joy travels faster and across looser social ties than any other emotion on social networks.",
+      "Sadness is the most infectious online sentiment, driving the highest retweet velocity.",
+      "Anger spreads faster and farther across social graphs than joy, sadness, or disgust, acting as the primary catalyst for viral cascades.",
+      "Disgust and fear spread equally fast, while anger remains confined to immediate mutual friend circles."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Researchers at Beihang University (Rui Fan et al.) tracked emotional contagion across Weibo. They discovered that anger propagates significantly faster and over wider network distances than joy, sadness, or disgust. Joy spreads primarily among close ties, but anger leaps across loose clusters, making moral outrage the natural equilibrium of social algorithms.",
+    "citation": "Chapter 9: Days of Rage - The Virality of Anger"
+  },
+  {
+    "id": "data-q34",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: Days of Rage",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "What unique confluence of digital metrics turned Justine Sacco's ill-advised tweet into a global viral phenomenon in December 2013?",
+    "options": [
+      "An ill-conceived joke tweeted before an 11-hour flight went viral under #HasJustineLandedYet, creating a global outrage ritual that resulted in her firing before her plane touched down.",
+      "Justine Sacco's tweet was defended by IAC leadership, sparking a worldwide boycott of all IAC properties.",
+      "Twitter's automated safety algorithms deleted Sacco's tweet within 60 seconds, preventing public awareness.",
+      "Sacco intentionally courted controversy as a publicity stunt to launch a personal branding consultancy."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Justine Sacco, a PR director for IAC, tweeted a clumsy joke about AIDS and Africa before boarding an 11-hour flight to South Africa. Cut off from internet access on the plane, she was unaware as #HasJustineLandedYet trended #1 worldwide, tens of thousands called for her head, and photographers gathered at the airport. She was fired before she landed.",
+    "citation": "Chapter 9: Days of Rage - The Stoning of Justine Sacco"
+  },
+  {
+    "id": "data-q35",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: Days of Rage",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "How do social media platforms transform innocent jokes or minor gaffes (such as Safiyyah Nawaz's tweet about the Earth's age) into targets for viral abuse?",
+    "options": [
+      "Social media algorithms prioritize nuanced debate by highlighting long-form clarifications and apologies.",
+      "Social platforms strip away tone, personal context, and ironic intent, amplifying outrage because outrage metrics drive maximum platform engagement.",
+      "Outrage mobs only form against public political officials and never target private individuals.",
+      "Retweet metrics have no psychological influence on user participation in online shaming campaigns."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Safiyyah Nawaz tweeted a silly joke ('this beautiful earth is now 2014 years old, amazing') on New Year's Eve. Stripped of ironic context by the retweet mechanism, the tweet was taken literally, generating 16,000 retweets and a deluge of vicious misogynistic insults and death threats. Social media acts as a de-contextualization engine that weaponizes minor errors.",
+    "citation": "Chapter 9: Days of Rage - De-Contextualization Engine"
+  },
+  {
+    "id": "data-q36",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: Days of Rage",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What historical irony did Christian Rudder uncover regarding the American Political Science Association\u2019s (APSA) 1950 report on political polarization?",
+    "options": [
+      "In 1950, the APSA demanded the total dissolution of political parties to ensure complete national consensus.",
+      "The APSA's 1950 recommendations were implemented immediately, successfully preventing polarization in modern digital media.",
+      "Social media platforms resolved polarization by algorithmically presenting opposing viewpoints to every user feed.",
+      "In 1950, political scientists complained that political parties were too ideologically identical and urged polarization; digital algorithms fulfilled this wish to an extreme, destructive degree."
+    ],
+    "correctAnswer": 3,
+    "explanation": "In 1950, the APSA published 'Toward a More Responsible Two-Party System', lamenting that Democrats and Republicans were virtually indistinguishable and explicitly calling for greater partisan polarization. Decades later, social media algorithms supercharged ideological tribalism, granting the political scientists' wish to a toxic, hyper-polarized extreme.",
+    "citation": "Chapter 9: Days of Rage - The 1950 Polarization Inversion"
+  },
+  {
+    "id": "data-q37",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: The Digital Footprint",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How does TF-IDF (term frequency-inverse document frequency) allow data scientists to extract meaningful demographic profiles from millions of essays?",
+    "options": [
+      "TF-IDF measures the raw total count of common English words like 'the', 'and', and 'I' to determine profile sophistication.",
+      "TF-IDF filters out all slang terms to enforce academic English in profile text corpora.",
+      "TF-IDF is used exclusively for detecting copyright infringement in user essays.",
+      "TF-IDF isolates words that are statistically over-represented within a specific demographic cohort relative to the broader population, uncovering distinctive cultural markers."
+    ],
+    "correctAnswer": 3,
+    "explanation": "If an algorithm merely counted the most frequent words, every demographic group would look identical, dominated by common words like 'the', 'love', and 'music'. TF-IDF weights words by their rarity across the broader population, identifying terms that are disproportionately prevalent within a specific demographic cohort (such as distinct cultural, culinary, or athletic references).",
+    "citation": "Chapter 10: The Digital Footprint - Isolating Distinctive Vocabulary"
+  },
+  {
+    "id": "data-q38",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: The Digital Footprint",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What distinctive cultural phrases emerged when Rudder analyzed OkCupid self-summary essays across racial demographics?",
+    "options": [
+      "All demographic groups use identical top phrases like 'love to laugh' and 'looking for fun', showing zero statistical divergence.",
+      "Distinctive phrases clearly separate cohorts: white men distinctively mention 'hunting' and 'craft beer'; Black men cite 'soul food' and 'god-fearing'; Asian men feature 'tall for an Asian' and 'coding'.",
+      "Asian men most frequently write about country music and NASCAR, defying all offline demographic trends.",
+      "Women across all racial groups avoid mentioning food, travel, or pets in their open-ended self-summaries."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rudder's statistical analysis of millions of essays revealed striking cultural signatures. White men over-index on 'hunting', 'snowboarding', and 'craft beer'; Black men distinctively feature 'soul food', 'god-fearing', and 'uplifting'; Asian men frequently include 'tall for an Asian' (reflecting awareness of dating stereotypes) and 'coding'.",
+    "citation": "Chapter 10: The Digital Footprint - Demographic Linguistic Markers"
+  },
+  {
+    "id": "data-q39",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: The Digital Footprint",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why do Christian Rudder and Seth Stephens-Davidowitz consider private Google search queries to be a vastly superior 'digital truth serum' compared to surveys?",
+    "options": [
+      "Because people search in total isolation without the pressure of an interviewer or social scrutiny, private search queries reveal authentic human motives that surveys conceal.",
+      "Google search data is heavily distorted because most users deliberately enter misleading queries to confuse ad trackers.",
+      "Telephone surveys are statistically more reliable than search data because human interviewers can detect deception through vocal inflections.",
+      "Search engines only capture technological queries, leaving interpersonal and sociological attitudes unrecorded."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Surveys are systematically contaminated by social desirability bias\u2014the psychological pressure to look tolerant, smart, and virtuous in front of an interviewer. In contrast, the private search box acts as a digital confessional where individuals search without fear of judgment, revealing their rawest anxieties, prejudices, and desires.",
+    "citation": "Chapter 10: The Digital Footprint - The Search Bar as Truth Serum"
+  },
+  {
+    "id": "data-q40",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: The Digital Footprint",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "What is the primary difference between a person's stated digital identity (e.g. self-written profile essays) and their revealed digital footprint (e.g. search histories and click logs)?",
+    "options": [
+      "Profile essays reflect 100% accurate, unvarnished behavioral reality with zero aspirational embellishment.",
+      "Machine learning models cannot distinguish between a user's self-written profile and a random text generator.",
+      "While people use open-ended profile essays to construct an idealized, aspirational persona, their passive clickstreams and search queries expose their raw, unfiltered behavioral priorities.",
+      "Digital footprints are easily scrubbed by users, rendering long-term behavioral profiling impossible."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A self-written essay is an aspirational advertisement: people write who they want the world to believe they are. Revealed digital breadcrumbs\u2014every click, search, message duration, and skip\u2014record who they actually are when they think no one is watching.",
+    "citation": "Chapter 10: The Digital Footprint - Aspirational vs. Behavioral Identity"
+  },
+  {
+    "id": "data-q41",
+    "chapterId": "ch11",
+    "chapterName": "Ch 11: The Mathematics of Identity",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In the landmark 2013 Cambridge University/Microsoft study (Kosinski, Stillwell, Graepel), how accurately could benign Facebook 'Likes' predict male sexual orientation?",
+    "options": [
+      "Facebook likes predicted demographic attributes with no better accuracy than random guessing (under 50%).",
+      "Innocuous Facebook likes predicted male sexual orientation with 88% accuracy, ethnic origin with 95% accuracy, and political affiliation with 85% accuracy.",
+      "Facebook likes only predicted musical taste and had zero correlation with sensitive psychometric traits.",
+      "The Cambridge model required access to private messaging transcripts and could not predict traits from public likes alone."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Michal Kosinski, David Stillwell, and Thore Graepel analyzed 58,000 Facebook users' Likes. Using mathematical dimensionality reduction, their algorithm predicted male homosexuality with 88% accuracy, African American vs. Caucasian ethnicity with 95% accuracy, and political party (Democrat vs. Republican) with 85% accuracy, purely from innocuous public likes.",
+    "citation": "Chapter 11: The Mathematics of Identity - Cambridge Likes Research"
+  },
+  {
+    "id": "data-q42",
+    "chapterId": "ch11",
+    "chapterName": "Ch 11: The Mathematics of Identity",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why did liking 'Curly Fries' on Facebook emerge as one of the strongest statistical predictors of high intelligence in the Cambridge University study?",
+    "options": [
+      "Eating curly fries provides neuro-nutritional compounds that directly elevate cognitive function.",
+      "Target and Facebook ran joint marketing campaigns promoting curly fries exclusively to Mensa members.",
+      "Users who liked curly fries deliberately conspired to manipulate machine learning benchmark tests.",
+      "An early group of high-IQ users liked the page, and the like diffused through their homophilic network of intelligent friends, turning a harmless consumer item into an accurate psychometric proxy."
+    ],
+    "correctAnswer": 3,
+    "explanation": "There is no causal or biological relationship between potatoes and IQ. An early cluster of high-intelligence students liked the curly fries page, and because social networks exhibit strong homophily (smart people befriend smart people), the page spread viral likes through high-IQ social graphs, turning a trivial brand into a potent statistical proxy for intelligence.",
+    "citation": "Chapter 11: The Mathematics of Identity - The Curly Fries Phenomenon"
+  },
+  {
+    "id": "data-q43",
+    "chapterId": "ch11",
+    "chapterName": "Ch 11: The Mathematics of Identity",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How did MIT students Carter Jernigan and Behram Mistree construct their 2009 'Gaydar' algorithm, and what did it achieve?",
+    "options": [
+      "Jernigan and Mistree predicted male sexual orientation with 78% accuracy purely from the gender and sexuality of the user's Facebook friends, without reading any profile text.",
+      "The algorithm analyzed facial symmetry in profile photos using deep convolutional neural networks.",
+      "The software searched for explicit romantic keywords in private user wall posts and instant messages.",
+      "The program accurately identified sexual orientation only if the user explicitly joined LGBT campus affinity groups."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Jernigan and Mistree proved that an individual's friend network outs them. Without looking at the user's status updates, photos, or declared orientation, the algorithm analyzed the ratio of gay and straight male friends in the user's network, predicting male homosexuality with 78% accuracy. An individual in the closet was outed simply by the company he kept.",
+    "citation": "Chapter 11: The Mathematics of Identity - MIT Gaydar Project"
+  },
+  {
+    "id": "data-q44",
+    "chapterId": "ch11",
+    "chapterName": "Ch 11: The Mathematics of Identity",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What does Google search volume for 'Is my husband gay?' reveal about the geography of sexual orientation and the American closet?",
+    "options": [
+      "Searches for 'Is my husband gay?' occur almost exclusively in liberal coastal states where homosexuality is publicly accepted.",
+      "The query 'Is my husband gay?' is five times less common than queries asking if a husband is addicted to gambling.",
+      "The search 'Is my husband gay?' is the #1 inquiry following 'Is my husband...' in the US, occurring at identical rates in conservative states as in liberal states, proving homophobia forces gay men into heterosexual marriages.",
+      "Google Trends indicates that gay men comprise over 25% of the male population in every US county."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Across the entire United States, the most frequent search following 'Is my husband...' is '...gay?' (10% higher than 'cheating'). Crucially, the search volume is equally high in deeply conservative states (Mississippi, Louisiana, South Carolina) as in liberal ones. This proves the proportion of gay men is biologically constant (~5%), and social homophobia simply forces thousands of men into closeted marriages.",
+    "citation": "Chapter 11: The Mathematics of Identity - The Geography of the Closet"
+  },
+  {
+    "id": "data-q45",
+    "chapterId": "ch12",
+    "chapterName": "Ch 12: Epilogue / The Panopticon",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "How did Target data statistician Andrew Pole develop an algorithm to identify pregnant shoppers, and what famous ethical crisis did it trigger?",
+    "options": [
+      "Target required pregnant shoppers to register their ultrasound scans in exchange for nursery discount coupons.",
+      "By tracking purchases of 25 innocuous items like unscented lotion, magnesium, and calcium, Target assigned a pregnancy prediction score that accurately predicted trimesters and outed a pregnant teenager to her father.",
+      "Target's predictive algorithm failed completely, misidentifying male college students as expecting mothers 90% of the time.",
+      "Target only tracked prenatal vitamins, which shoppers refused to buy with store loyalty cards."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Target analyzed purchasing data from baby shower registries and identified 25 specific items (unscented lotion, large cotton balls, zinc, magnesium supplements) that spiked during pregnancy. Target assigned a pregnancy prediction score and sent maternity coupons to a high school girl, alerting her angry father to her pregnancy before she had told him.",
+    "citation": "Chapter 12: Epilogue / The Panopticon - Target's Pregnancy Algorithm"
+  },
+  {
+    "id": "data-q46",
+    "chapterId": "ch12",
+    "chapterName": "Ch 12: Epilogue / The Panopticon",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What is the 'Privacy Paradox' highlighted by Christian Rudder in modern surveillance society?",
+    "options": [
+      "Citizens who study computer science care significantly less about privacy than citizens who lack technical education.",
+      "Government surveillance protects citizen privacy more effectively than commercial end-to-end encryption.",
+      "Consumers refuse to use any digital product that requests access to their GPS location or contact book.",
+      "While over 80% of citizens profess deep concern over surveillance in public opinion surveys, their revealed behavior is completely blas\u00e9, freely exchanging intimate telemetry for minor conveniences and free apps."
+    ],
+    "correctAnswer": 3,
+    "explanation": "The privacy paradox describes the massive contradiction between stated concern and revealed behavior. When polled, people vehemently state they cherish their digital privacy. Yet in practice, they willingly click 'Agree' to invasive terms of service, broadcasting their exact locations, search queries, and friend networks for a free game or a 10% coupon.",
+    "citation": "Chapter 12: Epilogue / The Panopticon - The Privacy Paradox"
+  },
+  {
+    "id": "data-q47",
+    "chapterId": "ch12",
+    "chapterName": "Ch 12: Epilogue / The Panopticon",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How does Jeremy Bentham\u2019s 18th-century architectural Panopticon serve as a model for modern digital surveillance?",
+    "options": [
+      "The Panopticon was an ancient Roman forum designed to encourage public democratic debate through complete transparency.",
+      "The Panopticon describes a system where citizens possess full reciprocal surveillance authority over corporate boardrooms and state intelligence agencies.",
+      "Originally an 18th-century prison architecture where invisible observation enforces internalized self-policing, the Panopticon now describes the ubiquitous, invisible tracking of daily digital life by states and corporations.",
+      "Modern encryption technologies have completely dismantled Bentham's Panopticon, guaranteeing total privacy for all internet users."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bentham designed the Panopticon as a circular prison with a central guard tower where inmates never knew if they were being observed, forcing them to constantly police themselves. In the digital age, NSA PRISM collection, telemetry tracking, and corporate data brokers create an invisible, permanent Panopticon where every digital movement is stored indefinitely.",
+    "citation": "Chapter 12: Epilogue / The Panopticon - The Digital Panopticon"
+  },
+  {
+    "id": "data-q48",
+    "chapterId": "ch12",
+    "chapterName": "Ch 12: Epilogue / The Panopticon",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "In the Coda of Dataclysm, Christian Rudder invokes statistician Edward Tufte and the Vietnam Veterans Memorial to articulate what core mission of data science?",
+    "options": [
+      "The true moral and artistic goal of big data is not reductive corporate exploitation, but illuminating the sacred individual human lives and stories embedded within the aggregate statistical blur.",
+      "Data visualizations must prioritize animated corporate 3D graphics over static 2D information density to maximize user retention.",
+      "Individual human stories should be completely stripped from data science to preserve mathematical objectivity.",
+      "Complex social phenomena can always be accurately summarized by a single scalar metric like a Klout score."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rudder reflects on Maya Lin's Vietnam Veterans Memorial, praised by Edward Tufte: from a distance, 58,000 names look like a gray abstract blur of casualties, but up close, every single entry is an irreplaceable human life with a name, date, and family. The true calling of data science is to use aggregate data not to erase individuality, but to understand and honor the human reality within the blur.",
+    "citation": "Chapter 12: Epilogue / The Panopticon - Edward Tufte and the Human Blur"
+  }
+]

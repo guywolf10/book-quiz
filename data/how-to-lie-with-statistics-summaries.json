@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ch1",
+    "chapterNumber": 1,
+    "title": "The Sample with the Built-in Bias",
+    "bigIdea": "A statistic is only as trustworthy as the sampling procedure that generated it; no amount of advanced mathematical refinement or decimal precision can rescue data drawn from a fundamentally non-representative or self-selected sample.",
+    "counterIntuitiveInsights": [
+      "Extreme numerical precision often conceals complete unreliability: Precision (reporting down to the dollar or decimal place, like $25,111) is frequently weaponized to create a false aura of rigor around biased or fabricated estimates.",
+      "The non-respondents are rarely random: Voluntary mail questionnaires and alumni surveys consistently omit the two groups that would drag down the average\u2014those too poor or transient to be reached, and those too embarrassed to report low earnings.",
+      "Stated preferences measure social vanity, not ground reality: Market surveys asking people what they read or do (e.g., Harper's vs. True Story, or daily tooth-brushing frequency) measure self-image and social desirability rather than actual human behavior.",
+      "Large sample size cannot cure selection bias: A massive sample (such as the 1936 Literary Digest poll of 10 million people) will fail catastrophically if the underlying sample frame is systematically tilted toward a specific socioeconomic demographic."
+    ],
+    "coreMechanics": [
+      "Non-Representative Sampling & Selection Distortion: The 'universe' must offer every member an equal probability of selection. In convenience, street-corner, or directory-based sampling, interviewers systematically favor accessible, well-dressed, or cooperative subjects, creating an automatic upscale and conservative bias.",
+      "Three-Tiered Filtering Bias (Kinsey Dilemma): In survey research, bias operates at three distinct levels: (1) who agrees to be sampled, (2) which questions are selected and framed, and (3) what the respondent chooses to reveal versus conceal.",
+      "Interviewer Effect & Conformity Dynamics: Demographics and perceived authority of interviewers radically warp answers (as proven by NORC wartime experiments where Black respondents drastically altered loyalty answers based on interviewer race)."
+    ],
+    "keyExercises": [
+      "The Missing Respondent Audit: Whenever an alumni, consumer, or industry average is announced, identify the invisible non-respondents. Ask: Who threw the survey away? Whose addresses were lost? How would their inclusion shift the distribution?",
+      "Social Desirability Test: Evaluate survey questions for reputational risk. If answering honestly implies low status, immorality, or failure, discard self-reports in favor of behavioral traces (e.g., counting discarded magazines rather than asking subscribers)."
+    ],
+    "keyTakeaway": "A river cannot rise above its source: if your sample is poisoned by selection bias, the most sophisticated mathematical analysis will only produce a more precise delusion."
+  },
+  {
+    "id": "ch2",
+    "chapterNumber": 2,
+    "title": "The Well-Chosen Average",
+    "bigIdea": "The generic label 'average' is an elastic trick of rhetoric; by freely swapping between the arithmetic mean, median, and mode, an author can legally present contradictory portraits of the exact same financial reality to serve opposing agendas.",
+    "counterIntuitiveInsights": [
+      "Two legitimate averages from the same dataset can tell opposing stories: A real estate agent can truthfully claim an average neighborhood income of $15,000 (mean) to lure affluent buyers, while using $3,500 (median) to demand tax cuts.",
+      "Outliers distort the mean while leaving the median untouched: Symmetrical bell curves allow mean, median, and mode to converge, but highly skewed distributions (like wealth and income) pull the mean far up the long tail, rendering it completely unrepresentative of the typical experience.",
+      "Corporate accounting can manufacture low 'profits' and high 'worker compensation' simultaneously: By reclassifying executive distributions as bonuses/salaries and folding owners into the employee wage pool, owners can show an inflated average worker salary alongside microscopic corporate profit margins.",
+      "Symmetrical distributions vs. 'Child's Slide' distributions: Human biological traits (height, weight) approximate normal distributions, but socioeconomic metrics mimic a playground slide\u2014rising sharply to a low peak and trailing off into extreme wealth."
+    ],
+    "coreMechanics": [
+      "Mean (Arithmetic Average): Sum of all values divided by total count. Extremely vulnerable to extreme skew and high-income outliers.",
+      "Median (50th Percentile): The central observation splitting the ordered dataset into two equal halves. Robust against outliers; the only sensible indicator for typical socioeconomic status.",
+      "Mode: The most frequently occurring value. Useful for identifying the single most common wage or price tier, but ignores the rest of the distribution.",
+      "The Whipsaw Dilution Formula: Shifting executive profit shares into payroll increases the numerator while only increasing the denominator by the number of owners, artificially boosting the reported 'average salary' while shrinking remaining reported 'profits'."
+    ],
+    "keyExercises": [
+      "The Three-Average Stress Test: Whenever an 'average' wage, home price, or tax burden is cited, calculate or demand all three metrics (mean, median, mode). If the author refuses to disclose the median, assume extreme right-skew.",
+      "Cohort Boundary Check: Audit who is included in the average. (e.g., Does 'average employee wage' include part-time workers? Does it include multimillionaire executive bonuses?)."
+    ],
+    "keyTakeaway": "Never trust an unqualified 'average' in a skewed world; when an interested party refuses to specify whether they mean the mean or the median, they have chosen the one that best flatters their pocketbook."
+  },
+  {
+    "id": "ch3",
+    "chapterNumber": 3,
+    "title": "The Little Figures That Are Not There",
+    "bigIdea": "The most deceptive part of a statistical claim is almost always what has been omitted: missing sample sizes, undisclosed significance tests, absent standard deviations, and suppressed baseline base rates make pure chance look like groundbreaking fact.",
+    "counterIntuitiveInsights": [
+      "Small sample sizes make extreme, miraculous outcomes inevitable: With 12 subjects or 10 coin tosses, chance alone routinely generates dramatic 80% streaks; commercial sponsors exploit this by running repeated small trials and filing away failures.",
+      "Large trials can be statistically powerless if base rates are low: A medical trial of 1,130 children for polio yielded zero cases in both vaccinated and control groups, rendering the study completely meaningless because the background incidence was too low to register in that sample size.",
+      "The 'Average Family' of 3.6 persons is a dangerous myth: Housing developers overbuilt two-bedroom homes for 'average' families, ignoring that 3-4 person households made up only 45% of the market, leaving the 55% majority (singles, couples, large families) neglected.",
+      "A statistical norm is a descriptive observation, not a moral imperative: Conflating Gesell's developmental averages with 'desirability' causes parents to treat normal biological variance as pathology or developmental defect."
+    ],
+    "coreMechanics": [
+      "File-Drawer Effect / Publication Bias: Repeatedly running underpowered small-sample experiments (n=12) until a random statistical fluke achieves the desired headline (e.g., '23% fewer cavities'), while silently burying all non-significant or negative trials.",
+      "Statistical Significance & Confidence Levels: Any reported difference is meaningless without its probability of chance occurrence (p-value); standard practice requires at least a 5% level (19 chances in 20) or 1% level (99 in 100) before claiming an effect is real.",
+      "Dispersion and Range Concealment: Concealing the variance (e.g., claiming two regions share an identical 61\u00b0F mean temperature while hiding that one fluctuates between 47\u00b0F\u201387\u00b0F and the other between 15\u00b0F\u2013104\u00b0F)."
+    ],
+    "keyExercises": [
+      "The Coin-Flip Replicability Audit: When presented with a startling percentage improvement (e.g., '33% better performance'), immediately demand the absolute sample size (n) and the total number of unmentioned preliminary trials conducted.",
+      "The Dispersion Check: Whenever an average is given to define an environment or product (e.g., climate, room size, job completion times), ask for the range and standard deviation before making commitments."
+    ],
+    "keyTakeaway": "A statistic without its sample size, its margin of error, and its range is not a measurement\u2014it is an empty headline engineered to fool the uncritical."
+  },
+  {
+    "id": "ch4",
+    "chapterNumber": 4,
+    "title": "Much Ado about Practically Nothing",
+    "bigIdea": "Minor numerical differences that fall within the inevitable margin of sampling or measurement error represent nothing more than statistical noise; treating them as meaningful distinctions is pure self-deception.",
+    "counterIntuitiveInsights": [
+      "Linda (IQ 101) is not demonstrably smarter than Peter (IQ 98): Because the Stanford-Binet has a probable error of 3%, there is a 25% chance Peter's true score is above 101 and a 25% chance Linda's true score is below 98.",
+      "Probable Error covers only 50% of trials: A probable error of +/- 3 means there is an even 50-50 chance that the subject's true score lies outside that very band.",
+      "'Normal' is a broad continuum, not a pinpoint score: Defining normality as 100 turns half the population into artificial failures; normality in human traits is properly understood as an expansive interval (e.g., 90 to 110).",
+      "Meaningless differences can drive massive commercial fortunes: When Reader's Digest proved all cigarettes had identical toxicity, Old Gold seized on a micro-fractional, chance-driven difference to advertise that it had the lowest nicotine, turning negligible noise into an ad triumph."
+    ],
+    "coreMechanics": [
+      "Probable Error (PE) vs. Standard Error (SE): Probable error represents the median deviation encompassing the middle 50% of random sampling variations (PE = 0.6745 * SE). Standard error encompasses roughly 68.3% of the normal distribution.",
+      "Overlapping Confidence Bands: Two measurements whose error intervals overlap cannot be distinguished; declaring one superior to the other is mathematically indefensible.",
+      "Sub-Sample Attrition & Margin Explosion: In consumer and media surveys, segmenting respondents into micro-categories shrinks the effective sample size to a handful, blowing up the margin of error until small percentage gaps become statistical illusions."
+    ],
+    "keyExercises": [
+      "The Plus-or-Minus Stress Test: Never accept a raw test score or poll lead without mentally attaching its +/- error band. If the difference between two candidates or students is smaller than the combined error margins, treat the result as a tie.",
+      "The 'Difference That Makes a Difference' Filter: Ask whether a statistically demonstrable micro-gap has any practical physical or behavioral significance (the Old Gold razor)."
+    ],
+    "keyTakeaway": "A difference is only a difference if it makes a difference; if two numbers overlap within their margins of error, any debate over who is 'better' is much ado about practically nothing."
+  },
+  {
+    "id": "ch5",
+    "chapterNumber": 5,
+    "title": "The Gee-Whiz Graph",
+    "bigIdea": "Line graphs and coordinate axes can be visually manipulated to turn modest, boring flatlines into dramatic, soaring mountains without altering a single underlying numerical data point.",
+    "counterIntuitiveInsights": [
+      "An accurate graph can tell a colossal visual lie: An author can plot 100% truthful data points while entirely deceiving the reader's eye simply by truncating the zero baseline.",
+      "Words are not required to sensationalize data: Rather than writing 'national income skyrocketed,' an editor simply chops off the lower 90% of the y-axis, allowing the visual cortex to supply the emotional hysteria automatically.",
+      "Modifying the aspect ratio manufactures artificial volatility: Altering the ratio between the ordinate (vertical axis) and abscissa (horizontal axis) stretches a gentle 4% incline into a cliff-like vertical spike.",
+      "The 'Paper Saving' Defense: Corporate reports frequently defend truncated axes by claiming it saves blank space on the page, concealing that the primary motive is to exaggerate tiny fluctuations."
+    ],
+    "coreMechanics": [
+      "Zero-Line Suppression (Truncation): Severing the graph below the lowest observed value eliminates the foundational frame of reference, converting a modest 10% proportional change into a line that appears to sweep across 100% of the visible frame.",
+      "Ordinate-to-Abscissa Scale Stretching: Compressing horizontal spacing while multiplying vertical grid sensitivity transforms flat secular trends into dramatic waves of boom and bust.",
+      "Broken Axis Deception: Dropping the zero line without providing a prominent zig-zag break or explicit visual warning on the axis to deceive the casual reader."
+    ],
+    "keyExercises": [
+      "The Zero-Baseline Reconstruction Drill: Whenever evaluating a financial, economic, or marketing line graph, inspect the vertical axis. If it begins anywhere above zero, redraw or visualize the entire distance down to zero to restore proportional perspective.",
+      "Aspect Ratio Audit: Check whether the vertical intervals have been arbitrarily elongated to create a dramatic slope where an honest aspect ratio would show stability."
+    ],
+    "keyTakeaway": "In graphic presentation, the eye is always faster than the analytical mind; truncate the zero baseline, and you can turn a gentle 4% ripple into an impending economic catastrophe."
+  },
+  {
+    "id": "ch6",
+    "chapterNumber": 6,
+    "title": "The One-Dimensional Picture",
+    "bigIdea": "Pictographs that scale two- or three-dimensional objects by linear height exploit geometric scaling laws, creating visual impressions that dwarf reality by powers of two or three.",
+    "counterIntuitiveInsights": [
+      "Doubling height quadruples area and octuples volume: When an artist doubles the height of a moneybag or worker to depict a 2-to-1 wage ratio, the icon's area expands 4x and its apparent volume expands 8x, leaving the viewer with an overwhelming, false 8-to-1 impression.",
+      "The label says 2x, but the brain registers 8x: Even when exact numbers are printed next to the pictogram, the dominant perceptual impression is determined by bulk and volume, not the printed caption.",
+      "Scaling animal icons distorts biological reality: Scaling a cow icon 3x taller to represent a 3x increase in the US cow population not only inflates volume by 27x, but subliminally convinces casual readers that modern cows have grown gigantic.",
+      "Honest pictographs repeat identical units: An honest graphic never scales the dimensions of a single icon; it arranges repeated, identical, uniform units (e.g., 2 standard moneybags vs. 1 standard moneybag)."
+    ],
+    "coreMechanics": [
+      "The Square-Cube Law of Visual Distortion: Linear factor k yields area k^2 and volume k^3. Scaling a 1D metric (k=2) via a 2D drawing creates a 4x visual footprint; representing it as a 3D solid (moneybags, blast furnaces, people) produces an 8x volumetric illusion.",
+      "Ratio-Splitting in Industrial Propaganda: The American Iron and Steel Institute drew a blast furnace for a 14.25M ton increase 1.5x taller than a 10M ton furnace, while fattening its girth and extending molten iron bars to project a 1500% visual surge."
+    ],
+    "keyExercises": [
+      "The Dimensionality Audit: When looking at a pictograph, ask: Is the metric 1-dimensional (dollars, tons, people)? If yes, are the icons scaling in 2 or 3 dimensions?",
+      "The Unit Repetition Test: Check if the graphic uses repeated uniform icons (honest) or a single scaled monster icon (deceptive)."
+    ],
+    "keyTakeaway": "Beware the growing moneybag: whenever a graphic designer scales a three-dimensional object to represent a one-dimensional number, geometry ensures that a two-fold difference looks like an eight-fold avalanche."
+  },
+  {
+    "id": "ch7",
+    "chapterNumber": 7,
+    "title": "The Semiattached Figure",
+    "bigIdea": "When an advocate cannot prove their intended thesis, they establish an entirely different, easily verifiable fact that sounds related, relying on the reader's inattention to bridge the logical chasm.",
+    "counterIntuitiveInsights": [
+      "Test-tube germicide does not equal throat medicine: Proving that an antiseptic kills 31,108 germs in a laboratory test tube has zero bearing on curing human colds, which are viral and shielded within throat tissues.",
+      "Worse racial prejudice can generate 'better' poll numbers: In a Princeton study, racially prejudiced individuals were twice as likely to claim minorities enjoyed equal job opportunities; thus, rising societal racism mathematically inflates the poll metric showing 'equal opportunity.'",
+      "High-volume retailers can make low margins on sales and immense profits on capital: A grocery chain making 1.1% on sales can earn an astounding 365% annual return on invested capital by turning over its inventory daily (the 99\u00a2-to-$1.00 daily turnover model).",
+      "Travel death tolls reflect exposure, not inherent safety: More people die on roads at 7 PM than 7 AM, and more people die in clear weather than fog, purely because highway volume is vastly higher; safety can only be judged via risk rates per passenger mile."
+    ],
+    "coreMechanics": [
+      "The Semiattached Pivot: Asserting Proposition A (what you wish to prove) by demonstrating Proposition B (an adjacent, easily measurable surrogate) and daring the public to notice the difference.",
+      "Denominator Mismatch & Rate Distortion: Comparing raw death counts rather than rates per capita or passenger-mile (e.g., claiming the Navy in the Spanish-American War with a 9/1,000 death rate was safer than NYC civilians at 16/1,000, ignoring that recruits are young healthy men while civilians include infants and the elderly).",
+      "Administrative Artifacts in Medical Statistics: Dramatic surges or collapses in diseases (polio in 1952, southern malaria, pneumonia) frequently reflect changes in diagnostic criteria, legal reporting mandates, or insurance incentives rather than true biological shifts."
+    ],
+    "keyExercises": [
+      "The 'So What?' Drill: When an impressive statistic is cited in an advertisement or political campaign (e.g., '27% of doctors smoke Throaties'), ask: 'Even if this number is 100% true, does it actually prove the core claim?'",
+      "The Exposure-Rate Audit: Whenever an accident or mortality statistic is presented as raw totals, demand the rate normalized by exposure (passenger miles, person-hours, or demographic age-adjustment)."
+    ],
+    "keyTakeaway": "If you cannot prove what you want to prove, demonstrate something else and pretend they are the same thing; in the fog of numbers, few will notice that the subject has been switched."
+  },
+  {
+    "id": "ch8",
+    "chapterNumber": 8,
+    "title": "Post Hoc Rides Again",
+    "bigIdea": "Correlation does not establish causation; attributing a causal connection between two variables that move together without controlling for confounding variables, bidirectional effects, or historical trends is the oldest fallacy in human reasoning.",
+    "counterIntuitiveInsights": [
+      "Cigarettes and low grades: Both can stem from a common third factor: Smokers in college may earn lower grades not because smoking dulls intellect, but because extroverted, highly social students spend more time socializing (and smoking) and less time studying.",
+      "Presbyterian ministers and Havana rum: A near-perfect historical correlation between the salaries of Massachusetts ministers and the price of rum in Cuba was driven entirely by a lurking third variable\u2014global economic inflation.",
+      "Body lice and good health: New Hebrides islanders observed that healthy people had lice while feverish patients had none, concluding that lice produce health; in reality, high fevers simply drove the parasites away.",
+      "Linear trends inevitably collapse when extrapolated beyond their domain: Rainfall increases corn yields up to a threshold, after which excessive water drowns the crop; college degrees raise income, but obtaining post-graduate degrees often channels graduates into lower-paying academic tracks."
+    ],
+    "coreMechanics": [
+      "Four Types of Non-Causal Covariation: (1) Pure Chance Correlation, (2) Bidirectional / Feedback Covariation, (3) Common-Cause (Confounding) Covariation, and (4) Non-Linear Boundary Reversals.",
+      "Cohort Effect vs. Aging Process (Helen Walker's Posture Study): Older women walked with feet splayed outward not because aging deforms foot angles, but because Victorian etiquette explicitly trained young girls in that era to walk toe-out.",
+      "Selection Bias Masquerading as Causal Benefit: College graduates earn more money primarily because universities disproportionately admit the intelligent and the wealthy\u2014two cohorts that would achieve high earnings regardless of attendance."
+    ],
+    "keyExercises": [
+      "The Third-Variable Search: Whenever a study claims Factor A causes Factor B, brainstorm at least three underlying social, biological, or economic forces that could independently drive both.",
+      "The Reversal Test: Ask whether the causal arrow could plausibly run in the exact opposite direction (e.g., Does poor academic performance drive students to smoke to cope with stress?)."
+    ],
+    "keyTakeaway": "Two variables dancing together across a chart prove only that they are in the same ballroom; confusing coincidence with causation is modern superstition dressed in statistical finery."
+  },
+  {
+    "id": "ch9",
+    "chapterNumber": 9,
+    "title": "How to Statisticulate",
+    "bigIdea": "'Statisticulation' is the deliberate or negligent manipulation of technically accurate numbers\u2014through shifting baselines, false percentage additions, deceptive map shading, and index tampering\u2014to mislead while remaining technically immune to libel.",
+    "counterIntuitiveInsights": [
+      "A 50% pay cut requires a 100% pay raise to break even: Taking a 20% cut from $1.00 drops wages to 80\u00a2; a subsequent 5% increase yields 4\u00a2, restoring only one-fifth (not one-fourth) of the lost amount because the baseline shifted.",
+      "Percentages cannot be added together like apples: If materials rise 10%, labor rises 10%, and rent rises 10%, total production costs rise by roughly 10%\u2014not the 30% to 40% claimed by corporate propagandists.",
+      "Map shading distorts geographic space for demographic reality: The 'Darkening Shadow' map shaded vast, sparsely populated western states to make federal spending look like an encroaching totalitarian black wave, hiding that those states accounted for a fraction of national income.",
+      "Shifting index base years can prove prices rose, fell, or remained flat simultaneously: In a two-good economy (milk dropping from 20\u00a2 to 10\u00a2, bread rising from 5\u00a2 to 10\u00a2), using last year as base shows a 25% inflation; using this year as base shows a 20% deflation; using geometric mean shows exactly zero change!"
+    ],
+    "coreMechanics": [
+      "The Shifting Base Trap: Calculating increases and decreases on different reference denominators to exaggerate gains or minimize losses (e.g., 'save 100%' on a 50% discount; 50% off plus 20% off resulting in 60% off, not 70%).",
+      "Percentage Points vs. Percentage Increase: Describing a move from 3% return to 6% return as a modest '3-point rise' or an explosive '100% increase' depending on partisan convenience.",
+      "The Decimal Smokescreen: Attaching arbitrary decimals (e.g., reporting 7.831 hours of sleep or Karl Marx's 153 11/13% surplus value) to bestow scientific gravitas upon raw guesses and self-reports.",
+      "Percentile Distortion on Normal Curves: Equal intervals along the percentile rank scale represent vastly unequal physical distances along the bell curve; the leap from 90th to 99th percentile spans a massive ability chasm, while 45th to 55th is practically indistinguishable."
+    ],
+    "keyExercises": [
+      "Denominator Audit: Whenever a percentage change is quoted, write down the absolute dollar or unit value of the baseline denominator. Check if the before-and-after comparisons share the exact same base.",
+      "The 100% Reality Check: If a discount, price cut, or efficiency gain claims 100% or more, verify whether the goods are being given away for free or if the author has confused the new price with the original price."
+    ],
+    "keyTakeaway": "Misinforming through accurate arithmetic is the highest art of statisticulation; keep your eye on the shifting base, or you will find yourself celebrating a 5% raise that leaves you poorer than before."
+  },
+  {
+    "id": "ch10",
+    "chapterNumber": 10,
+    "title": "How to Talk Back to a Statistic",
+    "bigIdea": "Defense against statistical fraud does not require a doctorate in advanced mathematics; it requires subjecting every statistical assertion to five simple, razor-sharp critical filter questions.",
+    "counterIntuitiveInsights": [
+      "Prestigious 'O.K. Names' are often bystanders, not sponsors: Citing Cornell University, Johns Hopkins, or the Census Bureau often means only that the author borrowed raw tables from them while inventing wild, unauthorized conclusions of their own.",
+      "Extreme precision is the hallmark of a fake estimate: Precise numbers like '$40.13 weekly budget for a working woman' or '$51.13 car tax' are dead giveaways of guesswork masquerading as measurement.",
+      "A '6% interest rate' on an installment loan is actually nearly 12%: Because equal monthly installments pay down the principal throughout the year, the borrower only holds an average of half the principal, doubling the true annual percentage rate.",
+      "Unchecked mathematical trend extrapolation leads straight to absurdity: Projecting early television adoption or river erosion forward yields Mark Twain's conclusion that the Mississippi was once 1.3 million miles long and New Orleans will soon merge with Cairo, Illinois."
+    ],
+    "coreMechanics": [
+      "The Five Essential Filter Questions: (1) Who Says So? (bias & O.K. names), (2) How Does He Know? (sample size & methodology), (3) What's Missing? (sample sizes, dispersion, comparison groups), (4) Did Somebody Change the Subject? (semantic pivots & surrogate metrics), and (5) Does It Make Sense? (unproven assumptions & wild extrapolations).",
+      "Installment Loan Interest Compounding: True APR is approximately double the nominal add-on rate for 1-year amortized installment debt, as average outstanding principal is only half the original loan amount."
+    ],
+    "keyExercises": [
+      "The Five-Question Rapid Drill: Run any newspaper chart or corporate claim through the five filters in sequence. If it fails even one filter, reject the conclusion until the missing parameters are supplied.",
+      "The Extrapolation Reality Check: Take any projected growth trend, extend it linearly 20 to 50 years into the future, and verify whether it violates physical, biological, or economic carrying capacity."
+    ],
+    "keyTakeaway": "Face down the phony statistic by demanding who says so, how they know, what is missing, whether they changed the subject, and if it makes common sense; numbers cannot lie, but liars figure."
+  }
+]

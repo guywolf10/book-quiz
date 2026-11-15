@@ -1,0 +1,852 @@
+[
+  {
+    "id": "mat-q01",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: The Nature of ADD & Involuntary Dissociation",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Drawing on British psychiatrist R. D. Laing's observation that human beings fear three things—death, other people, and their own minds—why does Dr. Gabor Maté argue that adults with ADD experience a persistent dread of stillness and silence?",
+    "options": [
+      "They have an innate phobia of sensory deprivation that triggers vestibular disorientation in the inner ear.",
+      "Their unquiet minds feel like ferocious, chaotic beasts that will psychologically devour them unless constantly fed external scraps of stimulation, reading, or activity.",
+      "They suffer from an auditory processing deficit where absolute silence causes painful phantom tinnitus.",
+      "They lack the intellectual capacity to engage in abstract reflection without external visual aids."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In Chapter 1, Dr. Maté reflects on R. D. Laing's insight that humans fear death, others, and their own minds. Maté describes how the ADD adult's mind is never at rest, flitting about like a deranged bird. Without constant external stimulation to chew on—such as carrying an emergency book into bank lineups or supermarket checkouts—the unquiet, fragmented mind threatens to overwhelm the individual with terrifying internal chaos and unresolved anxiety.",
+    "citation": "Chapter 1: So Much Soup and Garbage Can - The ADD Epiphany"
+  },
+  {
+    "id": "mat-q02",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: The Nature of ADD & Involuntary Dissociation",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "Throughout his adult medical career, Dr. Maté frequently joked that he could accomplish his work 'with half my brain tied behind my back.' What profound, counter-intuitive reality of adult ADD does this reflection illustrate?",
+    "options": [
+      "Individuals with ADD possess an asymmetrical corpus callosum that physically shuts down the left hemisphere during creative tasks.",
+      "ADD is characterized by an absolute absence of intelligence and professional capability, requiring external assistants to compensate.",
+      "Stimulant medications tie down redundant neural firing, allowing the other half of the brain to operate at normal speed.",
+      "High intelligence and creative talent can mask ADD, allowing individuals to attain sporadic career success while remaining painfully alienated from their full psychological potential."
+    ],
+    "correctAnswer": 3,
+    "explanation": "In Chapter 1, Maté explains that the ADD adult retains a lifelong awareness of possessing deep talents, insights, and positive potential that remain unrealized because the executive wiring is crossed. High intelligence enables many adults to function professionally 'with half a brain,' but this masks the tragic internal fragmentation, disorganization, and failure to attain psychological integrity.",
+    "citation": "Chapter 1: So Much Soup and Garbage Can - Operating with Half a Brain"
+  },
+  {
+    "id": "mat-q03",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: The Core Triad & Involuntary Tuning Out",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why does Dr. Maté argue that 'tuning out' in Attention Deficit Disorder is fundamentally different from ordinary daydreaming, voluntary inattention, or boredom?",
+    "options": [
+      "It is an automatic, involuntary psychological defense mechanism (dissociation) originally deployed in infancy to escape emotional distress when physical flight was impossible.",
+      "It represents a localized epileptic micro-seizure centered within the temporal lobe and hippocampal memory circuits.",
+      "It is a deliberate passive-aggressive tactic engineered by the conscious mind to covertly manipulate conversational partners.",
+      "It results from a complete physical breakdown of the auditory cortex failing to transduce sound waves into neural signals."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The hallmark of ADD is an automatic, unwilled tuning out. When an infant or young child experiences emotional pain, stress, or rejection, they can neither fight back nor physically flee. The only psychological coping defense available to the organism is to tune out—automatic dissociation. What began as a life-preserving survival mechanism in the face of stress becomes hardwired as an involuntary default in adulthood whenever discomfort arises.",
+    "citation": "Chapter 2: Many Roads Not Traveled - The Hallmark of Tuning Out"
+  },
+  {
+    "id": "mat-q04",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: The Core Triad & Involuntary Tuning Out",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Conventional psychiatry frequently treats emotional volatility in ADD as an incidental, secondary byproduct of executive dysfunction. How does Dr. Maté counter this clinical assumption?",
+    "options": [
+      "He argues that emotions are purely cognitive constructs that disappear entirely once stimulant medication is administered.",
+      "He demonstrates that emotional symptoms are exclusive to bipolar disorder and should never be attributed to ADD.",
+      "He demonstrates that emotional hypersensitivity and affect dysregulation are the primary root and core engine of ADD from which attentional scattering emerges.",
+      "He claims that attentional circuits and emotional circuits reside in completely separate brain hemispheres that never interact."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Maté emphasizes that emotional dysregulation is not an accidental byproduct or secondary complication of ADD; it is the fundamental core. Emotional hypersensitivity to perceived rejection, disapproval, or stress is what triggers the involuntary dissociative tuning out and impulsive coping behaviors. Disturbed emotional regulation precedes and drives the attentional deficits.",
+    "citation": "Chapter 2: Many Roads Not Traveled - Emotional Dysregulation as Root"
+  },
+  {
+    "id": "mat-q05",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: The Core Triad & Involuntary Tuning Out",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "In describing the diagnostic triad of ADD, how does Maté explain the relationship between motor hyperactivity and hypoactive sluggish lethargy?",
+    "options": [
+      "Hyperactivity is purely genetic, whereas hypoactive lethargy is caused exclusively by poor dietary nutrition and lack of iron.",
+      "They are opposite poles of the same impaired arousal mechanism; when the nervous system cannot sustain optimal dopamine arousal, it either hyper-activates or collapses into brain fog and lethargy.",
+      "Hypoactive lethargy only occurs in geriatric patients, whereas hyperactivity is restricted to male children under age ten.",
+      "They represent two mutually exclusive neurological diseases that can never occur within the same person over time."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chapter 2 explains that the nervous system in ADD struggles with baseline arousal. In response to under-arousal or emotional stress, the organism may swing into hyperactivity (fidgeting, pacing, talking incessantly) to generate stimulation, or it may collapse into sluggish lethargy, brain fog, and paralysis. They are two expressions of the same underlying neurobiological dysregulation.",
+    "citation": "Chapter 2: Many Roads Not Traveled - The Pendulum of Arousal"
+  },
+  {
+    "id": "mat-q06",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: The Continuum of Human Stress",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why does Dr. Maté reject the orthodox medical framing of ADD as a discrete, categorical 'brain disease' analogous to diabetes or Parkinson's disease?",
+    "options": [
+      "Because diabetes has a known cure, whereas ADD cannot be treated with any pharmacological agents.",
+      "Because neurological imaging proves that the brains of individuals with ADD are completely identical to neurotypical controls under all conditions.",
+      "Because Maté believes that mental illnesses are entirely fabricated social myths without any physiological basis.",
+      "Because ADD traits exist on a dimensional continuum of universal human responses to stress, representing a developmental impairment of self-regulation rather than an alien pathology."
+    ],
+    "correctAnswer": 3,
+    "explanation": "In Chapter 3, Maté argues that absentmindedness, restlessness, and impulsivity are on the continuum of normal human traits. Categorizing ADD as a discrete, categorical disease alien to normal human functioning pathologizes universal coping responses to developmental stress. ADD is an extreme, life-impairing point on the human spectrum of self-regulation and stress reactivity.",
+    "citation": "Chapter 3: We Could All Go Crazy - The Dimensional Spectrum"
+  },
+  {
+    "id": "mat-q07",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: ADD and the Marital Dynamic",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "In an intimate marriage where one partner has undiagnosed ADD, the non-ADD spouse often ends up managing household finances, reminding the partner of appointments, and monitoring chores. Why does this caretaking dynamic almost invariably poison the relationship?",
+    "options": [
+      "It locks the couple into a toxic Parent-Child dynamic where the non-ADD spouse feels exhausted and resentful, while the ADD partner feels scrutinized, humiliated, and triggered into counterwill.",
+      "It forces the ADD spouse to develop hyper-focus on financial spreadsheets, starving the partner of conversation.",
+      "It triggers immediate legal intervention because spouses are legally prohibited from managing a partner's domestic calendar.",
+      "It leads the non-ADD spouse to develop secondary genetic mutations that convert their own brain chemistry into ADD."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Chapter 4, Maté details the marital trap where the organized partner assumes a parental role. This dynamic destroys romantic intimacy: the non-ADD partner becomes resentful, burnt out, and maternal/paternal, while the ADD partner feels constantly criticized and surveilled, which triggers deep childhood shame and reactive counterwill (passive-aggressive resistance or explosive defensiveness).",
+    "citation": "Chapter 4: A Conflictual Marriage: ADD and the Family (I) - The Parent-Child Trap"
+  },
+  {
+    "id": "mat-q08",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: Time-Blindness & The Working Memory Deficit",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Leading ADHD researcher Dr. Russell Barkley characterized ADD as 'forgetting to remember the future.' According to Maté and Barkley, what is the precise executive deficit underlying this phenomenon?",
+    "options": [
+      "Total retrograde amnesia that wipes autobiographical memories from the temporal lobes every twelve hours.",
+      "A failure of sensory organs to detect the physical tick of clocks and the rotation of the sun.",
+      "An inability of the prefrontal working memory to hold internal representations of future consequences active at the 'point of performance' to guide present action.",
+      "A lack of intellectual understanding of calendar math and chronological scheduling systems."
+    ],
+    "correctAnswer": 2,
+    "explanation": "ADD is not a disorder of knowing what to do; it is a disorder of doing what you know at the point of performance. The prefrontal cortex fails to hold mental images of future time, rewards, or penalties active in working memory against competing immediate sensory stimuli. Consequently, the person lives in the immediate present ('Now vs. Not Now'), rendering the future neurologically invisible until crisis strikes.",
+    "citation": "Chapter 5: Forgetting to Remember the Future - Point of Performance"
+  },
+  {
+    "id": "mat-q09",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: Time-Blindness & The Working Memory Deficit",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "An adult with ADD is fully aware for four months that their tax filing is due on April 30. Despite experiencing intense background dread, they cannot bring themselves to begin sorting receipts until 9:00 PM on April 30. How does Maté's analysis explain this paralysis?",
+    "options": [
+      "The individual is engaged in deliberate civil disobedience against the federal revenue agency.",
+      "Future consequences carry virtually zero dopamine salience in the ADD brain; only when the deadline enters the immediate sensory horizon does panic generate the adrenaline surge required to initiate action.",
+      "The person suffers from severe dyscalculia that makes numbers visually invisible until midnight.",
+      "The individual has forgotten how to read financial documents until stimulated by caffeine."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In the ADD brain, future consequences exist in an abstract 'Not Now' zone that fails to mobilize executive motivation. Without sufficient baseline dopamine, the brain cannot initiate tedious tasks until the consequence becomes an immediate crisis. The acute panic of the final hours triggers an emergency surge of adrenaline and noradrenaline, finally forcing the prefrontal cortex into gear.",
+    "citation": "Chapter 5: Forgetting to Remember the Future - Living in the Immediate Present"
+  },
+  {
+    "id": "mat-q10",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: Heredity vs. Childhood Environment",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How does Dr. Maté challenge the mainstream biological claim that ADD is an inherited, genetically predetermined brain disease like Huntington's chorea?",
+    "options": [
+      "Genes do not code for complex psychiatric disorders; they code for sensitive temperamental susceptibility, and environmental stress dictates whether that genetic sensitivity develops into ADD.",
+      "Genetic research has definitively proven that DNA has zero influence on any aspect of human brain structure or neurotransmitters.",
+      "ADD was completely non-existent before the invention of the microchip, proving it has no evolutionary roots.",
+      "Identical twins separated at birth have an absolute 0% rate of concordance for attention deficits."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Maté argues against genetic fatalism. Genes do not directly code for 'ADD'; they code for neurobiological sensitivity and environmental susceptibility. If a constitutionally sensitive infant is raised in a calm, attuned, low-stress environment, those genes express healthy emotional depth and creativity. If raised in a stressed, un-attuned environment, the same genes manifest as the fragmented, dysregulated circuitry of ADD.",
+    "citation": "Chapter 6: Different Worlds - The Myth of Genetic Determinism"
+  },
+  {
+    "id": "mat-q11",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: Heredity vs. Childhood Environment",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Parents often object to environmental explanations of ADD by noting: 'We raised all our three children exactly the same way, yet only one developed ADD.' Why does Dr. Maté reject this argument?",
+    "options": [
+      "Parents intentionally lie about their parenting techniques to avoid scrutiny from clinical social workers.",
+      "Only the youngest child ever develops ADD due to progressive maternal biological exhaustion.",
+      "Pediatric nutrition varies so wildly between children that dietary toxins account for 100% of the difference.",
+      "Siblings never grow up in the same emotional environment; parental marital stress, financial strain, birth order, and temperamental fit change significantly across each child's infancy."
+    ],
+    "correctAnswer": 3,
+    "explanation": "In Chapter 6, Maté emphasizes that 'there is no such thing as the same family environment for different children.' A family's emotional weather changes constantly: parents may be grieving, financially panicked, or in marital discord during one pregnancy and infancy, but calm and secure during another. Furthermore, an inherently sensitive infant experiences the exact same parental tension far more intensely than a constitutionally sturdy sibling.",
+    "citation": "Chapter 6: Different Worlds - Different Environments in the Same Home"
+  },
+  {
+    "id": "mat-q12",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: Emotional Allergies & Hypersensitivity",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What clinical reality does Dr. Maté describe with the metaphor of 'emotional allergies' in individuals with Attention Deficit Disorder?",
+    "options": [
+      "An immunological reaction where emotional crying triggers histamine release, hives, and anaphylactic shock.",
+      "A complete inability of the emotional brain to experience negative feelings like grief or remorse.",
+      "A constitutional hypersensitivity where subtle emotional ripples—such as a cool vocal tone, mild disapproval, or brief distraction—are experienced with visceral, overwhelming psychic pain.",
+      "An allergic reaction to psychiatric medications that causes individuals to reject therapeutic treatment."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Just as a person with severe physical allergies suffers an extreme physiological reaction to an invisible speck of pollen that wouldn't affect a non-allergic person, an individual with ADD has a nervous system that is hyper-reactive to emotional inputs. A subtle shift in facial expression, a slightly sharp tone of voice, or momentary inattention from a partner is experienced as an agonizing, destabilizing emotional blow.",
+    "citation": "Chapter 7: Emotional Allergies: ADD and Sensitivity - Hypersensitivity as Biology"
+  },
+  {
+    "id": "mat-q13",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: Experience-Dependent Brain Development",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why is human brain development described by developmental neurobiologists as uniquely 'experience-dependent' compared to other mammalian species?",
+    "options": [
+      "Human brains contain no genetic coding for motor reflexes or biological homeostasis at birth.",
+      "To allow passage through the bipedal pelvic canal, human infants are born as 'ex-utero embryos', completing the vast majority of neural wiring and synaptogenesis post-natally in direct interaction with caregivers.",
+      "Other mammals do not possess neurons or synapses until they reach reproductive adulthood.",
+      "The human brain only begins developing neural pathways after the child learns formal grammatical speech."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In Chapter 8, Maté points out that unlike horses or chimps who can stand or forage shortly after birth, human infants are born neurologically incomplete—effectively ex-utero embryos. Trillions of synaptic connections, pathways, and neurochemical receptor sites proliferate and prune after birth, sculpted directly by the emotional environment and caregiver interactions.",
+    "citation": "Chapter 8: A Surrealistic Choreography - The Ex-Utero Embryo"
+  },
+  {
+    "id": "mat-q14",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: Experience-Dependent Brain Development",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "How do synaptogenesis and synaptic pruning operate in the infant brain during the first years of life, according to neurodevelopmental science?",
+    "options": [
+      "Synapses form randomly, and exactly 50% are destroyed every calendar year regardless of environmental stimulation.",
+      "The brain produces an initial deficit of synapses, requiring physical cranial trauma to stimulate new neural sprouting.",
+      "Pruning only occurs during sleep if the child is exposed to classical music recordings.",
+      "The infant brain overproduces trillions of synaptic connections; pathways repeatedly stimulated by attuned, safe interactions are stabilized, while un-stimulated circuits are pruned away."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Nature over-provisions the infant brain with a massive excess of synaptic connections. The child's emotional and social experiences dictate which circuits are reinforced and preserved ('neurons that fire together wire together') and which are pruned away through disuse. A lack of attuned co-regulation causes pathways responsible for self-soothing and sustained attention to wither.",
+    "citation": "Chapter 8: A Surrealistic Choreography - Synaptic Sculpting"
+  },
+  {
+    "id": "mat-q15",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: Attunement vs. Love",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What is the crucial neurobiological and psychological distinction Dr. Maté draws between 'parental love' and 'emotional attunement'?",
+    "options": [
+      "Loving parents can still fail to attune if they are stressed, depressed, or distracted, because attunement is an open, right-brain-to-right-brain resonant synchronization that requires emotional presence, not mere good intentions.",
+      "Love is a neurobiological neurotransmitter surge, whereas attunement is an artificial psychological theory with no physiological correlate.",
+      "Attunement refers only to providing adequate financial resources and physical safety, whereas love is purely emotional.",
+      "Attunement is only required by adopted children, whereas biological children automatically thrive on genetic love alone."
+    ],
+    "correctAnswer": 0,
+    "explanation": "One of Maté's most profound insights in Chapter 9 is that love is not synonymous with attunement. Conscientious, loving parents can fail to attune to their infant if they are consumed by financial stress, marital strife, grief, or personal depression. Attunement is a precise psychobiological resonance—mutual gaze, tone, and autonomic matching—that communicates felt safety directly to the infant's right brain. Without attunement, the infant experiences chronic neurobiological distress despite being deeply loved.",
+    "citation": "Chapter 9: Attunement and Attachment - Love Is Not Enough"
+  },
+  {
+    "id": "mat-q16",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: Attunement vs. Love",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A mother who loves her newborn infant unconditionally is simultaneously grieving the sudden death of her own father. Despite holding and feeding the baby dutifully, the infant becomes colicky, restless, and begins averting its gaze. How does Maté's neurodevelopmental model explain this?",
+    "options": [
+      "The infant has inherited a specific genetic mutation that makes human touch physically painful.",
+      "The infant senses that the grandfather was not genetically related to the family lineage.",
+      "Infants read maternal pupil constriction, facial micro-expressions, and autonomic tone; the mother's internal grief creates an emotional absence that the infant perceives as terrifying abandonment.",
+      "The mother's breast milk experiences an immediate total depletion of glucose caused by bereavement."
+    ],
+    "correctAnswer": 2,
+    "explanation": "In Chapter 9, Maté emphasizes that the eye is an extension of the brain. During face-to-face interaction, infants monitor the mother's pupil size, facial tone, and vocal pitch. When a mother is in deep grief or depression, her pupils constrict, her facial animation flattens, and her emotional presence withdraws. The infant's immature nervous system cannot comprehend 'grandpa died'; it only registers that the maternal connection has gone cold and dead, triggering physiological stress.",
+    "citation": "Chapter 9: Attunement and Attachment - The Mother's Gaze"
+  },
+  {
+    "id": "mat-q17",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: Neuroanatomy of Attention & The OFC",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why does neuropsychoanalyst Allan Schore refer to the Right Orbitofrontal Cortex (OFC) as the 'senior executive of the emotional brain,' and why is it centrally implicated in ADD?",
+    "options": [
+      "The OFC is the sole brain structure responsible for voluntary cardiac rhythm and lung ventilation.",
+      "It sits behind the right eye and bridges the neocortex with the primitive limbic system, governing impulse inhibition, affect regulation, and social cues—circuits that fail to mature properly without early attuned co-regulation.",
+      "It is an isolated mechanical switch that turns off all dopamine production in the presence of sugar.",
+      "It controls mathematical calculation and grammatical syntax in the left hemisphere."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In Chapter 10, Maté reviews the crucial role of the right OFC. Situated behind the right eye socket, it has extensive reciprocal connections to both the higher cerebral cortex and lower subcortical limbic regions (amygdala, hypothalamus). The OFC is the neural command center for impulse control, mood regulation, and reading social feedback. Its functional maturation depends heavily on early attuned caregiver interactions.",
+    "citation": "Chapter 10: The Footprints of Infancy - The Right Orbitofrontal Cortex"
+  },
+  {
+    "id": "mat-q18",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: Neuroanatomy of Attention & The OFC",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "According to the developmental neurobiology cited by Dr. Maté, how does attuned face-to-face play between mother and infant physically stimulate the growth of dopamine and endorphin receptor pathways?",
+    "options": [
+      "By causing minor physical micro-concussions that stimulate white blood cells to release antibodies.",
+      "By transmitting electrical radio waves from the mother's vocal cords directly into the infant's fontanelle.",
+      "By forcing the infant to ingest external neurotransmitters secreted through maternal perspiration.",
+      "Joyful, reciprocal emotional engagement triggers endogenous surges of dopamine and endorphins, which directly stimulate the physical branching of nerve cells and proliferation of receptor sites in the OFC."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Chapter 10 explains that neurotransmitters like dopamine and endorphins do not merely transmit signals—they act as neurotrophic growth factors. When a mother engages in joyful, attuned eye contact and play with her baby, the infant experiences surges of pleasure chemicals. These neurochemicals promote the physical arborization (branching) of neurons and the dense proliferation of receptor sites in the orbitofrontal cortex. Without attunement, these receptor pathways fail to wire properly.",
+    "citation": "Chapter 10: The Footprints of Infancy - Chemistry of Attunement"
+  },
+  {
+    "id": "mat-q19",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: Neuroanatomy of Attention & The OFC",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "Adults with ADD frequently bump their heads on shelves, bruise their shoulders against doorframes, drop fragile objects, and struggle to follow spatial driving directions. How does Maté's neuroanatomical analysis explain this physical clumsiness?",
+    "options": [
+      "The Right Orbitofrontal Cortex maintains extensive reciprocal connections with the cortical vision and spatial orientation centers; developmental disruption in the OFC impairs visual-spatial mapping.",
+      "People with ADD suffer from congenital inner-ear calcium deposits that distort gravity.",
+      "Clumsiness is an intentional unconscious bid to elicit pity and caretaking from bystanders.",
+      "Stimulant medications cause peripheral nerve degeneration that paralyzes limb coordination."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Chapter 10, Maté shares his own lifelong history of bumping into doorframes and dropping things, explaining that the right OFC is not just an emotional center—it has rich neural connections with the parietal and occipital vision centers responsible for visual-spatial orientation. When the OFC is developmentally impaired, locating one's body accurately in three-dimensional space is compromised.",
+    "citation": "Chapter 10: The Footprints of Infancy - Visual-Spatial Connections"
+  },
+  {
+    "id": "mat-q20",
+    "chapterId": "ch11",
+    "chapterName": "Ch 11: Multi-Generational Trauma Transmission",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Reflecting on his own infancy in Budapest in 1944 during the Nazi occupation, how does Dr. Maté explain how multi-generational and historical trauma directly caused his own ADD?",
+    "options": [
+      "Nazi soldiers exposed his family to experimental synthetic neurotoxins that altered his genetic code.",
+      "His parents suffered from a rare congenital brain tumor that was passed down through Mendelian inheritance.",
+      "His mother was consumed by acute terror, grief, and separation; this pervasive emotional threat flooded his infant nervous system, forcing his developing brain to adopt dissociative tuning out as a survival adaptation.",
+      "He was deprived of caloric nourishment, resulting in severe clinical kwashiorkor and rickets."
+    ],
+    "correctAnswer": 2,
+    "explanation": "In Chapter 11, Maté reflects on the photograph of himself as a four-month-old infant wearing a fearful, weary expression beside his mother, who wore the yellow star. Under the mortal terror of deportation and death camps, his mother could not provide calm attunement. Her terror and sorrow permeated the infant's environment, creating a neurochemical state of chronic threat that forced his infant brain to tune out to survive.",
+    "citation": "Chapter 11: An Utter Stranger - Infant Trauma in Budapest"
+  },
+  {
+    "id": "mat-q21",
+    "chapterId": "ch12",
+    "chapterName": "Ch 12: Family Climate & The Unspoken Stress",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why do parents of children with ADD often genuinely believe their home was 'completely stress-free,' and how does Dr. Maté challenge this common parental perception?",
+    "options": [
+      "Parents confuse legal compliance with mental health, assuming that the absence of police visits equals healthy parenting.",
+      "They define stress exclusively as overt catastrophes (bankruptcy, divorce, death), failing to recognize that daily unspoken marital tension, hectic pacing, and emotional unavailability flood a sensitive child's nervous system.",
+      "Parents suffer from collective retrograde amnesia induced by pediatric hospital visits.",
+      "Children with ADD deliberately fabricate false memories of parental arguments to deceive therapists."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In Chapter 12, Maté notes that parents often equate stress with external disasters like a nuclear bomb going off or serious physical illness. They do not realize that living with nerves stretched taut as piano wire, suppressed marital resentment, hurried lifestyles, and parental short fuses constitute chronic, toxic sub-acute stress for a biologically sensitive infant.",
+    "citation": "Chapter 12: Stories within Stories - The Illusion of the Stress-Free Home"
+  },
+  {
+    "id": "mat-q22",
+    "chapterId": "ch12",
+    "chapterName": "Ch 12: Family Climate & The Unspoken Stress",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "According to family systems theory (such as Michael Kerr's work at Georgetown) cited by Maté, why does the most biologically sensitive child in a tense household often become the 'symptom-bearer' of the entire family?",
+    "options": [
+      "The child is targeted by siblings who actively conspire to frame them for household infractions.",
+      "The child has an allergic reaction to household cleaning detergents that alters their dopamine transporters.",
+      "The child lacks the cognitive ability to speak, forcing them to communicate solely through physical tantrums.",
+      "The child acts as an emotional barometer, absorbing and acting out the unacknowledged anxiety and conflict between the parents, who then unconsciously focus on the child to avoid facing their own marital pain."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Chapter 12 explores family systems dynamics: children do not merely act; they react. The sensitive child acts as an emotional tuning fork, picking up the unexpressed tension between parents. An emotional triangle forms where parents project their unresolved marital anxieties onto the 'problem child's' ADD symptoms, deflecting attention away from their own relational difficulties.",
+    "citation": "Chapter 12: Stories within Stories - The Child as Family Barometer"
+  },
+  {
+    "id": "mat-q23",
+    "chapterId": "ch13",
+    "chapterName": "Ch 13: Cultural Roots & Societal Disconnection",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why does Dr. Maté argue that modern North American corporate and consumer culture acts as a powerful incubator for Attention Deficit Disorder compared to traditional indigenous or agrarian cultures?",
+    "options": [
+      "North American society has dismantled the extended family 'village', isolated nuclear families, forced both parents into exhausting work schedules, and replaced human attunement with hyper-stimulating electronic media.",
+      "North American tap water contains heavy metal industrial byproducts that selectively calcify the prefrontal cortex.",
+      "Traditional societies possess a unique gene that provides complete genetic immunity to all dopamine receptor variations.",
+      "North American diets are completely devoid of protein, leading to chronic amino acid starvation in the frontal lobes."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Chapter 13, Maté analyzes the social roots of ADD. Human child-rearing historically took place within an extended communal village where multiple adults provided continuous attachment and soothing. Modern culture has destroyed this village, isolating nuclear parents who work exhausting hours under chronic stress. This social fragmentation strips infants of the calm, consistent attunement needed for healthy neurodevelopment.",
+    "citation": "Chapter 13: This Most Frenetic of Cultures - The Destruction of the Village"
+  },
+  {
+    "id": "mat-q24",
+    "chapterId": "ch14",
+    "chapterName": "Ch 14: Distractibility & Hyperfocus",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In King Lear, Shakespeare writes: 'Better I were distract. So should my thoughts be severed from my griefs.' How does Dr. Maté use this literary insight to illuminate the primary function of distractibility in ADD?",
+    "options": [
+      "He demonstrates that Shakespeare himself suffered from hyperactive-impulsive ADD caused by Elizabethan lead pipes.",
+      "He argues that distractibility is an artificial theatrical device that does not exist outside dramatic literature.",
+      "He shows that distractibility functions as an involuntary psychic analgesic: the mind automatically severs attention to protect the organism from contacting intolerable emotional pain or emptiness.",
+      "He proves that King Lear's madness was actually caused by sudden withdrawal from stimulant medications."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Chapter 14 opens with Lear's profound realization. Maté shows that distractibility is not a random mechanical defect; it is a defensive severing of awareness. Whenever an experience touches upon intolerable internal sorrow, grief, boredom, or feelings of inadequacy, the ADD mind automatically scatters its attention to protect itself from psychic pain.",
+    "citation": "Chapter 14: Severed Thoughts and Flibbertigibbets - The Analgesic Mind"
+  },
+  {
+    "id": "mat-q25",
+    "chapterId": "ch14",
+    "chapterName": "Ch 14: Distractibility & Hyperfocus",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A 10-year-old child diagnosed with severe ADD is unable to sit still or focus on a simple 10-question math worksheet for even three minutes, yet can sit completely absorbed in a complex video game for six consecutive hours. Why does this phenomenon NOT contradict the diagnosis of ADD?",
+    "options": [
+      "The child is faking their ADD symptoms during school hours to deliberately embarrass the teacher.",
+      "ADD is a dysregulation of attention allocation, not an absolute deficit; hyperfocus occurs effortlessly when high-stimulation tasks provide continuous exogenous dopamine feedback without requiring voluntary executive effort.",
+      "Video games physically cure prefrontal cortex lesions while the screen is illuminated.",
+      "The math worksheet contains toxic cellulose chemicals that trigger acute cognitive narcolepsy."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Maté explains in Chapter 14 that 'Attention Deficit' is a misnomer; it is a disorder of attention regulation. The ADD brain cannot summon voluntary, effortful executive attention for un-stimulating tasks because baseline dopamine is low. In contrast, video games provide intense novelty, immediate rewards, and rapid feedback that flood the synapses with exogenous dopamine, locking the brain into effortless 'hyperfocus.'",
+    "citation": "Chapter 14: Severed Thoughts and Flibbertigibbets - The Paradox of Hyperfocus"
+  },
+  {
+    "id": "mat-q26",
+    "chapterId": "ch15",
+    "chapterName": "Ch 15: Hyperactivity, Lethargy & Toxic Shame",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Beyond mere surplus physical energy, what is the deeper psychological function of motor hyperactivity (pacing, fidgeting, constant talking) in individuals with ADD?",
+    "options": [
+      "It serves as a somatic defense mechanism against an unbearable internal void, agitation, and depressive lethargy; physical movement stimulates arousal to ward off psychic collapse.",
+      "It is an involuntary motor reflex caused by excess spinal fluid pressing on the lumbar vertebrae.",
+      "It is an instinctive ritual designed to intimidate competitive peers in social hierarchies.",
+      "It is a metabolic disorder where muscles convert glucose into adrenaline rather than lactic acid."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Chapter 15, Maté cites Jiddu Krishnamurti on the fear of stillness: the moment activity ceases, nervous apprehension arises. Hyperactivity is a defensive flight from inner emptiness. The ADD individual keeps moving, talking, or fidgeting because stopping brings them face-to-face with a terrifying void of internal stillness, restlessness, and depressive grief.",
+    "citation": "Chapter 15: The Pendulum Swings - Hyperactivity as Defense"
+  },
+  {
+    "id": "mat-q27",
+    "chapterId": "ch15",
+    "chapterName": "Ch 15: Hyperactivity, Lethargy & Toxic Shame",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What is the critical psychological distinction Dr. Maté draws between 'guilt' and 'toxic shame' in the developmental experience of ADD?",
+    "options": [
+      "Guilt says 'I made a specific mistake or did something wrong,' whereas toxic shame says 'I am fundamentally flawed, defective, and unlovable as a human being.'",
+      "Guilt is an emotion felt exclusively by adults, whereas shame can only be experienced by children under age five.",
+      "Toxic shame is a biological medical condition treatable with antibiotics, whereas guilt is purely cultural.",
+      "Guilt leads directly to criminal incarceration, whereas shame produces academic excellence."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Chapter 15 explores the devastating burden of shame. While guilt is a healthy, pro-social recognition that one's specific behavior harmed someone or fell short, toxic shame attacks the core self-concept. Because children with ADD receive tens of thousands more reprimands and disapproving glances than their peers, they internalize the belief that they are defective, broken, and unworthy of love.",
+    "citation": "Chapter 15: The Pendulum Swings - Guilt vs. Toxic Shame"
+  },
+  {
+    "id": "mat-q28",
+    "chapterId": "ch16",
+    "chapterName": "Ch 16: Neuroplasticity & Unconditional Positive Regard",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Drawing on Carl Rogers' therapeutic principle of 'Unconditional Positive Regard', how does relational acceptance facilitate neurological healing in a child or adult with ADD?",
+    "options": [
+      "It induces hypnotic compliance that allows caregivers to re-program the child's behavioral habits.",
+      "It permanently disables the sympathetic nervous system, preventing the person from ever experiencing anger.",
+      "By eliminating the perceived threat of rejection or conditional love, it down-regulates limbic fear circuits (amygdala), allowing the brain's neuroplastic prefrontal pathways to resume stalled development.",
+      "It accelerates metabolic clearance of prescription medications through the liver."
+    ],
+    "correctAnswer": 2,
+    "explanation": "In Chapter 16, Maté emphasizes that human brains retain neuroplasticity throughout life. The brain circuits governing self-regulation did not wire properly because of early stress and insecurity. By providing unconditional positive regard—valuing the person completely independent of their behavior or achievements—the threat of attachment rupture is lifted. The amygdala settles, creating the safe relational conditions under which prefrontal neural growth can resume.",
+    "citation": "Chapter 16: It Ain't Over Till It's Over - Rogers and Neuroplasticity"
+  },
+  {
+    "id": "mat-q29",
+    "chapterId": "ch17",
+    "chapterName": "Ch 17: Wooing the Child & Attachment Primacy",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "According to Canadian developmental psychologist Gordon Neufeld's attachment framework cited by Maté, what does it mean for a parent to 'woo the child'?",
+    "options": [
+      "Bribing the child with expensive commercial toys and candy to secure their temporary compliance.",
+      "Taking 100% unilateral responsibility for initiating, preserving, and repairing the emotional connection, making love unconditionally available without demanding that the child earn it.",
+      "Surrendering all parental authority and allowing the child to dictate all household rules.",
+      "Enrolling the child in intensive speech and etiquette classes to improve their social charm."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In Chapter 17, Maté details Neufeld's concept of 'wooing.' Attachment is an unequal relationship where the adult must be the provider and the child the recipient. Wooing means the parent actively seeks out the child's heart, taking full ownership of the bond. Closeness and warmth are never made contingent on the child's good behavior, academic grades, or respectful attitude.",
+    "citation": "Chapter 17: Wooing the Child - The Five Principles of Wooing"
+  },
+  {
+    "id": "mat-q30",
+    "chapterId": "ch17",
+    "chapterName": "Ch 17: Wooing the Child & Attachment Primacy",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Why does Dr. Maté caution parents against using frequent 'evaluative praise' (e.g., 'You're the smartest boy in the world!' or 'Good girl for getting an A!') with children who have ADD?",
+    "options": [
+      "Children with ADD possess an innate allergy to linguistic compliments that causes auditory migraines.",
+      "Evaluative praise causes severe narcissism that legally invalidates child insurance policies.",
+      "Praise encourages children to abandon schoolwork in favor of competitive sports.",
+      "It makes acceptance feel conditional on exceptional performance, instilling a terrifying fear that making mistakes or acting flawed will result in the loss of parental love."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Chapter 17 warns that evaluative praise is the flip side of criticism: both evaluate the child's worth based on external output. For a sensitive ADD child, excessive praise creates an unbearable anxiety: 'They only love me because I was smart or neat today; what happens when I mess up tomorrow?' Descriptive acknowledgment and unconditional delight in their existence are far healthier.",
+    "citation": "Chapter 17: Wooing the Child - The Trap of Evaluative Praise"
+  },
+  {
+    "id": "mat-q31",
+    "chapterId": "ch18",
+    "chapterName": "Ch 18: The Family Atmosphere & Emotional Co-Regulation",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A mother comes home exhausted and deeply anxious about an upcoming mortgage payment. Within ten minutes, her 7-year-old ADD son begins screaming, throwing toys, and refusing to eat dinner. Based on Maté's 'Fish in the Sea' metaphor, what is the primary clinical reality occurring here?",
+    "options": [
+      "The child swims in the parent's emotional sea; his sensitive nervous system absorbs the mother's unspoken anxiety and acts it out through autonomic agitation and emotional flooding.",
+      "The child has calculated a tactical psychological strike to exploit the mother's financial vulnerability.",
+      "The dinner food contains chemical neurotoxins that trigger immediate behavioral psychosis.",
+      "The child's ADD is entering an irreversible degenerative stage requiring immediate hospitalization."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Chapter 18, Maté uses the metaphor of fish in the sea: children are completely immersed in the emotional atmosphere of their parents. The child does not act; he reacts. The mother's unspoken panic registers in the boy's hyper-sensitive limbic system as an ambient threat, triggering an involuntary fight-or-flight tantrum. To calm the child, the parent must first regulate her own nervous system.",
+    "citation": "Chapter 18: Like Fish in the Sea - The Emotional Atmosphere"
+  },
+  {
+    "id": "mat-q32",
+    "chapterId": "ch19",
+    "chapterName": "Ch 19: Deconstructing Myths of the ADD Child",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why is the common complaint from exasperated parents and teachers that an ADD child is 'just looking for attention' fundamentally misguided and harmful, according to Dr. Maté?",
+    "options": [
+      "Because children with ADD are completely self-sufficient and never desire adult attention.",
+      "Because attention is a fictional psychological concept that has no effect on human behavior.",
+      "Because attention from an attuned caregiver is an absolute biological necessity for emotional and neurological survival—there is no 'just' about it.",
+      "Because children who seek attention are legally classified as having antisocial personality disorder."
+    ],
+    "correctAnswer": 2,
+    "explanation": "In Chapter 19, Maté deconstructs Myth 1: 'The child is just looking for attention.' Maté responds: 'Yes, that's absolutely right... Only there is no 'just' about it.' For an infant and developing child, attention from a nurturing adult is as essential as air, food, or water. Dismissing a child's desperate bid for connection as 'just looking for attention' treats a fundamental biological survival need as a trivial nuisance.",
+    "citation": "Chapter 19: Just Looking for Attention - Myth 1"
+  },
+  {
+    "id": "mat-q33",
+    "chapterId": "ch19",
+    "chapterName": "Ch 19: Deconstructing Myths of the ADD Child",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "How does Dr. Maté dismantle Myth 5—the widespread belief that children with ADD are simply 'lazy' and lack moral willpower?",
+    "options": [
+      "He demonstrates that children with ADD possess three times more physical muscle mass than neurotypical peers.",
+      "He shows that what appears as laziness is actually executive paralysis, dopamine deficiency, and severe performance anxiety; when safe, interested, and competent, every child naturally strives to achieve.",
+      "He argues that laziness is an admirable biological adaptation that should be celebrated in schools.",
+      "He proves that children with ADD work harder than any other humans on earth during standardized testing."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chapter 19 demolishes the myth of laziness. Human beings are biologically wired with an innate drive toward mastery, competence, and exploration. What teachers call 'laziness' is the agony of executive paralysis—the prefrontal cortex cannot generate the dopamine required to initiate an un-stimulating task, compounded by a paralyzing fear of failure. Calling an ADD child lazy is blaming a patient for a symptom.",
+    "citation": "Chapter 19: Just Looking for Attention - Myth 5: Laziness"
+  },
+  {
+    "id": "mat-q34",
+    "chapterId": "ch20",
+    "chapterName": "Ch 20: Counterwill & Oppositional Defiance",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What is 'Counterwill' (first formulated by psychoanalyst Otto Rank and elaborated by Gordon Neufeld), and why does it manifest so explosively in children with ADD?",
+    "options": [
+      "A conscious, criminal conspiracy among schoolchildren to undermine public education.",
+      "A neurological degeneration of the motor cortex that forces limbs to move in reverse.",
+      "A genetic hormonal imbalance that peaks during full moon cycles.",
+      "An automatic, instinctive resistance to external control or coercion, functioning as nature's protective barrier to preserve nascent personal autonomy from being overwhelmed."
+    ],
+    "correctAnswer": 3,
+    "explanation": "In Chapter 20, Maté introduces counterwill. Counterwill is an instinctive, automatic reflex that says: 'You cannot make me.' It is not a moral flaw, but an essential developmental defense designed by nature to protect a budding self from being dominated by others. When an adult attempts to control or coerce a child with ADD without establishing a warm attachment connection, counterwill is violently triggered.",
+    "citation": "Chapter 20: The Defiant Ones: Oppositionality - The Biology of Counterwill"
+  },
+  {
+    "id": "mat-q35",
+    "chapterId": "ch20",
+    "chapterName": "Ch 20: Counterwill & Oppositional Defiance",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "Steven, a 38-year-old labor negotiator evaluated by Dr. Maté, had been a child prodigy on the classical clarinet who abruptly quit music entirely in his mid-teens after his father pushed him to practice. How does Maté interpret Steven's decision to destroy his musical career?",
+    "options": [
+      "It was a desperate, tragic sacrifice of his passion executed by counterwill to protect his psychological boundaries and personal autonomy against coercive parental domination.",
+      "Steven developed arthritis in his hands that made playing the clarinet physically impossible.",
+      "Steven discovered that classical music was an evolutionary dead end.",
+      "Steven was expelled from the music conservatory for failing music theory exams."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Chapter 20, Maté presents Steven's case as a heartbreaking example of counterwill. Steven's father turned clarinet practice into a coercive demand. To Steven's emerging soul, complying with his father's pressure felt like total surrender of his autonomous will. Steven chose to destroy his own international musical career rather than let his father control his soul—a classic counterwill sacrifice.",
+    "citation": "Chapter 20: The Defiant Ones: Oppositionality - Steven and the Clarinet"
+  },
+  {
+    "id": "mat-q36",
+    "chapterId": "ch21",
+    "chapterName": "Ch 21: Defusing Counterwill & Nine Parenting Principles",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why do conventional behavioral modification techniques—such as star charts, token economies, and punitive time-outs—almost invariably backfire and worsen oppositionality in children with ADD?",
+    "options": [
+      "Because children with ADD cannot visually distinguish colored stickers from white paper.",
+      "Because token economies are too expensive for average school districts to maintain.",
+      "Because they make adult acceptance conditional on compliance, which directly threatens the child's attachment security and triggers an intense, retaliatory counterwill reflex.",
+      "Because behavior modification physically depletes the adrenal glands of adrenaline within twenty minutes."
+    ],
+    "correctAnswer": 2,
+    "explanation": "In Chapter 21, Maté explains why behaviorism fails with ADD. Reward-and-punishment systems communicate that 'we only like you and value you when you perform as we demand.' This conditional stance terrifies the attachment system of a sensitive child. The child's natural defense against coercive manipulation is counterwill—stubborn refusal, defiance, or passive sabotage.",
+    "citation": "Chapter 21: Defusing Counterwill - Why Behavior Modification Fails"
+  },
+  {
+    "id": "mat-q37",
+    "chapterId": "ch21",
+    "chapterName": "Ch 21: Defusing Counterwill & Nine Parenting Principles",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A parent asks an 8-year-old with oppositional ADD to put on his winter boots. The child crosses his arms and defiantly shouts: 'No, I hate boots, you can't make me!' According to Maté's 9 principles for defusing counterwill, what is the parent's most effective response?",
+    "options": [
+      "Immediately issue a 24-hour electronics ban to demonstrate that defiance has severe consequences.",
+      "Step out of the power struggle: preserve attachment by acknowledging the child's resistance ('You really don't feel like wearing boots right now'), give him room, and avoid coercive force.",
+      "Physically pin the child down and force the boots onto his feet to establish dominance.",
+      "Call emergency services to report an acute psychiatric emergency."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chapter 21 outlines 9 principles for defusing counterwill. Principle 1 is 'Keep attachment foremost,' Principle 4 is 'Make room for some resistance,' and Principle 5 is 'Engage only in fights you must win.' Forcing compliance triggers a full-blown war. By validating the child's feelings and offering spaciousness, the parent disarms the counterwill reflex, allowing cooperation to emerge naturally.",
+    "citation": "Chapter 21: Defusing Counterwill - The Nine Principles"
+  },
+  {
+    "id": "mat-q38",
+    "chapterId": "ch22",
+    "chapterName": "Ch 22: Motivation, Autonomy & Self-Determination",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Citing psychologist Edward L. Deci's Self-Determination Theory, why does Dr. Maté argue that offering children cash rewards or prizes for good grades actively undermines their long-term motivation?",
+    "options": [
+      "Because children immediately invest cash in volatile speculative markets that cause financial ruin.",
+      "Because money is inherently evil and corrupts the spiritual development of the child.",
+      "Because cash rewards cause severe hyperinflation in household chores.",
+      "Because extrinsic incentives shift the perceived locus of causality from within to outside, destroying intrinsic curiosity and replacing autonomous self-regulation with reluctant compliance."
+    ],
+    "correctAnswer": 3,
+    "explanation": "In Chapter 22, Maté draws on Deci's landmark research (Why We Do What We Do). Motivation cannot be injected from the outside. When a child is rewarded for an activity, the brain shifts from 'I am doing this because it is interesting and I care' to 'I am doing this to get a reward.' The moment external bribes vanish, intrinsic motivation is dead.",
+    "citation": "Chapter 22: My Marshmallow Caught Fire - Self-Determination Theory"
+  },
+  {
+    "id": "mat-q39",
+    "chapterId": "ch22",
+    "chapterName": "Ch 22: Motivation, Autonomy & Self-Determination",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How does Dr. Maté re-interpret Walter Mischel's famous 'Marshmallow Test' regarding the capacity of young children to delay gratification?",
+    "options": [
+      "Delaying gratification is not an index of cold, stoic willpower, but a direct reflection of trust and emotional safety in the environment; children who trust their caregivers can afford to wait, while stressed children cannot.",
+      "Children who ate the marshmallow immediately were later proven to have superior genetic intelligence.",
+      "The test only measured sucrose sensitivity in the taste buds of Midwestern American children.",
+      "Delay of gratification is entirely determined by the child's blood type (Type A vs. Type O)."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Chapter 22 offers a profound re-reading of the Marshmallow Test. Conventional psychology framed the test as proof of individual 'willpower' or impulse control. Maté points out that a child who grows up in a secure, reliable, attuned home knows that promises are kept; they can calmly wait for the second marshmallow. A child from a chaotic, insecure home cannot trust the promise and sensibly eats the treat immediately.",
+    "citation": "Chapter 22: My Marshmallow Caught Fire - Trust and the Marshmallow"
+  },
+  {
+    "id": "mat-q40",
+    "chapterId": "ch23",
+    "chapterName": "Ch 23: ADD in the Classroom & Educational Reform",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What does Dr. Maté identify as the core structural contradiction of the modern North American school system that victimizes students with Attention Deficit Disorder?",
+    "options": [
+      "Schools do not assign enough standardized testing hours to accurately diagnose students.",
+      "Classroom heating and air conditioning units emit acoustic frequencies that scramble memory.",
+      "The system is built on an industrial factory model that demands uniform conformity, stillness, and identical learning styles from brains that are biologically wired for diverse, non-linear processing.",
+      "Teachers are legally barred from assigning reading material to children under age twelve."
+    ],
+    "correctAnswer": 2,
+    "explanation": "In Chapter 23, Maté critiques the industrial schooling paradigm. The modern school was designed during the Industrial Revolution to produce compliant, punctual factory workers who can sit still for hours performing repetitive tasks. When a child whose nervous system requires movement, curiosity, and emotional connection fails in this artificial setting, society medicalizes the child rather than reforming the classroom.",
+    "citation": "Chapter 23: Trusting the Child, Trusting Oneself - The Factory Classroom"
+  },
+  {
+    "id": "mat-q41",
+    "chapterId": "ch24",
+    "chapterName": "Ch 24: Adolescence, Counterwill & Peer Attachment",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "During adolescence, a teenager with ADD becomes increasingly messy, fails multiple classes, and spends hours locked in their room texting friends. When the terrified parents attempt to confiscate the phone, the teen erupts into violent rage. What developmental dynamic explains this crisis?",
+    "options": [
+      "The adolescent has developed late-onset pediatric schizophrenia that requires physical restraint.",
+      "Peer orientation has replaced parental attachment, giving the teen's counterwill full license to defy parents; parental panic drives micromanagement, which fuels total explosive rebellion.",
+      "The mobile phone emits microwave radiation that physically destroys the prefrontal cortex.",
+      "The teenager has joined an organized juvenile syndicate dedicated to household property destruction."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chapter 24 explores the volatile collision of adolescence and ADD. As teenagers drift toward peers for attachment validation, they no longer rely on parents for emotional security. Their counterwill asserts itself with full force. Terrified parents try to control grades and messiness with surveillance and bans, triggering explosive defiance. The only leverage parents retain is relational warmth, not force.",
+    "citation": "Chapter 24: Always on My Case - Adolescence and Counterwill"
+  },
+  {
+    "id": "mat-q42",
+    "chapterId": "ch25",
+    "chapterName": "Ch 25: Adult Self-Esteem & The Right to Exist",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why do many adults with ADD become compulsive overachievers, workaholics, or chronic people-pleasers despite their internal disorganization?",
+    "options": [
+      "They have an excess of serotonin that compels them to work 100 hours a week without fatigue.",
+      "They are driven by a conscious desire to acquire corporate stock options and luxury automobiles.",
+      "They suffer from a somatic illness where resting in bed causes rapid muscle atrophy.",
+      "They harbor an unconscious, contingent core belief that they have no intrinsic right to exist unless they constantly justify their worth through external utility, productivity, or pleasing others."
+    ],
+    "correctAnswer": 3,
+    "explanation": "In Chapter 25, Maté analyzes the fragile self-esteem of ADD adults. Because they grew up feeling criticized, defective, and disappointing, they internalized the unconscious belief: 'I am unlovable as I am; I have no right to exist unless I am useful, productive, or pleasing.' This contingent self-worth drives compulsive workaholism, perfectionism, and deep exhaustion.",
+    "citation": "Chapter 25: Justifying One's Existence - Contingent Self-Esteem"
+  },
+  {
+    "id": "mat-q43",
+    "chapterId": "ch26",
+    "chapterName": "Ch 26: Implicit Memory & Emotional Flashbacks",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What is the critical neurological difference between 'explicit memory' and 'implicit memory' that explains why adults with ADD experience sudden, overwhelming emotional reactions without knowing why?",
+    "options": [
+      "Implicit memories encode early somatic feelings and emotional survival states in the amygdala before the hippocampus matures, triggering adult emotional flooding without any narrative storyline or visual pictures.",
+      "Explicit memory is located in the spinal cord, whereas implicit memory is stored in the teeth.",
+      "Implicit memory can only be activated by magnetic resonance imaging (MRI) machines.",
+      "Explicit memory stores only unpleasant memories, while implicit memory stores only joyful ones."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Chapter 26, Maté details the neurobiology of memory. Explicit narrative memory requires a mature hippocampus and cerebral cortex, which do not develop until around age two. However, implicit memory (amygdala, brainstem, autonomic nervous system) operates from before birth, encoding the raw somatic emotional tones of threat, abandonment, or shame. When triggered in adulthood, the person relives the emotional terror of infancy without any conscious narrative.",
+    "citation": "Chapter 26: Memories Are Made of This - Implicit vs. Explicit Memory"
+  },
+  {
+    "id": "mat-q44",
+    "chapterId": "ch27",
+    "chapterName": "Ch 27: The Adult ADD Relationship & Transference",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "In Chapter 27, Maté describes 'remembering what didn't happen' in adult relationships. When a spouse momentarily glances at their watch or asks an innocent question about chores, an ADD partner flies into a defensive fury. What is occurring psychologically?",
+    "options": [
+      "The ADD partner is experiencing severe optical delusions where watches appear as weapons.",
+      "The spouse is intentionally deploying psychological warfare techniques designed by intelligence agencies.",
+      "The partner's momentary distraction acts as an emotional trigger, reactivating the implicit memory of early infant un-attunement (the attunement that *didn't* happen), which the ADD brain experiences as catastrophic rejection.",
+      "The ADD partner has developed sudden acute hearing loss that distorts human speech."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Chapter 27 explores the tragic misunderstandings in ADD marriages. What wounds the ADD individual most is not overt abuse, but the chronic absence of attunement—the emotional connection that didn't happen in childhood. A spouse's brief distraction or practical boundary triggers that profound infantile void, evoking an agonizing sense of abandonment and defensive rage.",
+    "citation": "Chapter 27: Remembering What Didn't Happen - The Transference Wound"
+  },
+  {
+    "id": "mat-q45",
+    "chapterId": "ch28",
+    "chapterName": "Ch 28: Adult Self-Parenting & The Compassionate Witness",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What is the primary role of the 'compassionate prefrontal witness' in Dr. Maté's framework of adult self-parenting?",
+    "options": [
+      "To hypnotize the individual into forgetting all past relationship failures and debts.",
+      "To observe one's own disorganization, lapses, and intense emotional reactions with loving curiosity rather than collapsing into self-punishing, shame-filled internal attacks.",
+      "To dictate a rigid, military schedule that punishes every minute of procrastination.",
+      "To act as a legal expert who sues parents and teachers for historical medical malpractice."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In Chapter 28, Maté introduces self-parenting. The adult with ADD has spent decades beating themselves up with harsh internal criticism ('How could you be so stupid!'). Self-parenting means activating the prefrontal cortex as a compassionate, curious observer who notices lapses with gentle inquiry: 'What triggered that avoidance? What did my nervous system need?' Compassionate curiosity creates the safety required for growth.",
+    "citation": "Chapter 28: Moses Saved by the Angel - The Compassionate Prefrontal Witness"
+  },
+  {
+    "id": "mat-q46",
+    "chapterId": "ch29",
+    "chapterName": "Ch 29: Somatic Self-Care & Environmental Boundaries",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why does Dr. Maté place immense emphasis on physical clutter reduction, sleep hygiene, and learning to say 'No' in his somatic protocol for adult ADD recovery?",
+    "options": [
+      "Because individuals with ADD are legally required to maintain minimalist apartments under Canadian law.",
+      "Because sleep deprivation and visual chaos directly stimulate the growth of prefrontal brain tumors.",
+      "Because clutter and over-commitment are moral vices condemned by traditional religious institutions.",
+      "Because external visual clutter continuously drains the prefrontal cortex's finite attentional bandwidth, while chronic sleep loss and over-commitment paralyze dopamine synthesis and executive inhibition."
+    ],
+    "correctAnswer": 3,
+    "explanation": "In Chapter 29, Maté emphasizes that psychological healing requires somatic foundations. A chaotic, piled physical space bombards the visual cortex, draining executive energy. Chronic sleep deprivation mimics and exacerbates ADD by blunting dopamine receptors. Furthermore, ADD adults struggle with boundaries, impulsively saying 'Yes' to projects until they collapse. Somatic stewardship is a biological necessity.",
+    "citation": "Chapter 29: The Physical and Spiritual Environment - Somatic Foundations"
+  },
+  {
+    "id": "mat-q47",
+    "chapterId": "ch30",
+    "chapterName": "Ch 30: Addictions & The Dopamine-Deficient Brain",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why are individuals with Attention Deficit Disorder uniquely vulnerable to chemical substance abuse (alcohol, cocaine, nicotine, cannabis) and behavioral addictions (shopping, gambling, workaholism, Internet)?",
+    "options": [
+      "All addictions act as emotional anesthetics that temporarily boost low baseline dopamine and soothe endorphin-deficient limbic distress, providing temporary escape from intolerable psychic pain.",
+      "People with ADD have an extra hepatic enzyme that rapidly converts alcohol into vitamin C.",
+      "Addictive behaviors are caused entirely by peer pressure and have zero relation to brain neurochemistry.",
+      "Individuals with ADD possess an innate genetic allergy to water, forcing them to consume fermented beverages."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Chapter 30, Maté explains that all addictions are anesthetics designed to numb unbearable internal suffering. The ADD brain is neurochemically under-provided with dopamine and endorphin receptors due to impaired early attunement. Substances like stimulants or alcohol, or behaviors like gambling and shopping, provide an artificial, exogenous blast of dopamine that makes the person feel functional, alert, or temporarily free of pain.",
+    "citation": "Chapter 30: In Place of Tears and Sorrow - Addiction as Anesthetic"
+  },
+  {
+    "id": "mat-q48",
+    "chapterId": "ch31",
+    "chapterName": "Ch 31: Psychostimulants & Physiological Scaffolding",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How do standard psychostimulant medications—such as methylphenidate (Ritalin) and dextroamphetamine (Dexedrine)—act upon the neurochemistry of the ADD brain?",
+    "options": [
+      "They permanently destroy the brain's serotonin receptors to eliminate emotional crying.",
+      "They act as synthetic hormone replacements that accelerate puberty in under-developed children.",
+      "They inhibit dopamine and norepinephrine transporter proteins, blocking presynaptic reuptake and prolonging the availability of these neurotransmitters in prefrontal cortical synapses.",
+      "They induce total motor paralysis in peripheral muscular junctions without affecting the brain."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Chapter 31 details the neuropharmacology of stimulants. Methylphenidate and amphetamines block the dopamine active transporter (DAT) and norepinephrine transporter (NET). By inhibiting the reuptake mechanism, they allow endogenous dopamine and noradrenaline to linger longer in synaptic clefts in the prefrontal cortex, enhancing signal-to-noise ratio and improving executive attention.",
+    "citation": "Chapter 31: I Never Saw the Trees - The Mechanism of Stimulants"
+  },
+  {
+    "id": "mat-q49",
+    "chapterId": "ch31",
+    "chapterName": "Ch 31: Psychostimulants & Physiological Scaffolding",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why does Dr. Maté describe psychostimulant medication as 'scaffolding' rather than a true cure or first-line complete solution for ADD?",
+    "options": [
+      "Because stimulant medications are physically made from industrial fiberglass scaffolding materials.",
+      "Medication temporarily stabilizes synaptic neurotransmitters to reduce cognitive noise, but it cannot build neural circuits, teach psychological self-regulation skills, or heal relational attachment wounds.",
+      "Because medications lose 100% of their biological effectiveness after precisely seven days of use.",
+      "Because Maté believes all pharmaceutical medications are toxic poisons that should be banned by law."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In Chapter 31, Maté provides a balanced, compassionate view of medication. Scaffolding supports a building while workers construct it, but scaffolding is not the building itself. Stimulants can lower mental noise and allow a person to focus, but they cannot repair emotional trauma, build healthy relationships, or replace self-parenting. Medication is a useful tool, never a substitute for psychological healing.",
+    "citation": "Chapter 31: I Never Saw the Trees - Scaffolding vs. The Building"
+  },
+  {
+    "id": "mat-q50",
+    "chapterId": "ch32",
+    "chapterName": "Ch 32: What It Means to Attend & The Creative Gift",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Deriving from the Latin root *attendere* ('to stretch toward'), what does Dr. Maté conclude is the ultimate healing transformation for individuals living with Attention Deficit Disorder?",
+    "options": [
+      "Achieving total mechanical conformity so they can seamlessly blend into bureaucratic corporate cubicles without being noticed.",
+      "Undergoing experimental neurosurgery to physically excise the orbitofrontal cortex.",
+      "Renouncing all artistic pursuits to focus exclusively on linear data entry.",
+      "Reclaiming attention as an authentic, reverent stretching toward life and relationship, while embracing biological sensitivity not as a shameful disability, but as a profound source of creativity and compassion."
+    ],
+    "correctAnswer": 3,
+    "explanation": "In the moving final chapter, Maté reflects on the Latin root *attendere*—to stretch toward. True attention is not mechanical focus forced by a teacher or boss; it is an open, reverent engagement with reality, art, and loved ones. Healing ADD means dropping the exhausting mask of trying to appear 'normal' and honoring one's intense, sensitive nature as a rare and precious creative gift to the world.",
+    "citation": "Chapter 32: What It Means to Attend - Stretching Toward Life"
+  }
+]

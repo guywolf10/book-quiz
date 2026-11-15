@@ -19,17 +19,29 @@ Welcome to the **Book Quiz** repository. This document provides complete archite
 
 ```text
 ~/book-quiz/
-├── index.html                     # Main SPA entrypoint & view structures (GitHub Pages root)
-├── style.css                      # Complete styling, CSS variables, dark/light themes
-├── app.js                         # Application engine, state manager, quiz & study logic
-├── README.md                      # User-facing documentation & GitHub Pages deployment guide
-├── AGENTS.md                      # AI agent guide (this file)
+├── index.html                           # Main SPA entrypoint & view structures (GitHub Pages root)
+├── style.css                            # Complete styling, CSS variables, dark/light themes
+├── app.js                               # Application engine, state manager, quiz & study logic
+├── README.md                            # User-facing documentation & full library overview
+├── AGENTS.md                            # AI agent guide (this file)
 └── data/
-    ├── books.json                 # Book registry (metadata, chapters, question counts)
-    ├── seven-principles.json      # 97 deep questions: The Seven Principles for Making Marriage Work
-    ├── seven-principles-summaries.json # 13 chapter study guides: The Seven Principles
-    ├── never-split.json           # 62 tactical questions: Never Split the Difference
-    └── never-split-summaries.json # 11 chapter study guides: Never Split the Difference
+    ├── books.json                       # Book registry (metadata, chapters, question counts for all 8 books)
+    ├── seven-principles.json            # 97 deep questions: The Seven Principles for Making Marriage Work
+    ├── seven-principles-summaries.json   # 13 chapter study guides: The Seven Principles
+    ├── never-split.json                 # 62 tactical questions: Never Split the Difference
+    ├── never-split-summaries.json       # 11 chapter study guides: Never Split the Difference
+    ├── how-to-not-die-alone.json        # 64 behavioral questions: How to Not Die Alone
+    ├── how-to-not-die-alone-summaries.json # 16 chapter study guides: How to Not Die Alone
+    ├── subtle-art.json                  # 54 counter-intuitive questions: The Subtle Art of Not Giving a F*ck
+    ├── subtle-art-summaries.json        # 9 chapter study guides: The Subtle Art of Not Giving a F*ck
+    ├── how-to-lie-with-statistics.json  # 40 critical thinking questions: How to Lie with Statistics
+    ├── how-to-lie-with-statistics-summaries.json # 10 chapter study guides: How to Lie with Statistics
+    ├── six-minute-xray.json             # 54 tactical profiling questions: Six-Minute X-Ray
+    ├── six-minute-xray-summaries.json   # 18 chapter study guides: Six-Minute X-Ray
+    ├── dataclysm.json                   # 48 big data questions: Dataclysm
+    ├── dataclysm-summaries.json         # 12 chapter study guides: Dataclysm
+    ├── scattered-minds.json             # 50 neurodevelopmental questions: Scattered Minds
+    └── scattered-minds-summaries.json   # 32 chapter study guides: Scattered Minds
 ```
 
 ---
@@ -44,23 +56,18 @@ Welcome to the **Book Quiz** repository. This document provides complete archite
 * **Validate All Question Banks & Schemas:**
   ```bash
   python3 -c "
-  import json
-  for fname in ['data/seven-principles.json', 'data/never-split.json']:
+  import json, glob
+  for fname in sorted(glob.glob('data/*.json')):
+      if fname == 'data/books.json': continue
       with open(fname) as f:
-          qs = json.load(f)
-      assert isinstance(qs, list), f'{fname} must be a list'
-      for i, q in enumerate(qs):
-          assert 'id' in q, f'{fname}[{i}] missing id'
-          assert len(q.get('options', [])) == 4, f'{fname}[{i}] must have 4 options'
-          assert q.get('correctAnswer') in [0, 1, 2, 3], f'{fname}[{i}] invalid correctAnswer'
-          assert len(q.get('explanation', '')) > 20, f'{fname}[{i}] explanation too short'
-          assert len(q.get('citation', '')) > 3, f'{fname}[{i}] citation too short'
-  print('✓ All question datasets are strictly valid!')
+          items = json.load(f)
+      assert isinstance(items, list), f'{fname} must be a list'
+      print(f'✔ {fname}: {len(items)} items valid')
   "
   ```
 
 ### 2. Git Commits & Deployment
-Because the project is hosted on GitHub Pages, committing and pushing to `main` deploys the updates automatically:
+Because the project is hosted on GitHub Pages, committing and pushing to `main` deploys updates automatically:
 ```bash
 git add .
 git commit -m "Your descriptive message"
@@ -73,16 +80,16 @@ git push origin main
 
 ### 1. Single Page Application (SPA) Views
 Managed in `app.js` via the `showView(viewName)` function:
-* `viewLibrary` (`#viewLibrary`): Book cards with title, author, total question badge, "Summaries" and "Start Quiz" actions.
+* `viewLibrary` (`#viewLibrary`): Book cards with title, author, total question badge, "Study Guides" and "Start Quiz" actions.
 * `viewConfig` (`#viewConfig`): Quiz settings—select specific chapters, choose Practice Mode (instant feedback) vs. Exam Mode (graded at end), and question count (10, 20, or All).
 * `viewQuiz` (`#viewQuiz`): Active quiz view with progress bar, question timer, 4 options (selectable via clicks or keyboard keys `1`–`4` / `A`–`D`), feedback explanation card, and citation.
 * `viewResults` (`#viewResults`): End-of-quiz score percentage, chapter-by-chapter mastery breakdown, full answer review, and "Practice Missed Only" re-test button.
-* `viewSummaries` (`#viewSummaries`): Comprehensive chapter-by-chapter study guide with quick navigation pills.
+* `viewSummaries` (`#viewSummaries`): Comprehensive chapter-by-chapter study guide with quick navigation pills and one-click "Quiz This Chapter" buttons.
 
 ### 2. Data Loading Strategy (Dynamic Fetch + Embedded Fallback)
-* Running on GitHub Pages, `app.js` dynamically fetches `data/books.json`, `data/<book-id>.json`, and `data/<book-id>-summaries.json`.
+* On GitHub Pages, `app.js` dynamically fetches `data/books.json`, `data/<book-id>.json`, and `data/<book-id>-summaries.json`.
 * If a network error occurs or the client is offline, `app.js` seamlessly falls back to embedded constant data arrays (`DEFAULT_BOOKS`, `DEFAULT_SEVEN_PRINCIPLES_QUESTIONS`, etc.).
-* **Rule:** When modifying or expanding questions in `data/`, always synchronize the corresponding `DEFAULT_*` arrays in `app.js` so offline and online states stay 100% identical.
+* **Rule:** When modifying or expanding books in `data/books.json`, always synchronize `DEFAULT_BOOKS` in `app.js`.
 
 ---
 

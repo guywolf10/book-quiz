@@ -1,0 +1,920 @@
+[
+  {
+    "id": "man-q01",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: Don’t Try",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is the primary philosophical insight behind Charles Bukowski's epitaph, 'Don’t Try', as presented in Chapter 1?",
+    "options": [
+      "A cynical argument that all artistic ambition is useless in an indifferent universe.",
+      "A counter-intuitive rejection of self-help delusion, showing that authentic self-worth begins with radical honesty about one's flaws rather than pretending to be extraordinary.",
+      "A recommendation that writers should rely purely on spontaneous inspiration rather than deliberate practice.",
+      "A satirical phrase intended exclusively to mock contemporary literary publishing institutions."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Manson explains that Bukowski's epitaph was not a call to quit or surrender; rather, it was a critique of the modern obsession with positive thinking. Bukowski succeeded because he was entirely comfortable with being an unvarnished loser, never pretending to be someone he was not. Self-actualization begins with honest self-acceptance rather than delusional striving.",
+    "citation": "Chapter 1: Don’t Try"
+  },
+  {
+    "id": "man-q02",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: Don’t Try",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How does the 'Feedback Loop from Hell' operate to intensify personal suffering in modern culture?",
+    "options": [
+      "Social media algorithms trigger acute dopamine depletion, reducing long-term cognitive focus.",
+      "Individuals develop secondary distress about experiencing natural primary distress—such as feeling guilty for feeling angry, or becoming anxious about having anxiety.",
+      "Economic competition forces workers into chronic fight-or-flight adrenal exhaustion.",
+      "Repressed childhood trauma unconsciously converts into psychosomatic physical symptoms."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Feedback Loop from Hell occurs when people judge themselves negatively for having normal negative emotions. In a culture that demands constant positivity, experiencing ordinary anger or sadness is interpreted as a failure, generating a compounding loop of meta-emotions (anxiety about anxiety, guilt about frustration) that worsens the original problem.",
+    "citation": "Chapter 1: The Feedback Loop from Hell"
+  },
+  {
+    "id": "man-q03",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: Don’t Try",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "According to the 'Law of Reversed Effort' popularized by Alan Watts, what paradox occurs when someone desperately pursues happiness?",
+    "options": [
+      "The desire for a positive experience is itself a negative experience, whereas the acceptance of a negative experience is itself a positive experience.",
+      "Conscious deliberation exhausts executive willpower, impairing emotional regulation.",
+      "Pursuing pleasure causes immediate neurological downregulation of serotonin receptors.",
+      "Excessive optimism provokes interpersonal resentment from pessimistic peers."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Law of Reversed Effort highlights that the more frantically one chases feeling good, the more inadequate and lacking one feels in the present moment. Conversely, accepting pain, failure, or awkwardness neutralizes the suffering, transforming the confrontation of difficulty into an empowering, positive experience.",
+    "citation": "Chapter 1: The Feedback Loop from Hell"
+  },
+  {
+    "id": "man-q04",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: Don’t Try",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "In 'Subtlety #1', why does Manson argue that true non-attachment is distinct from apathy or emotional indifference?",
+    "options": [
+      "Indifference causes clinical depression and inevitably leads to occupational burnout.",
+      "Indifferent people are not peaceful; they are fearful individuals using apathy as a defense mechanism because they are terrified of vulnerability and failure.",
+      "Indifference is socially unacceptable and violates standard community norms.",
+      "Indifference requires complex cognitive dissonance that damages the prefrontal cortex."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Manson points out that being indifferent is the hallmark of cowards and couch potatoes who pretend they do not care to avoid the pain of rejection. True strength means caring so intensely about a chosen, worthy value that one remains comfortable being different and facing adversity to uphold it.",
+    "citation": "Chapter 1: The Subtle Art of Not Giving a Fuck - Subtlety #1"
+  },
+  {
+    "id": "man-q05",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: Don’t Try",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A professional finds himself repeatedly having furious outbursts over minor inconveniences, such as an elevator delay or an incorrect takeout order. What does 'Subtlety #2' suggest is the root cause of his reaction?",
+    "options": [
+      "He suffers from an undiagnosed sensory processing sensitivity.",
+      "He lacks a meaningful, substantial life mission, causing his mind to waste emotional energy inflating petty inconveniences into major crises.",
+      "He is experiencing acute cognitive overload from modern digital multitasking.",
+      "His emotional outbursts are purely genetic traits that cannot be altered."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Subtlety #2 states that if you do not have something meaningful and substantial to give a fuck about, your mind will involuntarily direct your limited emotional energy toward trivial nonsense like bad traffic, minor delays, or small customer service errors.",
+    "citation": "Chapter 1: The Subtle Art of Not Giving a Fuck - Subtlety #2"
+  },
+  {
+    "id": "man-q06",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: Don’t Try",
+    "difficulty": "easy",
+    "type": "concept",
+    "question": "According to 'Subtlety #3', what key psychological shift characterizes the transition from adolescent emotional turbulence to mature adulthood?",
+    "options": [
+      "Adolescents lack the brain capacity to feel empathy for others.",
+      "Adults successfully eliminate negative emotions through cognitive behavioral therapy.",
+      "Adults recognize that their emotional bandwidth is strictly limited and consciously triage their concerns, reserving their energy only for what truly matters.",
+      "Adolescents are genetically programmed to prioritize career over personal happiness."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Maturity occurs when people realize they possess a finite reserve of emotional energy. While young people react intensely to everything, adults learn to triage their concerns, letting go of superficial status markers and reserving their care for core relationships and essential principles.",
+    "citation": "Chapter 1: The Subtle Art of Not Giving a Fuck - Subtlety #3"
+  },
+  {
+    "id": "man-q07",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: Happiness Is a Problem",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What central psychological truth did Siddhartha Gautama discover after experiencing both extreme royal luxury and extreme ascetic deprivation?",
+    "options": [
+      "Hedonism is superior to asceticism for cultivating mental well-being.",
+      "Suffering is an inherent constant of human consciousness, meaning that pain cannot be escaped through either indulgence or severe self-denial.",
+      "Enlightenment requires eliminating the physical body's nutritional requirements.",
+      "Human dissatisfaction is entirely a byproduct of societal governance structures."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Buddha discovered that extreme indulgence in pleasure and extreme ascetic starvation were both hollow pursuits. Life is fundamentally characterized by suffering and dissatisfaction; true peace comes not from eliminating pain, but from understanding its inevitability.",
+    "citation": "Chapter 2: Happiness Is a Problem"
+  },
+  {
+    "id": "man-q08",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: Happiness Is a Problem",
+    "difficulty": "easy",
+    "type": "concept",
+    "question": "What role does the fictional superhero 'Disappointment Panda' play in Manson's discussion of personal growth?",
+    "options": [
+      "He delivers harsh, uncomfortable truths about people's delusions that they desperately need to hear but actively avoid.",
+      "He demonstrates the cognitive hazards of using humorous alter egos during public speaking.",
+      "He represents the psychological regression that occurs when individuals consume children's cartoons.",
+      "He serves as an allegorical critique of corporate advertising mascots."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disappointment Panda is a comic device representing the uncomfortable truths people avoid. Rather than offering soothing platitudes, Disappointment Panda tells people that their problems are often their own doing, money won't fix their character, and comfort does not guarantee happiness.",
+    "citation": "Chapter 2: The Misadventures of Disappointment Panda"
+  },
+  {
+    "id": "man-q09",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: Happiness Is a Problem",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why does Manson contend that happiness is not a static destination or achievable equation, but an active, ongoing problem-solving process?",
+    "options": [
+      "Because human neurochemistry prevents positive emotional states from lasting longer than twenty minutes.",
+      "Because capitalist economies rely on perpetual consumer discontent to maintain GDP growth.",
+      "Because happiness comes exclusively from the active labor of solving problems; resolving one problem simply upgrades you to a better class of problems.",
+      "Because the prefrontal cortex cannot balance logic and emotion simultaneously."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Manson defines happiness as an active verb. Life never becomes problem-free; when you solve the problem of unemployment, you gain the problem of managing workplace stress. Fulfillment arises from engaging with problems you find worthwhile rather than daydreaming about an impossible life without difficulty.",
+    "citation": "Chapter 2: Happiness Comes from Solving Problems"
+  },
+  {
+    "id": "man-q10",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: Happiness Is a Problem",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "From an evolutionary psychology perspective, why is it dangerous to treat emotions as absolute moral truths or life directives?",
+    "options": [
+      "Emotions evolved merely as biological feedback heuristics to motivate survival and reproduction, not as reliable guides to existential truth or permanent contentment.",
+      "Emotions are cultural inventions that did not exist prior to modern written language.",
+      "Relying on emotional feedback inevitably damages executive decision-making areas of the brain.",
+      "Evolutionary mechanisms prioritize individual happiness above biological reproduction."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Emotions are biological alerts designed by natural selection to nudge organisms toward adaptive survival behaviors (e.g., pain alerts us to physical threats; loneliness alerts us to social isolation). They are transient signals, not infallible moral commandments.",
+    "citation": "Chapter 2: Emotions Are Overrated"
+  },
+  {
+    "id": "man-q11",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: Happiness Is a Problem",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "An aspiring entrepreneur loves the status and wealth associated with tech startup founders, but hates coding, dreads pitching investors, and cannot stand 80-hour workweeks. According to 'Choose Your Struggle', why is he unlikely to succeed?",
+    "options": [
+      "He lacks the baseline neuroticism required for obsessive entrepreneurial work.",
+      "He suffers from clinical impostor syndrome that prevents executive risk-taking.",
+      "The venture capital industry is mathematically structured to favor incumbent legacy firms.",
+      "He is in love with the fantasy of the end-result, but is unwilling to sustain the specific daily struggle and friction inherent in the process."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Manson emphasizes that asking 'What do you want?' is trivial because everyone wants wealth, prestige, and ease. The real diagnostic question is 'What struggle do you want?' Success is determined by whether an individual embraces the mundane, repetitive discomfort of the daily climb.",
+    "citation": "Chapter 2: Choose Your Struggle"
+  },
+  {
+    "id": "man-q12",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: Happiness Is a Problem",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "How does the psychological phenomenon of the 'hedonic treadmill' undermine the pursuit of permanent happiness through external milestones?",
+    "options": [
+      "External success increases public visibility, triggering increased legal vulnerability.",
+      "Humans rapidly habituate to new circumstances and normalize achievements, resetting their emotional baseline so that new desires and frustrations immediately arise.",
+      "Dopamine synthesis relies on external sunlight, which varies drastically across seasons.",
+      "Accumulating wealth produces exponential increases in personal neurosis."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hedonic adaptation ensures that neither windfalls nor severe misfortunes alter long-term subjective well-being as much as anticipated. People quickly adapt to positive changes, resetting their emotional baseline and proving that seeking a permanent high through external goals is a futile cycle.",
+    "citation": "Chapter 2: Emotions Are Overrated"
+  },
+  {
+    "id": "man-q13",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: You Are Not Special",
+    "difficulty": "easy",
+    "type": "scenario",
+    "question": "In Chapter 3, Manson introduces 'Jimmy', a charismatic acquaintance who constantly talks up massive business deals and acts superior to everyone, yet is perpetually broke and lives off others. What psychological mechanism drives Jimmy's behavior?",
+    "options": [
+      "Severe neurological memory loss caused by early adolescent trauma.",
+      "Sociopathic manipulation intended to execute deliberate corporate extortion.",
+      "Fragile entitlement and defensive grandiosity used to protect his ego from confronting his ordinary mediocrity.",
+      "A clinical manifestation of untreated sleep deprivation."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Jimmy represents toxic entitlement. His outward bravado and constant delusion of being destined for greatness serve as psychological armor. Admitting that his ideas are ordinary and that he has failed would force him to confront the painful reality of his mediocrity.",
+    "citation": "Chapter 3: Things Fall Apart"
+  },
+  {
+    "id": "man-q14",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: You Are Not Special",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why did the popular 'self-esteem movement' of the late 20th century fail to produce a generation of resilient, high-achieving individuals?",
+    "options": [
+      "It relied excessively on standardized academic testing instead of creative artistic expression.",
+      "It uncoupled feelings of self-worth from actual competence, effort, and ethical behavior, fostering fragile entitlement and narcissism instead of real resilience.",
+      "It focused exclusively on young boys, leaving female students without institutional emotional support.",
+      "It was undermined by cuts in federal educational funding during the 1980s."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The self-esteem movement operated on the flawed hypothesis that high self-esteem causes success. In reality, teaching people to feel unconditionally good about themselves without requiring actual mastery or accountability creates entitled, fragile individuals who cannot handle criticism or setback.",
+    "citation": "Chapter 3: The Tyranny of Exceptionalism"
+  },
+  {
+    "id": "man-q15",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: You Are Not Special",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What underlying premise unites both manifestations of entitlement: grandiose superiority ('I'm amazing and you all suck') and perpetual victimhood ('I'm uniquely broken and life is unfair')?",
+    "options": [
+      "Both groups exhibit identical biometric indicators of cardiovascular disease.",
+      "Both perspectives stem from severe antisocial personality disorders.",
+      "Both categories score exceptionally low on standard verbal reasoning tests.",
+      "Both share the core delusion that their problems are unique and exceptional, which they believe entitles them to special treatment and exempts them from normal responsibilities."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Manson shows that the perpetual victim and the arrogant narcissist are two sides of the same coin. Both believe their circumstances are uniquely special. The victim believes their suffering is so singular that ordinary ethical and personal responsibilities do not apply to them.",
+    "citation": "Chapter 3: The Tyranny of Exceptionalism"
+  },
+  {
+    "id": "man-q16",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: You Are Not Special",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "How does algorithmic media culture systematically distort human self-perception regarding the bell curve of capability?",
+    "options": [
+      "By broadcasting exclusively the extreme 0.001% of wealth, beauty, athletic prowess, and catastrophe, conditioning people to feel that ordinary, average competence is a shameful failure.",
+      "By suppressing scientific literacy in favor of astrological superstition.",
+      "By eliminating physical bookstores and monopolizing digital publishing distribution.",
+      "By restricting communication between different generational demographics."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Because media thrives on sensationalism, it selectively spotlights only the extreme tails of the bell curve—the most beautiful, wealthiest, or most tragic. This skews human perception, making people believe that extreme exceptionalism is the baseline and that being average is unacceptable.",
+    "citation": "Chapter 3: The Tyranny of Exceptionalism"
+  },
+  {
+    "id": "man-q17",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: You Are Not Special",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Why is accepting one's ordinariness across most domains psychologically liberating rather than demoralizing?",
+    "options": [
+      "It allows you to qualify for state welfare assistance and reduce tax burdens.",
+      "It mathematically guarantees that you will never experience interpersonal rejection.",
+      "It eliminates the necessity of maintaining personal hygiene and physical fitness.",
+      "It relieves the chronic anxiety of needing to be historic or extraordinary, freeing you to appreciate mundane daily joys, relationships, and gradual, unglamorous progress."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Accepting that you are largely average frees you from constant status anxiety and the exhausting demand to prove your superiority. It allows you to engage in life with curiosity, enjoy simple pleasures, and focus on deep, patient competence without fearing ordinary outcomes.",
+    "citation": "Chapter 3: B-b-b-but, If I’m Not Going to Be Special or Extraordinary, What’s the Point?"
+  },
+  {
+    "id": "man-q18",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: You Are Not Special",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A competent graphic designer feels like a complete failure because she has not built an internationally celebrated design studio by age twenty-eight. What cognitive distortion is causing her distress?",
+    "options": [
+      "Hyperbolic discounting regarding long-term retirement planning.",
+      "Cognitive dissonance arising from contradictory political loyalties.",
+      "The Tyranny of Exceptionalism—the internalized belief that leading a stable, ordinary life without fame or monumental impact is inherently worthless.",
+      "Severe visual processing fatigue from software overuse."
+    ],
+    "correctAnswer": 2,
+    "explanation": "She is suffering from the Tyranny of Exceptionalism. By believing that anything less than global fame or extraordinary accomplishment is a failure, she discounts her genuine achievements and tortures herself over the reality of being a normal, competent human being.",
+    "citation": "Chapter 3: The Tyranny of Exceptionalism"
+  },
+  {
+    "id": "man-q19",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: The Value of Suffering",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What philosophical warning does Manson extract from the life of Hiroo Onoda, the Japanese soldier who fought WWII in the jungle for 29 years after it ended?",
+    "options": [
+      "Traditional military chains of command are structurally inefficient.",
+      "Suffering is an inevitable component of life, but enduring immense hardship in service of a delusional, meaningless metric is a tragic waste of human existence.",
+      "Wilderness survival techniques are genetically encoded in East Asian populations.",
+      "Post-traumatic stress disorder can only be treated within military medical centers."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Onoda displayed extraordinary endurance, surviving three decades in the jungle on insects and rats. Yet his suffering was meaningless because his guiding metric was devotion to an empire that had already surrendered. Suffering alone is not noble; its value depends entirely on the metric behind it.",
+    "citation": "Chapter 4: The Value of Suffering"
+  },
+  {
+    "id": "man-q20",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: The Value of Suffering",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In the 'Self-Awareness Onion' framework, what constitutes the deepest, most transformative third layer of self-reflection?",
+    "options": [
+      "Critically interrogating your personal values and metrics—questioning why you consider something a success or failure, and by what standard you evaluate your life.",
+      "Recognizing the raw physiological sensations associated with acute anxiety.",
+      "Identifying the external colleagues or family members who trigger emotional anger.",
+      "Recalling early childhood memories using guided hypnotherapy techniques."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The three layers of the Self-Awareness Onion are: 1) simple emotional awareness ('What am I feeling?'), 2) emotional causation ('Why do I feel this?'), and 3) metric interrogation ('Why do I consider this a problem? By what standard am I measuring myself?'). Layer 3 alters how we view our entire life.",
+    "citation": "Chapter 4: The Self-Awareness Onion"
+  },
+  {
+    "id": "man-q21",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: The Value of Suffering",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "Contrasting Dave Mustaine (Megadeth) and Pete Best (The Beatles), why did Mustaine remain bitter despite selling 25 million records, while Best achieved profound peace after being dropped before superstardom?",
+    "options": [
+      "Mustaine lost all intellectual property rights to his back catalog in bankruptcies.",
+      "Best received secret financial royalties from Apple Corps throughout his adulthood.",
+      "Mustaine judged his success against an external, impossible metric (beating Metallica), while Best redefined his values around family, inner peace, and personal relationships.",
+      "Mustaine had clinical narcissism whereas Best scored near zero in neuroticism."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mustaine formed Megadeth to eclipse Metallica, so even selling 25 million albums felt like failure because Metallica was bigger. In contrast, Pete Best moved through suicidal grief to adopt healthier metrics—family, simple music, and contentment—leading him to realize getting dropped was a blessing.",
+    "citation": "Chapter 4: Rock Star Problems"
+  },
+  {
+    "id": "man-q22",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: The Value of Suffering",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Which of the following is identified by Manson as one of the four dangerous 'Shitty Values' that sabotage well-being despite widespread cultural praise?",
+    "options": [
+      "Intellectual curiosity and continuous scientific skepticism.",
+      "Radical emotional vulnerability in interpersonal communication.",
+      "Taking personal responsibility for unforeseen environmental challenges.",
+      "Compulsive positive thinking—the toxic demand to stay positive and repress negative emotions at all costs."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Manson lists four destructive values: Pleasure, Material Success, Always Being Right, and Staying Positive. Forcing positivity suppresses necessary negative feedback, leading to psychological denial, prolonged distress, and an inability to solve real-world problems.",
+    "citation": "Chapter 4: Shitty Values"
+  },
+  {
+    "id": "man-q23",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: The Value of Suffering",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What three foundational criteria distinguish healthy 'Good Values' from toxic 'Bad Values'?",
+    "options": [
+      "Good values are 1) reality-based, 2) socially constructive, and 3) immediate and internally controllable.",
+      "Good values are 1) spiritually validated, 2) economically profitable, and 3) socially admired.",
+      "Good values are 1) traditional, 2) emotionally pleasant, and 3) legally protected.",
+      "Good values are 1) highly ambitious, 2) universally praised, and 3) externally quantifiable."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Good values (honesty, curiosity, vulnerability, self-respect) are grounded in reality, benefit others, and can be engaged immediately through internal agency. Bad values (fame, popularity, wealth, always winning) rely on uncontrollable external circumstances and breed insecurity.",
+    "citation": "Chapter 4: Defining Good and Bad Values"
+  },
+  {
+    "id": "man-q24",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: The Value of Suffering",
+    "difficulty": "easy",
+    "type": "concept",
+    "question": "Why is 'pleasure' classified as a poor and misleading metric for evaluating the quality of one's life?",
+    "options": [
+      "Pleasure degrades cardiovascular stamina and accelerates physical cellular aging.",
+      "Experiencing pleasure permanently desensitizes the nervous system to empathy.",
+      "Ancient legal codes universally outlawed sensory indulgence as civil disobedience.",
+      "Sensory pleasure is a transient byproduct of healthy values; chasing it as a primary goal causes addictive habituation and leaves underlying suffering unresolved."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Pleasure is a superficial metric. Studies show that people who organize their lives around chasing dopamine highs become anxious, unstable, and addicted. True satisfaction arises from meaningful struggles, with pleasure emerging as a natural side effect.",
+    "citation": "Chapter 4: Shitty Values"
+  },
+  {
+    "id": "man-q25",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: You Are Always Choosing",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What life-altering intellectual experiment did philosopher William James undertake to overcome severe, suicidal depression?",
+    "options": [
+      "He committed to living as a monk in rural India for two years.",
+      "He renounced his family's inheritance and lived as an itinerant factory worker.",
+      "He tested a radical hypothesis: for one calendar year, he would act as though he had absolute free agency and was 100% responsible for everything that occurred in his life.",
+      "He developed an experimental pharmaceutical regime at Harvard Medical School."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Crippled by illness and despair, William James decided that for one full year, he would treat his belief in free agency as true and take 100% responsibility for every event and feeling in his life. This radical shift revitalized him, leading him to found American pragmatism and psychology.",
+    "citation": "Chapter 5: The Choice"
+  },
+  {
+    "id": "man-q26",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: You Are Always Choosing",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How does Manson define the vital psychological distinction between 'Fault' and 'Responsibility'?",
+    "options": [
+      "Fault is forward-looking and determined by morality; Responsibility is backward-looking and assigned by legal courts.",
+      "Fault is backward-looking and concerns who created a past situation; Responsibility is forward-looking and belongs to who must choose how to interpret and respond to the situation now.",
+      "Fault and responsibility are semantically identical and can never be separated in adult human interactions.",
+      "Fault applies only to corporate entities, while Responsibility applies exclusively to individuals."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fault relates to past causality (who broke something or caused the crisis). Responsibility relates to present and future agency (who must deal with the reality). While an unchosen tragedy or betrayal is not your fault, deciding how to respond and live your life remains 100% your responsibility.",
+    "citation": "Chapter 5: The Responsibility/Fault Fallacy"
+  },
+  {
+    "id": "man-q27",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: You Are Always Choosing",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "If an abandoned infant is left on your doorstep on a freezing winter night, how does the 'Fault vs. Responsibility' framework apply to you?",
+    "options": [
+      "You are legally at fault because the infant was placed within your property boundary.",
+      "You possess zero responsibility because you share no genetic relationship with the infant.",
+      "The situation is in no way your fault, yet you are 100% responsible for choosing how to act and respond to the infant's plight in that moment.",
+      "Responsibility only attaches once municipal social services formally serve legal notice."
+    ],
+    "correctAnswer": 2,
+    "explanation": "You did not place the baby there, so you bear no fault. But because the infant is on your doorstep, you are completely responsible for your response—whether you call an ambulance, take the child inside, or ignore it. Conflating fault with responsibility leads to moral paralysis.",
+    "citation": "Chapter 5: The Responsibility/Fault Fallacy"
+  },
+  {
+    "id": "man-q28",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: You Are Always Choosing",
+    "difficulty": "easy",
+    "type": "concept",
+    "question": "What is the primary lesson of the 'Poker Hand Metaphor' regarding human genetics and unchosen adversity?",
+    "options": [
+      "While none of us choose the genetic, socioeconomic, or familial cards we are dealt, long-term success is determined by how skillfully we choose to play our hand rather than blaming the dealer.",
+      "Players who receive weak cards should withdraw immediately to minimize losses.",
+      "Over a sufficient number of hands, mathematical probability guarantees identical outcomes for all players.",
+      "Life is entirely random, rendering personal strategic choices irrelevant."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In poker, everyone is dealt random hands of varying quality. Blaming the dealer for bad cards changes nothing. Great poker players win over time because they make superior decisions with poor hands, just as resilient individuals take ownership of their unchosen constraints.",
+    "citation": "Chapter 5: Genetics and the Hand We’re Dealt"
+  },
+  {
+    "id": "man-q29",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: You Are Always Choosing",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is the primary psychological danger of 'Victimhood Chic'—the modern trend of seeking status through public grievance and outrage?",
+    "options": [
+      "It promotes extreme stoicism and suppresses healthy expressions of grief.",
+      "It leads to the total privatization of municipal public utilities.",
+      "It exhausts public judicial systems through an excess of frivolous lawsuits.",
+      "It surrenders emotional sovereignty to external forces, cultivating fragile individuals who trade genuine agency for transient moral righteousness."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Victimhood chic allows people to gain easy social attention and moral superiority by performing outrage. However, blaming outside forces for all personal discontent strips individuals of power, trapping them in learned helplessness and chronic fragility.",
+    "citation": "Chapter 5: Victimhood Chic"
+  },
+  {
+    "id": "man-q30",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: You Are Always Choosing",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "When people ask Manson for step-by-step techniques to stop caring about external validation, why does he insist that 'There Is No How'?",
+    "options": [
+      "Because altering personal values is a direct, conscious choice of priority rather than a mechanical trick, and looking for a 'how-to' formula is just another avoidance tactic.",
+      "Because personality traits are biologically immutable after the age of twenty-one.",
+      "Because linguistic limitations prevent the description of internal emotional shifts.",
+      "Because value changes can only occur through intensive clinical psychoanalysis."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Manson explains that searching for a 'how' is a way to stall. Changing values does not require a secret 10-step technique; it requires simply making the choice to care about honesty or integrity more than approval, and enduring the uncomfortable feelings that accompany that choice.",
+    "citation": "Chapter 5: There Is No “How”"
+  },
+  {
+    "id": "man-q31",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: You’re Wrong About Everything (And So Am I)",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What critical insight regarding autobiographical memory was demonstrated by journalist Meredith Maran's book My Lie and the research of Elizabeth Loftus?",
+    "options": [
+      "Childhood memories are preserved with photographic accuracy in the amygdala.",
+      "Human memory is a reconstructive, malleable process where the mind routinely fabricates, alters, and distorts recollections to fit current emotional narratives and social pressures.",
+      "Hypnotic trance states are the only reliable way to recover forgotten childhood events.",
+      "Trauma permanently locks neurological recall into absolute objective accuracy."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Maran's false realization that she had been abused—which she later discovered was completely fabricated during therapy—illustrates Loftus's findings: memory is not a recording device. The brain reconstructs memories to justify present feelings, proving that absolute certainty in our recollections is an illusion.",
+    "citation": "Chapter 6: Be Careful What You Believe"
+  },
+  {
+    "id": "man-q32",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: You’re Wrong About Everything (And So Am I)",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why does Manson describe dogmatic certainty as the primary enemy of psychological growth?",
+    "options": [
+      "Certainty closes the mind to new evidence and prevents error correction; true intellectual and emotional progress requires embracing doubt as a prerequisite for learning.",
+      "Certainty prompts severe interpersonal conflict due to innate human territoriality.",
+      "Certainty causes an immediate decline in neurogenesis within the hippocampus.",
+      "Certainty requires excessive cognitive glucose, exhausting metabolic stamina."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Growth is an iterative process of becoming slightly less wrong over time. When you are certain you already possess the truth, you filter out contrary evidence and stop learning. Embracing doubt is what makes self-correction, humility, and genuine growth possible.",
+    "citation": "Chapter 6: The Dangers of Pure Certainty"
+  },
+  {
+    "id": "man-q33",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: You’re Wrong About Everything (And So Am I)",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What is the core psychological mechanism behind 'Manson’s Law of Avoidance'?",
+    "options": [
+      "People reflexively avoid any task that takes longer than 90 minutes to complete.",
+      "Individuals avoid financial market volatility due to innate risk aversion biases.",
+      "The more an opportunity, truth, or behavioral change threatens how you define your existing self-identity, the more aggressively you will avoid and sabotage it.",
+      "Humans avoid interpersonal collaboration with individuals of differing political views."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Manson's Law of Avoidance states that anything threatening your self-narrative will be avoided. People avoid not only failure, but also success, love, and growth if those outcomes contradict their self-image (such as defining oneself as an unappreciated victim or a struggling rebel).",
+    "citation": "Chapter 6: Manson’s Law of Avoidance"
+  },
+  {
+    "id": "man-q34",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: You’re Wrong About Everything (And So Am I)",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A gifted coder refuses to apply for a prestigious engineering leadership position despite encouragement from colleagues. She tells herself she 'prefers working in the background'. According to Manson's Law of Avoidance, what is driving her hesitation?",
+    "options": [
+      "She suffers from physical postural fatigue from sitting at keyboards.",
+      "She has low emotional intelligence that cannot be developed through training.",
+      "Her company's incentive compensation model fails to meet industry benchmarks.",
+      "Accepting a leadership role threatens her entrenched identity as an unbothered, independent coder; stepping up risks discovering that she might make mistakes in a public role."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Stepping into leadership threatens her established self-concept. Protecting her current identity feels safer than risking failure in a new role where she can no longer hide behind the narrative of being an unbothered background coder.",
+    "citation": "Chapter 6: Manson’s Law of Avoidance"
+  },
+  {
+    "id": "man-q35",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: You’re Wrong About Everything (And So Am I)",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is the psychological intention behind Manson’s provocative directive to 'Kill Yourself' in Chapter 6?",
+    "options": [
+      "To encourage literal self-harm when existential despair becomes acute.",
+      "To purge all digital records and terminate all existing social media accounts.",
+      "To deconstruct and let go of rigid, dogmatic self-definitions (such as 'I am an introvert' or 'I am unlovable'), allowing yourself the flexible freedom to adapt and evolve.",
+      "To engage in extreme caloric deprivation to induce altered states of consciousness."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Manson uses the phrase metaphorically in the Zen/Buddhist sense: dismantle your rigid conceptual ego. When you stop holding onto a tight definition of who you are, you eliminate the constant need to defend that identity, leaving you free to act without fear of contradicting yourself.",
+    "citation": "Chapter 6: Kill Yourself"
+  },
+  {
+    "id": "man-q36",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: You’re Wrong About Everything (And So Am I)",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In the three-question protocol for questioning rigid convictions, what is the crucial third question to ask after 'What if I’m wrong?' and 'What would it mean if I were wrong?'?",
+    "options": [
+      "How can I prove to my colleagues that my original intuition was defensible?",
+      "What punitive actions should I take to compensate for having made an analytical error?",
+      "Which external authorities can I cite to settle this disagreement definitively?",
+      "Would being wrong create a better or a worse problem than my current problem, for both myself and others?"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The third question evaluates the practical consequences of admitting error. Often, recognizing you were mistaken creates better, more solvable problems (e.g., apologizing and repairing a marriage) than clinging to righteous certainty (maintaining a bitter, broken relationship).",
+    "citation": "Chapter 6: How to Be a Little Less Certain of Yourself"
+  },
+  {
+    "id": "man-q37",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: Failure Is the Way Forward",
+    "difficulty": "easy",
+    "type": "concept",
+    "question": "What is the core premise of the 'Failure/Success Paradox' described in Chapter 7?",
+    "options": [
+      "Success in any craft is directly proportional to the scale and volume of failures endured and integrated; someone who is better than you at something has likely failed at it more times than you have even tried.",
+      "Failure and success are mutually exclusive conditions determined entirely by socioeconomic background.",
+      "High early failure rates indicate that an individual should immediately pivot to a different career path.",
+      "Success inevitably generates moral decline due to the corrupting nature of financial power."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mastery is built upon an empirical foundation of trial, error, and adjustment. Children learn to walk by falling hundreds of times without shame. Adults often stall in their development because they fear the social embarrassment of being incompetent in public.",
+    "citation": "Chapter 7: The Failure/Success Paradox"
+  },
+  {
+    "id": "man-q38",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: Failure Is the Way Forward",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "According to Polish psychologist Kazimierz Dabrowski’s 'Theory of Positive Disintegration', how should acute emotional suffering and psychological crises be viewed?",
+    "options": [
+      "As permanent genetic defects requiring immediate pharmacological suppression.",
+      "As necessary periods of psychological collapse where rigid, lower-level mental frameworks disintegrate to allow reintegration at a higher, more mature level of capability.",
+      "As evidence of subconscious Freudian defense mechanisms displacing sexual frustration.",
+      "As evolutionary misfires caused by rapid technological industrialization."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dabrowski observed that World War II survivors who achieved great personal depth often viewed their immense suffering as the catalyst for growth. Positive disintegration posits that mental anguish breaks down outdated coping mechanisms, allowing the psyche to reorganize at a higher level of maturity.",
+    "citation": "Chapter 7: Pain Is Part of the Process"
+  },
+  {
+    "id": "man-q39",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: Failure Is the Way Forward",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Why does attempting to numb emotional failure and distress (through substances, escapism, or forced cheerfulness) inadvertently undermine overall well-being?",
+    "options": [
+      "It accelerates metabolic liver fatigue, triggering hormonal dysregulation.",
+      "It violates standard behavioral healthcare guidelines regarding emotional management.",
+      "It causes acute sensory processing overload that impairs circadian sleep cycles.",
+      "Because the human nervous system cannot selectively numb emotions; blunting distress and pain simultaneously suppresses the capacity for joy, intimacy, empathy, and meaning."
+    ],
+    "correctAnswer": 3,
+    "explanation": "You cannot numb negative emotions without also numbing positive ones. When people use distractions or substances to avoid dealing with failure and pain, they simultaneously extinguish their ability to experience deep connection, excitement, and genuine satisfaction.",
+    "citation": "Chapter 7: Pain Is Part of the Process"
+  },
+  {
+    "id": "man-q40",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: Failure Is the Way Forward",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What conventional assumption regarding motivation does the 'Do Something' Principle challenge and overturn?",
+    "options": [
+      "The linear assumption that action only occurs after feeling inspiration and motivation; in reality, taking small mechanical action generates the momentum that produces inspiration and motivation.",
+      "The assumption that intrinsic motivation is superior to external financial incentives.",
+      "The belief that introverts require more motivation than extroverts to complete creative work.",
+      "The idea that physical exercise has no bearing on creative intellectual productivity."
+    ],
+    "correctAnswer": 0,
+    "explanation": "People commonly assume the sequence is: Emotional Inspiration -> Motivation -> Action. Manson inverts this loop: Action -> Inspiration -> Motivation -> Action. Engaging in action itself generates emotional feedback and sparks motivation, breaking inertia.",
+    "citation": "Chapter 7: The “Do Something” Principle"
+  },
+  {
+    "id": "man-q41",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: Failure Is the Way Forward",
+    "difficulty": "easy",
+    "type": "scenario",
+    "question": "What practical advice from his high school calculus teacher, Mr. Packwood, inspired Manson's formulation of the 'Do Something' Principle?",
+    "options": [
+      "Memorize the back of the textbook to discover hidden mathematical symmetries.",
+      "Close your eyes and visualize the completed equation before touching paper.",
+      "If you're stuck on a problem, don't sit there staring at it; just start writing and working on it—even if you don't know what you're doing, the act of doing something will get the gears turning.",
+      "Always solve the easiest arithmetic questions first to build testing confidence."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mr. Packwood advised students who were stuck on math problems not to sit idle. Writing down the equation or trying any basic operation engages active cognitive processing, helping unblock the mind and reveal the solution.",
+    "citation": "Chapter 7: The “Do Something” Principle"
+  },
+  {
+    "id": "man-q42",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: Failure Is the Way Forward",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "An aspiring novelist sits at his desk paralyzed by perfectionism, terrified of writing poor prose. How would applying the 'Do Something' Principle resolve his paralysis?",
+    "options": [
+      "He should read classic literature for two months until inspired by great writers.",
+      "He should hire an executive ghostwriter to draft the introductory chapters for him.",
+      "He should drink espresso to force his central nervous system into hyper-focus.",
+      "He should redefine success simply as the physical act of typing one single paragraph, knowing that initiating any action eliminates friction and ignites the motivation to keep going."
+    ],
+    "correctAnswer": 3,
+    "explanation": "By following the 'Do Something' Principle, any action is regarded as progress. Redefining success as typing one paragraph—regardless of quality—removes the fear of failure, breaks inertia, and stimulates the momentum needed to write more.",
+    "citation": "Chapter 7: The “Do Something” Principle"
+  },
+  {
+    "id": "man-q43",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: The Importance of Saying No",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What did Mark Manson discover about communication and boundaries from his immersion in post-communist Russian culture?",
+    "options": [
+      "Western pleasantries are scientifically proven to reduce violent crime.",
+      "Russian directness represents an acute lack of emotional intelligence.",
+      "Polite communication should be strictly enforced through municipal regulation.",
+      "Rejection and blunt honesty are indispensable for authentic trust; Western 'fake niceness' often masks insecurity, whereas openly stating and receiving 'No' establishes reliable boundaries."
+    ],
+    "correctAnswer": 3,
+    "explanation": "In Russia, Manson observed that people spoke with blunt candor. While uncomfortable at first, he realized that eliminating fake pleasantries created genuine trust. You always knew where you stood because people felt free to say 'No' and reject what they did not value.",
+    "citation": "Chapter 8: Rejection Makes Your Life Better"
+  },
+  {
+    "id": "man-q44",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: The Importance of Saying No",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What is the defining characteristic of toxic, codependent boundaries according to Manson's framework?",
+    "options": [
+      "Taking emotional responsibility for another person's feelings and problems, or blaming another person for your own feelings and well-being.",
+      "Maintaining independent financial accounts and separate career ambitions.",
+      "Refusing to share passwords for digital personal devices with your romantic partner.",
+      "Experiencing disagreements over religious practices or philosophical worldviews."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Healthy boundaries mean taking responsibility for your own emotions and actions while letting others take responsibility for theirs. Toxic boundaries involve enmeshment—trying to manage another person's moods or blaming them for your own frustration.",
+    "citation": "Chapter 8: Boundaries"
+  },
+  {
+    "id": "man-q45",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: The Importance of Saying No",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Why does Manson describe the psychological dynamic between 'Victims' and 'Saviors' in relationships as an entitled, dysfunctional trap?",
+    "options": [
+      "Because both individuals share clinical traits of psychopathic antisocial disorder.",
+      "Because Victims seek Saviors to solve their problems for them, while Saviors seek Victims to 'rescue' in order to feel morally worthy; both use the other to avoid taking responsibility for their own lives.",
+      "Because the dynamic inevitably results in bankruptcy due to poor financial budgeting.",
+      "Because Saviors secretly conspire to secure legal power of attorney over Victims."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Victims and Saviors feed off each other's codependency. The Victim wants someone else to carry their emotional burdens, and the Savior needs someone to fix in order to feel good about themselves. Both are evading emotional self-reliance and true vulnerability.",
+    "citation": "Chapter 8: Boundaries"
+  },
+  {
+    "id": "man-q46",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: The Importance of Saying No",
+    "difficulty": "easy",
+    "type": "concept",
+    "question": "How does Manson reinterpret William Shakespeare's Romeo and Juliet in contrast to common romantic folklore?",
+    "options": [
+      "As a historical chronicle documenting medieval Italian political governance.",
+      "As an allegorical endorsement of arranged family betrothals over infatuation.",
+      "As a dark satire of teenage irrationality, demonstrating that equating emotional volatility, high drama, and codependent obsession with true love leads to tragedy.",
+      "As a theological defense of romantic destiny and mystical soulmates."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Shakespeare wrote Romeo and Juliet not to celebrate romance, but to satirize teenage impulsiveness. Equating intense emotional highs, artificial drama, and codependency with genuine love blinds people to stable, mature companionship.",
+    "citation": "Chapter 8: Boundaries"
+  },
+  {
+    "id": "man-q47",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: The Importance of Saying No",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What two essential conditions are required to rebuild trust after it has been shattered by a betrayal such as infidelity?",
+    "options": [
+      "1) Complete honesty about the selfish values and motives that drove the betrayal, and 2) a consistent, verifiable track record of trustworthy behavior maintained over an extended period of time.",
+      "1) Immediate financial restitution, and 2) signed postnuptial legal agreements.",
+      "1) A formal public apology, and 2) complete severing of ties with mutual acquaintances.",
+      "1) Relinquishing all personal communication devices, and 2) attending mandatory state mediation."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trust is like a china plate; when shattered, apologies alone cannot mend it. Rebuilding trust requires the betrayer to confront the flawed values that caused the breach and establish a verifiable track record of consistent integrity over months or years.",
+    "citation": "Chapter 8: How to Build Trust"
+  },
+  {
+    "id": "man-q48",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: The Importance of Saying No",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "How does Barry Schwartz's 'Paradox of Choice' support Manson's principle of 'Freedom Through Commitment'?",
+    "options": [
+      "Increased retail selection lowers consumer prices, speeding up financial independence.",
+      "An abundance of options generates decision paralysis, anxiety, and superficial breadth, whereas deliberately rejecting alternatives and committing deeply to one place, craft, or partner yields profound depth and true liberation.",
+      "Commitment eliminates individual autonomy, proving that personal freedom is an illusion.",
+      "Technological platforms expand options so effectively that status anxiety is eliminated."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Endless choices create FOMO and keep us skimming the surface of life. True fulfillment and freedom are found in commitment—rejecting alternative distractions allows you to focus mental energy, cultivate mastery, and develop deep relationships.",
+    "citation": "Chapter 8: Freedom Through Commitment"
+  },
+  {
+    "id": "man-q49",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: . . . And Then You Die",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "How did the tragic accidental drowning of Mark Manson's friend Josh at age nineteen fundamentally reshape Manson's approach to living?",
+    "options": [
+      "It caused him to develop acute aquaphobia, leading him to avoid outdoor excursions.",
+      "It reinforced adolescent nihilism, convincing him that hedonism is the only rational lifestyle.",
+      "It inspired him to abandon university to become a full-time paramedic.",
+      "It shattered his passive apathy, confronting him with the reality of mortality and teaching him that holding back out of fear of social embarrassment is absurd when death is certain."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Josh's sudden death destroyed Manson's adolescent apathy. Realizing that his life could end at any moment, he recognized that holding back from vulnerability, career risks, or creative ambition out of fear of embarrassment was ridiculous. Mortality became his call to responsibility.",
+    "citation": "Chapter 9: Something Beyond Our Selves"
+  },
+  {
+    "id": "man-q50",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: . . . And Then You Die",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In Ernest Becker's Pulitzer Prize-winning book The Denial of Death, what is meant by human 'Immortality Projects'?",
+    "options": [
+      "Biotechnological research aimed at extending cellular lifespan and human telomeres.",
+      "Symbolic systems and conceptual legacies—such as wealth, monuments, ideologies, or artistic works—created so that our conceptual identity survives our physical death.",
+      "Architectural tomb engineering intended to protect biological remains from decay.",
+      "Metaphysical doctrines promoting reincarnation and soul migration across lifetimes."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Becker observed that humans are divided into a physical self (doomed to die) and a conceptual self (which can imagine legacy). Because we dread death, we invent 'Immortality Projects'—endeavors that allow our name, ideas, or works to endure long after our body is gone.",
+    "citation": "Chapter 9: Something Beyond Our Selves"
+  },
+  {
+    "id": "man-q51",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: . . . And Then You Die",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "According to Becker and Manson, what destructive societal consequence emerges when people's 'Immortality Projects' clash with one another?",
+    "options": [
+      "Widespread psychological amnesia across urban populations.",
+      "Global economic deflation caused by mass consumer boycotts.",
+      "Existential panic that leads groups to wage wars, persecute minorities, and commit mass violence to defend the conceptual systems protecting them from the terror of death.",
+      "Accelerated rural depopulation and environmental resource collapse."
+    ],
+    "correctAnswer": 2,
+    "explanation": "When an immortality project is challenged, it threatens the psychological armor shielding individuals from existential dread. Throughout history, people have fought religious wars, political crusades, and mass atrocities to defend the symbolic beliefs that keep their fear of death at bay.",
+    "citation": "Chapter 9: Something Beyond Our Selves"
+  },
+  {
+    "id": "man-q52",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: . . . And Then You Die",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "How does the philosophical practice of Memento Mori (contemplating mortality) serve as a diagnostic filter for personal values?",
+    "options": [
+      "In the presence of death, petty status anxiety, superficial vanity, and consumerist hoarding evaporate, leaving behind only the values that cultivate genuine meaning and connection.",
+      "Contemplating death triggers depressive realism, rendering all future planning impossible.",
+      "It proves that all human achievements are equal in worth, validating immediate hedonism.",
+      "It prepares the human nervous system for the physical sensations of dying."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Death is the ultimate clarifier. Thinking about your mortality burns away trivial concerns about popularity, minor slights, or material acquisitions, leaving only what is truly important: love, integrity, and meaningful contribution.",
+    "citation": "Chapter 9: The Sunny Side of Death"
+  },
+  {
+    "id": "man-q53",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: . . . And Then You Die",
+    "difficulty": "easy",
+    "type": "concept",
+    "question": "Why does Manson argue that death and the scarcity of time are the indispensable preconditions for human life to have meaning?",
+    "options": [
+      "Scarcity increases economic supply and demand in financial markets.",
+      "Mortality is necessary to prevent severe ecological overpopulation.",
+      "Death is required to maintain biological diversity across generations.",
+      "If human life were infinite, choices would carry zero consequence because every mistake could be undone across eternity; the scarcity of time gives our decisions significance and weight."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Scarcity creates value. If we had infinite time, nothing we did would matter because every option could be pursued and every error corrected. The reality of death makes our moments precious and gives weight to the values we choose to uphold.",
+    "citation": "Chapter 9: The Sunny Side of Death"
+  },
+  {
+    "id": "man-q54",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: . . . And Then You Die",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What famous observation by Charles Bukowski does Manson cite at the end of Chapter 9 to summarize the tragic, circus-like paradox of human mortality?",
+    "options": [
+      "Find what you love and let it kill you.",
+      "Some people never go crazy. What truly horrible lives they must lead.",
+      "We’re all going to die, all of us, what a circus! That alone should make us love each other, but it doesn't.",
+      "The problem with the world is that intelligent people are full of doubts while stupid ones are full of confidence."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Manson closes the book with Bukowski's reflection on mortality. Facing death together should unite humanity in compassion and mutual support, yet people waste their finite lives on petty conflicts and superficial anxieties.",
+    "citation": "Chapter 9: The Sunny Side of Death"
+  }
+]

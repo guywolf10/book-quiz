@@ -1,0 +1,920 @@
+[
+  {
+    "id": "smx-q01",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: Skills, Triune Brain Architecture & The 2/3 Rule",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "During a corporate acquisition meeting, a seasoned negotiator experiences a persistent, uneasy 'gut feeling' that the seller is hiding critical liabilities, despite the seller presenting flawless audited spreadsheets and polished slides. According to Chase Hughes's model of the Triune Brain, what neurobiological mechanism explains this intuitive unease?",
+    "options": [
+      "The neocortex has performed unconscious mathematical regression on the seller's financial figures and flashed a warning to conscious awareness.",
+      "The mammalian brain has registered nonverbal behavioral anomalies that conflict with the spoken narrative, but because it lacks linguistic processing, it can only signal awareness via somatic emotional intuition.",
+      "The reptilian brainstem has detected a direct physical threat and initiated sympathetic vasoconstriction before cognitive evaluation occurred.",
+      "The mirror neuron system in the prefrontal cortex has temporarily shut down due to cognitive exhaustion and sensory overload."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The mammalian (limbic) brain predates human language by roughly a hundred million years and processes nonverbal communication and emotional experiences without words. It continuously scans others for incongruence. When it spots behavioral red flags, it cannot formulate a verbal explanation; instead, it delivers a visceral 'gut feeling.' The neocortex then frequently attempts to reverse-rationalize this sensation with logical excuses.",
+    "citation": "Chapter 1: Skills and Techniques - The Human Brain"
+  },
+  {
+    "id": "smx-q02",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: Skills, Triune Brain Architecture & The 2/3 Rule",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Why does Chase Hughes reject Albert Mehrabian's widely cited rule that communication is '93% nonverbal' in favor of the operational '2/3 Rule', and how does this relate to the 'Wait Till The End' fallacy?",
+    "options": [
+      "Mehrabian studied written scripts rather than live speech, whereas the 2/3 Rule proves that nonverbal signals only matter during the final closing minutes of a meeting.",
+      "The 93% statistic was derived from two isolated 1967 studies on single-word emotional valence; operationally, nonverbal channels account for roughly 66% of communication, and tracking them in real time prevents the fatal error of postponing objection detection until the closing pitch.",
+      "Academic psychologists proved that nonverbal communication is 50% accurate, meaning operatives must discount Mehrabian entirely and rely on verbal concessions.",
+      "The 2/3 Rule dictates that two out of three nonverbal cues are fabricated by the neocortex to mislead interrogators and salespeople."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hughes and fellow practitioners point out that Mehrabian's 93% figure (7% words, 38% tone, 55% body) is a persistent pop-psychology myth derived from narrow experiments on congruent vs incongruent emotional words. The 6MX system conservatively estimates that roughly two-thirds (66%) of interpersonal communication is nonverbal. The 'Wait Till The End' fallacy occurs when professionals delay assessing objections until the close, ignoring the steady stream of real-time nonverbal signals throughout the conversation.",
+    "citation": "Chapter 1: Skills and Techniques - 'The 2/3 Rule' & The 'Wait Till The End' Fallacy"
+  },
+  {
+    "id": "smx-q03",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: Skills, Triune Brain Architecture & The 2/3 Rule",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How does Chase Hughes reframe the popular belief that modern technology has reduced human attention spans, and what tactical rule must an operative derive from this reality?",
+    "options": [
+      "Attention spans have not shrunk; rather, human brains have evolved rapid hyper-screening filters that create an 'interest deficit,' meaning focus is currency and you are constantly competing with hyper-stimulating media.",
+      "Attention spans have physiologically deteriorated by 50% due to digital notifications, requiring interrogators to shorten interviews to 15 minutes.",
+      "The human brain now requires constant visual stimulation via slides and tablets to keep the mammalian brain from entering sleep cycles.",
+      "Digital media has accelerated neocortical processing speeds, making verbal arguments more influential than nonverbal behaviors."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hughes explains that people who struggle to focus during a tedious lecture can still effortlessly binge-watch three seasons of television. Attention spans have not shriveled; our brains have adapted to hyper-screen incoming stimuli for relevance and interest. In everyday interactions, an operative is competing with social media and clickbait for cognitive bandwidth: 'Focus is currency.'",
+    "citation": "Chapter 1: Skills and Techniques - You're Competing With Social Media"
+  },
+  {
+    "id": "smx-q04",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: The Four Laws of Human Behavior & The Four Lenses",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "On the drive home, a driver in an aggressive lifted truck recklessly cuts you off and makes an obscene gesture out the window. If you evaluate this incident through Level 4 ('People Are Reasons') of the Four Lenses, how do you process the driver's behavior?",
+    "options": [
+      "You aggressively honk and pull alongside to force him to see that his dangerous actions will not be tolerated on the road.",
+      "You immediately recognize an emotionally wounded child behind the adult persona who suffered early trauma or powerlessness and formed a defensive belief that intimidation prevents further pain.",
+      "You recognize that his hostility is an unalterable natural fact, identical to a thunderstorm, and simply ignore the incident without emotional reaction.",
+      "You experience a surge of outrage and secretly fantasize about his truck skidding into a ditch, but you suppress taking any physical action."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Level 4 ('People Are Reasons') is the highest operational profiling lens. Instead of personalizing the event (Level 1 'Broken' or Level 2 'Different') or merely accepting it as an unchangeable condition (Level 3 'Facts'), Level 4 applies Laws 1 and 4 of Human Behavior: everyone is suffering, and all interpersonal behavior is an adaptive product of childhood suffering and reinforcement.",
+    "citation": "Chapter 2: Seeing People in a Whole New Way - People Are Reasons"
+  },
+  {
+    "id": "smx-q05",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: The Four Laws of Human Behavior & The Four Lenses",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "According to Law 2 and Law 3 of the Four Laws of Human Behavior, what is the psychological paradox surrounding individuals who vigorously insist: 'I never wear a mask; what you see is 100% who I am'?",
+    "options": [
+      "They have reached self-actualization and eliminated evolutionary tribal fears of social banishment.",
+      "They typically possess the thickest, most rigid defensive mask of all, using their vocal assertion of authenticity as a protective barrier to shield profound vulnerability.",
+      "They possess an external locus of control that prevents them from recognizing standard social norms.",
+      "They suffer from clinical antisocial personality disorder and lack the mammalian brain structures that regulate shame."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Law 2 states that everyone is wearing a mask to gain social acceptance and avoid evolutionary ostracism. Law 3 states that everyone pretends not to wear a mask. Those who aggressively insist they wear no mask usually carry the thickest psychological armor; their loud posture of raw authenticity is itself an impenetrable mask protecting deep insecurities.",
+    "citation": "Chapter 2: Seeing People in a Whole New Way - Law 2 & Law 3"
+  },
+  {
+    "id": "smx-q06",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: The Four Laws of Human Behavior & The Four Lenses",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why does adopting Level 3 ('People Are Facts') in the Four Lenses systematically extinguish personal anger during interpersonal conflict?",
+    "options": [
+      "Because anger is a secret, irrational desire for an unchangeable reality to be different; viewing human behavior as an absolute fact\u2014like a hurricane or bee sting\u2014dissolves that desire.",
+      "Because Level 3 trains the operative to repress limbic impulses and shift all emotional energy into muscular tension.",
+      "Because anger is biologically impossible when viewing humans through statistical probability models.",
+      "Because Level 3 convinces the operative that all counterparts are morally superior and should be obeyed."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Chase Hughes points out that humans do not get angry at hurricanes, blizzards, or bees that sting us, because we recognize them as unalterable facts of nature. Anger is inherently a secret desire for something to be other than what it is. When you view another person's behavior as an objective, unchangeable fact, personal indignation vanishes.",
+    "citation": "Chapter 2: Seeing People in a Whole New Way - People Are Facts"
+  },
+  {
+    "id": "smx-q07",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: The Behavioral Table of Elements & Baseline Architecture",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A business consultant pitches a $150,000 service package to a client. As the price is named, the client immediately crosses his arms across his chest. An inexperienced salesperson sitting next to the consultant concludes: 'He just closed off and rejected the offer.' What fundamental error has the salesperson committed?",
+    "options": [
+      "The Confirmation Error: assuming the client is merely adjusting his shirt sleeves.",
+      "The Attribution Error: assigning a definitive, isolated psychological meaning to a single gesture without establishing context or verifying a behavioral cluster.",
+      "The Recency Bias: focusing only on the final gesture rather than the beginning of the pitch.",
+      "The Deception Threshold Violation: failing to wait 15 minutes before noting nonverbal movements."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Attribution Error occurs when an observer assumes a single gesture has a singular, universal meaning (e.g., crossed arms = defensive/closed-off). Crossed arms can simply reflect physical comfort or cold room temperature. Accurate behavioral profiling requires identifying deviation from baseline and observing clusters of multiple indicators in context.",
+    "citation": "Chapter 3: Behavior Skills - The Attribution Error"
+  },
+  {
+    "id": "smx-q08",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: The Behavioral Table of Elements & Baseline Architecture",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "On the Behavioral Table of Elements (BTE), what is the threshold on the Deception Rating Scale (DRS) across a single question-and-answer window that indicates deception is highly probable, and what is the 'Red-Letter' rule?",
+    "options": [
+      "A cumulative DRS score exceeding 11 points; red letters on an otherwise low-stress cell escalate that behavior to a 4.0 if observed in the same window as any other 4.0 DRS element.",
+      "A cumulative DRS score exceeding 7 points; red letters indicate the behavior is purely cultural.",
+      "A cumulative DRS score of 15 points; red letters indicate that the suspect has exhibited a micro-expression of contempt.",
+      "A cumulative DRS score of 20 points; red letters mean the behavior must be discounted if the room is hot."
+    ],
+    "correctAnswer": 0,
+    "explanation": "On the BTE, if a subject's observed behaviors tally up to more than 11 points on the Deception Rating Scale within a specific Q&A stimulus window, deception is highly likely. Furthermore, if a cell displays red letters (normally a low-stress behavior), observing it alongside a 4.0 DRS element automatically multiplies its severity, escalating it to a 4.0 rating.",
+    "citation": "Chapter 3: Behavior Skills - Architecture & Colors"
+  },
+  {
+    "id": "smx-q09",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: The Behavioral Table of Elements & Baseline Architecture",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In the BTE color-coding system, what operational rule applies to elements designated with 'Blue Letters'?",
+    "options": [
+      "They designate behaviors exacerbated by ambient temperature, meaning in cold environments their point value must be lowered or discounted to prevent false positives.",
+      "They indicate facial expressions that are only valid when seen in children under the age of 12.",
+      "They represent speech hesitation patterns that must be verified against written transcripts.",
+      "They represent involuntary pupillary changes that can only be measured under specialized infrared lighting."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Blue letters on the BTE signify behaviors that are influenced by ambient physical temperature in all humans (e.g., rubbing arms, shivering, postural tucking). In cold environments, operatives must reduce the point value of these behaviors or overlook them entirely to avoid misinterpreting physical temperature reactions as deception or stress.",
+    "citation": "Chapter 3: Behavior Skills - Colors"
+  },
+  {
+    "id": "smx-q10",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: The Eyes: Blink Rate, GHT & Pupillometry",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "During a legal deposition, an attorney asks a key witness about her background, establishing a baseline blink rate of 16 blinks per minute. When asked, 'Did you personally sign off on the falsified safety inspection report?', the witness's eyelids flutter rapidly, logging 15 blinks in the subsequent 15 seconds. How should the attorney interpret this change?",
+    "options": [
+      "The witness's blink rate has dropped to 4 blinks per minute, indicating deep cognitive focus and uncompromised truthfulness.",
+      "The witness's blink rate has spiked to 60 blinks per minute (15 x 4), signaling acute autonomic stress and a massive deviation from her calm baseline.",
+      "The witness is demonstrating Gestural Hemispheric Tendency toward the left, signaling an authentic emotional recall.",
+      "The witness has experienced a temporary cessation of blink reflexes, proving she rehearsed her testimony with legal counsel."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chase Hughes provides the formula: count blinks in a 15-second window and multiply by 4. Normal baseline in relaxed conversation is 12\u201320 blinks/min. Fifteen blinks in 15 seconds equals 60 blinks/min\u2014a massive acceleration that betrays acute autonomic distress and cognitive overload triggered by the incriminating question.",
+    "citation": "Chapter 4: The Eyes - Blink Rate"
+  },
+  {
+    "id": "smx-q11",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: The Eyes: Blink Rate, GHT & Pupillometry",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What is the critical distinction between 'Blink Rate' and 'Shutter Speed', and what biological reality does shutter speed measure?",
+    "options": [
+      "Blink rate measures eyelid velocity, whereas shutter speed measures how many times per minute the eyes blink under bright interrogation lights.",
+      "Blink rate indicates deception, whereas shutter speed indicates whether a memory is visual or auditory.",
+      "Shutter speed is a voluntary social reflex, whereas blink rate is entirely governed by the neocortex.",
+      "Blink rate measures frequency of blinks, whereas shutter speed measures the physical velocity of eyelid closure and reopening\u2014which serves as a direct biological measurement of primal fear."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Blink rate tracks how often a person blinks (frequency), whereas shutter speed measures how fast the eyelid snaps shut and reopens (velocity). Just like a terrified animal, mammals involuntarily accelerate shutter speed to minimize visual occlusion time when tracking threats. As Hughes states: 'Shutter speed is a measurement of fear. Speed, in behavior, almost always equals fear.'",
+    "citation": "Chapter 4: The Eyes - Shutter Speed"
+  },
+  {
+    "id": "smx-q12",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: The Eyes: Blink Rate, GHT & Pupillometry",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A salesperson engages a prospect at a high-end commercial equipment showroom. When asked about his disastrous experience with a rival supplier, the prospect looks to his left and makes animated chopping gestures with his left hand. According to Gestural Hemispheric Tendency (GHT), how should the salesperson position himself when presenting his proposal?",
+    "options": [
+      "Identify the prospect as 'right-positive' by elimination, and physically step toward the prospect's right side, gesturing into that hemisphere when detailing the benefits and closing the deal.",
+      "Stand directly in front of the prospect and speak with an assertive, booming voice to overwhelm his negative memories.",
+      "Position himself to the prospect's left side and gesture with his right hand toward the prospect's left to anchor the proposal into his memory.",
+      "Instruct the prospect to close his eyes and imagine a neutral color to erase the lateral hemispheric anchor."
+    ],
+    "correctAnswer": 0,
+    "explanation": "GHT identifies the lateral side a person uses when accessing positive vs negative memories. If the prospect looks left and gestures with his left hand when recounting painful experiences (left-negative), his right side is 'right-positive' by elimination. To close the deal, the operative positions himself and his gestures into the prospect's right visual field, activating positive cognitive recall.",
+    "citation": "Chapter 4: The Eyes - Gestural Hemispheric Tendency (GHT)"
+  },
+  {
+    "id": "smx-q13",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: The Face: Micro-Expressions, Asymmetry & Lip Compression",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "You are presenting contract terms to a potential commercial partner. When you announce the mandatory 30-day payment schedule, the partner smiles, nods pleasantly, and says: 'That sounds completely workable to us.' However, immediately after speaking, her lips tightly press together into a thin, straight line. What tactical reality must you recognize?",
+    "options": [
+      "The partner has accepted the terms and is showing a pacifying gesture of satisfaction.",
+      "The partner is displaying object insertion behavior, signaling an acute need for praise.",
+      "The partner has exhibited lip compression, which signals 'withheld opinions' and an unvoiced objection that will inevitably derail execution if not surfaced immediately.",
+      "The partner has entered cognitive absorption, indicating she is calculating payment logistics."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Chase Hughes defines lip compression in two words: 'withheld opinions.' Squeezing the lips together is an evolutionary derivative of nursing refusal. When someone verbally agrees while compressing their lips, they are concealing an objection or disagreement. If left unaddressed, this hidden resistance will sabotage the agreement later.",
+    "citation": "Chapter 5: The Face - Lip Compression"
+  },
+  {
+    "id": "smx-q14",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: The Face: Micro-Expressions, Asymmetry & Lip Compression",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What neurobiological mechanism explains the 'Stop vs. Fade' rule of facial expressions, and why are false facial expressions typically asymmetrical?",
+    "options": [
+      "Authentic expressions stem from the neocortex and fade slowly due to intellectual deliberation, whereas false expressions originate in the limbic system.",
+      "Authentic expressions are chemically driven by limbic neurotransmitters that metabolize gradually, causing genuine expressions to fade smoothly; false expressions are fabricated by the neocortex, which abruptly terminates motor signals and lacks bilateral fine-motor precision, causing asymmetry.",
+      "False expressions fade slowly because the subject forgets to drop the persona, whereas genuine emotions vanish within 10 milliseconds.",
+      "The facial nerve (cranial nerve VII) only connects to the mammalian brain, meaning all neocortical expressions produce involuntary twitches."
+    ],
+    "correctAnswer": 1,
+    "explanation": "True facial expressions originate in the mammalian/limbic brain and are neurochemically driven; as the chemicals metabolize, the expression fades naturally off the face. False expressions originate in the conscious neocortex, which commands facial muscles to contract and then abruptly cuts off the command ('stops'). Furthermore, because the neocortex lacks the limbic brain's evolutionary fine-tuning of facial musculature, fake expressions exhibit visible muscular asymmetry.",
+    "citation": "Chapter 5: The Face - True vs. False Facial Expressions"
+  },
+  {
+    "id": "smx-q15",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: The Face: Micro-Expressions, Asymmetry & Lip Compression",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "During an internal fraud investigation, a suspect hears the investigator state: 'We just pulled the server access logs from Saturday midnight.' The suspect does not speak, but his nostrils flare significantly (wing dilation). What physiological and tactical diagnosis should the investigator make?",
+    "options": [
+      "The suspect has experienced an acute surge of adrenaline, triggering involuntary wing dilation to increase oxygen intake in preparation for a fight-or-flight crisis.",
+      "The suspect is suffering from an allergic response to carpet fibers, which carries no investigative relevance.",
+      "The suspect has relaxed his diaphragm, demonstrating that he has nothing to hide on the server.",
+      "The suspect is executing an eyebrow flash in reverse to signal social compliance."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Nostril flaring (technically called 'wing dilation') is an involuntary physiological reflex triggered by an adrenaline spike. When a subject perceives a severe threat (or intense anticipatory excitement/attraction), the brain demands immediate oxygenation. Because social norms prevent opening the mouth in a gasp, the nostrils involuntarily flare to pull in air.",
+    "citation": "Chapter 5: The Face - Nostril Flaring"
+  },
+  {
+    "id": "smx-q16",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: The Body: Posture, Barriers & Micro-Movements",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A hiring manager asks a female applicant why she suddenly departed her executive role after only four months. The applicant calmly responds, 'The company culture just wasn't aligned with my values,' while her left arm folds across her lower abdomen and her hand grasps her opposite forearm. What evolutionary behavior has occurred?",
+    "options": [
+      "A self-hug indicating that she is proud of her professional ethics.",
+      "Digital extension indicating she is entirely relaxed and transparent about her departure.",
+      "Dominant shoulder retreat indicating that she is preparing to attack the company legally.",
+      "Genital protection via the Single-Arm Wrap, revealing intense internal feelings of vulnerability, insecurity, or feeling threatened by the topic."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Genital protection is an ancient evolutionary defense mechanism. While men typically exhibit the 'Fig Leaf' (hands clasped over the groin), women instinctively execute the 'Single-Arm Wrap' (one arm folded across the lower abdomen/pelvis clasping the opposite forearm). The movement reveals acute feelings of vulnerability, insecurity, or being threatened by the specific conversational topic.",
+    "citation": "Chapter 6: The Body - Genital Protection & The Single-Arm Wrap"
+  },
+  {
+    "id": "smx-q17",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: The Body: Posture, Barriers & Micro-Movements",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "During a high-stakes negotiation, you are watching the counterpart's hands resting flat on the conference table. As you introduce a contentious intellectual property clause, you observe her fingers slowly curling inward toward the palm. How does Chase Hughes define this movement, and what does it reveal?",
+    "options": [
+      "Digital extension; it reveals growing comfort, agreement, and cognitive alignment with the terms.",
+      "Hygienic grooming; it indicates the counterpart is preparing to sign the agreement.",
+      "Digital flexion; it reveals rising stress, disagreement, doubt, or internal conflict, serving as an unfiltered peripheral barometer of conversational friction.",
+      "Brachial artery protection; it indicates she is experiencing a physical chill from the air conditioning."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Digital flexion is the subtle curling of the fingers inward toward the palm (without making a full fist). It is an involuntary indicator of disagreement, stress, fear, or doubt. Conversely, digital extension (fingers relaxing and straightening away from the palm) indicates safety and agreement. Monitoring digital movements in peripheral vision provides a real-time barometer of conversational comfort.",
+    "citation": "Chapter 6: The Body - Digital Flexion & Digital Extension"
+  },
+  {
+    "id": "smx-q18",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: The Body: Posture, Barriers & Micro-Movements",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "An interrogator identifies that a seated suspect is right-handed. While discussing an armed robbery, the interrogator mentions the accomplice's street name. The suspect's right shoulder subtly draws backward by approximately two inches while his feet pivot toward the door. What is the operational significance of this combination?",
+    "options": [
+      "The suspect has executed a dominant shoulder retreat (a nonverbal fighting/threat stance) while his feet broadcast genuine flight intent, signaling extreme stress and potential deception.",
+      "The suspect is shifting his weight to engage in diaphragmatic abdominal breathing, indicating relief.",
+      "The suspect is displaying the 'truth plane,' proving he has no intent to resist questioning.",
+      "The suspect is performing an asymmetrical shrug, indicating he simply forgot who the accomplice was."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Just as a street fighter imperceptibly slides their dominant foot backward before throwing a punch ('dominant leg retreat'), seated individuals experiencing strong threat or visceral disagreement pull their dominant shoulder 1\u20132 inches backward. Coupled with 'feet honesty' (feet pivoting toward the exit), the subject is broadcasting acute distress, flight intent, and threat resistance.",
+    "citation": "Chapter 6: The Body - Handedness & Feet Honesty"
+  },
+  {
+    "id": "smx-q19",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: Deception Detection & Verbal Leakage Markers",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A CFO is questioned by an external auditor about unauthorized fund transfers. The CFO responds: 'Left the office at five. Went to dinner, had three drinks, stopped at hotel, slept until morning. I did not authorize any wire transfers.' Which two major verbal deception indicators appear in this brief response?",
+    "options": [
+      "Over-politeness and question reversal.",
+      "Psychological distancing and mini-confessions.",
+      "Pronoun absence (omitting 'I' from past activities) and non-contractions ('I did not' instead of 'I didn't').",
+      "Ambiguity traps and resume statements."
+    ],
+    "correctAnswer": 2,
+    "explanation": "In deceptive statements, the brain depersonalizes events that did not occur in episodic memory, leading to pronoun absence ('Left the office... went to dinner... stopped at hotel'). Furthermore, deceptive speech defaults to stiff, overly formal non-contractions ('I did not authorize' rather than natural 'I didn't authorize') to sound technical and definitive.",
+    "citation": "Chapter 7: Deception Detection and Stress - Pronoun Absence & Non-Contractions"
+  },
+  {
+    "id": "smx-q20",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: Deception Detection & Verbal Leakage Markers",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A suspect in an embezzlement case is asked: 'Did you transfer the $85,000 to the offshore account on Friday?' The suspect replies: 'I have worked for this company for twelve years with a spotless record, and I teach Sunday School every weekend! How dare you accuse me after everything I've sacrificed!' How does Chase Hughes categorize this verbal behavior?",
+    "options": [
+      "An authentic denial demonstrating an internal locus of control.",
+      "An exclusion statement indicating partial recollection.",
+      "An informational altruism gambit designed to elicit audit files.",
+      "A resume statement combined with question reversal and a non-answer, which together score an immediate 16+ on the Deception Rating Scale."
+    ],
+    "correctAnswer": 3,
+    "explanation": "The suspect delivers a classic 'Resume Statement' (listing moral credentials, years of service, and church attendance) to dodge the factual question, followed by an indignant 'Question Reversal' attack. Notice that the suspect completely fails to answer the question, creating a Non-Answer. On the BTE, stacking a non-answer, resume statement, and question reversal tallies well over 11 points on the DRS.",
+    "citation": "Chapter 7: Deception Detection and Stress - Resume Statements & Question Reversal"
+  },
+  {
+    "id": "smx-q21",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: Deception Detection & Verbal Leakage Markers",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is 'Globus Pharyngeus', and how does it manifest as a visible deception/stress indicator during an interrogation?",
+    "options": [
+      "A stress-induced sensation of a lump in the throat combined with sudden saliva production, causing a visible vertical upward movement of the trachea (pre-swallow reflex) immediately after an incriminating question.",
+      "An involuntary dilation of the pupils caused by low light in the interrogation room.",
+      "A sudden drop in vocal pitch caused by relaxation of the laryngeal muscles.",
+      "A micro-expression of disgust marked by the wrinkling of the nose bridge."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Globus Pharyngeus is the psychological sensation of a constriction or 'lump' in the throat caused by autonomic sympathetic arousal. In high-stakes interrogation, anxiety spikes saliva and tightens pharyngeal muscles. The subject exhibits an involuntary 'pre-swallow movement' where the trachea (Adam's apple) visibly lifts up to an inch as they process the threat.",
+    "citation": "Chapter 7: Deception Detection and Stress - Pre-Swallow Movement"
+  },
+  {
+    "id": "smx-q22",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: Elicitation & The Hourglass Method",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How does the 'Hourglass Method' utilize the Primacy and Recency Effects of human memory to extract sensitive intelligence without leaving a psychological trace?",
+    "options": [
+      "By keeping the entire conversation under 60 seconds so the subject's short-term memory buffer overflows.",
+      "By placing the extraction of sensitive intelligence in the narrow middle of the dialogue while bookending the conversation with engaging, safe topics at the beginning and end, ensuring the subject's memory retains only the benign edges.",
+      "By beginning with an aggressive interrogation accusation and ending with flattery.",
+      "By requiring the operative to repeat the target's words backwards to induce cognitive disorientation."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Hourglass Method relies on the Primacy Effect (remembering the beginning of events) and the Recency Effect (remembering the most recent endings). By couching sensitive elicitation techniques in the narrow middle of the conversation and wrapping it in broad, pleasant topics at the start and finish, the target's memory prioritizes the edges and completely fails to recall disclosing sensitive intelligence.",
+    "citation": "Chapter 8: Elicitation - The Hourglass Method"
+  },
+  {
+    "id": "smx-q23",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: Elicitation & The Hourglass Method",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "You want to discover an executive's proprietary annual marketing budget without raising suspicion. Walking past her office, you casually say: 'I read an industry report this morning that said all mid-tier tech firms are slashing their marketing budgets down to under $500,000 this quarter.' She immediately replies: 'That's completely false! We just allocated $3.8 million for our Q3 digital campaign.' Which elicitation technique was deployed?",
+    "options": [
+      "Informational Altruism.",
+      "Verbal Mirroring.",
+      "Citations combined with triggering the psychological urge to Correct the Record.",
+      "Bracketed Question Reversal."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Citations technique references an external report, rumor, or article to present deliberately flawed or low information. This directly activates the irresistible human psychological impulse to 'Correct the Record.' The executive voluntarily handed over exact budgetary figures without ever feeling questioned or interrogated.",
+    "citation": "Chapter 8: Elicitation - Citations & Correcting The Record"
+  },
+  {
+    "id": "smx-q24",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: Elicitation & The Hourglass Method",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why does the elicitation technique of 'Disbelief' provoke targets into volunteering detailed, confidential evidence that direct questioning fails to uncover?",
+    "options": [
+      "Because disbelief threatens their physical safety, activating the reptilian survival drive.",
+      "Because disbelief triggers cognitive lock, forcing the neocortex to shut down and yield compliance.",
+      "Because expressing doubt mimics the parent-child dynamic, prompting an infantile confession.",
+      "Because humans possess an intense psychological drive to be believed; feigned skepticism challenges their credibility, compelling them to pour out proprietary proof, documentation, or secrets to vindicate themselves."
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Disbelief technique works because humans have a deep-seated need to be believed and validated. When an operative expresses polite skepticism ('There's no way you closed that alone; the market is impossible right now'), the target feels compelled to defend their pride by spilling confidential operational details, revenue figures, or inside secrets to prove they are telling the truth.",
+    "citation": "Chapter 8: Elicitation - Disbelief"
+  },
+  {
+    "id": "smx-q25",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: The Human Needs Map & Hidden Fears",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How does Chase Hughes explain the relationship between social needs on The Human Needs Map and biological neuropeptides at the cellular level?",
+    "options": [
+      "Each social need triggers specific neuropeptides in the brain that dock into cellular receptor sites; over time, cells rebuild and multiply receptors for the person's dominant need, creating a physical chemical addiction that drives compulsive behavioral repetition.",
+      "Social needs are superficial conscious desires that have no correlation with biochemical processes.",
+      "Neuropeptides only respond to physical threats such as starvation and dehydration, not social interactions.",
+      "Cellular receptors for neuropeptides degrade permanently at age 18, locking personality into a fixed state."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hughes explains that social needs function like chemical addictions. When an individual repeatedly seeks validation for a specific need (e.g., Pity or Significance), the brain floods the body with corresponding neuropeptides. Cellular receptor sites adapt and multiply to dock those specific proteins. If denied their chemical hit, the body experiences genuine withdrawal, driving the individual to unconsciously stage social dramas to satisfy their biological craving.",
+    "citation": "Chapter 9: The Human Needs Map - Neuropeptides"
+  },
+  {
+    "id": "smx-q26",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: The Human Needs Map & Hidden Fears",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "An employee consistently wears designer clothing displaying prominent luxury logos, drives the latest model sports car, and frequently steers office conversations back to his high-net-worth investments and exclusive social circle. What is his Primary Need on the Needs Map, and what is his underlying, unconscious fear?",
+    "options": [
+      "Significance; secret fear of being ignored, feeling small, and social abandonment.",
+      "Pity; secret fear of being disbelieved and forgotten.",
+      "Acceptance; secret fear of peer mismatch and tribal gossip.",
+      "Intelligence; secret fear of being called out or looking uneducated."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Prominent status symbols, visible wealth displays, and an urge to dominate conversations are classic outward markers of the Significance need. The internal diagnostic question is: 'Do others view me as significant and making an impact?' The hidden, primal fear driving this persona is the terror of being ignored, feeling small, or suffering social ridicule and abandonment.",
+    "citation": "Chapter 9: The Human Needs Map - Significance & Hidden Fears"
+  },
+  {
+    "id": "smx-q27",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: The Human Needs Map & Hidden Fears",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "During jury selection for a corporate negligence trial where a plaintiff is suing an equipment manufacturer for an injury, the defense attorney seeks jurors who believe individuals are responsible for their own safety. Using the 13-Item Forced-Choice Scale, which juror profile should the defense select?",
+    "options": [
+      "Jurors with an External Locus of Control, who believe life outcomes are dictated by luck, system bias, and corporate greed.",
+      "Jurors driven primarily by the Pity need, who strongly empathize with physical trauma and medical victimhood.",
+      "Jurors with a high Team Pronoun count, who prioritize communal welfare over personal accountability.",
+      "Jurors with an Internal Locus of Control, who believe people's misfortunes result from their own choices and mistakes rather than bad luck or external circumstances."
+    ],
+    "correctAnswer": 3,
+    "explanation": "People with an Internal Locus of Control believe that personal agency, discipline, and choices dictate life outcomes, whereas External Locus individuals attribute outcomes to luck, fate, or systemic forces. In a product liability defense, jurors with an internal locus will hold the injured plaintiff accountable for failing to exercise personal caution, rather than blaming the corporate manufacturer.",
+    "citation": "Chapter 9: The Human Needs Map - Locus Of Control"
+  },
+  {
+    "id": "smx-q28",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: The Decision Map\u00a9 (The Six Decision Pillars)",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What are the Six Decision Pillars on The Decision Map\u00a9, and how do contiguous pillars interact during human decision-making?",
+    "options": [
+      "Survival, Sex, Food, Shelter, Tribe, Dominance; each pillar operates strictly in isolation without cognitive overlap.",
+      "Deviance, Novelty, Social, Conformity, Investment, Necessity; each pillar forms a circular continuum that bleeds into its immediate neighbors, so a Deviance decision-maker also weighs Novelty, while Social blends into Conformity.",
+      "Logic, Emotion, Price, Quality, Speed, Brand; subjects pick one pillar at birth and never deviate across their lifespan.",
+      "Reptilian, Limbic, Neocortical, Visual, Auditory, Kinesthetic; decision pillars directly mirror sensory channels."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Decision Map comprises six interconnected pillars: Deviance, Novelty, Social, Conformity, Investment, and Necessity. They form a circular continuum where adjacent pillars bleed into each other (e.g., Deviance borders Novelty; Novelty borders Social; Conformity borders Investment; Investment borders Necessity). Aligning your pitch with their dominant and contiguous pillars is the key to persuasion.",
+    "citation": "Chapter 10: The Decision Map - The Six Decision Pillars"
+  },
+  {
+    "id": "smx-q29",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: The Decision Map\u00a9 (The Six Decision Pillars)",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "Six people enter an electronics store to purchase a cell phone case. Person X searches exclusively for a heavy-duty, military-grade OtterBox that maximizes device resale value over five years. Person Y searches for an eccentric case shaped like an oversized neon-pink lobster that breaks social decorum. Which Decision Pillars govern Person X and Person Y?",
+    "options": [
+      "Person X is Conformity; Person Y is Social.",
+      "Person X is Necessity; Person Y is Novelty.",
+      "Person X is Investment ('Is this going to provide a valuable return?'); Person Y is Deviance ('Will this help me stand out or break cultural/social norms?').",
+      "Person X is Approval; Person Y is Strength."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Chase Hughes uses the cell phone case diagnostic to illustrate the Decision Map: Person X represents the Investment pillar (evaluating return-on-investment, long-term asset protection, and durability). Person Y represents the Deviance pillar (deliberately seeking an offbeat, contrarian accessory to shock or deviate from conventional cultural norms).",
+    "citation": "Chapter 10: The Decision Map - Buying A Cell Phone Case"
+  },
+  {
+    "id": "smx-q30",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: The Decision Map\u00a9 (The Six Decision Pillars)",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A criminal suspect has stonewalled interrogators for six exhausting hours. Suddenly, the lead detective changes tack and says: 'Look, if you admit what happened right now, you'll be the first one to take control of the narrative before your two partners cut a deal and make you look like a mindless follower.' Within ten minutes, the suspect breaks and confesses. What occurred?",
+    "options": [
+      "The interrogator triggered the suspect's Pity need by offering legal empathy.",
+      "The suspect experienced cognitive freeze due to pupil dilation and rapid shutter speed.",
+      "The interrogator exploited an internal locus of control by promising immunity.",
+      "The interrogator inadvertently aligned the confession incentive with the suspect's Deviance and Novelty decision style, reframing the confession as a bold act of independent leadership rather than weakness."
+    ],
+    "correctAnswer": 3,
+    "explanation": "In multi-hour interrogations, breakthroughs occur when an investigator stumbles upon the suspect's specific Decision Map pillar. By framing the confession as a way to stand out, break conformity, and lead the pack (Deviance/Novelty), the interrogator gave the suspect's mammalian brain a compelling, identity-affirming reason to cut off resistance and decide.",
+    "citation": "Chapter 10: The Decision Map - Interrogation Application"
+  },
+  {
+    "id": "smx-q31",
+    "chapterId": "ch11",
+    "chapterName": "Ch 11: Sensory Preference Identification (VAK Predicates)",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A client reviewing a proposed software transition remarks: 'I just can't get a solid handle on this implementation timeline. The whole process feels heavy and slippery to me.' If the sales executive replies, 'Let me paint a crystal-clear picture so you can see the bright horizon of this platform,' what linguistic error has occurred?",
+    "options": [
+      "The executive used too many contractions, violating deception baseline standards.",
+      "The executive committed a Sensory Modality Clash by responding with Visual predicates to a client who is actively processing through the Kinesthetic channel, creating unconscious cognitive friction.",
+      "The executive failed to ask calibrated open-ended questions using 'How' and 'What.'",
+      "The executive triggered the client's Deviance pillar by using corporate jargon."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The client expresses his processing through Kinesthetic sensory predicates ('get a solid handle', 'feels heavy and slippery'). Instead of pacing this modality with Kinesthetic terms ('Let's get a firm grip on the timeline and smooth out the friction points'), the executive responds with Visual predicates ('paint a picture', 'crystal-clear', 'see the bright horizon'), creating an unconscious communicative barrier.",
+    "citation": "Chapter 11: Sensory Preference Identification"
+  },
+  {
+    "id": "smx-q32",
+    "chapterId": "ch11",
+    "chapterName": "Ch 11: Sensory Preference Identification (VAK Predicates)",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Which physiological and behavioral characteristics typically correlate with individuals operating in a dominant Visual sensory preference mode?",
+    "options": [
+      "Slow, measured vocal cadence, deep abdominal diaphragmatic breathing, and downward gaze.",
+      "Rhythmic musical vocal inflections, horizontal eye movement across the 3-to-9 o'clock plane, and minimal hand movement.",
+      "Rapid speech tempo, higher thoracic chest breathing, upward eye access movements, and hand gestures operating above waist level.",
+      "Monotone vocal acoustics, frequent lip compression, and arms clasped tightly behind the back."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Visual processors visualize rapid imagery in their mind's eye. To keep up with this internal visual stream, they speak more rapidly, breathe higher in the chest cavity, frequently cast their eyes upward to retrieve visual data banks, and gesture higher up in space.",
+    "citation": "Chapter 11: Sensory Preference Identification - Visual"
+  },
+  {
+    "id": "smx-q33",
+    "chapterId": "ch11",
+    "chapterName": "Ch 11: Sensory Preference Identification (VAK Predicates)",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A physician is explaining a complex treatment regimen to an anxious patient who frequently uses phrases like: 'That doesn't sound right to me,' 'I hear you,' and 'Can we talk through how this resonates?' How should the physician structure her explanation to ensure maximum patient compliance?",
+    "options": [
+      "Adopt an Auditory sensory channel: speaking in a rhythmic, calm cadence and using phrases like 'Let's tune in to how this medication sounds,' and 'I want to make sure this explanation rings clear for you.'",
+      "Present high-resolution color diagrams and medical illustrations with minimal verbal explanation.",
+      "Use tactile demonstrations, handing the patient sample medication containers to hold and touch.",
+      "Increase vocal pitch and accelerate speaking speed to convey scientific urgency."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The patient is utilizing clear Auditory sensory predicates ('sound right', 'hear you', 'resonates'). By pacing the patient's dominant auditory channel with auditory vocabulary ('tune in', 'rings clear', 'talk through'), the physician eliminates cognitive dissonance and establishes rapid therapeutic rapport.",
+    "citation": "Chapter 11: Sensory Preference Identification - Auditory"
+  },
+  {
+    "id": "smx-q34",
+    "chapterId": "ch12",
+    "chapterName": "Ch 12: Pronoun Identification & Psychological Indexing",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "According to Chase Hughes, roughly what percentage of the general population demonstrates an 'Others-Pronoun' preference ('They, Them, Their, Those folks'), and what cognitive orientation distinguishes them?",
+    "options": [
+      "50%; they are primarily focused on conformist tribal protection within their immediate family.",
+      "Less than 5%; they exhibit clinical narcissistic detachment from social reality.",
+      "80%; they represent the standard democratic consensus-building baseline of society.",
+      "Around 20%; they focus their attention outward on people outside their group, excelling at networking, cross-cultural observation, and seeking novel external connections."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Others-pronoun users represent approximately 20% of the population. Unlike Self-pronoun users (internal focus/individual accountability) or Team-pronoun users (communal/tribal cohesion), Others-focused individuals naturally track relationships, external groups, travel, and novel connections outside their immediate social circle.",
+    "citation": "Chapter 12: Pronoun Identification - Others Pronouns"
+  },
+  {
+    "id": "smx-q35",
+    "chapterId": "ch12",
+    "chapterName": "Ch 12: Pronoun Identification & Psychological Indexing",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "In a corporate exit interview, an employee who historically utilized a high frequency of 'We' and 'Our' suddenly shifts across an entire 20-minute meeting to speaking exclusively in 'I', 'Me', and 'My'. What psychological shift does this pronoun deviation indicate?",
+    "options": [
+      "The employee has experienced an acute rise in sensory auditory processing.",
+      "The employee is attempting to deceive the interviewer about company financials.",
+      "The employee has psychologically detached from the team identity, reclaiming an individual locus of focus and terminating their tribal commitment to the organization.",
+      "The employee is executing an informational altruism gambit to extract a severance package."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pronouns are an unconscious index of identity. Moving from Team pronouns ('We/Our') to Self pronouns ('I/Me') signals that the psychological umbilical cord connecting the individual to the collective group has been severed. The person now views their career and decisions through an isolated, individualistic filter.",
+    "citation": "Chapter 12: Pronoun Identification - Self Pronouns vs. Team Pronouns"
+  },
+  {
+    "id": "smx-q36",
+    "chapterId": "ch12",
+    "chapterName": "Ch 12: Pronoun Identification & Psychological Indexing",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A CEO is addressing a department whose members are identified as having a strong Team-pronoun orientation. If the CEO frames her keynote as: 'I have designed a strategy where my leadership will take my company to record profits, and I expect you to hit my targets,' why will the initiative face widespread passive resistance?",
+    "options": [
+      "Because Team-oriented employees require kinesthetic sensory metaphors to understand financial targets.",
+      "Because Self-pronouns automatically tally 12 points on the Deception Rating Scale.",
+      "Because the CEO should have utilized Others-pronouns to reference external competitors.",
+      "Because the CEO utilized exclusively Self-pronouns, triggering cognitive alienation and threat responses in a tribal collective that only commits when goals are framed as 'Our shared journey' and 'We will achieve together.'"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Team-pronoun cultures derive motivation from belonging, collective purpose, and mutual protection. A leader who hammers Self-pronouns ('I, My, Me') alienates team-oriented followers, framing them as mere instruments for the leader's individual glory and provoking covert resistance.",
+    "citation": "Chapter 12: Pronoun Identification - Team Pronouns"
+  },
+  {
+    "id": "smx-q37",
+    "chapterId": "ch13",
+    "chapterName": "Ch 13: Adjective Matching & Linguistic Pacing",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why does substituting a synonym (e.g., replying with 'fantastic' when a client describes an experience as 'phenomenal') weaken emotional rapport, according to Chase Hughes?",
+    "options": [
+      "Because 'fantastic' carries an external locus of control, whereas 'phenomenal' reflects an internal locus.",
+      "Because synonyms are flagged by the mammalian brain as deliberate deception attempts.",
+      "Because adjectives cannot be matched without violating Mehrabian's nonverbal communication rules.",
+      "Because human neuro-linguistic memory attaches unique, emotionally anchored neural circuitry to specific adjectives; substituting a synonym severs that emotional resonance, whereas echoing their exact adjective reactivates the original positive neurochemistry."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Adjectives are deeply personal emotional anchors. When someone describes an event as 'phenomenal,' their brain accesses a specific neural file associated with that exact word. Responding with a synonym like 'fantastic' or 'great' introduces friction because it fails to light up the counterpart's exact emotional circuitry. Verbatim reflection maintains seamless rapport.",
+    "citation": "Chapter 13: The Use of Adjectives - Adjective Matching"
+  },
+  {
+    "id": "smx-q38",
+    "chapterId": "ch13",
+    "chapterName": "Ch 13: Adjective Matching & Linguistic Pacing",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "During a discovery interview, a prospect describes his current vendor's support as 'suffocating and sloppy,' while describing his dream IT infrastructure as 'bulletproof and seamless.' How should an operative utilize this intelligence when constructing the final pitch?",
+    "options": [
+      "Avoid using any of those words to prevent reminding the prospect of past trauma.",
+      "Maintain a two-column mental ledger, actively describing the consequences of inaction or rival bids as 'suffocating and sloppy,' while branding your own operational solution as 'bulletproof and seamless.'",
+      "Translate the adjectives into visual metaphors by showing slides of bullets and seams.",
+      "Use the adjectives to challenge the prospect's technical expertise using the Na\u00efvet\u00e9 elicitation technique."
+    ],
+    "correctAnswer": 1,
+    "explanation": "High-level operatives maintain a two-column mental ledger: Positive Adjectives and Negative Adjectives. In the pitch, you surgically weaponize their own stored words: frame the competitor or the risk of staying put using their exact negative adjectives ('suffocating and sloppy'), and present your service using their exact positive anchors ('bulletproof and seamless').",
+    "citation": "Chapter 13: The Use of Adjectives - Context & Two Columns"
+  },
+  {
+    "id": "smx-q39",
+    "chapterId": "ch13",
+    "chapterName": "Ch 13: Adjective Matching & Linguistic Pacing",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "In a therapy session, a patient repeatedly describes her toxic family environment as 'dark, suffocating, and chaotic.' Which clinician response demonstrates precise linguistic pacing?",
+    "options": [
+      "'It sounds like your family was extremely unpleasant, loud, and disorderly.'",
+      "'When you find yourself trapped in that dark, suffocating, and chaotic space, what physical sensations occur in your body?'",
+      "'Let's look on the bright side and focus on positive words today.'",
+      "'Why do you think you chose those specific dictionary adjectives to describe your family?'"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Precise linguistic pacing requires reflecting the counterpart's exact emotional adjectives verbatim. Option B preserves 'dark, suffocating, and chaotic' without dilution, allowing the patient to feel deeply heard and emotionally validated.",
+    "citation": "Chapter 13: The Use of Adjectives - Linguistic Pacing"
+  },
+  {
+    "id": "smx-q40",
+    "chapterId": "ch14",
+    "chapterName": "Ch 14: How Compliance Works & Behavioral Entrainment",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What core principle governs human behavioral compliance in the 6MX system, and why is physical compliance established before attempting mental persuasion?",
+    "options": [
+      "Cognitive dissonance; humans will only comply if they are presented with overwhelming factual data in writing.",
+      "Mehrabian's law; physical movements represent 93% of decisions, making words irrelevant.",
+      "Physical entrainment precedes psychological compliance: humans follow repetition, reward, and pain; when an operative conditions a target to follow subtle physical movements early, the target's mammalian brain unconsciously adopts a pattern of mental following.",
+      "The Dunning-Kruger effect; targets assume they are leading the physical movement while being manipulated."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Compliance operates via operant conditioning: repetition, reward, and pain. In human interactions, physical following directly induces mental following. When an operative establishes subtle, non-threatening physical micro-compliances early, an unconscious behavioral pattern of agreement is conditioned before any high-stakes verbal proposal is introduced.",
+    "citation": "Chapter 14: How Compliance Works - Behavioral Entrainment"
+  },
+  {
+    "id": "smx-q41",
+    "chapterId": "ch14",
+    "chapterName": "Ch 14: How Compliance Works & Behavioral Entrainment",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "Upon greeting a prospective business partner in an office lobby, an operative shakes hands and subtly takes an 8-to-10 inch lateral step to his right during the greeting. What operational purpose does this physical maneuver accomplish?",
+    "options": [
+      "It tests whether the counterpart has a right-handed dominant leg retreat.",
+      "It establishes a spatial barrier that blocks the counterpart from reaching the exit.",
+      "It forces the counterpart to unconsciously pivot their shoulders and adjust their stance to maintain alignment, securing an immediate, friction-free physical micro-compliance within the opening five seconds.",
+      "It activates the counterpart's Gestural Hemispheric Tendency on the negative side."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 10-inch lateral step is an elegant behavioral entrainment hack. When you step laterally while greeting someone, social mechanics compel them to involuntarily adjust their posture and turn their shoulders to face you. You moved; they followed. This establishes an immediate precedent of unconscious physical compliance within the first seconds of contact.",
+    "citation": "Chapter 14: How Compliance Works - Physical Entrainment"
+  },
+  {
+    "id": "smx-q42",
+    "chapterId": "ch14",
+    "chapterName": "Ch 14: How Compliance Works & Behavioral Entrainment",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "An interrogator wants to secure a confession on a serious corporate espionage charge. Before introducing the topic, he spends ten minutes asking the suspect to hand him a pen, scoot his chair closer to the table, review a benign document, and take a sip of water. How does this sequence facilitate the ultimate confession?",
+    "options": [
+      "It exhausts the suspect's physical stamina so he cannot resist questioning.",
+      "It allows the interrogator to collect fingerprint evidence on multiple objects.",
+      "It triggers Globus Pharyngeus and forces an immediate pre-swallow response.",
+      "It constructs a behavioral compliance ladder where multiple minor, non-threatening physical micro-agreements condition the mammalian brain to comply with the massive closing demand without resistance."
+    ],
+    "correctAnswer": 3,
+    "explanation": "This demonstrates the 'Compliance Ladder.' Large decisions terrify the mammalian brain. By conditioning a subject through a series of frictionless physical micro-compliances (passing a pen, moving a chair, reviewing a paper), compliance becomes a habitual, normalized behavioral momentum. When the major demand arrives, resistance has been systematically dismantled.",
+    "citation": "Chapter 14: How Compliance Works - Compliance Ladders"
+  },
+  {
+    "id": "smx-q43",
+    "chapterId": "ch15",
+    "chapterName": "Ch 15: The Quadrant: Rapid Real-Time Profiling",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is the structural layout of 'The Quadrant' system developed by Chase Hughes for live conversational profiling on a Post-It note?",
+    "options": [
+      "A linear timeline divided into 15-minute segments tracking eye blinks and body temperature.",
+      "A simple '+' sign dividing four zones that track: Digital flexion/extension (Df/De), Social Needs (Nds), Decision Map pillars (Dec), and Language/Sensory markers.",
+      "A four-color grid representing the four humors of ancient psychological medicine.",
+      "A 3x3 table duplicating the Periodic Table of Elements for chemical comparison."
+    ],
+    "correctAnswer": 1,
+    "explanation": "To prevent cognitive overload, Hughes developed The Quadrant: a simple '+' sign drawn on a small Post-It note. It tracks four glanceable categories: Df (Digital flexion/extension), Nds (Human Needs Map abbreviations), Dec (Decision Map pillars), and Language (Sensory predicates, pronouns, adjectives). It fits unobtrusively into any real-world environment.",
+    "citation": "Chapter 15: The Quadrant"
+  },
+  {
+    "id": "smx-q44",
+    "chapterId": "ch15",
+    "chapterName": "Ch 15: The Quadrant: Rapid Real-Time Profiling",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why does the Quadrant training methodology forbid a student from tracking more than two to four behavioral indicators simultaneously during early training?",
+    "options": [
+      "Because tracking more than four indicators violates government operational privacy regulations.",
+      "Because conscious human processing bandwidth is strictly limited; attempting to track dozens of variables simultaneously causes cognitive paralysis, whereas isolating single behavioral bricks for 1\u20132 weeks automates recognition into the subconscious.",
+      "Because nonverbal behaviors only appear once every 15 minutes in standard social conversations.",
+      "Because tracking multiple indicators causes involuntary eye movements that alert the counterpart."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Human working memory cannot consciously manage 50 behavioral variables simultaneously. Attempting to do so triggers cognitive overload and causes the observer to miss critical cues. The Quadrant methodology enforces mastering one or two 'bricks' at a time (e.g., tracking only blink rate or digital flexion for a full week) until observation becomes an automated subconscious reflex.",
+    "citation": "Chapter 15: The Quadrant - Progressive Training"
+  },
+  {
+    "id": "smx-q45",
+    "chapterId": "ch15",
+    "chapterName": "Ch 15: The Quadrant: Rapid Real-Time Profiling",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "While sitting across from a key executive during a sensitive joint-venture negotiation, an operative writes cryptic notations on a small sticky note: 'Df @ royalty', 'Nds: Sig/Int', 'Dec: IN'. What do these annotations signify?",
+    "options": [
+      "The executive is innocent of fraud, seeks financial compensation, and has an external locus of control.",
+      "The executive has an eye shutter speed of 4.0, requires approval from his legal team, and is left-handed.",
+      "The executive displayed nostril flaring at royalty terms, seeks pity, and conforms to peer groups.",
+      "The executive exhibited digital flexion when royalty terms were mentioned (withheld objection/stress), operates with Significance and Intelligence social needs, and filters choices through the Investment Decision Pillar."
+    ],
+    "correctAnswer": 3,
+    "explanation": "These are standard cryptic Compass/Quadrant notes: 'Df @ royalty' = Digital flexion occurred when discussing royalties; 'Nds: Sig/Int' = Primary and secondary needs are Significance and Intelligence; 'Dec: IN' = Decision-making is governed by the Investment pillar. To an outside observer, these look like random scratches.",
+    "citation": "Chapter 15: The Quadrant & Chapter 16: The Behavior Compass"
+  },
+  {
+    "id": "smx-q46",
+    "chapterId": "ch16",
+    "chapterName": "Ch 16: The Behavior Compass: Circular Profiling Form",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How is the circular Behavior Compass arranged around its perimeter, and why is this non-linear format superior to traditional checklists?",
+    "options": [
+      "It maps interconnected behavioral variables around a clock-face dial (DEC at 12 o'clock, HND/GHT at 2, Eye Home/Blinks at 4, Nonverbal stress at 6, Language at 8, NDS at 10), allowing instant non-linear visual correlation while keeping notes indecipherable to targets.",
+      "It arranges behaviors in chronological order from minute 0 to minute 60, forcing the operative to follow a rigid script.",
+      "It mirrors the brain's cerebral cortex to show which hemisphere is firing in real time.",
+      "It functions as a legal polygraph chart admissible in federal courtrooms."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Behavior Compass is circular: Decision styles (DEC) sit at the top (12 o'clock), moving clockwise through Handedness/GHT, Eye Home and Blink rates (center and 4 o'clock), nonverbal stress/deception markers (6 o'clock), language/VAK/pronouns (8 o'clock), and Social Needs (NDS at 10 o'clock). Its circular geometry allows an operative's gaze to quickly synthesize relationships across domains without appearing to take investigative notes.",
+    "citation": "Chapter 16: The Behavior Compass - Architecture"
+  },
+  {
+    "id": "smx-q47",
+    "chapterId": "ch16",
+    "chapterName": "Ch 16: The Behavior Compass: Circular Profiling Form",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What training tool does Chase Hughes provide to help operatives develop rapid, automatic fluency in synthesizing complete Behavior Compasses under time pressure?",
+    "options": [
+      "A standardized 500-page multiple choice workbook.",
+      "A virtual reality headset that simulates interrogation rooms.",
+      "An automated web-based Random Compass Generator (randomcompass.herokuapp.com) that outputs randomized complete behavioral profiles for scenario simulation and rapid tactical planning.",
+      "An audio cassette tape of interrogation transcripts."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hughes created the Random Compass Generator (randomcompass.herokuapp.com) as a high-speed simulation tool. Every refresh generates a randomized complete Behavior Compass profile (needs, pillars, GHT, sensory preferences, nonverbal tells), forcing students to immediately script tailored opening pitches, objection disarmers, and influence strategies.",
+    "citation": "Chapter 16: The Behavior Compass & Chapter 18: Your Training Plan"
+  },
+  {
+    "id": "smx-q48",
+    "chapterId": "ch16",
+    "chapterName": "Ch 16: The Behavior Compass: Circular Profiling Form",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "In a fast-moving, 4-minute airport encounter with a foreign diplomatic asset, an operative only manages to confirm three sectors on the Behavior Compass: Need = Acceptance, Decision Pillar = Conformity, and GHT = Left-Positive. Is this profile operationally actionable?",
+    "options": [
+      "No; an operative must capture 100% of the Compass sectors before attempting any influence pitch.",
+      "No; without pupil dilation and blink rate baselines, the Decision Pillar cannot be verified.",
+      "Yes; having just these three coordinates gives the operative immense asymmetric leverage\u2014allowing him to immediately position himself on the asset's left side, frame his proposal around group membership and peer safety, and avoid individualistic pressure.",
+      "Yes, but only if the operative forces the asset into an immediate physical handshake step."
+    ],
+    "correctAnswer": 2,
+    "explanation": "As Chase Hughes emphasizes: 'You aren't required by any means to fill the entire thing out. If you've only got a few things on the Compass, you're still light years ahead of anyone else.' Knowing just their Need (Acceptance), Decision style (Conformity), and positive spatial hemisphere (GHT Left-Positive) provides decisive tactical leverage to frame and close the proposal.",
+    "citation": "Chapter 16: The Behavior Compass & Chapter 17: Critical Scenarios"
+  },
+  {
+    "id": "smx-q49",
+    "chapterId": "ch17",
+    "chapterName": "Ch 17: Tactical Profiling in Action: Critical Scenarios",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "In the clinical case study of Emily (a therapy patient struggling with an eating disorder), her Behavior Compass reveals: Needs = Acceptance and Pity; Decision Map = Social/Conformity; GHT = Left-Positive; Sensory Preference = Visual. How does the therapist tailor her treatment strategy to achieve a breakthrough?",
+    "options": [
+      "The therapist validates Emily's pain with empathetic pauses to satisfy the Pity neuropeptide, frames recovery through peer support and group belonging (Acceptance/Conformity), uses visual metaphors ('picture a brighter future'), and positions therapeutic breakthroughs in her left visual field.",
+      "The therapist confronts Emily with statistical survival facts, forces her to maintain direct eye contact on her right side, and challenges her victim mindset.",
+      "The therapist recommends isolation from all social groups and uses kinesthetic physical therapy drills.",
+      "The therapist deploys aggressive elicitation techniques to uncover childhood trauma in the first 60 seconds."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Scenario 1 (Emily), the clinician matches Emily's profile perfectly: acknowledging her suffering satisfies the Pity need; framing recovery through group support satisfies Acceptance and Conformity; visual language matches her sensory mode ('picture a brighter horizon'); and gesturing into her Left-Positive GHT anchors positive associations.",
+    "citation": "Chapter 17: How It Works for Influence: Critical Scenarios - Scenario 1: Emily"
+  },
+  {
+    "id": "smx-q50",
+    "chapterId": "ch17",
+    "chapterName": "Ch 17: Tactical Profiling in Action: Critical Scenarios",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "In the commercial sales case study of David, a salesperson identifies that the buyer exhibits digital flexion when delivery dates are discussed, lip compression when payment schedules are mentioned, and is Right-Positive on GHT. How does the salesperson close the multi-million-dollar deal?",
+    "options": [
+      "He ignores the physical tells and pushes for an immediate contract signature using an assertive closing script.",
+      "He introduces an ambiguous non-answer regarding delivery dates and requests a deposit.",
+      "He proactively surfaces and resolves the delivery and payment objections before David can articulate them, verifies digital extension (relief), steps to David's right side, and closes using David's exact positive adjectives.",
+      "He utilizes the Hourglass Method to change the subject to sports and ignores the payment terms entirely."
+    ],
+    "correctAnswer": 2,
+    "explanation": "In Scenario 2 (David), the salesperson demonstrates objection preemption: spotting digital flexion on delivery and lip compression on payments, he addresses both concerns preemptively ('Let me walk through our delivery guarantees and flexible payment milestones'). Once he observes digital extension (relaxation), he moves into David's Right-Positive field and closes using David's mirrored adjectives.",
+    "citation": "Chapter 17: How It Works for Influence: Critical Scenarios - Scenario 2: David"
+  },
+  {
+    "id": "smx-q51",
+    "chapterId": "ch17",
+    "chapterName": "Ch 17: Tactical Profiling in Action: Critical Scenarios",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is the operational objective of 'Objection Preemption' in the 6MX profiling methodology?",
+    "options": [
+      "To argue down a customer's stated objections using superior logical proofs.",
+      "To prevent the counterpart from speaking during the first 15 minutes of an interaction.",
+      "To force the counterpart into signing a non-disclosure agreement before terms are discussed.",
+      "To detect involuntary nonverbal objection tells (e.g., lip compression, digital flexion, throat pre-swallow) the millisecond they occur, and proactively disarm the reservation before the counterpart can verbalize it into an entrenched position."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Once a person states an objection out loud, their neocortex defends it to preserve consistency and avoid losing face. Objection Preemption uses real-time behavioral reading to detect the objection while it is still an internal nonverbal reaction (lip compression, finger curl), allowing the operative to address and resolve it before it is ever spoken.",
+    "citation": "Chapter 17: Critical Scenarios & Chapter 1: The 'Wait Till The End' Fallacy"
+  },
+  {
+    "id": "smx-q52",
+    "chapterId": "ch18",
+    "chapterName": "Ch 18: The Six-Minute Protocol & Operational Training Roadmap",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How is the operational Six-Minute Protocol chronologically structured during a field profiling encounter?",
+    "options": [
+      "Minute 0\u20132: Establish baseline (blink rate, Eye Home, vocal pitch, posture, dominant hand, eyebrow flash); Minute 2\u20134: Stress & stimulus probing (deploy elicitation probes, introduce friction topics, monitor DRS/tells); Minute 4\u20136: Needs & Decision mapping (pinpoint Primary/Secondary Needs, identify Decision Pillar, lock GHT, and execute strategy).",
+      "Minute 0\u20132: Interrogation accusations; Minute 2\u20134: Polygraph test; Minute 4\u20136: Formal confession signing.",
+      "Minute 0\u20132: Memorize social media history; Minute 2\u20134: Mirror physical posture; Minute 4\u20136: Deliver closing pitch.",
+      "Minute 0\u20132: Deliver entire verbal presentation; Minute 2\u20134: Answer questions; Minute 4\u20136: Discount price."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The 6-Minute Protocol breaks into three 2-minute operational phases: Minutes 0\u20132 establish the uncorrupted behavioral baseline (blinks, vocal baseline, Eye Home, posture, handedness); Minutes 2\u20134 introduce conversational stimuli and elicitation probes to monitor deviations and stress spikes; Minutes 4\u20136 map the psychological architecture (Needs, Decision Map, GHT) and lock in the tactical approach.",
+    "citation": "Chapter 18: Your Training Plan & The Six-Minute Protocol"
+  },
+  {
+    "id": "smx-q53",
+    "chapterId": "ch18",
+    "chapterName": "Ch 18: The Six-Minute Protocol & Operational Training Roadmap",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What are the Four Phased Stages of behavioral training in Chase Hughes's operational development syllabus, and why must the Visual and Audio phases be trained separately?",
+    "options": [
+      "Beginner, Intermediate, Advanced, Master; trained together to maximize cognitive stress.",
+      "Reading Phase, Writing Phase, Speaking Phase, Listening Phase; separated based on traditional linguistic pedagogy.",
+      "Visual Phase (Months 1\u20132), Audio Phase (Months 3\u20134), Response Phase (Months 5\u20136), and Mental Phase (Advanced); visual and audio streams must be separated initially because attempting to track kinesics while decoding linguistic syntax causes immediate cognitive overload in novices.",
+      "Polygraph Phase, Interrogation Phase, Trial Phase, Surveillance Phase; separated by legal jurisdiction."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 6MX training methodology comprises: 1) Visual Phase (kinesics, blinks, posture), 2) Audio Phase (pronouns, VAK predicates, adjectives), 3) Response Phase (real-time conversational steering), and 4) Mental Phase (generating internal Compasses automatically). Training visual observation with muted video and audio decoding with podcasts prevents cognitive paralysis.",
+    "citation": "Chapter 18: Your Training Plan - The Four Phases"
+  },
+  {
+    "id": "smx-q54",
+    "chapterId": "ch18",
+    "chapterName": "Ch 18: The Six-Minute Protocol & Operational Training Roadmap",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In the 25-Week Training Plan, how does Chase Hughes recommend an aspiring behavioral operative practice the Visual Phase at home using television?",
+    "options": [
+      "Watch high-speed action movies with surround sound to condition rapid reflex reactions.",
+      "Watch courtroom dramas with actors to memorize legal terminology.",
+      "Record television commercials and measure the exact duration of brand logos.",
+      "Watch unscripted reality TV shows with real people twice: first with the sound completely muted to train the brain to spot blink rate and postural shifts without distraction; then rewatch with audio on to identify the conversational context that triggered the observed physical shifts."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Hughes outlines this exact training drill: watch unscripted reality television with real people twice. During the first pass, turn the volume completely off and focus exclusively on logging physical shifts, blink rate accelerations, and digital flexion. On the second pass, turn the sound on to connect the physical deviations to the exact conversational stimuli that triggered them.",
+    "citation": "Chapter 18: Your Training Plan - The Visual Phase"
+  }
+]

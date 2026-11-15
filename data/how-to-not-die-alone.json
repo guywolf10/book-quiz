@@ -1,0 +1,1090 @@
+[
+  {
+    "id": "ury-q01",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: Why Dating Is Harder Now Than Ever",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "According to relationship historian Stephanie Coontz and psychologist Eli Finkel's 'Mount Maslow' model discussed by Logan Ury, how has the fundamental psychological burden placed on modern marriage shifted compared to historical eras?",
+    "options": [
+      "Marriage shifted from an existential economic survival alliance to an all-or-nothing vehicle for personal fulfillment and self-actualization, demanding that one person fulfill needs previously distributed across an entire community.",
+      "Marriage evolved from a romantic spiritual union into a pragmatic financial contract optimized for dual-income asset accumulation.",
+      "Marriage transformed from an individualistic pursuit of happiness into a communally enforced institution governed by strict social scripts.",
+      "Marriage changed from a high-conflict emotional partnership into an egalitarian domestic arrangement with significantly diminished expectations."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Historically, marriage was primarily an institutional economic alliance designed to secure physical survival, labor pooling, and property transfer (the base of Maslow's hierarchy). Over the 20th century, it shifted to companionate marriage (love and companionship). Today, as Eli Finkel documents in The All-or-Nothing Marriage, we have ascended to the summit of 'Mount Maslow,' expecting a spouse to be our passionate lover, intellectual equal, co-parent, financial confidant, therapist, and primary vehicle for self-actualization. While marriages that achieve this are the happiest in history, the immense weight of these expectations causes average marital satisfaction to plummet when partners lack the time and emotional energy to sustain them.",
+    "citation": "Chapter 1: Why Dating Is Harder Now Than Ever - There Are Far More Ways to Be in a Relationship"
+  },
+  {
+    "id": "ury-q02",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: Why Dating Is Harder Now Than Ever",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How does Barry Schwartz's 'Paradox of Choice' specifically impair modern online daters when evaluating potential romantic matches on dating applications?",
+    "options": [
+      "Access to infinite profiles accelerates commitment because daters quickly identify statistical outliers who match their exact criteria.",
+      "An abundance of options triggers decision paralysis, inflates standards to impossible levels, and elevates chronic regret by making daters fixate on foregone alternatives.",
+      "Having abundant options decreases cognitive load by allowing daters to rely on automated filtering algorithms instead of intuitive judgment.",
+      "An abundance of profiles fosters greater emotional empathy because users realize how many lonely people are actively seeking connection."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In The Paradox of Choice, psychologist Barry Schwartz demonstrated that while some choice is good, excessive choice produces severe cognitive pathologies: choice paralysis (inability to decide), unrealistic elevation of expectations, and post-decision regret. In dating apps, presenting thousands of profiles tricks our brains into believing the 'perfect' partner is always just one swipe away. Consequently, daters become hyper-critical of minor imperfections in current partners, constantly ruminating on hypothetical alternatives they might have passed up.",
+    "citation": "Chapter 1: Why Dating Is Harder Now Than Ever - We Have Too Many Options"
+  },
+  {
+    "id": "ury-q03",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: Why Dating Is Harder Now Than Ever",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "Sarah finds herself constantly second-guessing her relationship with David after seeing anniversary posts of couples traveling in exotic locations on social media, wondering if their quiet evenings at home indicate a lack of romantic chemistry. Which modern psychological trap described by Ury is Sarah experiencing?",
+    "options": [
+      "The fundamental attribution error regarding David's personality traits.",
+      "The anchor trap resulting from early dating profile criteria.",
+      "Social media 'compare and despair,' where an individual compares their messy backstage reality to another couple's curated highlight reel.",
+      "The status quo bias causing her to artificially preserve a failing relationship."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ury highlights 'compare and despair' driven by social media as a major driver of modern dating misery. People naturally contrast their full, unfiltered internal reality—including ordinary routines, mundane domestic chores, and quiet evenings—with the meticulously staged, romantic highlight reels presented by others on Instagram or TikTok. This generates the cognitive illusion that everyone else enjoys an effortless, high-octane romance, making normal, healthy domestic stability feel deficient.",
+    "citation": "Chapter 1: Why Dating Is Harder Now Than Ever - Social Media Leads Us to Compare and Despair"
+  },
+  {
+    "id": "ury-q04",
+    "chapterId": "ch1",
+    "chapterName": "Ch 1: Why Dating Is Harder Now Than Ever",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why does behavioral science show that seeking 'algorithmic certainty' in partner selection is fundamentally doomed to fail?",
+    "options": [
+      "Dating app developers intentionally code faulty matching algorithms to keep paying subscribers single indefinitely.",
+      "Users consistently misreport their chronological age and zip codes on dating applications.",
+      "Machine learning algorithms lack sufficient computational power to process complex psychological surveys.",
+      "Romantic attraction and relationship longevity depend on experiential, dynamic interactions between two people that cannot be quantified or predicted by static profile data."
+    ],
+    "correctAnswer": 3,
+    "explanation": "As behavioral scientists note, algorithms excel at matching users with predictable goods like Spotify playlists, Uber rides, or Amazon books because products have static, measurable attributes. But human romance is deeply experiential, emergent, and relational. Two people cannot know how they will interact until they are physically in each other's presence. Stated profile preferences (height, income, favorite bands) fail to predict whether two nervous systems will feel safe, playful, and connected together.",
+    "citation": "Chapter 1: Why Dating Is Harder Now Than Ever - We Yearn for Certainty"
+  },
+  {
+    "id": "ury-q05",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: The Three Dating Tendencies",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is the primary psychological distinction among the Three Dating Tendencies (The Romanticizer, The Maximizer, and The Hesitater) in Logan Ury's behavioral framework?",
+    "options": [
+      "Their level of introversion versus extraversion during early face-to-face dates.",
+      "The specific locus of their unrealistic expectations: Romanticizers have unrealistic expectations of relationships; Maximizers have unrealistic expectations of their partner; Hesitaters have unrealistic expectations of themselves.",
+      "Their attachment classification: Romanticizers are always anxious, Maximizers are always avoidant, and Hesitaters are always disorganized.",
+      "Their willingness to spend money on premium matchmaking services and paid dating app subscriptions."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ury categorizes dating blind spots into three core tendencies based on where their unrealistic cognitive expectations reside: 1) The Romanticizer holds unrealistic expectations of relationships, believing love should be effortless, preordained, and magical. 2) The Maximizer holds unrealistic expectations of their partner, endlessly searching for a 100% optimal match and fearing settling. 3) The Hesitater holds unrealistic expectations of themselves, believing they must achieve arbitrary milestones of self-improvement before they are worthy of dating.",
+    "citation": "Chapter 2: The Three Dating Tendencies - The Three Dating Tendencies"
+  },
+  {
+    "id": "ury-q06",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: The Three Dating Tendencies",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "From a behavioral economics perspective, what underlying psychological function do all three dating tendencies secretly perform for the people who exhibit them?",
+    "options": [
+      "They maximize expected financial utility by delaying domestic asset co-mingling.",
+      "They serve as cognitive optimization heuristics that reliably guarantee finding a high-mate-value spouse.",
+      "They act as unconscious defense mechanisms that protect the dater from the terrifying vulnerability of emotional exposure and the pain of rejection.",
+      "They allow daters to exploit dating app algorithms for free social entertainment without investing capital."
+    ],
+    "correctAnswer": 2,
+    "explanation": "At their core, all three dating tendencies are manifestations of fear disguised as discernment or self-improvement. By clinging to the fantasy of a soulmate (Romanticizer), searching indefinitely for an impossible unicorn (Maximizer), or waiting until one is 'fully ready' (Hesitater), the individual avoids putting their ego on the line. These behavioral blind spots provide a comfortable psychological shield against the raw vulnerability, rejection, and potential heartbreak of real-world romantic commitment.",
+    "citation": "Chapter 2: The Three Dating Tendencies - The Three Dating Tendencies"
+  },
+  {
+    "id": "ury-q07",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: The Three Dating Tendencies",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "Julian refuses to download dating apps or ask anyone out because he insists he must first lose fifteen pounds, secure a promotion to senior manager, and completely redecorate his apartment. Which dating tendency does Julian embody, and what is his core behavioral trap?",
+    "options": [
+      "The Maximizer, trapped by the Secretary Problem optimal stopping calculation.",
+      "The Romanticizer, trapped by the meet-cute fairytale myth.",
+      "The Avoidant Partner, trapped by deactivating attachment strategies.",
+      "The Hesitater, trapped in the 'readiness trap' where preparation is used as an excuse to avoid action."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Julian is a classic Hesitater. Hesitaters suffer from unrealistic expectations of themselves and fall into the 'readiness trap.' They believe love is something you earn only after achieving personal perfection. In reality, readiness is an illusion: you do not prepare to date; you date in order to learn who you are in a relationship, discover what you actually value in a partner, and get comfortable with vulnerability.",
+    "citation": "Chapter 2: The Three Dating Tendencies - The Three Dating Tendencies"
+  },
+  {
+    "id": "ury-q08",
+    "chapterId": "ch2",
+    "chapterName": "Ch 2: The Three Dating Tendencies",
+    "difficulty": "easy",
+    "type": "concept",
+    "question": "Why are dating 'blind spots' so notoriously difficult for individuals to diagnose and correct on their own without external behavioral frameworks?",
+    "options": [
+      "Because they are unconscious cognitive and behavioral patterns that feel like rational preferences or objective self-protection rather than self-defeating biases.",
+      "Because individuals lack access to their own credit scores and genetic relationship markers.",
+      "Because dating apps intentionally scramble behavioral feedback loops to disorient single users.",
+      "Because blind spots only occur in individuals with diagnosed clinical personality disorders."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Blind spots are patterns of behavior that an individual cannot see in themselves. In dating, people rationalize their blind spots as legitimate standards: a Maximizer believes they are just 'having high standards,' a Romanticizer believes they are 'holding out for true love,' and a Hesitater believes they are 'practicing responsible self-care.' Because these patterns feel rational and protective, individuals need behavioral frameworks, objective feedback, or coaching to illuminate them.",
+    "citation": "Chapter 2: The Three Dating Tendencies - The Three Dating Tendencies"
+  },
+  {
+    "id": "ury-q09",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: Disney Lied to Us",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What did social psychologist C. Raymond Knee's empirical research discover regarding couples who hold a 'destiny mindset' (soulmate belief) versus those who hold a 'growth mindset' (work-it-out belief)?",
+    "options": [
+      "Destiny mindset couples report higher long-term satisfaction because their faith in fate protects them from minor marital disagreements.",
+      "Couples with a growth mindset experience higher divorce rates because they believe relationships require too much arduous psychological maintenance.",
+      "Destiny mindset individuals experience higher relationship volatility, engage in destructive conflict, and break up faster when difficulties arise, whereas growth mindset individuals view obstacles as opportunities to cultivate deeper intimacy.",
+      "Destiny mindset and growth mindset individuals exhibit identical relationship longevity, differing only in how they split domestic household chores."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Psychologist C. Raymond Knee's research on implicit theories of relationships demonstrated that people who believe in 'relationship destiny' (soulmates who are either meant to be or not) cope poorly with conflict. Because they assume true love is effortless, they interpret any disagreement as evidence that their partner is 'the wrong person,' leading to hostility, stonewalling, and swift breakups. Conversely, individuals with a 'growth mindset' believe successful partnerships are built through effort, active listening, and compromise; they view conflict as normal and solvable.",
+    "citation": "Chapter 3: Disney Lied to Us - The Problem with Fairy Tales"
+  },
+  {
+    "id": "ury-q10",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: Disney Lied to Us",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is the 'Happily-Ever-After Fallacy' that Ury identifies as one of the most toxic cultural myths inherited from Disney movies and fairy tales?",
+    "options": [
+      "The belief that marriage will permanently protect individuals from financial bankruptcy.",
+      "The assumption that having children immediately restores marital satisfaction to honeymoon levels.",
+      "The conviction that couples must purchase a single-family suburban home to achieve domestic stability.",
+      "The false belief that the primary challenge of romantic life is finding the right person, ignoring the lifelong labor of building and sustaining the relationship."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fairy tales universally end at the wedding altar with 'and they lived happily ever after,' conditioning culture to treat partner selection as the climactic finale of romance. Ury terms this the Happily-Ever-After Fallacy. In reality, finding a partner is merely Act One. The true, arduous work of love begins in Act Two: navigating daily chores, financial stress, child-rearing, health crises, sexual fluctuations, and emotional differences over decades.",
+    "citation": "Chapter 3: Disney Lied to Us - Romanticizer Intensifier #2: Disney’s Happily Ever After"
+  },
+  {
+    "id": "ury-q11",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: Disney Lied to Us",
+    "difficulty": "easy",
+    "type": "concept",
+    "question": "Why does Ury argue that obsessing over a cinematic 'meet-cute' (an accidental, charming first encounter) actively sabotages a dater's romantic success?",
+    "options": [
+      "Because how two partners meet possesses zero predictive correlation with whether they will enjoy a healthy, loving, and durable long-term relationship.",
+      "Because meeting in public places increases the statistical likelihood of contracting infectious diseases.",
+      "Because romantic comedies are exclusively written by corporate algorithms designed to sell wedding merchandise.",
+      "Because meet-cutes only occur among individuals who share identical socio-economic backgrounds."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Romanticizers frequently reject dating apps or setups because they yearn for a romantic storybook origin: locking eyes over a spilled coffee, reaching for the same book in an indie bookstore, or meeting on a train in Europe. Ury points out that an origin story has zero correlation with relationship health, conflict resolution, or longevity. Great love stories are defined by how two people treat each other over years, not the randomness of their first thirty seconds.",
+    "citation": "Chapter 3: Disney Lied to Us - Romanticizer Intensifier #3: The Rom-Coms’ “Meet-Cute”"
+  },
+  {
+    "id": "ury-q12",
+    "chapterId": "ch3",
+    "chapterName": "Ch 3: Disney Lied to Us",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "Maya has been dating Liam for four months. After their first serious argument about holiday travel plans, Maya panics and tells her therapist, 'If we were truly meant to be, we wouldn't be fighting like this. I shouldn't have to work this hard.' What cognitive shift does Ury prescribe for Maya?",
+    "options": [
+      "Maya should immediately terminate the relationship because early conflict confirms fundamental attachment incompatibility.",
+      "Maya must shift from a destiny mindset to a work-it-out mindset, recognizing that effort is not evidence of incompatibility but a prerequisite for lasting intimacy.",
+      "Maya should hire a private investigator to check Liam's social media history for dishonest behavior.",
+      "Maya should introduce a strict prenuptial agreement before agreeing to celebrate Thanksgiving together."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Maya exhibits classic Romanticizer cognition. She conflates conflict with incompatibility, assuming that true love is effortless. Ury emphasizes that Maya needs to adopt a work-it-out mindset: healthy relationships are not found intact; they are negotiated and forged through navigating differences. Disagreements over holidays or logistics are inevitable; learning to repair and compromise together is how soulmate partnerships are built.",
+    "citation": "Chapter 3: Disney Lied to Us - From Fairy-Tale Romance to Real-Life Love"
+  },
+  {
+    "id": "ury-q13",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: Don’t Let Perfect Be the Enemy of Great",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In Barry Schwartz's landmark psychological study of college seniors entering the workforce, what counter-intuitive discrepancy was discovered between Maximizers and Satisficers?",
+    "options": [
+      "Maximizers accepted jobs with lower salaries but reported higher overall career happiness.",
+      "Satisficers earned higher salaries and reported superior emotional well-being compared to Maximizers.",
+      "Maximizers and Satisficers earned identical salaries, but Satisficers experienced far higher rates of post-employment depression.",
+      "Maximizers secured jobs with starting salaries that were $7,000 higher on average, yet were significantly more depressed, stressed, and dissatisfied with their outcomes than Satisficers."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Schwartz and colleagues tracked college graduates hunting for jobs and found that Maximizers objectively outperformed Satisficers—landing starting salaries averaging 20% ($7,000) higher. However, subjectively, Maximizers felt miserable: they experienced higher levels of depression, anxiety, pessimism, and regret, constantly fixating on jobs they didn't get or wondering if a better offer was around the corner. Satisficers, who focused on finding a job that met their threshold of 'good enough,' were far happier with their outcomes.",
+    "citation": "Chapter 4: Don’t Let Perfect Be the Enemy of Great - The Problem with Maximizing"
+  },
+  {
+    "id": "ury-q14",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: Don’t Let Perfect Be the Enemy of Great",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is Herbert Simon's Nobel Prize-winning concept of 'satisficing' (satisfy + suffice), and how does Ury apply it to romantic partner selection?",
+    "options": [
+      "Satisficing means establishing clear, high benchmarks for what is necessary to be happy, selecting the first candidate who meets those benchmarks, and deliberately ceasing the search.",
+      "Satisficing means settling for a partner who fails your core moral standards in order to avoid dying alone.",
+      "Satisficing involves ranking candidates on a mathematical spreadsheet and selecting the partner with the highest cumulative numerical score.",
+      "Satisficing requires staying completely uncommitted until you have interviewed a statistically representative sample of 1,000 matches."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Herbert Simon coined 'satisficing' by blending 'satisfy' and 'suffice.' A satisficer decides what matters most to them, sets a high, clear standard of excellence for those key qualities, and commits as soon as they encounter someone who meets that threshold. Unlike a maximizer, who continues searching endlessly for an elusive 100% optimal partner, a satisficer stops shopping once their criteria are met and invests their emotional energy into cherishing the person they chose.",
+    "citation": "Chapter 4: Don’t Let Perfect Be the Enemy of Great - Maximizers versus Satisficers"
+  },
+  {
+    "id": "ury-q15",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: Don’t Let Perfect Be the Enemy of Great",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In mathematics and decision science, what does the 37% Optimal Stopping Rule (from the Secretary Problem) dictate as the mathematically optimal strategy for selecting a life partner?",
+    "options": [
+      "Commit to the very first person you date, provided they meet at least 37% of your stated preferences.",
+      "Explore and reject the first 37% of your dating timeline without committing, using that period to calibrate your standards, and then commit to the first subsequent partner who is better than anyone you saw during the exploration phase.",
+      "Spend 37% of your annual income on dating coaches, professional profile photographers, and matchmaking apps.",
+      "Never commit until you have rejected exactly 37 distinct prospective partners."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Secretary Problem is a classic puzzle in optimal stopping theory. Applied to dating, if you anticipate actively looking for a partner between the ages of 18 and 40 (a 22-year window), 37% of that search window brings you to age 26.1. The mathematically optimal strategy is to explore without settling down during the first 37% (the calibration phase) to learn what the market looks like and what you truly value. After age 26.1, you should commit to the very next person who surpasses the benchmark established during your exploration phase.",
+    "citation": "Chapter 4: Don’t Let Perfect Be the Enemy of Great - The Wisdom of Satisficing"
+  },
+  {
+    "id": "ury-q16",
+    "chapterId": "ch4",
+    "chapterName": "Ch 4: Don’t Let Perfect Be the Enemy of Great",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "According to Harvard psychologist Dan Gilbert's research on 'synthetic happiness,' why does the Maximizer habit of keeping options open actively destroy romantic contentment?",
+    "options": [
+      "Because maintaining multiple open options triggers automatic legal penalties under state common-law statutes.",
+      "Because dating apps algorithmically penalize users who fail to reply to messages within twenty-four hours.",
+      "Because the brain's psychological immune system synthesizes happiness and triggers post-choice rationalization ONLY when a commitment is perceived as permanent and irreversible.",
+      "Because keeping options open increases cortisol production, which impairs physical beauty and vocal acoustics."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dan Gilbert's research reveals that human beings possess a 'psychological immune system' that manufactures synthetic happiness: once we make an irreversible commitment (e.g. marriage or buying non-refundable art), our brain rationalizes the choice, finding virtues in what we chose and discounting what we left behind. But when choices remain reversible (as maximizers prefer, keeping their options open), the psychological immune system fails to activate. Maximizers remain stuck in critical, evaluative mode, perpetually second-guessing their partner.",
+    "citation": "Chapter 4: Don’t Let Perfect Be the Enemy of Great - Rationalization"
+  },
+  {
+    "id": "ury-q17",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: Don’t Wait, Date",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "How does Daryl Bem’s foundational 'Self-Perception Theory' explain why Hesitaters cannot simply 'think themselves' into feeling ready to date?",
+    "options": [
+      "Humans infer their internal attitudes, beliefs, and identities by observing their own external behavior; therefore, taking behavioral action must precede feeling ready.",
+      "Self-perception is entirely hardwired during infancy and cannot be altered by behavioral interventions in adulthood.",
+      "Individuals only develop accurate self-perception after completing comprehensive psychoanalytic inventories.",
+      "Self-perception is governed by peer appraisals, meaning daters must receive positive feedback on dating apps before they can feel confident."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Daryl Bem's Self-Perception Theory posits that people do not simply act based on how they feel; they observe their own external behavior and infer how they feel and who they are. If a Hesitater stays home reading books and organizing closets, their brain observes this inaction and concludes, 'I am someone who isn't ready to date.' To change self-identity, one must change behavior first. By going on dates, the brain observes the action and concludes, 'I am an active dater.'",
+    "citation": "Chapter 5: Don’t Wait, Date - Commit to Your New Identity"
+  },
+  {
+    "id": "ury-q18",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: Don’t Wait, Date",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is the 'Intention-Action Gap,' and why does it represent the primary psychological trap for the Hesitater?",
+    "options": [
+      "The gap between an individual's conscious desire to remain single and their unconscious fear of solitude.",
+      "The frustrating disconnect between genuinely desiring a committed relationship and repeatedly failing to take the concrete behavioral steps required to date.",
+      "The discrepancy between the income a dater intends to earn and their actual salary on tax filings.",
+      "The difference between the time spent texting a match and the duration of an actual first date."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Behavioral economists define the Intention-Action Gap as the chasm between what people want to do (their intentions) and what they actually execute (their actions). Hesitaters genuinely want to find love and get married, but they substitute preparatory activities—gym routines, wardrobe overhauls, reading relationship guides—for actual dating. This allows them to feel productive while avoiding the risk of romantic vulnerability.",
+    "citation": "Chapter 5: Don’t Wait, Date - Overcome Your Hesitation and Start Dating"
+  },
+  {
+    "id": "ury-q19",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: Don’t Wait, Date",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How does psychologist Peter Gollwitzer's research on 'Implementation Intentions' help Hesitaters break their chronic dating procrastination?",
+    "options": [
+      "By forcing them to write exhaustive 50-page autobiographies detailing their childhood romantic rejections.",
+      "By replacing dating apps with professional blind matchmaking services funded by corporate stipends.",
+      "By translating abstract goals ('I will date more') into concrete, pre-committed situational plans: 'When [situation X occurs], I will [perform action Y].'",
+      "By administering cognitive behavioral shock therapy whenever the user deletes a dating application."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Peter Gollwitzer showed that vague intentions ('I need to put myself out there') almost never translate into action because willpower fails in the moment. Implementation intentions create an explicit mental link between a future environmental cue and a specific behavior: 'When it is Thursday at 7:00 PM, I will send five messages on Hinge,' or 'If an acquaintance invites me to a party, I will attend for at least 45 minutes.' This automates decision-making and bypasses hesitation.",
+    "citation": "Chapter 5: Don’t Wait, Date - Step 1: Make a Deadline"
+  },
+  {
+    "id": "ury-q20",
+    "chapterId": "ch5",
+    "chapterName": "Ch 5: Don’t Wait, Date",
+    "difficulty": "easy",
+    "type": "concept",
+    "question": "Why does Ury insist that daters need 'dating reps' (repetitions in the field) rather than more solitary preparation?",
+    "options": [
+      "Because physical endurance in social settings is required to survive marathon speed-dating conventions.",
+      "Because dating apps algorithmically demote profiles that remain inactive for more than forty-eight hours.",
+      "Because the Internal Revenue Service permits individuals to deduct dining expenses only if they are active daters.",
+      "Because interpersonal chemistry, emotional boundaries, and true partner preferences cannot be learned theoretically—they can only be developed through real-world experience."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Just as an athlete cannot master basketball by reading rulebooks without stepping on the court, a person cannot discover what kind of partner brings out their best self by sitting on the couch. Dating reps teach you how to make small talk, how to handle awkward pauses, how to assert boundaries, and how your nervous system responds to different personality types. Experience is the only teacher.",
+    "citation": "Chapter 5: Don’t Wait, Date - Getting in Your Dating Reps"
+  },
+  {
+    "id": "ury-q21",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: Learn Your Attachment Style",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is the foundational premise of adult Attachment Theory (pioneered by John Bowlby and Mary Ainsworth, and adapted to adult romance by Cindy Hazan, Phillip Shaver, Amir Levine, and Rachel Heller)?",
+    "options": [
+      "Attachment styles are rigid astrological archetypes that dictate an individual's financial spending habits.",
+      "Human beings possess an innate, hardwired biological drive for emotional connection; our adult romantic relationships are governed by deep attachment systems classified primarily as Secure, Anxious, or Avoidant.",
+      "Adult romantic bonds are temporary psychological contracts designed strictly for cooperative child-rearing.",
+      "Attachment styles can be permanently altered within twenty-four hours through hypnotic suggestion."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Attachment Theory demonstrates that the need for emotional connection is a hardwired evolutionary survival mechanism, not an emotional weakness. In adult romantic partnerships, individuals exhibit predictable behavioral patterns: Secure (~50% of people, comfortable with intimacy and independence), Anxious (~20%, hyper-vigilant regarding connection and terrified of abandonment), and Avoidant (~25%, equating intimacy with a loss of autonomy and defensively distancing).",
+    "citation": "Chapter 6: Learn Your Attachment Style - Attachment 101"
+  },
+  {
+    "id": "ury-q22",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: Learn Your Attachment Style",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What is the devastating behavioral dynamic known as the 'Anxious-Avoidant Trap' (the pursuer-distancer dance), and why are these two styles so persistently drawn to each other?",
+    "options": [
+      "They share identical communication vocabularies, which leads to boredom and mutual abandonment.",
+      "Both partners possess high levels of secure self-regulation, causing them to disengage from emotional intensity.",
+      "The anxious partner's protest behavior (calling, texting, emotional demands) triggers the avoidant's deactivating strategies (withdrawing, stonewalling), which in turn amplifies the anxious partner's panic, creating an escalating vicious cycle that each mistakes for passionate chemistry.",
+      "The avoidant partner seeks full enmeshment while the anxious partner demands absolute geographical separation."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Anxious-Avoidant Trap is the most common toxic relationship dynamic. The anxious partner senses distance and unleashes 'protest behaviors' (frantic calls, guilt trips, demands for reassurance). This suffocation triggers the avoidant partner's 'deactivating strategies' (shutting down, pulling away, finding flaws). The withdrawal confirms the anxious person's worst fear of abandonment, triggering more intense protest. Tragically, this constant emotional rollercoaster triggers dopamine spikes that both partners misinterpret as profound romantic passion.",
+    "citation": "Chapter 6: Learn Your Attachment Style - Attachment 101"
+  },
+  {
+    "id": "ury-q23",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: Learn Your Attachment Style",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What specific behavioral characteristics make Secure individuals (~50% of the population) such exceptional partners in romantic relationships?",
+    "options": [
+      "They never experience anger, sadness, or negative emotional states under any circumstances.",
+      "They insist on complete financial independence and maintain separate residences indefinitely.",
+      "They prioritize corporate career advancement above family and domestic commitments.",
+      "They communicate their emotions and needs directly without manipulation, do not play games, and act as natural emotional shock absorbers who soothe an anxious or avoidant partner's triggers."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Secure individuals are the emotional bedrock of the dating pool. They are comfortable with closeness and vulnerability, express their desires and boundaries transparently, and do not interpret their partner's bad moods as personal threats. When paired with an anxious or avoidant person, a secure partner acts as a regulatory buffer—offering consistent reassurance without defensiveness, helping the insecure partner develop 'earned security.'",
+    "citation": "Chapter 6: Learn Your Attachment Style - Look for a Secure Partner"
+  },
+  {
+    "id": "ury-q24",
+    "chapterId": "ch6",
+    "chapterName": "Ch 6: Learn Your Attachment Style",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What is the 'Dependency Paradox' in attachment science, and how does it challenge the popular cultural narrative of hyper-independence?",
+    "options": [
+      "When people are securely attached and know they can depend unconditionally on an emotionally responsive partner, they become significantly MORE independent, confident, and willing to take risks in the outside world.",
+      "Depending on a partner inevitably destroys an individual's autonomy and professional ambition over time.",
+      "Emotional dependency is an evolutionary defect that modern couples must eradicate through solo cognitive therapy.",
+      "Couples who depend on each other financially experience 50% higher divorce rates than couples with separate bank accounts."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Western culture often glorifies radical self-sufficiency, claiming 'you must be 100% complete on your own before you can love someone else.' Attachment science completely disproves this via the Dependency Paradox: far from making people codependent, having a secure, reliable emotional base at home liberates individuals to be bolder, more adventurous, and more self-reliant in their careers and personal endeavors. Security breeds autonomy.",
+    "citation": "Chapter 6: Learn Your Attachment Style - Attachment 101"
+  },
+  {
+    "id": "ury-q25",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: Look for a Life Partner, Not a Prom Date",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "How does 'Present Bias' warp a dater's judgment when evaluating prospective partners, leading them to choose a 'Prom Date' over a 'Life Partner'?",
+    "options": [
+      "Present bias causes daters to over-invest in long-term retirement accounts at the expense of dinner dates.",
+      "Present bias leads daters to judge prospective partners exclusively on their historical past mistakes.",
+      "Present bias causes people to dramatically overweight immediate, short-term gratification (superficial charisma, physical hotness, status) while heavily discounting the enduring traits (emotional stability, kindness, loyalty) that sustain a 50-year marriage.",
+      "Present bias forces daters to reject any partner who arrives more than five minutes late to a date."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Present bias is the behavioral economics phenomenon where humans overvalue immediate payoffs and undervalue future well-being. On dating apps and first dates, present bias causes us to hunt for a 'Prom Date'—someone thrilling, physically stunning, wealthy, and impressive to show off to friends tonight. But Prom Date traits have zero predictive power for whether someone will hold your hand through chemotherapy, support your career setbacks, or patiently parent your children decades later.",
+    "citation": "Chapter 7: Look for a Life Partner, Not a Prom Date - The Prom Date versus the Life Partner"
+  },
+  {
+    "id": "ury-q26",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: Look for a Life Partner, Not a Prom Date",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What did Dr. John Gottman's decades of empirical research at the Seattle Love Lab reveal about the relationship between shared hobbies and marital longevity?",
+    "options": [
+      "Couples who share at least five outdoor athletic hobbies enjoy an 85% lower divorce rate than couples with differing interests.",
+      "Couples with completely opposing hobbies must abandon their personal interests and adopt shared activities to maintain marital passion.",
+      "Sharing artistic hobbies like painting or theater predicts marital success, whereas sharing athletic hobbies predicts marital failure.",
+      "Shared hobbies and common interests have virtually NO correlation with relationship satisfaction or longevity; what matters is HOW partners interact with each other while pursuing activities."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Daters constantly filter for matches who share their exact niche hobbies (e.g., trail running, scuba diving, indie music). However, John Gottman's research at the Seattle Love Lab proved that shared interests do not predict relationship success. Two people can both love kayaking, but if one constantly criticizes the other's paddling technique while the other withdraws into sullen silence, the shared hobby becomes a battleground. How you interact—kindness, humor, respect—matters infinitely more than what you do.",
+    "citation": "Chapter 7: Look for a Life Partner, Not a Prom Date - What Matters Less Than We Think"
+  },
+  {
+    "id": "ury-q27",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: Look for a Life Partner, Not a Prom Date",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Among the Big Five personality traits, which trait is scientifically proven to be the single most powerful personality predictor of relationship dissolution and marital misery?",
+    "options": [
+      "High Neuroticism (emotional instability, moodiness, and anxious reactivity).",
+      "Low Extraversion (quiet introversion and preference for solitary reading).",
+      "High Openness to Experience (curiosity about art and philosophical ideas).",
+      "Moderate Conscientiousness (occasional procrastination regarding household chores)."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Psychological research consistently demonstrates that Neuroticism (emotional instability) is the #1 personality destroyer of romantic relationships. Highly neurotic partners are easily flooded by anxiety, perceive hostility in neutral interactions, react with volatile anger or despair, and struggle with emotional regulation. Daters obsess over height, income, and looks, yet screening for low neuroticism (emotional stability) is vastly more critical to relationship survival.",
+    "citation": "Chapter 7: Look for a Life Partner, Not a Prom Date - What Matters More Than We Think"
+  },
+  {
+    "id": "ury-q28",
+    "chapterId": "ch7",
+    "chapterName": "Ch 7: Look for a Life Partner, Not a Prom Date",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What is the 'Michelangelo Phenomenon' in relationship psychology (identified by Dr. Caryl Rusbult), and why is it a vital quality of a true Life Partner?",
+    "options": [
+      "The tendency of partners to engage in expensive home remodeling projects to increase marital equity.",
+      "The process whereby a partner sculpts, affirms, and elicits your ideal self, actively helping you grow into the person you aspire to become.",
+      "The dangerous habit of attempting to micromanage and reshape an incompatible partner's personality against their will.",
+      "The mutual appreciation for Renaissance classical art and architecture within dual-career households."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Just as Michelangelo believed his job as a sculptor was to chip away the raw marble to reveal the ideal statue sleeping inside the stone, the 'Michelangelo Phenomenon' describes how great partners see and affirm each other's highest potential. A true Life Partner doesn't try to change you to fit their selfish agenda; they recognize who you dream of becoming and provide the encouragement, emotional safety, and support that enables you to blossom into that ideal self.",
+    "citation": "Chapter 7: Look for a Life Partner, Not a Prom Date - What Matters More Than We Think"
+  },
+  {
+    "id": "ury-q29",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: You Think You Know What You Want, but You’re Wrong",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What groundbreaking discovery did social psychologists Paul Eastwick and Eli Finkel make in their empirical speed-dating research regarding 'stated preferences' versus 'revealed preferences'?",
+    "options": [
+      "Participants accurately predicted the exact physical height, income, and religious affiliations of the people they fell in love with.",
+      "Participants who completed longer questionnaires made significantly more accurate romantic choices than those who completed shorter ones.",
+      "Stated preferences accurately predicted romantic attraction for men, but failed completely for women.",
+      "What participants claimed they wanted on paper had ZERO predictive correlation with who they actually found attractive when they met face-to-face in person."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Eastwick and Finkel had speed-daters fill out extensive questionnaires listing their ideal partner's characteristics (stated preferences: height, ambition, attractiveness, humor). Yet when these participants actually met potential matches in real life, their stated preferences had zero relationship to who they actually liked (revealed preferences). A person who insisted they would only date ambitious bankers fell head-over-heels for a quirky, laid-back artist. In dating, we think we know what we want on paper, but in the presence of a real human being, our gut and nervous system operate on completely different criteria.",
+    "citation": "Chapter 8: You Think You Know What You Want, but You’re Wrong - Issue #2: We Think We Know What We Want, but We’re Wrong"
+  },
+  {
+    "id": "ury-q30",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: You Think You Know What You Want, but You’re Wrong",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How does Christopher Hsee’s 'Evaluability Theory' explain why dating apps fundamentally distort human partner selection?",
+    "options": [
+      "Dating apps display 'searchable' attributes (height, age, salary, school) that are easy to measure and compare, leading daters to drastically overweight them over 'experiential' attributes (warmth, humor, kindness) that can only be felt in person.",
+      "Dating apps prevent users from evaluating profile photos under standardized ambient lighting conditions.",
+      "Evaluability theory proves that humans can accurately evaluate a partner's moral character within three seconds of reading a text prompt.",
+      "Dating apps force users to evaluate prospective partners based on handwriting samples and credit scores."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Evaluability Theory demonstrates that when evaluating options in comparison mode, people dramatically overweight attributes that are easy to quantify and compare (searchable traits: height, income, job title, age) simply because they can be ranked on a screen. Traits that are hard to evaluate in isolation—like emotional warmth, witty conversational rhythm, and empathetic listening (experiential traits)—are ignored by app filters, even though they represent almost 100% of marital happiness.",
+    "citation": "Chapter 8: You Think You Know What You Want, but You’re Wrong - Issue #1: Our Brains Focus on What’s Measurable"
+  },
+  {
+    "id": "ury-q31",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: You Think You Know What You Want, but You’re Wrong",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is 'relationshopping' (a term coined by behavioral researchers), and why does it degrade the psychological health of app daters?",
+    "options": [
+      "The practice of purchasing expensive jewelry for prospective dates during the initial texting phase.",
+      "Treating human partner selection like browsing an e-commerce catalog (like Amazon or shoes), which commodifies people, triggers comparison fatigue, and encourages disposable dating.",
+      "Conducting background credit checks on romantic prospects using commercial consumer reporting agencies.",
+      "Sharing grocery shopping responsibilities during the first week of meeting a new match."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Relationshopping occurs when daters browse human beings the same way they shop for shoes or electronics online: filtering by specifications, comparing features, adding candidates to a mental cart, and constantly waiting for a 'better model' on sale. This commodifies human beings, strips away empathy, and induces choice fatigue, making daters cynical, hyper-critical, and unable to form deep emotional attachments.",
+    "citation": "Chapter 8: You Think You Know What You Want, but You’re Wrong - Issue #3: Apps Promote “Relationshopping”"
+  },
+  {
+    "id": "ury-q32",
+    "chapterId": "ch8",
+    "chapterName": "Ch 8: You Think You Know What You Want, but You’re Wrong",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "Elena sets her dating app filters for men who are at least 6'0\" tall, earn over $100,000 annually, and live within five miles. What does statistical reality reveal about Elena's eligible dating pool in the United States?",
+    "options": [
+      "Over 45% of adult American men satisfy all three criteria simultaneously.",
+      "Her criteria expand her dating pool by filtering out unreliable, uneducated candidates.",
+      "Because each filter cuts the population multiplicatively, combining 6'0\"+ (~14.5% of US men) and $100k+ (~15% of US men) shrinks her eligible pool to less than 2% of men before even considering age, values, or basic mutual attraction.",
+      "Dating algorithms automatically broaden geographic ranges by 50 miles to guarantee algorithmic matches."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Daters vastly underestimate the mathematics of compound filters. In the US, only about 14.5% of men are 6'0\" or taller, and only about 15% of men earn six figures. When you intersect these independent probabilities (0.145 * 0.15), you get approximately 2.1% of the male population. Adding geographical distance, age brackets, single status, and basic emotional compatibility reduces the pool to a fraction of a percent, creating an artificial, self-inflicted dating drought.",
+    "citation": "Chapter 8: You Think You Know What You Want, but You’re Wrong - Change Your Filters"
+  },
+  {
+    "id": "ury-q33",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: Meet People in Real Life",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "How does Robert Zajonc's classic psychological finding on the 'Mere Exposure Effect' explain why historical couples often bonded more naturally than modern dating app users?",
+    "options": [
+      "Repeated, casual exposure to an individual over time naturally breeds familiarity, psychological comfort, and attraction—a process eliminated by the high-pressure, binary, one-shot evaluations of dating apps.",
+      "The mere exposure effect proves that seeing an individual once in an exotic setting produces permanent neurological attachment.",
+      "Familiarity breeds contempt, so people who met in their local neighborhoods were statistically less satisfied than online daters.",
+      "Repeated exposure only increases attraction if the individuals belong to the same socioeconomic tax bracket."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Social psychologist Robert Zajonc proved the 'Mere Exposure Effect': simply being exposed repeatedly to a person, object, or face increases our liking for it. In the past, people met through school, work, church, or community groups, where repeated, low-stakes, neutral interactions allowed chemistry and trust to build organically. Dating apps short-circuit this by forcing users to make an instant, binary, high-stakes decision on a stranger after a single ninety-minute drink, bypassing the natural gestation period of affection.",
+    "citation": "Chapter 9: Meet People IRL (In Real Life) - 1) Go to Events"
+  },
+  {
+    "id": "ury-q34",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: Meet People in Real Life",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "According to Ury's 'Event Decision Matrix,' what type of real-world environment should singles deliberately prioritize to maximize their odds of meeting a compatible romantic partner?",
+    "options": [
+      "Low Relevance, Low Interaction events (e.g. crowded, noisy nightclubs where personal interests are irrelevant).",
+      "High Relevance, High Interaction events (activities you genuinely enjoy that are structurally designed for organic, ongoing conversation, such as a run club, ceramics workshop, or volunteer group).",
+      "High Relevance, Low Interaction events (such as classical music concerts or cinema screenings where talking is strictly prohibited).",
+      "Low Relevance, High Interaction events (such as generic speed-networking conventions focused on real estate financing)."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ury's Event Decision Matrix maps real-world gatherings on two axes: Relevance (how much you genuinely enjoy the activity and value the community) and Interaction (how naturally the environment facilitates speaking with other people). Singles waste enormous energy attending High Relevance/Low Interaction events (silent movie screenings, lectures) or Low Relevance/High Interaction events (loud meat-market bars). The sweet spot is High Relevance + High Interaction: places where you have fun doing something you love while the format invites natural, unforced dialogue.",
+    "citation": "Chapter 9: Meet People IRL (In Real Life) - The Event Decision Matrix"
+  },
+  {
+    "id": "ury-q35",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: Meet People in Real Life",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How does Mark Granovetter's foundational sociological theory on the 'Strength of Weak Ties' apply to finding romantic love in real life?",
+    "options": [
+      "Weak ties provide financial loans with lower interest rates than traditional banks.",
+      "Close friends are statistically the most likely individuals to marry each other after age thirty.",
+      "Your close friends already share your exact social circle, whereas 'weak ties' (acquaintances, former coworkers, casual gym friends) bridge you into novel, untapped social networks where your future partner resides.",
+      "Weak ties are untrustworthy and should be systematically avoided when seeking relationship introductions."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sociologist Mark Granovetter demonstrated that novel information, job opportunities, and romantic prospects rarely come from our tight inner circle (strong ties), because strong ties all know the same people. Instead, they come from 'weak ties'—casual acquaintances, former colleagues, or friendly neighbors. These weak ties serve as bridges into completely distinct social ecosystems, exposing you to an entirely fresh pool of potential partners whom you would never meet within your bubble.",
+    "citation": "Chapter 9: Meet People IRL (In Real Life) - 2) Get Set Up by Friends and Family"
+  },
+  {
+    "id": "ury-q36",
+    "chapterId": "ch9",
+    "chapterName": "Ch 9: Meet People in Real Life",
+    "difficulty": "easy",
+    "type": "scenario",
+    "question": "Marcus attends a local charity gala hoping to meet someone, but spends the entire evening standing in the corner sipping club soda and checking his phone. What behavioral intervention does Ury suggest Marcus use before attending his next event?",
+    "options": [
+      "Marcus should hire an actor to stage a loud public argument with him to attract female attention.",
+      "Marcus should consume three alcoholic beverages within thirty minutes of arriving to lower his social inhibitions.",
+      "Marcus should demand the event organizers announce his bachelor status over the public address system.",
+      "Marcus should set a clear, low-stakes micro-goal beforehand (such as introducing himself to the host, talking to three new people, and putting his phone away for two hours)."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Ury notes that going to events with a vague hope that 'fate will intervene' usually leads to hovering by the bar and retreating into the safety of a smartphone. To overcome social friction, daters must treat real-life events with behavioral intentionality: set concrete, achievable micro-goals (e.g., 'I will introduce myself to the event organizer, ask three different people how they heard about the event, and keep my phone in my coat pocket all night').",
+    "citation": "Chapter 9: Meet People IRL (In Real Life) - How to Make the Most of Events"
+  },
+  {
+    "id": "ury-q37",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: Your Dating Apps Are Doing It Wrong",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Based on Hinge behavioral data and photo optimization research, what is the recommended protocol for selecting the six photos on a dating profile?",
+    "options": [
+      "Six professional studio portraits taken with high-intensity dramatic lighting.",
+      "A strategic mix: 1) Clear, smiling headshot (no sunglasses, looking at camera); 2) Full-body shot; 3) Candid doing an activity you love; 4) Social shot with friends; 5) Lifestyle/travel photo; 6) An expressive novelty hook—avoiding sunglasses, bathroom selfies, and group shots where you can't be identified.",
+      "Six group photos with attractive friends to establish high social status and popularity.",
+      "Exclusively candid photos where your face is completely obscured to cultivate an air of mysterious allure."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hinge research shows that profiles succeed when they tell a coherent, trustworthy visual story. The ideal photo lineup includes: 1) a clear, high-resolution smiling portrait looking at the camera (establishing trust); 2) a full-body shot (transparency); 3) an activity photo showing genuine passions; 4) a social photo proving you have friends; 5) a travel/lifestyle shot; 6) a quirky or conversation-starting novelty photo. Major photo blunders include wearing sunglasses in the first photo, bathroom selfies, heavily filtered images, and confusing group shots.",
+    "citation": "Chapter 10: Your Dating Apps Are Doing It Wrong - Select Great Photos"
+  },
+  {
+    "id": "ury-q38",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: Your Dating Apps Are Doing It Wrong",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Why do generic profile prompts like 'I love tacos, dogs, laughter, and traveling' consistently fail to generate high-quality matches on dating apps?",
+    "options": [
+      "Because dating algorithms automatically flag and ban profiles that mention culinary preferences.",
+      "Because dogs and tacos are statistically proven to be unpopular among educated single millennials.",
+      "Because specificity attracts specificity: cliché answers provide zero conversational hooks, making it exhausting for potential matches to craft an engaging opening message.",
+      "Because dating profiles should be strictly confined to educational credentials and employment history."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ury emphasizes that 'specificity attracts specificity.' Generic clichés (tacos, hiking, Netflix, dogs, sarcasm) communicate nothing unique about your personality and provide zero conversational footholds. When you share vivid, specific details—such as 'debating whether Die Hard is a Christmas movie' or 'baking sourdough with rosemary from my balcony garden'—you give the viewer an easy, playful excuse to reply and start a substantive dialogue.",
+    "citation": "Chapter 10: Your Dating Apps Are Doing It Wrong - Write a Thoughtful Profile"
+  },
+  {
+    "id": "ury-q39",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: Your Dating Apps Are Doing It Wrong",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What is the 'Job Interview Trap' that ruins so many first dates, and why does evaluative conversation inhibit romantic connection?",
+    "options": [
+      "Asking dates to produce their federal tax returns before ordering appetizers.",
+      "Arriving at dinner wearing a formal three-piece business suit and carrying a leather portfolio.",
+      "Discussing 401(k) retirement contributions on the walk to the restaurant.",
+      "Sitting across a noisy table conducting an interrogation of resume facts ('Where did you go to school? Where do you work? How many siblings?'), which triggers evaluative anxiety and defensiveness rather than emotional play and vulnerability."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Most daters default to the 'Job Interview Date': sitting stiffly across a cocktail table, trading resume trivia ('Where are you from? How long have you lived here? What do you do?'). This evaluative format triggers the brain's executive defense mechanisms, making both partners feel like they are being audited. Passion, intimacy, and humor require experiential connection—stepping off the resume script, asking open-ended questions, being playful, and sharing authentic vulnerability.",
+    "citation": "Chapter 10: Your Dating Apps Are Doing It Wrong - Is It a Date or a Job Interview?"
+  },
+  {
+    "id": "ury-q40",
+    "chapterId": "ch10",
+    "chapterName": "Ch 10: Your Dating Apps Are Doing It Wrong",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How do a 'Pre-Date Ritual' and Daniel Kahneman's 'Peak-End Rule' dramatically improve the outcome of first dates?",
+    "options": [
+      "A 15-minute pre-date ritual helps transition the brain from analytical work mode to playful date mode, while the Peak-End Rule dictates ending the date on an emotional high rather than letting it drag on until energy flags.",
+      "A pre-date ritual guarantees that the dater will remember every fact shared during the conversation.",
+      "The Peak-End rule states that dates should last a minimum of six continuous hours to maximize emotional bonding.",
+      "A pre-date ritual eliminates the physiological possibility of social awkwardness."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rushing from a high-stress workday directly to a date leaves daters trapped in an analytical, tense mindset. A 15-minute pre-date ritual (changing clothes, playing upbeat music, doing a quick walk) signals the brain to downshift into social, playful mode. Furthermore, Nobel laureate Daniel Kahneman's Peak-End Rule proves that human memory of an experience is defined not by its total duration, but by its peak emotional moment and how it ended. Ending a date on a fun, high note leaves an intoxicating memory, whereas letting a date fizzle into awkward exhaustion ruins the retrospective evaluation.",
+    "citation": "Chapter 10: Your Dating Apps Are Doing It Wrong - Ten Steps to Designing Better Dates"
+  },
+  {
+    "id": "ury-q41",
+    "chapterId": "ch11",
+    "chapterName": "Ch 11: Shift from Checklist to Experiential",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "How does the evolutionary 'Negativity Bias' cause daters to prematurely discard promising romantic partners after a single date?",
+    "options": [
+      "The negativity bias causes daters to overlook genuine ethical red flags in order to achieve physical intimacy.",
+      "The negativity bias forces daters to view all potential partners as emotionally superior to themselves.",
+      "The human brain is evolutionarily wired to scan for threats and defects, causing daters to hyper-fixate on one minor quirk (awkward laugh, bad shoes, weird texting cadence) and dismiss an otherwise wonderful partner, ignoring ninety-nine great qualities.",
+      "The negativity bias only manifests in individuals diagnosed with clinical mood disorders."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Evolutionary psychology explains that our ancestors survived by prioritizing negative cues (a predator rustling in the bush) over positive ones. On first dates, this ancient 'negativity bias' makes our brains hyper-attentive to tiny imperfections: an odd sweater, a nervous laugh, or a quirky voice. Daters seize upon one trivial flaw and instantly write off a wonderful, kind, compatible human being, falling victim to premature disqualification.",
+    "citation": "Chapter 11: Shift from Checklist to Experiential - The Negativity Bias"
+  },
+  {
+    "id": "ury-q42",
+    "chapterId": "ch11",
+    "chapterName": "Ch 11: Shift from Checklist to Experiential",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How does the 'Fundamental Attribution Error' lead daters to misjudge their date's character during awkward first-date moments?",
+    "options": [
+      "Daters attribute their date's financial success to luck rather than hard work.",
+      "Daters assume that an awkward date has received professional acting training.",
+      "Daters assume all prospective partners share their exact cultural and religious upbringing.",
+      "Daters attribute the date's awkward behavior (e.g. arriving late, spilling a drink, being quiet) to an enduring character flaw ('they are disrespectful and clumsy') while ignoring external situational stressors ('the subway was delayed; they are intensely nervous')."
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Fundamental Attribution Error is the cognitive tendency to attribute other people's actions to their internal disposition or character, while attributing our own actions to situational circumstances. If you arrive late, you think, 'The traffic was impossible.' But if your date arrives ten minutes late, your brain concludes, 'They are selfish, disorganized, and don't value my time.' Recognizing this bias helps daters extend grace to nervous dates.",
+    "citation": "Chapter 11: Shift from Checklist to Experiential - The Fundamental-Attribution Error"
+  },
+  {
+    "id": "ury-q43",
+    "chapterId": "ch11",
+    "chapterName": "Ch 11: Shift from Checklist to Experiential",
+    "difficulty": "easy",
+    "type": "concept",
+    "question": "Why does Logan Ury recommend that daters adopt a strict behavioral heuristic: 'Default to the Second Date'?",
+    "options": [
+      "Because first dates are high-anxiety, artificial performances where people rarely display their true authentic warmth; unless there are clear dealbreakers, a second date is necessary to see who they really are.",
+      "Because restaurants provide steep discounts on appetizers when customers return within forty-eight hours.",
+      "Because dating apps algorithmically suspend users who decline second-date invitations.",
+      "Because research shows that romantic attraction strictly peaks between dates three and four."
+    ],
+    "correctAnswer": 0,
+    "explanation": "First dates are notoriously poor indicators of long-term compatibility: both individuals are flooded with adrenaline, performative anxiety, and social awkwardness. Unless your date displays serious red flags (cruelty, dishonesty, bigotry, disrespect), Ury advises defaulting to a second date. In a lower-stakes second interaction, nerves settle, conversational flow deepens, and genuine chemistry has room to breathe.",
+    "citation": "Chapter 11: Shift from Checklist to Experiential - Harness the Power of Defaults"
+  },
+  {
+    "id": "ury-q44",
+    "chapterId": "ch11",
+    "chapterName": "Ch 11: Shift from Checklist to Experiential",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is the primary shift accomplished by Logan Ury's 'Post-Date Eight' questions when evaluating a date?",
+    "options": [
+      "It verifies whether the date's reported income matches IRS median zip code databases.",
+      "It shifts the dater's cognitive focus away from an evaluative checklist ('Did they meet my 15 criteria?') toward internal emotional resonance ('How did I feel in their presence?').",
+      "It provides a statistical algorithm to calculate the monetary value of dividing dinner expenses.",
+      "It generates automated, pre-written text messages to terminate communication gently."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Post-Date Eight is designed to break daters out of their evaluative, judgmental headspace. Instead of grading the other person like an examiner (evaluating their shoes, their pedigree, their job), the Post-Date Eight asks experiential questions: 'What side of me did they bring out? Did my body feel relaxed or stiff? Did I feel heard? Did they make me laugh? Did I feel energized or drained?' This anchors judgment in what actually matters: how you feel when you are with them.",
+    "citation": "Chapter 11: Shift from Checklist to Experiential - Use the Post-Date Eight to Shift to the Experiential Mindset"
+  },
+  {
+    "id": "ury-q45",
+    "chapterId": "ch12",
+    "chapterName": "Ch 12: Decide, Don't Slide",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What is relationship researchers Scott Stanley and Galena Rhoades's 'Inertia Theory of Commitment,' and how does it explain why cohabitation increases marital instability for certain couples?",
+    "options": [
+      "Cohabiting couples develop identical sleep chronotypes, leading to mutual sleep deprivation.",
+      "Moving in together always reduces relationship satisfaction regardless of the couple's communication habits.",
+      "Cohabitation introduces legal contracts that make divorce financially impossible under federal law.",
+      "Moving in together creates structural constraints (shared lease, split rent, shared pets) that increase the cost of leaving without increasing genuine dedication, causing couples to 'slide' into an ill-fated marriage simply because breaking up is logistically difficult."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Stanley and Rhoades's Inertia Theory distinguishes between Dedication (the internal desire to be together and build a future) and Constraints (the external costs and barriers to exiting). When couples slide into living together out of convenience (e.g., leases ending, saving money), they dramatically increase their constraints—a joint lease, shared furniture, a dog. When the relationship later deteriorates, this inertia makes breaking up so difficult that they slide into marriage by default: 'We’ve already lived together for four years; I guess we should get married.'",
+    "citation": "Chapter 12: Decide, Don't Slide - Moving In Together"
+  },
+  {
+    "id": "ury-q46",
+    "chapterId": "ch12",
+    "chapterName": "Ch 12: Decide, Don't Slide",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is the critical distinction between 'Sliding' and 'Deciding' when navigating major relationship milestones?",
+    "options": [
+      "'Deciding' means intentionally discussing choices, surfacing underlying assumptions, and making a deliberate mutual commitment to advance the relationship; 'sliding' means drifting into transitions through convenience, inertia, or passive avoidance of hard conversations.",
+      "'Sliding' is recommended for urban millennials because it minimizes interpersonal friction during lease transitions.",
+      "'Deciding' requires executing a formal prenuptial agreement before going on an overnight vacation.",
+      "'Sliding' means making decisions based on economic data, whereas 'deciding' relies strictly on astrological charts."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Couples who 'slide' allow life circumstances (a lease expiring, convenience, family pressure) to dictate their relationship progression without ever talking about what the step actually means. In contrast, couples who 'decide' treat transitions as conscious forks in the road. They sit down, have vulnerable conversations about exclusivity, future timelines, shared values, and potential dealbreakers, ensuring that both partners are deliberately choosing the next level of commitment.",
+    "citation": "Chapter 12: Decide, Don't Slide - Decide, Don't Slide"
+  },
+  {
+    "id": "ury-q47",
+    "chapterId": "ch12",
+    "chapterName": "Ch 12: Decide, Don't Slide",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How did behavioral scientists Amar Cheema and Dilip Soman's famous 'wrapped cookie' experiment demonstrate the power of creating 'decision points' to disrupt mindless sliding?",
+    "options": [
+      "Participants given chocolate cookies showed higher romantic attachment to the researchers.",
+      "Individually wrapping cookies forced consumers to pause, acknowledge their consumption, and make a conscious choice before eating each one, cutting mindless overeating in half compared to an open box.",
+      "Wrapping cookies increased consumption because individuals experienced heightened curiosity about what was inside.",
+      "Participants preferred eating unwrapped cookies because unwrapping required too much physical caloric expenditure."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cheema and Soman showed that when cookies were placed in an open box, people mindlessly devoured them without thinking. But when each cookie was sealed in an individual cellophane wrapper, participants ate far fewer. The wrapper acted as a 'decision point'—a brief friction barrier that interrupted automated, mindless behavior and forced an intentional choice: 'Do I really want another cookie?' Ury notes that couples must create similar deliberate decision points before sliding into cohabitation or engagement.",
+    "citation": "Chapter 12: Decide, Don't Slide - Decide, Don't Slide"
+  },
+  {
+    "id": "ury-q48",
+    "chapterId": "ch12",
+    "chapterName": "Ch 12: Decide, Don't Slide",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "Rachel and Tom have been casually dating for six months. Tom wants exclusivity, but avoids initiating the 'DTR' (Define the Relationship) conversation because he fears being perceived as needy or scaring Rachel away. What does behavioral relationship coaching say about Tom's fear?",
+    "options": [
+      "Tom is right: initiating the DTR talk is a fatal romantic mistake that inevitably drives partners away.",
+      "Tom should post photos with another woman on Instagram to trigger jealousy and force Rachel to initiate exclusivity.",
+      "The DTR conversation is an empowering diagnostic tool: if Rachel flees or refuses to commit, it reveals her lack of readiness, saving Tom from wasting months or years on an asymmetric, dead-end relationship.",
+      "Tom should wait at least eighteen months before requesting romantic exclusivity under modern dating etiquette."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Daters often treat the DTR talk as a high-stakes gamble that might blow up their relationship. Ury reframes the DTR conversation as an invaluable diagnostic asset. If asking for clarity and commitment drives the other person away, they were never going to give you what you wanted anyway. Having the conversation weeds out emotionally unavailable partners early and protects you from wasting months in a state of anxious, undefined limbo.",
+    "citation": "Chapter 12: Decide, Don't Slide - Define the Relationship (DTR)"
+  },
+  {
+    "id": "ury-q49",
+    "chapterId": "ch13",
+    "chapterName": "Ch 13: Stop Looking for the Spark",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is the physiological and psychological reality of 'the spark' that daters frequently mistake for true romantic love on a first date?",
+    "options": [
+      "That intense, stomach-flipping feeling is often autonomic nervous system arousal—anxiety, uncertainty, and adrenaline triggered by an unpredictable or emotionally unavailable partner, not lasting compatibility.",
+      "The spark is a scientifically verified electromagnetic resonance between two compatible heart valves.",
+      "The spark represents the permanent neurological imprinting of genetic pheromones that guarantee lifelong monogamy.",
+      "The spark is an optical illusion caused by dim ambient candlelight in romantic restaurants."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Daters worship 'the spark'—the sudden, electrifying, stomach-dropping sensation of butterflies. But behavioral scientists and attachment therapists explain that the spark is often an adrenaline-fueled panic response. When someone is elusive, charismatic, hot-and-cold, or unpredictable, your nervous system interprets that anxiety as exciting 'chemistry.' You are not falling in love; you are experiencing an anxious attachment trigger or emotional uncertainty.",
+    "citation": "Chapter 13: Stop Looking for the Spark - Myth #2: The Spark Is Always a Good Thing"
+  },
+  {
+    "id": "ury-q50",
+    "chapterId": "ch13",
+    "chapterName": "Ch 13: Stop Looking for the Spark",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What is the critical distinction between 'Mate Value' and 'Unique Value' in partner selection, and how does it relate to the myth of the spark?",
+    "options": [
+      "Mate value is calculated from an individual's net worth, whereas unique value is determined by their physical height.",
+      "Mate value represents universally appealing, superficial traits (charm, beauty, status) that create an immediate spark for everyone, whereas Unique Value is the idiosyncratic, deep compatibility between two specific people that only emerges over time.",
+      "Mate value declines with age, whereas unique value is fixed at birth by genetic markers.",
+      "Mate value and unique value are identical concepts developed by evolutionary biologists to track reproductive fitness."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Social psychologists distinguish between 'Mate Value' (how broadly desirable someone is on the open market—physical attractiveness, charisma, wealth, smoothness) and 'Unique Value' (how uniquely suited, kind, and emotionally resonant they are for YOU). Charismatic people with high mate value can manufacture 'the spark' with almost anyone on command. But enduring marital bliss depends on unique value—shared humor, emotional safety, mutual values—which rarely announces itself in the first thirty seconds.",
+    "citation": "Chapter 13: Stop Looking for the Spark - Mate Value versus Unique Value"
+  },
+  {
+    "id": "ury-q51",
+    "chapterId": "ch13",
+    "chapterName": "Ch 13: Stop Looking for the Spark",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How does B.F. Skinner's behavioral concept of 'Intermittent Reinforcement' explain why dating an emotionally inconsistent partner creates an obsessive, addictive sense of chemistry?",
+    "options": [
+      "Intermittent rewards extinguish emotional attachment faster than complete absence of rewards.",
+      "Predictable, consistent emotional validation produces the highest spikes in dopamine.",
+      "Unpredictable rewards (sometimes they text back immediately, sometimes they disappear for days) generate massive neurological dopamine surges, conditioning daters to obsessively chase validation and mistaking that addiction for passion.",
+      "Intermittent reinforcement is only effective on laboratory animals and has no effect on human romantic bonding."
+    ],
+    "correctAnswer": 2,
+    "explanation": "In behavioral psychology, variable (intermittent) schedules of reinforcement produce the most compulsive, obsessive behavior (the same mechanism behind slot machines). When a dating partner is inconsistently attentive—warm one day, cold the next—the dater's brain experiences intense dopamine spikes whenever affection is unexpectedly delivered. The dater becomes addicted to the emotional high, mislabeling this compulsive anxiety as 'passionate chemistry' and 'the spark.'",
+    "citation": "Chapter 13: Stop Looking for the Spark - Myth #2: The Spark Is Always a Good Thing"
+  },
+  {
+    "id": "ury-q52",
+    "chapterId": "ch13",
+    "chapterName": "Ch 13: Stop Looking for the Spark",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is the 'Slow Burn' model of relationship formation, and what does empirical relationship research show about its durability compared to instant fireworks?",
+    "options": [
+      "Slow burn relationships are strictly business arrangements that never develop genuine physical passion.",
+      "The slow burn model requires partners to abstain from physical contact for a minimum of two years.",
+      "Slow burn relationships suffer higher divorce rates because romantic intensity cannot be cultivated over time.",
+      "A slow burn is a relationship that starts with lukewarm or neutral feelings, where deep romantic attraction and emotional intimacy grow steadily as mutual trust, safety, and vulnerability deepen—often yielding the happiest, most stable marriages."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Many of the happiest, longest-lasting couples in psychological studies report that their first meeting was unremarkable, comfortable, or even mildly unexciting. Unlike the spark (which often burns hot and burns out fast), the 'slow burn' allows attraction to develop gradually based on real character, emotional safety, and shared laughter. Discarding someone because there were no instant fireworks robs you of discovering a wonderful slow-burn partner.",
+    "citation": "Chapter 13: Stop Looking for the Spark - Ditching the Spark for the Slow Burn"
+  },
+  {
+    "id": "ury-q53",
+    "chapterId": "ch14",
+    "chapterName": "Ch 14: Hard Conversations & Breakups",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "In Logan Ury's framework, what are the primary cognitive differences between 'Hitchers' and 'Ditchers' when facing relationship milestones and conflict?",
+    "options": [
+      "Hitchers are introverted perfectionists, while Ditchers are extraverted narcissists.",
+      "Hitchers stay in relationships past their expiration date due to sunk cost fallacy and fear of hurting their partner; Ditchers bolt at the first sign of conflict or when infatuation fades, falling prey to unrealistic perfectionism and fear of intimacy.",
+      "Hitchers always initiate breakups via text message, while Ditchers prefer in-person meetings.",
+      "Hitchers demand immediate marriage within three months, while Ditchers insist on ten-year engagements."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hitchers and Ditchers represent opposite ends of the commitment dysfunction spectrum. Hitchers stay too long in stagnant or incompatible relationships because of inertia, fear of being alone, and the Sunk Cost Fallacy ('I’ve already invested four years!'). Ditchers leave too soon, abandoning promising partners at the first disagreement or as soon as the initial neurochemical high fades, convinced that any friction means 'they aren't the one.'",
+    "citation": "Chapter 14: Hard Conversations & Breakups - Stop Hitching and Stop Ditching"
+  },
+  {
+    "id": "ury-q54",
+    "chapterId": "ch14",
+    "chapterName": "Ch 14: Hard Conversations & Breakups",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What do neuroimaging studies reveal about what actually happens in the human brain during a romantic breakup?",
+    "options": [
+      "Breakup pain is purely psychological and activates none of the somatic neural pathways associated with genuine physiological stress.",
+      "Romantic rejection activates the brain's sleep centers, inducing chronic lethargy.",
+      "Romantic heartbreak activates the anterior cingulate cortex (the same brain region that registers physical bodily pain) and triggers the identical neurochemical withdrawal pathways seen in substance addiction.",
+      "The brain registers breakups as minor economic transactions in the prefrontal cortex."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Neuroscientists have demonstrated that romantic rejection is processed by the brain as acute physical trauma. Brain scans of the heartbroken show intense activation in the anterior cingulate cortex—the same neural circuit that fires when you break a bone. Furthermore, the abrupt loss of romantic bonding triggers acute neurochemical withdrawal (dopamine and oxytocin deprivation) identical to quitting cocaine or nicotine cold turkey, explaining why breakups feel physically agonizing.",
+    "citation": "Chapter 14: Hard Conversations & Breakups - What’s Happening in Your Brain and Body"
+  },
+  {
+    "id": "ury-q55",
+    "chapterId": "ch14",
+    "chapterName": "Ch 14: Hard Conversations & Breakups",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Why does Logan Ury recommend writing a brutally honest 'Pre-Breakup Reasons Ledger' before having the breakup conversation?",
+    "options": [
+      "To submit as evidence in small claims court to recover dating expenses.",
+      "To read aloud verbatim during the breakup conversation to humiliate the partner.",
+      "To publish on public social media forums to warn other singles in the community.",
+      "To combat the 'Fading Affect Bias' and 'Rosy Retrospection,' which cause the brain to forget the painful reasons for breaking up weeks later and tempt the dater into regretful, backsliding reconciliation."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Human memory is vulnerable to the Fading Affect Bias and Rosy Retrospection: within weeks of ending a relationship, the intense loneliness of withdrawal sets in, and the brain conveniently minimizes the chronic fighting and incompatibility, remembering only the sweet vacations and cozy moments. Writing a detailed, unedited ledger of exactly why the relationship is intolerable serves as an empirical anchor to re-read whenever future nostalgia threatens backsliding.",
+    "citation": "Chapter 14: Hard Conversations & Breakups - Step 1: Record Your Reasons for Wanting the Breakup"
+  },
+  {
+    "id": "ury-q56",
+    "chapterId": "ch14",
+    "chapterName": "Ch 14: Hard Conversations & Breakups",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "Why does Ury strongly caution against being the 'Nice Breakup Person' who checks in on their ex, offers immediate friendship, or leaves the door ajar?",
+    "options": [
+      "Because pseudo-kindness is actually cowardly and cruel: it sends mixed signals, prolongs the ex-partner's agony, delays their neurochemical withdrawal recovery, and prevents clean closure.",
+      "Because maintaining contact with an ex results in automatic tax audits under IRS cohabitation statutes.",
+      "Because true closure requires filing formal police restraining orders in all breakup scenarios.",
+      "Because dating apps algorithmically ban profiles of users who maintain friendly relationships with exes."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The 'Nice Breakup Person' wants to alleviate their own guilt by offering friendship, texting 'hope you're doing okay,' or saying 'maybe in the future when the timing is right.' This is fundamentally selfish: it prevents the ex-partner's brain from accepting the finality of the loss and entering the necessary recovery process. A truly compassionate breakup is clean, definitive, and establishes strict, no-contact boundaries.",
+    "citation": "Chapter 14: Hard Conversations & Breakups - Step 8: Don’t Be the “Nice Breakup Person”"
+  },
+  {
+    "id": "ury-q57",
+    "chapterId": "ch15",
+    "chapterName": "Ch 15: The Modern Marriage Contract",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "How does the 'False-Consensus Effect' poison premarital relationships, and why does love fail to protect couples from it?",
+    "options": [
+      "Couples falsely believe that government marriage licenses provide automatic legal immunity.",
+      "Partners assume that having children will automatically resolve underlying financial disputes.",
+      "Partners routinely assume their significant other shares their exact unspoken values and expectations regarding money, family roles, and domestic labor simply because they love each other, only to collide with reality after tying the knot.",
+      "The false-consensus effect occurs when couples agree on all major philosophical issues but disagree on movie tastes."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The False-Consensus Effect is the cognitive bias where people overestimate how much others share their beliefs, habits, and perspectives. In romantic couples, deep emotional affection blinds partners to administrative reality: each assumes their partner obviously shares their unspoken family scripts regarding debt, holiday traditions, chore splits, and career sacrifices. Love does not conquer administrative friction; only explicit, rigorous alignment does.",
+    "citation": "Chapter 15: The Modern Marriage Contract - We’re in Love: Isn’t That Enough?"
+  },
+  {
+    "id": "ury-q58",
+    "chapterId": "ch15",
+    "chapterName": "Ch 15: The Modern Marriage Contract",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What is the purpose of the 'All About Me' self-reflection worksheet in Logan Ury's premarital alignment framework?",
+    "options": [
+      "To compile an itemized list of all personal assets to hide from divorce courts.",
+      "To create an exhaustive registry of luxury wedding gifts to solicit from wedding guests.",
+      "To draft a legally binding prenuptial agreement without consulting legal counsel.",
+      "To excavate one's own unconscious family-of-origin conditioning, financial scripts, emotional triggers, and conflict patterns BEFORE attempting to negotiate joint relationship agreements."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Before you can negotiate a healthy marriage with another person, you must understand your own psychological wiring. The 'All About Me' worksheet forces individuals to interrogate their family of origin: How did your parents handle conflict? What was the emotional meaning of money in your home? How do you react when you feel overwhelmed? Surfacing your own emotional baggage allows you to show up to marital negotiations with self-awareness rather than unconscious defensiveness.",
+    "citation": "Chapter 15: The Modern Marriage Contract - Part 1: All About Me"
+  },
+  {
+    "id": "ury-q59",
+    "chapterId": "ch15",
+    "chapterName": "Ch 15: The Modern Marriage Contract",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What does behavioral research reveal as the primary structural cause of marital burnout and divorce in dual-career households?",
+    "options": [
+      "Unresolved, unaligned expectations regarding domestic division of labor, invisible cognitive chores, finances, and career prioritization, which create festering resentment.",
+      "A lack of exotic international vacations during the first three years of marriage.",
+      "Disagreements over interior decorating and aesthetic furniture styles in common living spaces.",
+      "Minor differences in introversion versus extraversion on Myers-Briggs personality tests."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Couples rarely divorce over philosophical abstractions or lack of love; they divorce over daily administrative friction. In dual-career couples, when one partner (statistically most often the woman) shoulders the bulk of the domestic labor and invisible cognitive load (managing doctors' appointments, school schedules, grocery lists) without explicit agreement, resentment metastasizes. A successful marriage requires treating domestic architecture as an explicit operational partnership.",
+    "citation": "Chapter 15: The Modern Marriage Contract - Part 2: All About Us"
+  },
+  {
+    "id": "ury-q60",
+    "chapterId": "ch15",
+    "chapterName": "Ch 15: The Modern Marriage Contract",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "Why does Ury argue that having uncomfortable, forensic premarital conversations about money, sex, chores, and in-laws is the ultimate act of romance rather than unromantic calculation?",
+    "options": [
+      "Because formal financial interrogations frighten immature partners into cancelling the wedding.",
+      "Because proactive alignment proves that you care enough about the relationship to protect it from the predictable, preventable pitfalls that destroy half of all marriages.",
+      "Because state governments grant tax credits to couples who complete premarital worksheets.",
+      "Because discussing finances triggers hormonal surges that enhance sexual desire."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Romantic culture tells us that signing contracts or analyzing chore splits is unromantic and clinical. Ury flips this entirely: true romance isn't ignoring reality and hoping for the best; true romance is doing the brave, uncomfortable, intentional work to protect your partnership from the predictable administrative storms of life. A couple willing to sit down and transparently align on money, in-laws, sex, and crisis handling is demonstrating profound, mature devotion.",
+    "citation": "Chapter 15: The Modern Marriage Contract - We’re in Love: Isn’t That Enough?"
+  },
+  {
+    "id": "ury-q61",
+    "chapterId": "ch16",
+    "chapterName": "Ch 16: Intentional Love",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What does longitudinal sociological research reveal about the trajectory of marital happiness over a couple's life cycle (the 'U-Shaped Curve' of marital satisfaction)?",
+    "options": [
+      "Marital happiness begins low, increases continuously for fifty years, and peaks during adolescent child-rearing.",
+      "Marital happiness remains completely flat across all decades of married life.",
+      "Marital happiness peaks during retirement and permanently collapses within twelve months of marriage.",
+      "Marital satisfaction starts high, steadily declines to its lowest trough during the intense child-rearing and mid-career years, and rebounds only after children leave home—proving the critical need for intentional relationship maintenance during the dip."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Decades of studies confirm the U-Shaped Curve of marital satisfaction: couples begin with high satisfaction in the honeymoon phase, which steadily declines as the immense stresses of career building, domestic management, and young children take over, reaching a historic low during the teenage years of parenting. Only after children launch does satisfaction rebound. Knowing this curve normalizes the mid-marriage dip and emphasizes why proactive rituals of connection are essential to survive the trough.",
+    "citation": "Chapter 16: Intentional Love - Creating a Relationship That Changes with the People in It"
+  },
+  {
+    "id": "ury-q62",
+    "chapterId": "ch16",
+    "chapterName": "Ch 16: Intentional Love",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What is the 'End-of-History Illusion' (pioneered by Jordi Quoidbach, Daniel Gilbert, and Timothy Wilson), and how does it threaten long-term marriages?",
+    "options": [
+      "People easily recognize how much their personality, values, and desires changed over the past decade, but mistakenly assume they will change very little in the decades ahead; in marriage, this causes partners to lock each other into static expectations rather than expecting and accommodating continuous personal evolution.",
+      "People believe historical wars will never happen again once they purchase a suburban home.",
+      "Couples assume their relationship history will be erased if they fail to renew their marriage vows every five years.",
+      "Individuals believe that modern technology has permanently solved all human loneliness."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Psychologists Quoidbach, Gilbert, and Wilson found that at every age, humans suffer from the 'End-of-History Illusion': we look back and see how much we evolved over the last ten years, but we convince ourselves that who we are today is who we will remain for the rest of our lives. In marriage, this is lethal. You do not marry one person; you marry several different versions of that person over forty years. Intentional love means designing a relationship contract flexible enough to accommodate continuous human evolution.",
+    "citation": "Chapter 16: Intentional Love - Creating a Relationship That Changes with the People in It"
+  },
+  {
+    "id": "ury-q63",
+    "chapterId": "ch16",
+    "chapterName": "Ch 16: Intentional Love",
+    "difficulty": "medium",
+    "type": "concept",
+    "question": "What are the three mandatory structural components of Logan Ury's weekly 'Check-In Ritual' designed to keep relationships thriving?",
+    "options": [
+      "1) Reviewing credit card statements; 2) Silent meditation for two hours; 3) Booking a weekend hotel room.",
+      "1) Appreciations (sharing three specific things your partner did that you are grateful for); 2) Clearing (gentle, timely discussion of a recent friction point); 3) Alignment (identifying one concrete way to support each other in the upcoming week).",
+      "1) Evaluating physical attractiveness; 2) Reviewing gym attendance; 3) Dividing household chores on a mobile app.",
+      "1) Calling in-laws for guidance; 2) Fasting together; 3) Re-reading wedding vows aloud."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Weekly Check-In Ritual is the maintenance engine of intentional love. Spending thirty structured minutes every week (e.g. Sunday evening) prevents grievances from festering into toxic contempt. The three parts are: 1) Appreciations (reinforcing the positive bids and effort from the week); 2) Clearing (addressing friction while it is fresh, small, and solvable); and 3) Alignment/Support (proactively asking 'What do you need from me in the week ahead?').",
+    "citation": "Chapter 16: Intentional Love - The Check-In Ritual"
+  },
+  {
+    "id": "ury-q64",
+    "chapterId": "ch16",
+    "chapterName": "Ch 16: Intentional Love",
+    "difficulty": "hard",
+    "type": "concept",
+    "question": "What is the core philosophical distinction between 'Accidental Love' and 'Intentional Love' that concludes Logan Ury's work?",
+    "options": [
+      "Accidental love is arranged by family members, whereas intentional love is initiated through dating apps.",
+      "Accidental love involves spontaneous romantic elopement, whereas intentional love requires religious ceremonies.",
+      "Accidental love relies on passive hope that passion and compatibility will magically sustain themselves without maintenance; Intentional Love recognizes that lasting intimacy is a living, evolving system that requires conscious design, periodic renegotiation, and continuous daily practice.",
+      "Accidental love is biologically superior because it does not require cognitive brain activity."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ury concludes the book by rejecting the fairy-tale passivity of 'Accidental Love'—the belief that if you find the right person, the relationship will effortlessly steer itself. Real love is 'Intentional Love.' It views relationships as dynamic architecture that requires regular inspection, deliberate maintenance, renegotiation of contracts as people evolve, and daily investments of kindness, repair, and appreciation. Great marriages aren't found; they are consciously built.",
+    "citation": "Chapter 16: Intentional Love - What’s Next: A World of Intentional Love"
+  }
+]
